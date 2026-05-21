@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-06-10",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Bolivia",
+      "team2": "Algeria",
+      "original_team1": "Bolivia",
+      "original_team2": "Algeria",
+      "flag1": "bolivia.png",
+      "flag2": "algeria.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5055,
+      "rating2": 5244,
+      "rating_ev": 0,
+      "rank": 66,
+      "win_prob": 30.4,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-06",
       "country": "United States",
       "tournament": "Friendly",

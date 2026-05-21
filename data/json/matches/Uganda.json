@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2026-06-06",
+      "date": "2026-06-08",
       "country": "Morocco",
       "tournament": "Friendly",
       "team1": "Uganda",
@@ -49,6 +49,25 @@
       "rating_ev": 0,
       "rank": 100,
       "win_prob": 50.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-05",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Uganda",
+      "team2": "Tanzania",
+      "original_team1": "Uganda",
+      "original_team2": "Tanzania",
+      "flag1": "uganda.png",
+      "flag2": "tanzania.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4841,
+      "rating2": 4824,
+      "rating_ev": 0,
+      "rank": 100,
+      "win_prob": 51.9,
       "type": "fixture"
     },
     {

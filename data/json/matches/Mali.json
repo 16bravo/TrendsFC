@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-06-04",
+      "country": "Turkey",
+      "tournament": "Friendly",
+      "team1": "Mali",
+      "team2": "Iran",
+      "original_team1": "Mali",
+      "original_team2": "Iran",
+      "flag1": "mali.png",
+      "flag2": "iran.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5120,
+      "rating2": 5226,
+      "rating_ev": 0,
+      "rank": 57,
+      "win_prob": 38.5,
+      "type": "fixture"
+    },
+    {
       "date": "2026-03-31",
       "country": "Russia",
       "tournament": "Friendly",
