@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 758,
+    "matches_played": 759,
     "wins": 363,
     "draws": 188,
-    "losses": 207,
+    "losses": 208,
     "goals_for": 1210,
-    "goals_against": 790,
-    "goal_difference": 420,
-    "win_percentage": 47.9,
+    "goals_against": 792,
+    "goal_difference": 418,
+    "win_percentage": 47.8,
     "avg_points": 1.68,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.77,
+    "avg_rank": 49.79,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -26,14 +26,14 @@
       "flag": "brazil.png"
     },
     "home_matches": 234,
-    "away_matches": 282,
+    "away_matches": 283,
     "neutral_matches": 242,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2026-03-30"
+    "last_match_date": "2026-05-22"
   },
   "matches": [
     {
-      "date": "2027-03-23",
+      "date": "2027-03-24",
       "country": "Gambia",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -44,15 +44,15 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 4947,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 50.1,
+      "win_prob": 49.8,
       "type": "fixture"
     },
     {
-      "date": "2027-03-23",
+      "date": "2027-03-24",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -63,15 +63,15 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 5169,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 47.7,
+      "win_prob": 47.3,
       "type": "fixture"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -82,7 +82,7 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 4512,
       "rating_ev": 0,
       "rank": 67,
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "country": "Somalia",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -101,15 +101,15 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 4512,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 86.4,
+      "win_prob": 86.2,
       "type": "fixture"
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-10-24",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -120,15 +120,15 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 4947,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 70.7,
+      "win_prob": 70.5,
       "type": "fixture"
     },
     {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -139,11 +139,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 5169,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 27.5,
+      "win_prob": 27.2,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 5412,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 17.1,
+      "win_prob": 16.9,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 5562,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 10.0,
+      "win_prob": 9.9,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 5106,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 43.6,
+      "win_prob": 43.3,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5048,
+      "rating1": 5045,
       "rating2": 5201,
       "rating_ev": 0,
       "rank": 67,
-      "win_prob": 24.8,
+      "win_prob": 24.5,
       "type": "fixture"
     },
     {
@@ -232,14 +232,14 @@
       "original_team2": "Mexico",
       "flag1": "ghana.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5048,
-      "rating2": 5306,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5045,
+      "rating2": 5309,
+      "rating_ev": -3,
       "rank": 67,
       "win_prob": 17.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-30",

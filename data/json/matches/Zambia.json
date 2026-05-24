@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-23",
+      "date": "2027-03-24",
       "country": "Togo",
       "tournament": "African Cup qualifier",
       "team1": "Zambia",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-23",
+      "date": "2027-03-24",
       "country": "Zambia",
       "tournament": "African Cup qualifier",
       "team1": "Zambia",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "country": "Burundi",
       "tournament": "African Cup qualifier",
       "team1": "Zambia",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "country": "Zambia",
       "tournament": "African Cup qualifier",
       "team1": "Zambia",
@@ -109,26 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-23",
-      "country": "Algeria",
-      "tournament": "African Cup qualifier",
-      "team1": "Zambia",
-      "team2": "Algeria",
-      "original_team1": "Zambia",
-      "original_team2": "Algeria",
-      "flag1": "zambia.png",
-      "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4831,
-      "rating2": 5244,
-      "rating_ev": 0,
-      "rank": 105,
-      "win_prob": 9.8,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-09-23",
+      "date": "2026-10-24",
       "country": "Zambia",
       "tournament": "African Cup qualifier",
       "team1": "Zambia",
@@ -144,6 +125,25 @@
       "rating_ev": 0,
       "rank": 105,
       "win_prob": 61.5,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-09-24",
+      "country": "Algeria",
+      "tournament": "African Cup qualifier",
+      "team1": "Zambia",
+      "team2": "Algeria",
+      "original_team1": "Zambia",
+      "original_team2": "Algeria",
+      "flag1": "zambia.png",
+      "flag2": "algeria.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4831,
+      "rating2": 5244,
+      "rating_ev": 0,
+      "rank": 105,
+      "win_prob": 9.8,
       "type": "fixture"
     },
     {

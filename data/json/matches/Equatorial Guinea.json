@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-23",
+      "date": "2027-03-24",
       "country": "Equatorial Guinea",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-23",
+      "date": "2027-03-24",
       "country": "Sierra Leone",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "country": "Equatorial Guinea",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "country": "Zimbabwe",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -109,26 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-23",
-      "country": "DR Congo",
-      "tournament": "African Cup qualifier",
-      "team1": "Equatorial Guinea",
-      "team2": "DR Congo",
-      "original_team1": "Equatorial Guinea",
-      "original_team2": "DR Congo",
-      "flag1": "eq_guinea.png",
-      "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4823,
-      "rating2": 5100,
-      "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 16.1,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-09-23",
+      "date": "2026-10-24",
       "country": "Equatorial Guinea",
       "tournament": "African Cup qualifier",
       "team1": "Equatorial Guinea",
@@ -144,6 +125,25 @@
       "rating_ev": 0,
       "rank": 108,
       "win_prob": 62.0,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-09-24",
+      "country": "DR Congo",
+      "tournament": "African Cup qualifier",
+      "team1": "Equatorial Guinea",
+      "team2": "DR Congo",
+      "original_team1": "Equatorial Guinea",
+      "original_team2": "DR Congo",
+      "flag1": "eq_guinea.png",
+      "flag2": "dr_congo.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4823,
+      "rating2": 5100,
+      "rating_ev": 0,
+      "rank": 108,
+      "win_prob": 16.1,
       "type": "fixture"
     },
     {

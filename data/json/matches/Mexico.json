@@ -1,13 +1,13 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1024,
-    "wins": 529,
+    "matches_played": 1025,
+    "wins": 530,
     "draws": 237,
     "losses": 258,
-    "goals_for": 1816,
+    "goals_for": 1818,
     "goals_against": 1053,
-    "goal_difference": 763,
+    "goal_difference": 765,
     "win_percentage": 51.7,
     "avg_points": 1.78,
     "best_rank": 2,
@@ -25,11 +25,11 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 296,
+    "home_matches": 297,
     "away_matches": 271,
     "neutral_matches": 457,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-22"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5306,
+      "rating1": 5309,
       "rating2": 5218,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 69.5,
+      "win_prob": 69.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5306,
+      "rating1": 5309,
       "rating2": 5177,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 73.2,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5306,
+      "rating1": 5309,
       "rating2": 4988,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 86.1,
+      "win_prob": 86.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5306,
+      "rating1": 5309,
       "rating2": 5216,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 69.7,
+      "win_prob": 70.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5306,
+      "rating1": 5309,
       "rating2": 5257,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 55.4,
+      "win_prob": 55.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Ghana",
       "flag1": "mexico.png",
       "flag2": "ghana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5306,
-      "rating2": 5048,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5309,
+      "rating2": 5045,
+      "rating_ev": 3,
       "rank": 24,
       "win_prob": 82.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",
