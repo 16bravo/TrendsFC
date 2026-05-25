@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-24",
+      "date": "2027-03-25",
       "country": "Lesotho",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-24",
+      "date": "2027-03-25",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "country": "Morocco",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "country": "Gabon",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -144,6 +144,25 @@
       "rating_ev": 0,
       "rank": 91,
       "win_prob": 85.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-09",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Niger",
+      "team2": "Botswana",
+      "original_team1": "Niger",
+      "original_team2": "Botswana",
+      "flag1": "niger.png",
+      "flag2": "botswana.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4892,
+      "rating2": 4699,
+      "rating_ev": 0,
+      "rank": 91,
+      "win_prob": 70.0,
       "type": "fixture"
     },
     {
