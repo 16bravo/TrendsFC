@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-26",
+      "date": "2027-03-27",
       "country": "Ethiopia",
       "tournament": "African Cup qualifier",
       "team1": "Sudan",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-26",
+      "date": "2027-03-27",
       "country": "Sudan",
       "tournament": "African Cup qualifier",
       "team1": "Sudan",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "country": "Senegal",
       "tournament": "African Cup qualifier",
       "team1": "Sudan",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "country": "Sudan",
       "tournament": "African Cup qualifier",
       "team1": "Sudan",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "country": "Mozambique",
       "tournament": "African Cup qualifier",
       "team1": "Sudan",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "country": "Sudan",
       "tournament": "African Cup qualifier",
       "team1": "Sudan",
@@ -144,25 +144,6 @@
       "rating_ev": 0,
       "rank": 118,
       "win_prob": 66.2,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-05",
-      "country": "Morocco",
-      "tournament": "Friendly",
-      "team1": "Sudan",
-      "team2": "Benin",
-      "original_team1": "Sudan",
-      "original_team2": "Benin",
-      "flag1": "sudan.png",
-      "flag2": "benin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4794,
-      "rating2": 4880,
-      "rating_ev": 0,
-      "rank": 118,
-      "win_prob": 40.6,
       "type": "fixture"
     },
     {

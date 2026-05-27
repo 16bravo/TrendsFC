@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-26",
+      "date": "2027-03-27",
       "country": "Liberia",
       "tournament": "African Cup qualifier",
       "team1": "Liberia",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-26",
+      "date": "2027-03-27",
       "country": "Mali",
       "tournament": "African Cup qualifier",
       "team1": "Liberia",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "country": "Cape Verde",
       "tournament": "African Cup qualifier",
       "team1": "Liberia",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "country": "Liberia",
       "tournament": "African Cup qualifier",
       "team1": "Liberia",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "country": "Liberia",
       "tournament": "African Cup qualifier",
       "team1": "Liberia",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "country": "Rwanda",
       "tournament": "African Cup qualifier",
       "team1": "Liberia",
@@ -163,6 +163,25 @@
       "rating_ev": 0,
       "rank": 133,
       "win_prob": 42.5,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-05",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Liberia",
+      "team2": "Benin",
+      "original_team1": "Liberia",
+      "original_team2": "Benin",
+      "flag1": "liberia.png",
+      "flag2": "benin.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4725,
+      "rating2": 4880,
+      "rating_ev": 0,
+      "rank": 133,
+      "win_prob": 33.6,
       "type": "fixture"
     },
     {
