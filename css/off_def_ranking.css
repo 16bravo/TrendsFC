@@ -1,0 +1,25 @@
+/* ── FixedColumns: dark theme support ─────────────────────────────────────── */
+body.dark-theme .DTFC_LeftWrapper .table {
+    color: #e0e0e0;
+    background-color: #23272b;
+}
+body.dark-theme .DTFC_LeftWrapper .table-striped tbody tr:nth-of-type(odd) td {
+    background-color: #23272b;
+}
+body.dark-theme .DTFC_LeftWrapper .table-striped tbody tr:nth-of-type(even) td {
+    background-color: #181a1b;
+}
+body.dark-theme .DTFC_LeftWrapper thead th {
+    background-color: #343a40;
+    color: #fff;
+}
+body.dark-theme .DTFC_LeftBodyLiner,
+body.dark-theme .DTFC_LeftHeadWrapper {
+    background-color: #23272b;
+}
+
+/* ── ScrollX container: dark theme ───────────────────────────────────────── */
+body.dark-theme .dataTables_scrollBody,
+body.dark-theme .dataTables_scrollHead {
+    background-color: #23272b;
+}

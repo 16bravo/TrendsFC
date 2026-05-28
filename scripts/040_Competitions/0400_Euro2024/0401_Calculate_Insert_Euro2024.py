@@ -19,7 +19,7 @@ date_str = '2024-07-15'
 
 # SQLite database connection
 # get ranking points for each teams
-database_path = "data/BravoRanking.db"
+database_path = "data/TrendsFC.db"
 connection = sqlite3.connect(database_path)
 
 sql_query = '''

@@ -8,7 +8,7 @@ function getUrlParam(param) {
 function setPageTitle(type) {
     const title = type === "fixture" ? "Fixtures" : "Latest Matches";
     document.getElementById("page-title").textContent = title;
-    document.title = title + " | MatchOracle";
+    document.title = title + " | TrendsFC";
 }
 
 $(document).ready(function() {

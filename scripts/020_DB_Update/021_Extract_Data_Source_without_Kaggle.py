@@ -6,7 +6,7 @@ import sqlite3
 
 ## EXTRACT DATA FROM KAGGLE AND EXCEL
 
-database_path = '././data/BravoRanking.db'  
+database_path = '././data/TrendsFC.db'  
 
 matches = pd.read_csv('data/source/match_dataset/all_matches.csv')
 matches['match_id'] = range(1, len(matches) + 1)

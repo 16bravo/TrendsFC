@@ -7,7 +7,7 @@ import sqlite3
 
 ## EXTRACT DATA FROM KAGGLE AND EXCEL
 
-database_path = '././data/BravoRanking.db'  
+database_path = '././data/TrendsFC.db'  
 
 # Download Matches dataset from Kaggle
 # https://www.kaggle.com/datasets/patateriedata/all-international-football-results

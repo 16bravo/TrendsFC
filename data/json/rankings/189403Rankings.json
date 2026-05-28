@@ -11,9 +11,17 @@
       "team": "England",
       "reference_team": "England",
       "points": 6319,
+      "points_off": 5885,
+      "points_def": 5485,
       "confederation": "UEFA",
+      "ranking_off": 1,
+      "ranking_def": 1,
       "ranking_change": 0,
-      "points_change": -43
+      "points_change": -43,
+      "ranking_off_change": 0,
+      "points_off_change": -7,
+      "ranking_def_change": 0,
+      "points_def_change": -3
     },
     {
       "ranking": 2,
@@ -21,9 +29,17 @@
       "team": "Scotland",
       "reference_team": "Scotland",
       "points": 6170,
+      "points_off": 5864,
+      "points_def": 5393,
       "confederation": "UEFA",
+      "ranking_off": 2,
+      "ranking_def": 2,
       "ranking_change": 0,
-      "points_change": -41
+      "points_change": -41,
+      "ranking_off_change": 0,
+      "points_off_change": -26,
+      "ranking_def_change": 0,
+      "points_def_change": -14
     },
     {
       "ranking": 3,
@@ -31,9 +47,17 @@
       "team": "Wales",
       "reference_team": "Wales",
       "points": 5455,
+      "points_off": 5500,
+      "points_def": 4998,
       "confederation": "UEFA",
+      "ranking_off": 3,
+      "ranking_def": 3,
       "ranking_change": 0,
-      "points_change": -4
+      "points_change": -4,
+      "ranking_off_change": 1,
+      "points_off_change": 20,
+      "ranking_def_change": 0,
+      "points_def_change": -35
     },
     {
       "ranking": 4,
@@ -41,9 +65,17 @@
       "team": "Ireland",
       "reference_team": "Ireland",
       "points": 5267,
+      "points_off": 5490,
+      "points_def": 4781,
       "confederation": "UEFA",
+      "ranking_off": 4,
+      "ranking_def": 4,
       "ranking_change": 0,
-      "points_change": 88
+      "points_change": 88,
+      "ranking_off_change": -1,
+      "points_off_change": -3,
+      "ranking_def_change": 0,
+      "points_def_change": 67
     }
   ]
 }

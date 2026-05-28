@@ -21,7 +21,7 @@ jobs:
       - name: Check if database exists
         id: check-db
         run: |
-            if [ -f data/BravoRanking.db ]; then
+            if [ -f data/TrendsFC.db ]; then
               echo "Database exists already. OK for update."
               echo "::set-output name=update_ok::true"
             else
@@ -80,10 +80,10 @@ jobs:
         run: |
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USERNAME }}"
-          if git diff --quiet data/BravoRanking.db; then
-            echo "No changes in BravoRanking.json. Skipping commit."
+          if git diff --quiet data/TrendsFC.db; then
+            echo "No changes in TrendsFC.json. Skipping commit."
           else
-            git add data/BravoRanking.db
+            git add data/TrendsFC.db
             git commit -m "Database Update"
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git push

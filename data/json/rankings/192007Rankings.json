@@ -11,9 +11,17 @@
       "team": "England",
       "reference_team": "England",
       "points": 6069,
+      "points_off": 5756,
+      "points_def": 5331,
       "confederation": "UEFA",
+      "ranking_off": 1,
+      "ranking_def": 3,
       "ranking_change": 0,
-      "points_change": 24
+      "points_change": 24,
+      "ranking_off_change": 0,
+      "points_off_change": 46,
+      "ranking_def_change": 0,
+      "points_def_change": 8
     },
     {
       "ranking": 2,
@@ -21,9 +29,17 @@
       "team": "Scotland",
       "reference_team": "Scotland",
       "points": 6019,
+      "points_off": 5591,
+      "points_def": 5514,
       "confederation": "UEFA",
+      "ranking_off": 2,
+      "ranking_def": 1,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 3,
@@ -31,9 +47,17 @@
       "team": "Uruguay",
       "reference_team": "Uruguay",
       "points": 6005,
+      "points_off": 5535,
+      "points_def": 5324,
       "confederation": "CONMEBOL",
+      "ranking_off": 4,
+      "ranking_def": 4,
       "ranking_change": 0,
-      "points_change": 52
+      "points_change": 52,
+      "ranking_off_change": 3,
+      "points_off_change": 20,
+      "ranking_def_change": 0,
+      "points_def_change": 42
     },
     {
       "ranking": 4,
@@ -41,9 +65,17 @@
       "team": "Denmark",
       "reference_team": "Denmark",
       "points": 5913,
+      "points_off": 5506,
+      "points_def": 5203,
       "confederation": "UEFA",
+      "ranking_off": 9,
+      "ranking_def": 8,
       "ranking_change": 1,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 5,
@@ -51,9 +83,17 @@
       "team": "Argentina",
       "reference_team": "Argentina",
       "points": 5897,
+      "points_off": 5516,
+      "points_def": 5215,
       "confederation": "CONMEBOL",
+      "ranking_off": 7,
+      "ranking_def": 5,
       "ranking_change": -1,
-      "points_change": -52
+      "points_change": -52,
+      "ranking_off_change": -4,
+      "points_off_change": -42,
+      "ranking_def_change": 0,
+      "points_def_change": -20
     },
     {
       "ranking": 6,
@@ -61,9 +101,17 @@
       "team": "Brazil",
       "reference_team": "Brazil",
       "points": 5885,
+      "points_off": 5512,
+      "points_def": 5211,
       "confederation": "CONMEBOL",
+      "ranking_off": 8,
+      "ranking_def": 7,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 7,
@@ -71,9 +119,17 @@
       "team": "Hungary",
       "reference_team": "Hungary",
       "points": 5835,
+      "points_off": 5526,
+      "points_def": 5178,
       "confederation": "UEFA",
+      "ranking_off": 5,
+      "ranking_def": 9,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 8,
@@ -81,9 +137,17 @@
       "team": "Wales",
       "reference_team": "Wales",
       "points": 5820,
+      "points_off": 5476,
+      "points_def": 5385,
       "confederation": "UEFA",
+      "ranking_off": 11,
+      "ranking_def": 2,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 9,
@@ -91,9 +155,17 @@
       "team": "Czechoslovakia",
       "reference_team": "Czechia",
       "points": 5784,
+      "points_off": 5544,
+      "points_def": 5039,
       "confederation": "UEFA",
+      "ranking_off": 3,
+      "ranking_def": 14,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 1,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 10,
@@ -101,9 +173,17 @@
       "team": "Ireland",
       "reference_team": "Ireland",
       "points": 5723,
+      "points_off": 5491,
+      "points_def": 5214,
       "confederation": "UEFA",
+      "ranking_off": 10,
+      "ranking_def": 6,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 11,
@@ -111,9 +191,17 @@
       "team": "Netherlands",
       "reference_team": "Netherlands",
       "points": 5700,
+      "points_off": 5524,
+      "points_def": 5053,
       "confederation": "UEFA",
+      "ranking_off": 6,
+      "ranking_def": 12,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 12,
@@ -121,9 +209,17 @@
       "team": "Paraguay",
       "reference_team": "Paraguay",
       "points": 5639,
+      "points_off": 5290,
+      "points_def": 5053,
       "confederation": "CONMEBOL",
+      "ranking_off": 17,
+      "ranking_def": 11,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 13,
@@ -131,9 +227,17 @@
       "team": "Austria",
       "reference_team": "Austria",
       "points": 5637,
+      "points_off": 5354,
+      "points_def": 5095,
       "confederation": "UEFA",
+      "ranking_off": 13,
+      "ranking_def": 10,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 14,
@@ -141,9 +245,17 @@
       "team": "Belgium",
       "reference_team": "Belgium",
       "points": 5470,
+      "points_off": 5341,
+      "points_def": 4971,
       "confederation": "UEFA",
+      "ranking_off": 14,
+      "ranking_def": 15,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 15,
@@ -151,9 +263,17 @@
       "team": "Sweden",
       "reference_team": "Sweden",
       "points": 5458,
+      "points_off": 5266,
+      "points_def": 5039,
       "confederation": "UEFA",
+      "ranking_off": 18,
+      "ranking_def": 13,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 16,
@@ -161,9 +281,17 @@
       "team": "Germany",
       "reference_team": "Germany",
       "points": 5446,
+      "points_off": 5369,
+      "points_def": 4811,
       "confederation": "UEFA",
+      "ranking_off": 12,
+      "ranking_def": 20,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 17,
@@ -171,9 +299,17 @@
       "team": "Italy",
       "reference_team": "Italy",
       "points": 5335,
+      "points_off": 5006,
+      "points_def": 4968,
       "confederation": "UEFA",
+      "ranking_off": 26,
+      "ranking_def": 16,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 18,
@@ -181,9 +317,17 @@
       "team": "Chile",
       "reference_team": "Chile",
       "points": 5296,
+      "points_off": 5265,
+      "points_def": 4849,
       "confederation": "CONMEBOL",
+      "ranking_off": 19,
+      "ranking_def": 18,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 19,
@@ -191,9 +335,17 @@
       "team": "Switzerland",
       "reference_team": "Switzerland",
       "points": 5284,
+      "points_off": 5185,
+      "points_def": 4920,
       "confederation": "UEFA",
+      "ranking_off": 22,
+      "ranking_def": 17,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 20,
@@ -201,9 +353,17 @@
       "team": "South Africa",
       "reference_team": "South Africa",
       "points": 5225,
+      "points_off": 5303,
+      "points_def": 4806,
       "confederation": "CAF",
+      "ranking_off": 15,
+      "ranking_def": 21,
       "ranking_change": 0,
-      "points_change": -24
+      "points_change": -24,
+      "ranking_off_change": 0,
+      "points_off_change": -8,
+      "ranking_def_change": -3,
+      "points_def_change": -46
     },
     {
       "ranking": 21,
@@ -211,9 +371,17 @@
       "team": "Russia",
       "reference_team": "Russia",
       "points": 5189,
+      "points_off": 5040,
+      "points_def": 4768,
       "confederation": "UEFA",
+      "ranking_off": 24,
+      "ranking_def": 22,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 22,
@@ -221,9 +389,17 @@
       "team": "Norway",
       "reference_team": "Norway",
       "points": 5142,
+      "points_off": 5105,
+      "points_def": 4813,
       "confederation": "UEFA",
+      "ranking_off": 23,
+      "ranking_def": 19,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 23,
@@ -231,9 +407,17 @@
       "team": "Finland",
       "reference_team": "Finland",
       "points": 5095,
+      "points_off": 5206,
+      "points_def": 4619,
       "confederation": "UEFA",
+      "ranking_off": 21,
+      "ranking_def": 27,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 24,
@@ -241,9 +425,17 @@
       "team": "France",
       "reference_team": "France",
       "points": 5054,
+      "points_off": 5257,
+      "points_def": 4593,
       "confederation": "UEFA",
+      "ranking_off": 20,
+      "ranking_def": 28,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 25,
@@ -251,9 +443,17 @@
       "team": "United States",
       "reference_team": "United States",
       "points": 5053,
+      "points_off": 5301,
+      "points_def": 4656,
       "confederation": "CONCACAF",
+      "ranking_off": 16,
+      "ranking_def": 26,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 26,
@@ -261,9 +461,17 @@
       "team": "Trinidad and Tobago",
       "reference_team": "Trinidad and Tobago",
       "points": 4939,
+      "points_off": 4974,
+      "points_def": 4744,
       "confederation": "CONCACAF",
+      "ranking_off": 27,
+      "ranking_def": 23,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 27,
@@ -271,9 +479,17 @@
       "team": "China",
       "reference_team": "China",
       "points": 4826,
+      "points_off": 4816,
+      "points_def": 4715,
       "confederation": "AFC",
+      "ranking_off": 30,
+      "ranking_def": 25,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 28,
@@ -281,9 +497,17 @@
       "team": "British Guiana",
       "reference_team": "Guyana",
       "points": 4781,
+      "points_off": 4825,
+      "points_def": 4739,
       "confederation": "CONCACAF",
+      "ranking_off": 29,
+      "ranking_def": 24,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 29,
@@ -291,9 +515,17 @@
       "team": "Luxembourg",
       "reference_team": "Luxembourg",
       "points": 4727,
+      "points_off": 5015,
+      "points_def": 4322,
       "confederation": "UEFA",
+      "ranking_off": 25,
+      "ranking_def": 31,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 30,
@@ -301,9 +533,17 @@
       "team": "Suriname",
       "reference_team": "Suriname",
       "points": 4680,
+      "points_off": 4829,
+      "points_def": 4512,
       "confederation": "CONCACAF",
+      "ranking_off": 28,
+      "ranking_def": 29,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 31,
@@ -311,9 +551,17 @@
       "team": "Philippines",
       "reference_team": "Philippines",
       "points": 4608,
+      "points_off": 4741,
+      "points_def": 4466,
       "confederation": "AFC",
+      "ranking_off": 31,
+      "ranking_def": 30,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 32,
@@ -321,9 +569,17 @@
       "team": "Japan",
       "reference_team": "Japan",
       "points": 4108,
+      "points_off": 4630,
+      "points_def": 4140,
       "confederation": "AFC",
+      "ranking_off": 32,
+      "ranking_def": 32,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     }
   ]
 }

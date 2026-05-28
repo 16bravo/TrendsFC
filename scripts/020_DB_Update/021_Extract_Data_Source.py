@@ -7,7 +7,7 @@ import sqlite3
 
 ## EXTRACT DATA FROM KAGGLE AND EXCEL
 
-database_path = '././data/BravoRanking.db'  
+database_path = '././data/TrendsFC.db'  
 
 # Download Matches dataset from Kaggle
 # https://www.kaggle.com/datasets/patateriedata/all-international-football-results
@@ -139,7 +139,7 @@ else:
     # Retrieve the maximum date from the Rankings table to get the last ratings
     last_date_query = "SELECT strftime('%Y-%m-%d',MAX(date)) FROM Rankings"
     last_date = pd.read_sql(last_date_query, conn).iloc[0, 0]
-    last_date = datetime.strptime(last_date, "%Y-%m-%d")
+    last_date = datetime.strptime(str(last_date), "%Y-%m-%d")
     last_year = last_date.year
     last_month = last_date.month
     last_day = last_date.day

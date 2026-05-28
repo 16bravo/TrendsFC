@@ -5,7 +5,7 @@ import pandas as pd
 from pathlib import Path
 
 # SQLite database connection
-database_path = "data/BravoRanking.db"
+database_path = "data/TrendsFC.db"
 connection = sqlite3.connect(database_path)
 cursor = connection.cursor()
 

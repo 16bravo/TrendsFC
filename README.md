@@ -1,7 +1,7 @@
-# MatchOracle
+# TrendsFC
 
 ## Description
-MatchOracle is a project that provides up-to-date rankings for national football teams. It features a unique probability calculation system that shows win chances for both past and future matches. The system takes into account historical data and scheduled matches to provide accurate team rankings and match predictions.
+TrendsFC is a project that provides up-to-date rankings for national football teams. It features a unique probability calculation system that shows win chances for both past and future matches. The system takes into account historical data and scheduled matches to provide accurate team rankings and match predictions.
 
 ## Features
 - Real-time national team rankings
@@ -16,7 +16,7 @@ MatchOracle is a project that provides up-to-date rankings for national football
 1. Clone the repository:
 ```bash
 git clone [repository URL]
-cd MatchOracle
+cd TrendsFC
 ```
 
 2. Install dependencies:
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Project Structure
 ```
-MatchOracle/
+TrendsFC/
 ├── data/           # Generated data
 ├── scripts/        # Python scripts
 │   ├── 000_Web_Scraping/      # Data collection

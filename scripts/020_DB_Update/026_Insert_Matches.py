@@ -1,7 +1,7 @@
 import pandas as pd
 import sqlite3
 
-database_path = 'data/BravoRanking.db' 
+database_path = 'data/TrendsFC.db' 
 
 # Retrieve Data from previous steps in csv files
 matches = pd.read_csv('data/temp/matches.csv')

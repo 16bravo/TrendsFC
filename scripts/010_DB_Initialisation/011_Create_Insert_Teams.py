@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 
 # Database connection
-database_path = 'data/BravoRanking.db'
+database_path = 'data/TrendsFC.db'
 conn = sqlite3.connect(database_path)
 cursor = conn.cursor()
 

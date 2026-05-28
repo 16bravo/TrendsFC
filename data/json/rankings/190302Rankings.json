@@ -11,9 +11,17 @@
       "team": "Scotland",
       "reference_team": "Scotland",
       "points": 6233,
+      "points_off": 5878,
+      "points_def": 5458,
       "confederation": "UEFA",
+      "ranking_off": 1,
+      "ranking_def": 2,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 2,
@@ -21,9 +29,17 @@
       "team": "England",
       "reference_team": "England",
       "points": 6182,
+      "points_off": 5705,
+      "points_def": 5554,
       "confederation": "UEFA",
+      "ranking_off": 2,
+      "ranking_def": 1,
       "ranking_change": 0,
-      "points_change": 1
+      "points_change": 1,
+      "ranking_off_change": 0,
+      "points_off_change": -2,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 3,
@@ -31,9 +47,17 @@
       "team": "Argentina",
       "reference_team": "Argentina",
       "points": 6050,
+      "points_off": 5564,
+      "points_def": 5349,
       "confederation": "CONMEBOL",
+      "ranking_off": 3,
+      "ranking_def": 3,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 4,
@@ -41,9 +65,17 @@
       "team": "Uruguay",
       "reference_team": "Uruguay",
       "points": 5853,
+      "points_off": 5430,
+      "points_def": 5212,
       "confederation": "CONMEBOL",
+      "ranking_off": 6,
+      "ranking_def": 4,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 5,
@@ -51,9 +83,17 @@
       "team": "Austria",
       "reference_team": "Austria",
       "points": 5755,
+      "points_off": 5517,
+      "points_def": 5117,
       "confederation": "UEFA",
+      "ranking_off": 4,
+      "ranking_def": 5,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 6,
@@ -61,9 +101,17 @@
       "team": "Hungary",
       "reference_team": "Hungary",
       "points": 5740,
+      "points_off": 5504,
+      "points_def": 5011,
       "confederation": "UEFA",
+      "ranking_off": 5,
+      "ranking_def": 7,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 7,
@@ -71,9 +119,17 @@
       "team": "Wales",
       "reference_team": "Wales",
       "points": 5468,
+      "points_off": 5378,
+      "points_def": 5110,
       "confederation": "UEFA",
+      "ranking_off": 7,
+      "ranking_def": 6,
       "ranking_change": 0,
-      "points_change": 0
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 8,
@@ -81,9 +137,17 @@
       "team": "Ireland",
       "reference_team": "Ireland",
       "points": 5328,
+      "points_off": 5370,
+      "points_def": 4943,
       "confederation": "UEFA",
+      "ranking_off": 8,
+      "ranking_def": 8,
       "ranking_change": 0,
-      "points_change": -1
+      "points_change": -1,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 2
     }
   ]
 }

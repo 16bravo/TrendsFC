@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from datetime import datetime, timedelta
 
-database_path = "data/BravoRanking.db"
+database_path = "data/TrendsFC.db"
 connection = sqlite3.connect(database_path)
 cursor = connection.cursor()
 

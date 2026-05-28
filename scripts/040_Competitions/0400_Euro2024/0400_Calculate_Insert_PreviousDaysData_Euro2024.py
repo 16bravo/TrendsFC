@@ -232,7 +232,7 @@ def knock_out(team1,team2,team3,team4,team5,team6,team7,team8,team9,team10,team1
 
 # SQLite database connection
 # get ranking points for each teams
-database_path = "data/BravoRanking.db"
+database_path = "data/TrendsFC.db"
 
 for i in range(num_days) :
     connection = sqlite3.connect(database_path)
