@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-27",
+      "date": "2027-03-28",
       "country": "Madagascar",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-27",
+      "date": "2027-03-28",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "country": "Tanzania",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "country": "Guinea-Bissau",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -182,6 +182,25 @@
       "rating_ev": 0,
       "rank": 37,
       "win_prob": 39.0,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-05-30",
+      "country": "England",
+      "tournament": "Unity Cup",
+      "team1": "Nigeria",
+      "team2": "Jamaica",
+      "original_team1": "Nigeria",
+      "original_team2": "Jamaica",
+      "flag1": "nigeria.png",
+      "flag2": "jamaica.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5216,
+      "rating2": 4917,
+      "rating_ev": 0,
+      "rank": 37,
+      "win_prob": 78.6,
       "type": "fixture"
     },
     {

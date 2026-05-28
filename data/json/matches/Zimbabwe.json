@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-27",
+      "date": "2027-03-28",
       "country": "DR Congo",
       "tournament": "African Cup qualifier",
       "team1": "Zimbabwe",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-27",
+      "date": "2027-03-28",
       "country": "Zimbabwe",
       "tournament": "African Cup qualifier",
       "team1": "Zimbabwe",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "country": "Equatorial Guinea",
       "tournament": "African Cup qualifier",
       "team1": "Zimbabwe",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "country": "Zimbabwe",
       "tournament": "African Cup qualifier",
       "team1": "Zimbabwe",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "country": "Zimbabwe",
       "tournament": "African Cup qualifier",
       "team1": "Zimbabwe",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "country": "Sierra Leone",
       "tournament": "African Cup qualifier",
       "team1": "Zimbabwe",
@@ -144,6 +144,25 @@
       "rating_ev": 0,
       "rank": 90,
       "win_prob": 47.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-05-30",
+      "country": "England",
+      "tournament": "Unity Cup",
+      "team1": "Zimbabwe",
+      "team2": "India",
+      "original_team1": "Zimbabwe",
+      "original_team2": "India",
+      "flag1": "zimbabwe.png",
+      "flag2": "india.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4892,
+      "rating2": 4482,
+      "rating_ev": 0,
+      "rank": 90,
+      "win_prob": 85.5,
       "type": "fixture"
     },
     {

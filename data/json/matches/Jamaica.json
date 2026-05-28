@@ -1,14 +1,14 @@
 {
   "team": "Jamaica",
   "stats": {
-    "matches_played": 716,
-    "wins": 278,
+    "matches_played": 717,
+    "wins": 279,
     "draws": 168,
     "losses": 270,
-    "goals_for": 952,
+    "goals_for": 954,
     "goals_against": 936,
-    "goal_difference": 16,
-    "win_percentage": 38.8,
+    "goal_difference": 18,
+    "win_percentage": 38.9,
     "avg_points": 1.4,
     "best_rank": 49,
     "worst_rank": 146,
@@ -27,11 +27,30 @@
     },
     "home_matches": 270,
     "away_matches": 270,
-    "neutral_matches": 176,
+    "neutral_matches": 177,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-27"
   },
   "matches": [
+    {
+      "date": "2026-05-30",
+      "country": "England",
+      "tournament": "Unity Cup",
+      "team1": "Jamaica",
+      "team2": "Nigeria",
+      "original_team1": "Jamaica",
+      "original_team2": "Nigeria",
+      "flag1": "jamaica.png",
+      "flag2": "nigeria.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4917,
+      "rating2": 5216,
+      "rating_ev": 0,
+      "rank": 85,
+      "win_prob": 21.4,
+      "type": "fixture"
+    },
     {
       "date": "2026-05-27",
       "country": "England",
@@ -42,14 +61,14 @@
       "original_team2": "India",
       "flag1": "jamaica.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4914,
-      "rating2": 4485,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4917,
+      "rating2": 4482,
+      "rating_ev": 3,
       "rank": 85,
       "win_prob": 86.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

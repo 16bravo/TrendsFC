@@ -1,18 +1,18 @@
 {
   "team": "India",
   "stats": {
-    "matches_played": 593,
+    "matches_played": 594,
     "wins": 215,
     "draws": 124,
-    "losses": 254,
+    "losses": 255,
     "goals_for": 824,
-    "goals_against": 966,
-    "goal_difference": -142,
-    "win_percentage": 36.3,
-    "avg_points": 1.3,
+    "goals_against": 968,
+    "goal_difference": -144,
+    "win_percentage": 36.2,
+    "avg_points": 1.29,
     "best_rank": 46,
     "worst_rank": 181,
-    "avg_rank": 136.36,
+    "avg_rank": 136.41,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Ceylon",
@@ -27,9 +27,9 @@
     },
     "home_matches": 171,
     "away_matches": 161,
-    "neutral_matches": 261,
+    "neutral_matches": 262,
     "first_match_date": "1938-09-03",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4485,
+      "rating1": 4482,
       "rating2": 4637,
       "rating_ev": 0,
       "rank": 165,
-      "win_prob": 24.9,
+      "win_prob": 24.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,30 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4485,
+      "rating1": 4482,
       "rating2": 4637,
       "rating_ev": 0,
       "rank": 165,
-      "win_prob": 24.9,
+      "win_prob": 24.6,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-05-30",
+      "country": "England",
+      "tournament": "Unity Cup",
+      "team1": "India",
+      "team2": "Zimbabwe",
+      "original_team1": "India",
+      "original_team2": "Zimbabwe",
+      "flag1": "india.png",
+      "flag2": "zimbabwe.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4482,
+      "rating2": 4892,
+      "rating_ev": 0,
+      "rank": 165,
+      "win_prob": 14.5,
       "type": "fixture"
     },
     {
@@ -80,14 +99,14 @@
       "original_team2": "Jamaica",
       "flag1": "india.png",
       "flag2": "jamaica.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4485,
-      "rating2": 4914,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4482,
+      "rating2": 4917,
+      "rating_ev": -3,
       "rank": 165,
       "win_prob": 13.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",
