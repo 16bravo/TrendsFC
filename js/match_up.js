@@ -49,6 +49,10 @@ function renderTeamPanel(teamData, side) {
     const lastMatch = teamData.matches.find(m => m.type === 'past');
     const lastPoints = lastMatch ? lastMatch.rating1 : '?';
     const latestRank = rankingsMap[teamData.team]?.rank ?? (lastMatch?.rank ?? '?');
+    const offRating = rankingsMap[teamData.team]?.points_off ?? '?';
+    const offRank = rankingsMap[teamData.team]?.ranking_off ?? '?';
+    const defRating = rankingsMap[teamData.team]?.points_def ?? '?';
+    const defRank = rankingsMap[teamData.team]?.ranking_def ?? '?';
     // Trie les matchs par date décroissante et prend les 10 plus récents
     const last10 = teamData.matches
         .filter(m => m.type === 'past')
@@ -84,7 +88,7 @@ function renderTeamPanel(teamData, side) {
             <div class="stats-cards">
                 <div class="stats-card"><span class="icon">⭐</span>
                     <div>
-                        <div style="font-size:0.9em;color:#888;">Latest points</div>
+                        <div style="font-size:0.9em;color:#888;">Latest rating</div>
                         <strong>${lastPoints}</strong>
                     </div>
                 </div>
@@ -96,13 +100,27 @@ function renderTeamPanel(teamData, side) {
                 </div>
                 <div class="stats-card"><span class="icon">📊</span>
                     <div>
-                        <div style="font-size:0.9em;color:#888;">Avg points (last 10)</div>
+                        <div style="font-size:0.9em;color:#888;">Avg ppm (last 10)</div>
                         <strong>${avgPts}</strong>
+                    </div>
+                </div>
+                <div class="stats-card"><span class="icon">⚔️</span>
+                    <div>
+                        <div style="font-size:0.9em;color:#888;">Off rating</div>
+                        <strong>${offRating}</strong>
+                        <div style="font-size:0.85em;color:#999;">(${offRank})</div>
+                    </div>
+                </div>
+                <div class="stats-card"><span class="icon">🛡️</span>
+                    <div>
+                        <div style="font-size:0.9em;color:#888;">Def rating</div>
+                        <strong>${defRating}</strong>
+                        <div style="font-size:0.85em;color:#999;">(${defRank})</div>
                     </div>
                 </div>
                 <div class="stats-card"><span class="icon">🎯</span>
                     <div>
-                        <div style="font-size:0.9em;color:#888;">Avg opponent level</div>
+                        <div style="font-size:0.9em;color:#888;">Avg opponent rating</div>
                         <strong>${avgOpp}</strong>
                     </div>
                 </div>
@@ -119,14 +137,12 @@ function renderTeamPanel(teamData, side) {
         <table class="table table-sm mb-2" style="font-size:0.75em;">
             <thead>
                 <tr>
-                    <th>Date</th>
+                    <th style="white-space:nowrap">Date</th>
                     <th>${side === 'left' ? 'Home' : 'Away'}</th>
                     <th>Score</th>
                     <th>${side === 'left' ? 'Away' : 'Home'}</th>
-                    <th>Venue</th>
-                    <th>Tournament</th>
-                    <th>Δpts</th>
-                    <th>Rank</th>
+                    <th class="d-none d-sm-table-cell">Δpts</th>
+                    <th class="d-none d-sm-table-cell">Rank</th>
                 </tr>
             </thead>
             <tbody>
@@ -192,14 +208,12 @@ function renderTeamPanel(teamData, side) {
 
         html += `
             <tr>
-                <td>${match.date}</td>
-                <td>${flagImgFromFile(leftFlag, leftTeam)} ${leftTeam}</td>
-                <td class="font-weight-bold" style="${scoreColor}">${leftScore} - ${rightScore}</td>
-                <td>${flagImgFromFile(rightFlag, rightTeam)} ${rightTeam}</td>
-                <td>${venue}</td>
-                <td>${tournament}</td>
-                <td>${pts}</td>
-                <td>${rank}</td>
+                <td style="white-space:nowrap">${match.date}</td>
+                <td class="team-cell">${flagImgFromFile(leftFlag, leftTeam)} ${leftTeam}</td>
+                <td class="font-weight-bold" style="white-space:nowrap;${scoreColor}">${leftScore} - ${rightScore}</td>
+                <td class="team-cell">${flagImgFromFile(rightFlag, rightTeam)} ${rightTeam}</td>
+                <td class="d-none d-sm-table-cell">${pts}</td>
+                <td class="d-none d-sm-table-cell">${rank}</td>
             </tr>
         `;
     }
@@ -256,8 +270,14 @@ function renderHeadToHead(matches, team1, team2) {
         <table class="table table-bordered table-sm align-middle" style="font-size:0.85em;">
         <thead>
             <tr>
-                <th>Date</th>
-                <th class="text-center">Result</th>
+                <th style="white-space:nowrap">Date</th>
+                <th class="d-none d-sm-table-cell">Home</th>
+                <th>Score</th>
+                <th class="d-none d-sm-table-cell">Away</th>
+                <th class="d-none d-md-table-cell">Venue</th>
+                <th class="d-none d-lg-table-cell">Tournament</th>
+                <th class="d-none d-lg-table-cell">Δpts</th>
+                <th class="d-none d-xl-table-cell">Rank</th>
             </tr>
         </thead>
         <tbody>

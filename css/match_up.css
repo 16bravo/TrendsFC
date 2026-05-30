@@ -17,12 +17,24 @@
 }
 @media (max-width: 600px) {
     .table-sm td, .table-sm th {
-        padding: 0.25rem;
-        font-size: 0.8em;
+        padding: 0.2rem 0.3rem;
+        font-size: 0.75em;
     }
 }
 .table-sm td, .table-sm th {
     padding: 0.3rem;
+}
+/* Truncate long team names in narrow panel tables */
+.team-cell {
+    max-width: 130px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+@media (max-width: 575px) {
+    .team-cell {
+        max-width: 90px;
+    }
 }
 .custom-control-input:checked~.custom-control-label::before {
     background-color: #007bff;
