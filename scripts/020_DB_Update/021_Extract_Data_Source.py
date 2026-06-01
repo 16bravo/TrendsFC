@@ -4,6 +4,7 @@ import pandas as pd
 from zipfile import ZipFile
 from datetime import datetime
 import sqlite3
+import os
 
 ## EXTRACT DATA FROM KAGGLE AND EXCEL
 
@@ -12,10 +13,38 @@ database_path = '././data/TrendsFC.db'
 # Download Matches dataset from Kaggle
 # https://www.kaggle.com/datasets/patateriedata/all-international-football-results
 dataset = "patateriedata/all-international-football-results"
+zip_filename = f"{dataset.split('/')[1]}.zip"
+
+# Remove corrupted ZIP if it exists to force fresh download
+if os.path.exists(zip_filename):
+    print(f"Removing existing {zip_filename} for fresh download...")
+    os.remove(zip_filename)
+
 sys.argv = [sys.argv[0]] + f"datasets download {dataset}".split(" ")
 kaggle.cli.main()
-zfile = ZipFile(f"{dataset.split('/')[1]}.zip")
-matches = {f.filename:pd.read_csv(zfile.open(f)) for f in zfile.infolist() }["all_matches.csv"]
+
+# Extract ZIP file to temp folder first
+extract_path = "./temp/kaggle_extract"
+os.makedirs(extract_path, exist_ok=True)
+
+try:
+    with ZipFile(zip_filename) as zfile:
+        # Verify and extract all files
+        zfile.extractall(extract_path)
+    
+    # Read the CSV from extracted folder
+    matches_path = os.path.join(extract_path, "all_matches.csv")
+    matches = pd.read_csv(matches_path)
+except Exception as e:
+    print(f"Error during zip extraction: {e}")
+    # Fallback: try to read directly with error handling
+    try:
+        with ZipFile(zip_filename, 'r', allowZip64=True) as zfile:
+            matches = pd.read_csv(zfile.open("all_matches.csv"))
+    except Exception as e2:
+        print(f"Failed to read ZIP: {e2}")
+        raise
+
 matches['match_id'] = range(1, len(matches) + 1)
 
 # Load Teams data from Excel files
