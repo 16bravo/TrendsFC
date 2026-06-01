@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Guinea-Bissau",
       "tournament": "African Cup qualifier",
       "team1": "Tanzania",
@@ -47,12 +47,12 @@
       "rating1": 4809,
       "rating2": 4736,
       "rating_ev": 0,
-      "rank": 114,
+      "rank": 115,
       "win_prob": 47.1,
       "type": "fixture"
     },
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Tanzania",
       "tournament": "African Cup qualifier",
       "team1": "Tanzania",
@@ -66,12 +66,12 @@
       "rating1": 4809,
       "rating2": 4837,
       "rating_ev": 0,
-      "rank": 114,
+      "rank": 115,
       "win_prob": 57.8,
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Tanzania",
@@ -83,14 +83,14 @@
       "score1": "",
       "score2": "",
       "rating1": 4809,
-      "rating2": 5208,
+      "rating2": 5232,
       "rating_ev": 0,
-      "rank": 114,
-      "win_prob": 10.3,
+      "rank": 115,
+      "win_prob": 9.4,
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Tanzania",
       "tournament": "African Cup qualifier",
       "team1": "Tanzania",
@@ -102,14 +102,14 @@
       "score1": "",
       "score2": "",
       "rating1": 4809,
-      "rating2": 5208,
+      "rating2": 5232,
       "rating_ev": 0,
-      "rank": 114,
-      "win_prob": 21.6,
+      "rank": 115,
+      "win_prob": 20.0,
       "type": "fixture"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-01",
       "country": "Madagascar",
       "tournament": "African Cup qualifier",
       "team1": "Tanzania",
@@ -123,12 +123,12 @@
       "rating1": 4809,
       "rating2": 4837,
       "rating_ev": 0,
-      "rank": 114,
+      "rank": 115,
       "win_prob": 36.3,
       "type": "fixture"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-01",
       "country": "Tanzania",
       "tournament": "African Cup qualifier",
       "team1": "Tanzania",
@@ -142,7 +142,7 @@
       "rating1": 4809,
       "rating2": 4736,
       "rating_ev": 0,
-      "rank": 114,
+      "rank": 115,
       "win_prob": 68.1,
       "type": "fixture"
     },
@@ -161,7 +161,7 @@
       "rating1": 4809,
       "rating2": 4844,
       "rating_ev": 0,
-      "rank": 114,
+      "rank": 115,
       "win_prob": 46.2,
       "type": "fixture"
     },
@@ -180,7 +180,7 @@
       "rating1": 4809,
       "rating2": 4854,
       "rating_ev": 0,
-      "rank": 114,
+      "rank": 115,
       "win_prob": 45.1,
       "type": "fixture"
     },

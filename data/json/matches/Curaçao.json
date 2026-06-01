@@ -1,14 +1,14 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 484,
+    "matches_played": 485,
     "wins": 196,
     "draws": 120,
-    "losses": 168,
-    "goals_for": 855,
-    "goals_against": 743,
-    "goal_difference": 112,
-    "win_percentage": 40.5,
+    "losses": 169,
+    "goals_for": 856,
+    "goals_against": 747,
+    "goal_difference": 109,
+    "win_percentage": 40.4,
     "avg_points": 1.46,
     "best_rank": 37,
     "worst_rank": 182,
@@ -26,10 +26,10 @@
       "flag": "netherlands.png"
     },
     "home_matches": 111,
-    "away_matches": 170,
+    "away_matches": 171,
     "neutral_matches": 203,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
+      "rating1": 4832,
       "rating2": 5169,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 19.1,
+      "rank": 103,
+      "win_prob": 18.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
-      "rating2": 5422,
+      "rating1": 4832,
+      "rating2": 5416,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 7.7,
+      "rank": 103,
+      "win_prob": 7.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
-      "rating2": 5532,
+      "rating1": 4832,
+      "rating2": 5541,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 5.2,
+      "rank": 103,
+      "win_prob": 5.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "aruba.png",
       "score1": "",
       "score2": "",
-      "rating1": 4837,
+      "rating1": 4832,
       "rating2": 4261,
       "rating_ev": 0,
-      "rank": 102,
-      "win_prob": 94.7,
+      "rank": 103,
+      "win_prob": 94.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Scotland",
       "flag1": "curacao.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4837,
-      "rating2": 5280,
-      "rating_ev": 0,
-      "rank": 102,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4832,
+      "rating2": 5285,
+      "rating_ev": -5,
+      "rank": 103,
       "win_prob": 8.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

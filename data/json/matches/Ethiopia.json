@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Ethiopia",
       "tournament": "African Cup qualifier",
       "team1": "Ethiopia",
@@ -47,12 +47,12 @@
       "rating1": 4741,
       "rating2": 4793,
       "rating_ev": 0,
-      "rank": 128,
+      "rank": 127,
       "win_prob": 55.2,
       "type": "fixture"
     },
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Senegal",
       "tournament": "African Cup qualifier",
       "team1": "Ethiopia",
@@ -64,14 +64,14 @@
       "score1": "",
       "score2": "",
       "rating1": 4741,
-      "rating2": 5322,
+      "rating2": 5315,
       "rating_ev": 0,
-      "rank": 128,
-      "win_prob": 5.2,
+      "rank": 127,
+      "win_prob": 5.3,
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Ethiopia",
       "tournament": "African Cup qualifier",
       "team1": "Ethiopia",
@@ -85,12 +85,12 @@
       "rating1": 4741,
       "rating2": 4792,
       "rating_ev": 0,
-      "rank": 128,
+      "rank": 127,
       "win_prob": 55.3,
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Mozambique",
       "tournament": "African Cup qualifier",
       "team1": "Ethiopia",
@@ -104,12 +104,12 @@
       "rating1": 4741,
       "rating2": 4792,
       "rating_ev": 0,
-      "rank": 128,
+      "rank": 127,
       "win_prob": 34.0,
       "type": "fixture"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-01",
       "country": "Ethiopia",
       "tournament": "African Cup qualifier",
       "team1": "Ethiopia",
@@ -121,14 +121,14 @@
       "score1": "",
       "score2": "",
       "rating1": 4741,
-      "rating2": 5322,
+      "rating2": 5315,
       "rating_ev": 0,
-      "rank": 128,
-      "win_prob": 11.7,
+      "rank": 127,
+      "win_prob": 11.9,
       "type": "fixture"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-01",
       "country": "Sudan",
       "tournament": "African Cup qualifier",
       "team1": "Ethiopia",
@@ -142,7 +142,7 @@
       "rating1": 4741,
       "rating2": 4793,
       "rating_ev": 0,
-      "rank": 128,
+      "rank": 127,
       "win_prob": 33.9,
       "type": "fixture"
     },
@@ -161,7 +161,7 @@
       "rating1": 4741,
       "rating2": 4693,
       "rating_ev": 0,
-      "rank": 128,
+      "rank": 127,
       "win_prob": 65.7,
       "type": "fixture"
     },
@@ -180,7 +180,7 @@
       "rating1": 4741,
       "rating2": 4693,
       "rating_ev": 0,
-      "rank": 128,
+      "rank": 127,
       "win_prob": 65.7,
       "type": "fixture"
     },

@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 598,
-    "wins": 183,
+    "matches_played": 599,
+    "wins": 184,
     "draws": 161,
     "losses": 254,
-    "goals_for": 719,
-    "goals_against": 903,
-    "goal_difference": -184,
-    "win_percentage": 30.6,
+    "goals_for": 721,
+    "goals_against": 904,
+    "goal_difference": -183,
+    "win_percentage": 30.7,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.84,
+    "avg_rank": 34.81,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -27,9 +27,9 @@
     },
     "home_matches": 183,
     "away_matches": 211,
-    "neutral_matches": 204,
+    "neutral_matches": 205,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5422,
-      "rating2": 5532,
+      "rating1": 5416,
+      "rating2": 5541,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 38.1,
+      "rank": 16,
+      "win_prob": 36.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5422,
-      "rating2": 4837,
+      "rating1": 5416,
+      "rating2": 4832,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 92.3,
+      "rank": 16,
+      "win_prob": 92.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5422,
+      "rating1": 5416,
       "rating2": 5169,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 75.1,
+      "rank": 16,
+      "win_prob": 74.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 5422,
+      "rating1": 5416,
       "rating2": 4900,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 90.3,
+      "rank": 16,
+      "win_prob": 90.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "ecuador.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5422,
-      "rating2": 4986,
-      "rating_ev": 0,
-      "rank": 15,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5416,
+      "rating2": 4992,
+      "rating_ev": -6,
+      "rank": 16,
       "win_prob": 86.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

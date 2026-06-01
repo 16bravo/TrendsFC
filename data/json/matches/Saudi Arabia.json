@@ -1,18 +1,18 @@
 {
   "team": "Saudi Arabia",
   "stats": {
-    "matches_played": 812,
+    "matches_played": 813,
     "wins": 387,
     "draws": 188,
-    "losses": 237,
-    "goals_for": 1255,
-    "goals_against": 869,
-    "goal_difference": 386,
-    "win_percentage": 47.7,
+    "losses": 238,
+    "goals_for": 1256,
+    "goals_against": 871,
+    "goal_difference": 385,
+    "win_percentage": 47.6,
     "avg_points": 1.66,
     "best_rank": 37,
     "worst_rank": 127,
-    "avg_rank": 66.88,
+    "avg_rank": 66.89,
     "biggest_win": {
       "score": "10-0",
       "opponent": "East Timor",
@@ -27,9 +27,9 @@
     },
     "home_matches": 316,
     "away_matches": 147,
-    "neutral_matches": 349,
+    "neutral_matches": 350,
     "first_match_date": "1957-10-18",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4992,
       "rating2": 4737,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 82.2,
+      "rank": 73,
+      "win_prob": 82.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4992,
       "rating2": 4873,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 71.8,
+      "rank": 73,
+      "win_prob": 72.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "palestine.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4992,
       "rating2": 4884,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 70.8,
+      "rank": 73,
+      "win_prob": 71.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
-      "rating2": 4978,
+      "rating1": 4992,
+      "rating2": 4976,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 61.6,
+      "rank": 73,
+      "win_prob": 62.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4992,
       "rating2": 4873,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 71.8,
+      "rank": 73,
+      "win_prob": 72.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4992,
       "rating2": 4737,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 82.2,
+      "rank": 73,
+      "win_prob": 82.5,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
-      "rating2": 4989,
+      "rating1": 4992,
+      "rating2": 5016,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 49.7,
+      "rank": 73,
+      "win_prob": 47.4,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4992,
       "rating2": 5702,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 4.8,
+      "rank": 73,
+      "win_prob": 4.9,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4992,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 15.2,
+      "rank": 73,
+      "win_prob": 15.5,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
-      "rating2": 5322,
+      "rating1": 4992,
+      "rating2": 5315,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 18.8,
+      "rank": 73,
+      "win_prob": 19.7,
       "type": "fixture"
     },
     {
@@ -234,11 +234,11 @@
       "flag2": "puerto_rico.png",
       "score1": "",
       "score2": "",
-      "rating1": 4986,
+      "rating1": 4992,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 90.8,
+      "rank": 73,
+      "win_prob": 91.0,
       "type": "fixture"
     },
     {
@@ -251,14 +251,14 @@
       "original_team2": "Ecuador",
       "flag1": "saudi_arabia.png",
       "flag2": "ecuador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4986,
-      "rating2": 5422,
-      "rating_ev": 0,
-      "rank": 74,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4992,
+      "rating2": 5416,
+      "rating_ev": 6,
+      "rank": 72,
       "win_prob": 13.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

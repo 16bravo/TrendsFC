@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Lesotho",
       "tournament": "African Cup qualifier",
       "team1": "Lesotho",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Morocco",
       "tournament": "African Cup qualifier",
       "team1": "Lesotho",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Gabon",
       "tournament": "African Cup qualifier",
       "team1": "Lesotho",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Lesotho",
       "tournament": "African Cup qualifier",
       "team1": "Lesotho",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-01",
       "country": "Lesotho",
       "tournament": "African Cup qualifier",
       "team1": "Lesotho",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-01",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Lesotho",
@@ -144,6 +144,44 @@
       "rating_ev": 0,
       "rank": 157,
       "win_prob": 14.2,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-07",
+      "country": "South Africa",
+      "tournament": "Friendly",
+      "team1": "Lesotho",
+      "team2": "Kenya",
+      "original_team1": "Lesotho",
+      "original_team2": "Kenya",
+      "flag1": "lesotho.png",
+      "flag2": "kenya.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4579,
+      "rating2": 4811,
+      "rating_ev": 0,
+      "rank": 157,
+      "win_prob": 26.6,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-04",
+      "country": "South Africa",
+      "tournament": "Friendly",
+      "team1": "Lesotho",
+      "team2": "Kenya",
+      "original_team1": "Lesotho",
+      "original_team2": "Kenya",
+      "flag1": "lesotho.png",
+      "flag2": "kenya.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4579,
+      "rating2": 4811,
+      "rating_ev": 0,
+      "rank": 157,
+      "win_prob": 26.6,
       "type": "fixture"
     },
     {

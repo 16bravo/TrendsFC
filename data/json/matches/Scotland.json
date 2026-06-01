@@ -1,18 +1,18 @@
 {
   "team": "Scotland",
   "stats": {
-    "matches_played": 865,
-    "wins": 410,
+    "matches_played": 866,
+    "wins": 411,
     "draws": 187,
     "losses": 268,
-    "goals_for": 1482,
-    "goals_against": 1067,
-    "goal_difference": 415,
-    "win_percentage": 47.4,
+    "goals_for": 1486,
+    "goals_against": 1068,
+    "goal_difference": 418,
+    "win_percentage": 47.5,
     "avg_points": 1.64,
     "best_rank": 1,
     "worst_rank": 62,
-    "avg_rank": 19.15,
+    "avg_rank": 19.16,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -25,11 +25,11 @@
       "date": "1954-06-19",
       "flag": "uruguay.png"
     },
-    "home_matches": 402,
+    "home_matches": 403,
     "away_matches": 412,
     "neutral_matches": 51,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 5440,
+      "rating1": 5285,
+      "rating2": 5448,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 24.2,
+      "win_prob": 24.0,
       "type": "fixture"
     },
     {
@@ -63,8 +63,8 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 5022,
+      "rating1": 5285,
+      "rating2": 5027,
       "rating_ev": 0,
       "rank": 27,
       "win_prob": 82.7,
@@ -82,11 +82,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
+      "rating1": 5285,
       "rating2": 5181,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 70.6,
+      "win_prob": 71.0,
       "type": "fixture"
     },
     {
@@ -101,8 +101,8 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 5022,
+      "rating1": 5285,
+      "rating2": 5027,
       "rating_ev": 0,
       "rank": 27,
       "win_prob": 66.6,
@@ -120,11 +120,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 5440,
+      "rating1": 5285,
+      "rating2": 5448,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 43.4,
+      "win_prob": 43.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
+      "rating1": 5285,
       "rating2": 5181,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 49.9,
+      "win_prob": 50.5,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
-      "rating2": 5504,
+      "rating1": 5285,
+      "rating2": 5516,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 27.3,
+      "win_prob": 26.7,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
+      "rating1": 5285,
       "rating2": 5293,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 48.6,
+      "win_prob": 49.1,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
+      "rating1": 5285,
       "rating2": 4985,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 78.4,
+      "win_prob": 78.7,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "bolivia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5280,
+      "rating1": 5285,
       "rating2": 5056,
       "rating_ev": 0,
       "rank": 27,
-      "win_prob": 72.7,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -232,14 +232,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "scotland.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5280,
-      "rating2": 4837,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5285,
+      "rating2": 4832,
+      "rating_ev": 5,
       "rank": 27,
       "win_prob": 91.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

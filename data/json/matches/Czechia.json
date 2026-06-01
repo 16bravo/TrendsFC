@@ -1,18 +1,18 @@
 {
   "team": "Czechia",
   "stats": {
-    "matches_played": 881,
-    "wins": 425,
+    "matches_played": 882,
+    "wins": 426,
     "draws": 196,
     "losses": 260,
-    "goals_for": 1625,
-    "goals_against": 1094,
-    "goal_difference": 531,
-    "win_percentage": 48.2,
+    "goals_for": 1627,
+    "goals_against": 1095,
+    "goal_difference": 532,
+    "win_percentage": 48.3,
     "avg_points": 1.67,
     "best_rank": 1,
     "worst_rank": 42,
-    "avg_rank": 13.27,
+    "avg_rank": 13.3,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Yugoslavia",
@@ -25,11 +25,11 @@
       "date": "1939-05-21",
       "flag": "austria.png"
     },
-    "home_matches": 149,
+    "home_matches": 150,
     "away_matches": 416,
     "neutral_matches": 316,
     "first_match_date": "1903-04-05",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
+      "rating1": 5223,
       "rating2": 5422,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 20.9,
+      "rank": 36,
+      "win_prob": 21.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
+      "rating1": 5223,
       "rating2": 5702,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 16.3,
+      "rank": 36,
+      "win_prob": 16.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
+      "rating1": 5223,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 12.7,
+      "rank": 36,
+      "win_prob": 12.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
+      "rating1": 5223,
       "rating2": 5702,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 7.5,
+      "rank": 36,
+      "win_prob": 7.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
+      "rating1": 5223,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 25.9,
+      "rank": 36,
+      "win_prob": 26.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
+      "rating1": 5223,
       "rating2": 5422,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 38.9,
+      "rank": 36,
+      "win_prob": 39.3,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
-      "rating2": 5309,
+      "rating1": 5223,
+      "rating2": 5314,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 30.3,
+      "rank": 36,
+      "win_prob": 30.2,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
-      "rating2": 4988,
+      "rating1": 5223,
+      "rating2": 4977,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 73.3,
+      "rank": 36,
+      "win_prob": 74.6,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
-      "rating2": 5177,
+      "rating1": 5223,
+      "rating2": 5197,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 54.6,
+      "rank": 36,
+      "win_prob": 52.9,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "guatemala.png",
       "score1": "",
       "score2": "",
-      "rating1": 5219,
+      "rating1": 5223,
       "rating2": 4900,
       "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 80.0,
+      "rank": 36,
+      "win_prob": 80.3,
       "type": "fixture"
     },
     {
@@ -232,14 +232,14 @@
       "original_team2": "Kosovo",
       "flag1": "czechia.png",
       "flag2": "kosovo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5219,
-      "rating2": 5206,
-      "rating_ev": 0,
-      "rank": 35,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5223,
+      "rating2": 5202,
+      "rating_ev": 4,
+      "rank": 36,
       "win_prob": 62.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

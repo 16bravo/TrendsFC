@@ -1,18 +1,18 @@
 {
   "team": "Serbia",
   "stats": {
-    "matches_played": 861,
+    "matches_played": 862,
     "wins": 402,
     "draws": 192,
-    "losses": 267,
+    "losses": 268,
     "goals_for": 1612,
-    "goals_against": 1177,
-    "goal_difference": 435,
-    "win_percentage": 46.7,
+    "goals_against": 1180,
+    "goal_difference": 432,
+    "win_percentage": 46.6,
     "avg_points": 1.62,
     "best_rank": 2,
-    "worst_rank": 36,
-    "avg_rank": 16.58,
+    "worst_rank": 44,
+    "avg_rank": 16.61,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Venezuela",
@@ -27,9 +27,9 @@
     },
     "home_matches": 74,
     "away_matches": 423,
-    "neutral_matches": 364,
+    "neutral_matches": 365,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5216,
+      "rating1": 5189,
       "rating2": 5300,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 30.8,
+      "rank": 44,
+      "win_prob": 28.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5216,
-      "rating2": 5532,
+      "rating1": 5189,
+      "rating2": 5541,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 28.1,
+      "rank": 44,
+      "win_prob": 25.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5216,
+      "rating1": 5189,
       "rating2": 5538,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 13.7,
+      "rank": 44,
+      "win_prob": 12.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5216,
-      "rating2": 5532,
+      "rating1": 5189,
+      "rating2": 5541,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 14.0,
+      "rank": 44,
+      "win_prob": 12.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5216,
+      "rating1": 5189,
       "rating2": 5538,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 27.6,
+      "rank": 44,
+      "win_prob": 25.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5216,
+      "rating1": 5189,
       "rating2": 5300,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 51.7,
+      "rank": 44,
+      "win_prob": 48.8,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5216,
-      "rating2": 5309,
+      "rating1": 5189,
+      "rating2": 5314,
       "rating_ev": 0,
-      "rank": 37,
-      "win_prob": 30.0,
+      "rank": 44,
+      "win_prob": 27.1,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Cape Verde",
       "flag1": "serbia.png",
       "flag2": "cape_verde.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5216,
-      "rating2": 4989,
-      "rating_ev": 0,
-      "rank": 37,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 5189,
+      "rating2": 5016,
+      "rating_ev": -27,
+      "rank": 44,
       "win_prob": 73.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

@@ -1,15 +1,15 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1050,
-    "wins": 574,
+    "matches_played": 1051,
+    "wins": 575,
     "draws": 257,
     "losses": 219,
-    "goals_for": 1909,
+    "goals_for": 1914,
     "goals_against": 958,
-    "goal_difference": 951,
+    "goal_difference": 956,
     "win_percentage": 54.7,
-    "avg_points": 1.88,
+    "avg_points": 1.89,
     "best_rank": 19,
     "worst_rank": 100,
     "avg_rank": 47.2,
@@ -27,9 +27,9 @@
     },
     "home_matches": 353,
     "away_matches": 250,
-    "neutral_matches": 447,
+    "neutral_matches": 448,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5177,
+      "rating1": 5197,
       "rating2": 4956,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 72.5,
+      "rank": 41,
+      "win_prob": 74.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 5177,
+      "rating1": 5197,
       "rating2": 4664,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 90.0,
+      "rank": 41,
+      "win_prob": 90.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5177,
-      "rating2": 4988,
+      "rating1": 5197,
+      "rating2": 4977,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 69.6,
+      "rank": 41,
+      "win_prob": 72.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5177,
-      "rating2": 5309,
+      "rating1": 5197,
+      "rating2": 5314,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 26.5,
+      "rank": 41,
+      "win_prob": 27.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5177,
-      "rating2": 5219,
+      "rating1": 5197,
+      "rating2": 5223,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 45.4,
+      "rank": 41,
+      "win_prob": 47.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "salvador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5177,
+      "rating1": 5197,
       "rating2": 4673,
       "rating_ev": 0,
-      "rank": 47,
-      "win_prob": 89.6,
+      "rank": 41,
+      "win_prob": 90.4,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "south_korea.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5177,
-      "rating2": 4741,
-      "rating_ev": 0,
-      "rank": 47,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5197,
+      "rating2": 4721,
+      "rating_ev": 20,
+      "rank": 42,
       "win_prob": 86.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

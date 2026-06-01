@@ -1,18 +1,18 @@
 {
   "team": "India",
   "stats": {
-    "matches_played": 594,
+    "matches_played": 595,
     "wins": 215,
     "draws": 124,
-    "losses": 255,
+    "losses": 256,
     "goals_for": 824,
-    "goals_against": 968,
-    "goal_difference": -144,
-    "win_percentage": 36.2,
+    "goals_against": 969,
+    "goal_difference": -145,
+    "win_percentage": 36.1,
     "avg_points": 1.29,
     "best_rank": 46,
     "worst_rank": 181,
-    "avg_rank": 136.41,
+    "avg_rank": 136.46,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Ceylon",
@@ -27,9 +27,9 @@
     },
     "home_matches": 171,
     "away_matches": 161,
-    "neutral_matches": 262,
+    "neutral_matches": 263,
     "first_match_date": "1938-09-03",
-    "last_match_date": "2026-05-27"
+    "last_match_date": "2026-05-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4482,
+      "rating1": 4492,
       "rating2": 4637,
       "rating_ev": 0,
       "rank": 165,
-      "win_prob": 24.6,
+      "win_prob": 25.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4482,
+      "rating1": 4492,
       "rating2": 4637,
       "rating_ev": 0,
       "rank": 165,
-      "win_prob": 24.6,
+      "win_prob": 25.4,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Zimbabwe",
       "flag1": "india.png",
       "flag2": "zimbabwe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4482,
-      "rating2": 4895,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4492,
+      "rating2": 4885,
+      "rating_ev": 10,
       "rank": 165,
       "win_prob": 14.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-27",

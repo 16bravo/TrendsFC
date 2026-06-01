@@ -1,18 +1,18 @@
 {
   "team": "Japan",
   "stats": {
-    "matches_played": 829,
-    "wins": 407,
+    "matches_played": 830,
+    "wins": 408,
     "draws": 168,
     "losses": 254,
-    "goals_for": 1504,
+    "goals_for": 1505,
     "goals_against": 973,
-    "goal_difference": 531,
-    "win_percentage": 49.1,
+    "goal_difference": 532,
+    "win_percentage": 49.2,
     "avg_points": 1.68,
     "best_rank": 10,
     "worst_rank": 122,
-    "avg_rank": 50.76,
+    "avg_rank": 50.71,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Philippines",
@@ -25,11 +25,11 @@
       "date": "1917-05-10",
       "flag": "usa_1912.png"
     },
-    "home_matches": 330,
+    "home_matches": 331,
     "away_matches": 201,
     "neutral_matches": 298,
     "first_match_date": "1917-05-09",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5443,
-      "rating2": 4803,
+      "rating1": 5437,
+      "rating2": 4810,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 93.7,
+      "rank": 13,
+      "win_prob": 93.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5443,
+      "rating1": 5437,
       "rating2": 4741,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 94.9,
+      "rank": 13,
+      "win_prob": 94.8,
       "type": "fixture"
     },
     {
@@ -82,10 +82,10 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5443,
+      "rating1": 5437,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 12,
+      "rank": 13,
       "win_prob": 95.8,
       "type": "fixture"
     },
@@ -101,11 +101,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5443,
+      "rating1": 5437,
       "rating2": 5252,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 69.8,
+      "rank": 13,
+      "win_prob": 69.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5443,
+      "rating1": 5437,
       "rating2": 5129,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 79.7,
+      "rank": 13,
+      "win_prob": 79.3,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5443,
+      "rating1": 5437,
       "rating2": 5538,
       "rating_ev": 0,
-      "rank": 12,
-      "win_prob": 39.7,
+      "rank": 13,
+      "win_prob": 39.1,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Iceland",
       "flag1": "japan.png",
       "flag2": "iceland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5443,
-      "rating2": 5100,
-      "rating_ev": 0,
-      "rank": 12,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5437,
+      "rating2": 5106,
+      "rating_ev": -6,
+      "rank": 13,
       "win_prob": 87.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

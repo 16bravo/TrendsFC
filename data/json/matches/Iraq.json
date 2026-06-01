@@ -1,18 +1,18 @@
 {
   "team": "Iraq",
   "stats": {
-    "matches_played": 753,
-    "wins": 356,
+    "matches_played": 754,
+    "wins": 357,
     "draws": 211,
     "losses": 186,
-    "goals_for": 1192,
+    "goals_for": 1193,
     "goals_against": 699,
-    "goal_difference": 493,
+    "goal_difference": 494,
     "win_percentage": 47.3,
     "avg_points": 1.7,
     "best_rank": 34,
     "worst_rank": 101,
-    "avg_rank": 62.84,
+    "avg_rank": 62.86,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Ethiopia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 138,
     "away_matches": 230,
-    "neutral_matches": 385,
+    "neutral_matches": 386,
     "first_match_date": "1944-03-05",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-29"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
-      "rating2": 4391,
+      "rating1": 4976,
+      "rating2": 4403,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 92.3,
+      "win_prob": 91.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
-      "rating2": 5257,
+      "rating1": 4976,
+      "rating2": 5252,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 22.8,
+      "win_prob": 23.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
+      "rating1": 4976,
       "rating2": 4637,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 81.5,
+      "win_prob": 81.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
-      "rating2": 4986,
+      "rating1": 4976,
+      "rating2": 4992,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 38.4,
+      "win_prob": 37.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
+      "rating1": 4976,
       "rating2": 4737,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 74.2,
+      "win_prob": 74.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
+      "rating1": 4976,
       "rating2": 4873,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 61.3,
+      "win_prob": 61.1,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
-      "rating2": 5322,
+      "rating1": 4976,
+      "rating2": 5315,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 18.3,
+      "win_prob": 18.6,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
+      "rating1": 4976,
       "rating2": 5569,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 7.6,
+      "win_prob": 7.5,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
+      "rating1": 4976,
       "rating2": 5534,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 8.6,
+      "win_prob": 8.5,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
+      "rating1": 4976,
       "rating2": 5211,
       "rating_ev": 0,
       "rank": 77,
-      "win_prob": 26.5,
+      "win_prob": 26.3,
       "type": "fixture"
     },
     {
@@ -234,7 +234,7 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 4978,
+      "rating1": 4976,
       "rating2": 5702,
       "rating_ev": 0,
       "rank": 77,
@@ -251,14 +251,14 @@
       "original_team2": "Andorra",
       "flag1": "iraq.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4978,
-      "rating2": 4682,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4976,
+      "rating2": 4684,
+      "rating_ev": -2,
       "rank": 77,
       "win_prob": 78.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

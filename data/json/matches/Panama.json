@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 596,
+    "matches_played": 597,
     "wins": 199,
     "draws": 145,
-    "losses": 252,
-    "goals_for": 744,
-    "goals_against": 910,
-    "goal_difference": -166,
-    "win_percentage": 33.4,
+    "losses": 253,
+    "goals_for": 746,
+    "goals_against": 916,
+    "goal_difference": -170,
+    "win_percentage": 33.3,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.08,
+    "avg_rank": 85.05,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 202,
-    "away_matches": 230,
+    "away_matches": 231,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5094,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 12.3,
+      "rank": 62,
+      "win_prob": 11.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5094,
       "rating2": 5422,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 20.2,
+      "rank": 62,
+      "win_prob": 19.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5094,
       "rating2": 5045,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 56.7,
+      "rank": 62,
+      "win_prob": 55.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5094,
       "rating2": 4734,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 88.6,
+      "rank": 62,
+      "win_prob": 88.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Brazil",
       "flag1": "panama.png",
       "flag2": "brazil.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5106,
-      "rating2": 5504,
-      "rating_ev": 0,
-      "rank": 60,
+      "score1": 2,
+      "score2": 6,
+      "rating1": 5094,
+      "rating2": 5516,
+      "rating_ev": -12,
+      "rank": 62,
       "win_prob": 10.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

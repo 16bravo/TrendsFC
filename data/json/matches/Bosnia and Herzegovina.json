@@ -1,18 +1,18 @@
 {
   "team": "Bosnia and Herzegovina",
   "stats": {
-    "matches_played": 278,
+    "matches_played": 279,
     "wins": 103,
-    "draws": 64,
+    "draws": 65,
     "losses": 111,
     "goals_for": 387,
     "goals_against": 384,
     "goal_difference": 3,
-    "win_percentage": 37.1,
+    "win_percentage": 36.9,
     "avg_points": 1.34,
     "best_rank": 8,
     "worst_rank": 87,
-    "avg_rank": 49.99,
+    "avg_rank": 50.04,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -25,13 +25,32 @@
       "date": "2024-11-16",
       "flag": "germany.png"
     },
-    "home_matches": 116,
+    "home_matches": 117,
     "away_matches": 136,
     "neutral_matches": 26,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-29"
   },
   "matches": [
+    {
+      "date": "2026-05-29",
+      "country": "Bosnia and Herzegovina",
+      "tournament": "Friendly",
+      "team1": "Bosnia and Herzegovina",
+      "team2": "North Macedonia",
+      "original_team1": "Bosnia and Herzegovina",
+      "original_team2": "North Macedonia",
+      "flag1": "bosnia.png",
+      "flag2": "macedonia.png",
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5090,
+      "rating2": 5027,
+      "rating_ev": -5,
+      "rank": 63,
+      "win_prob": 68.1,
+      "type": "past"
+    },
     {
       "date": "2026-03-31",
       "country": "Bosnia and Herzegovina",

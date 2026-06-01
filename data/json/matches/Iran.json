@@ -1,18 +1,18 @@
 {
   "team": "Iran",
   "stats": {
-    "matches_played": 679,
-    "wins": 386,
+    "matches_played": 680,
+    "wins": 387,
     "draws": 158,
     "losses": 135,
-    "goals_for": 1291,
-    "goals_against": 532,
-    "goal_difference": 759,
-    "win_percentage": 56.8,
+    "goals_for": 1294,
+    "goals_against": 533,
+    "goal_difference": 761,
+    "win_percentage": 56.9,
     "avg_points": 1.94,
     "best_rank": 12,
     "worst_rank": 104,
-    "avg_rank": 42.45,
+    "avg_rank": 42.43,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 225,
     "away_matches": 194,
-    "neutral_matches": 260,
+    "neutral_matches": 261,
     "first_match_date": "1941-08-23",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-29"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
+      "rating1": 5231,
       "rating2": 4926,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 78.6,
+      "rank": 34,
+      "win_prob": 79.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "kyrgyzstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
+      "rating1": 5231,
       "rating2": 4683,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 91.0,
+      "rank": 34,
+      "win_prob": 91.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
+      "rating1": 5231,
       "rating2": 4825,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 84.9,
+      "rank": 34,
+      "win_prob": 85.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
-      "rating2": 5121,
+      "rating1": 5231,
+      "rating2": 5131,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 61.2,
+      "rank": 34,
+      "win_prob": 60.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
+      "rating1": 5231,
       "rating2": 5460,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 26.3,
+      "rank": 34,
+      "win_prob": 26.8,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
+      "rating1": 5231,
       "rating2": 5105,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 62.9,
+      "rank": 34,
+      "win_prob": 63.5,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "puerto_rico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
+      "rating1": 5231,
       "rating2": 4449,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 96.1,
+      "rank": 34,
+      "win_prob": 96.2,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5225,
+      "rating1": 5231,
       "rating2": 5120,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 61.3,
+      "rank": 34,
+      "win_prob": 62.0,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Gambia",
       "flag1": "iran.png",
       "flag2": "gambia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5225,
-      "rating2": 4947,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5231,
+      "rating2": 4941,
+      "rating_ev": 6,
       "rank": 32,
       "win_prob": 77.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

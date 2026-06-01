@@ -1,14 +1,14 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1025,
-    "wins": 530,
+    "matches_played": 1026,
+    "wins": 531,
     "draws": 237,
     "losses": 258,
-    "goals_for": 1818,
+    "goals_for": 1819,
     "goals_against": 1053,
-    "goal_difference": 765,
-    "win_percentage": 51.7,
+    "goal_difference": 766,
+    "win_percentage": 51.8,
     "avg_points": 1.78,
     "best_rank": 2,
     "worst_rank": 41,
@@ -27,9 +27,9 @@
     },
     "home_matches": 297,
     "away_matches": 271,
-    "neutral_matches": 457,
+    "neutral_matches": 458,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2026-05-22"
+    "last_match_date": "2026-05-30"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5309,
-      "rating2": 5219,
+      "rating1": 5314,
+      "rating2": 5223,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 69.7,
+      "win_prob": 69.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5309,
-      "rating2": 5177,
+      "rating1": 5314,
+      "rating2": 5197,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 73.5,
+      "win_prob": 72.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5309,
-      "rating2": 4988,
+      "rating1": 5314,
+      "rating2": 4977,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 86.2,
+      "win_prob": 87.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5309,
-      "rating2": 5216,
+      "rating1": 5314,
+      "rating2": 5189,
       "rating_ev": 0,
       "rank": 24,
-      "win_prob": 70.0,
+      "win_prob": 72.9,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Australia",
       "flag1": "mexico.png",
       "flag2": "australia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5309,
-      "rating2": 5257,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5314,
+      "rating2": 5252,
+      "rating_ev": 5,
       "rank": 24,
       "win_prob": 55.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-22",

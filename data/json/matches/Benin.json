@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Benin",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -47,12 +47,12 @@
       "rating1": 4895,
       "rating2": 5036,
       "rating_ev": 0,
-      "rank": 91,
+      "rank": 90,
       "win_prob": 45.5,
       "type": "fixture"
     },
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -66,12 +66,12 @@
       "rating1": 4895,
       "rating2": 4794,
       "rating_ev": 0,
-      "rank": 91,
+      "rank": 90,
       "win_prob": 50.1,
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Benin",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -85,12 +85,12 @@
       "rating1": 4895,
       "rating2": 4677,
       "rating_ev": 0,
-      "rank": 91,
+      "rank": 90,
       "win_prob": 80.1,
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Central African Republic",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -104,12 +104,12 @@
       "rating1": 4895,
       "rating2": 4677,
       "rating_ev": 0,
-      "rank": 91,
+      "rank": 90,
       "win_prob": 62.6,
       "type": "fixture"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-01",
       "country": "Benin",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -123,12 +123,12 @@
       "rating1": 4895,
       "rating2": 4794,
       "rating_ev": 0,
-      "rank": 91,
+      "rank": 90,
       "win_prob": 70.7,
       "type": "fixture"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-01",
       "country": "Burkina Faso",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -142,7 +142,7 @@
       "rating1": 4895,
       "rating2": 5036,
       "rating_ev": 0,
-      "rank": 91,
+      "rank": 90,
       "win_prob": 25.8,
       "type": "fixture"
     },
@@ -161,27 +161,8 @@
       "rating1": 4895,
       "rating2": 4824,
       "rating_ev": 0,
-      "rank": 91,
+      "rank": 90,
       "win_prob": 57.8,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-05",
-      "country": "Morocco",
-      "tournament": "Friendly",
-      "team1": "Benin",
-      "team2": "Liberia",
-      "original_team1": "Benin",
-      "original_team2": "Liberia",
-      "flag1": "benin.png",
-      "flag2": "liberia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4895,
-      "rating2": 4726,
-      "rating_ev": 0,
-      "rank": 91,
-      "win_prob": 67.7,
       "type": "fixture"
     },
     {

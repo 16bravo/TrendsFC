@@ -1,18 +1,18 @@
 {
   "team": "Singapore",
   "stats": {
-    "matches_played": 758,
-    "wins": 236,
+    "matches_played": 759,
+    "wins": 237,
     "draws": 156,
     "losses": 366,
-    "goals_for": 1011,
+    "goals_for": 1015,
     "goals_against": 1367,
-    "goal_difference": -356,
-    "win_percentage": 31.1,
+    "goal_difference": -352,
+    "win_percentage": 31.2,
     "avg_points": 1.14,
     "best_rank": 80,
     "worst_rank": 180,
-    "avg_rank": 137.86,
+    "avg_rank": 137.9,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Laos",
@@ -25,11 +25,11 @@
       "date": "1969-11-09",
       "flag": "burma_1.png"
     },
-    "home_matches": 313,
+    "home_matches": 314,
     "away_matches": 179,
     "neutral_matches": 266,
     "first_match_date": "1948-05-22",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-05-31"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 4391,
-      "rating2": 4978,
+      "rating1": 4403,
+      "rating2": 4976,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 7.7,
+      "win_prob": 8.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4391,
+      "rating1": 4403,
       "rating2": 4637,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 25.4,
+      "win_prob": 26.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4391,
-      "rating2": 5257,
+      "rating1": 4403,
+      "rating2": 5252,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 2.9,
+      "win_prob": 3.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4391,
+      "rating1": 4403,
       "rating2": 4684,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 30.2,
+      "win_prob": 31.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4391,
+      "rating1": 4403,
       "rating2": 4664,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 16.4,
+      "win_prob": 17.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "cambodia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4391,
+      "rating1": 4403,
       "rating2": 4170,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 62.9,
+      "win_prob": 64.1,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 4391,
+      "rating1": 4403,
       "rating2": 4825,
       "rating_ev": 0,
       "rank": 171,
-      "win_prob": 19.3,
+      "win_prob": 20.1,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Mongolia",
       "flag1": "singapore.png",
       "flag2": "mongolia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4391,
-      "rating2": 3985,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4403,
+      "rating2": 3973,
+      "rating_ev": 12,
       "rank": 171,
       "win_prob": 90.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

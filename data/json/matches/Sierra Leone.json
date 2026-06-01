@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Sierra Leone",
       "tournament": "African Cup qualifier",
       "team1": "Sierra Leone",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-29",
+      "date": "2027-03-01",
       "country": "Zimbabwe",
       "tournament": "African Cup qualifier",
       "team1": "Sierra Leone",
@@ -64,14 +64,14 @@
       "score1": "",
       "score2": "",
       "rating1": 4811,
-      "rating2": 4895,
+      "rating2": 4885,
       "rating_ev": 0,
       "rank": 111,
-      "win_prob": 30.8,
+      "win_prob": 31.8,
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "DR Congo",
       "tournament": "African Cup qualifier",
       "team1": "Sierra Leone",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-11-01",
       "country": "Sierra Leone",
       "tournament": "African Cup qualifier",
       "team1": "Sierra Leone",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-01",
       "country": "Equatorial Guinea",
       "tournament": "African Cup qualifier",
       "team1": "Sierra Leone",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-29",
+      "date": "2026-09-01",
       "country": "Sierra Leone",
       "tournament": "African Cup qualifier",
       "team1": "Sierra Leone",
@@ -140,10 +140,48 @@
       "score1": "",
       "score2": "",
       "rating1": 4811,
-      "rating2": 4895,
+      "rating2": 4885,
       "rating_ev": 0,
       "rank": 111,
-      "win_prob": 51.7,
+      "win_prob": 52.8,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-09",
+      "country": "Liberia",
+      "tournament": "Friendly",
+      "team1": "Sierra Leone",
+      "team2": "Liberia",
+      "original_team1": "Sierra Leone",
+      "original_team2": "Liberia",
+      "flag1": "sierra_leone.png",
+      "flag2": "liberia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4811,
+      "rating2": 4726,
+      "rating_ev": 0,
+      "rank": 111,
+      "win_prob": 48.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-06",
+      "country": "Sierra Leone",
+      "tournament": "Friendly",
+      "team1": "Sierra Leone",
+      "team2": "Liberia",
+      "original_team1": "Sierra Leone",
+      "original_team2": "Liberia",
+      "flag1": "sierra_leone.png",
+      "flag2": "liberia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4811,
+      "rating2": 4726,
+      "rating_ev": 0,
+      "rank": 111,
+      "win_prob": 69.3,
       "type": "fixture"
     },
     {
