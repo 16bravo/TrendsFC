@@ -44,11 +44,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5569,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 22.1,
+      "rank": 17,
+      "win_prob": 23.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5460,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 52.4,
+      "rank": 17,
+      "win_prob": 53.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5379,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 39.5,
+      "rank": 17,
+      "win_prob": 40.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5460,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 31.4,
+      "rank": 17,
+      "win_prob": 32.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5379,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 61.1,
+      "rank": 17,
+      "win_prob": 62.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5569,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 40.6,
+      "rank": 17,
+      "win_prob": 41.9,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5224,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 56.3,
+      "rank": 17,
+      "win_prob": 57.7,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5321,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 56.7,
+      "rank": 17,
+      "win_prob": 58.1,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5252,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 63.9,
+      "rank": 17,
+      "win_prob": 65.2,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5382,
+      "rating1": 5395,
       "rating2": 5211,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 67.9,
+      "rank": 17,
+      "win_prob": 69.2,
       "type": "fixture"
     },
     {
@@ -238,6 +238,7 @@
       "rating2": 5014,
       "rating_ev": 13,
       "rank": 17,
+<<<<<<< HEAD
       "win_prob": 87.9,
       "type": "past"
     },
@@ -257,8 +258,10 @@
       "rating2": 5027,
       "rating_ev": 0,
       "rank": 18,
+=======
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 87.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

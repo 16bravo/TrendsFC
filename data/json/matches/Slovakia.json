@@ -44,11 +44,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4899,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 64.7,
+      "rank": 54,
+      "win_prob": 63.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4926,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 79.7,
+      "rank": 54,
+      "win_prob": 79.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4682,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 82.1,
+      "rank": 54,
+      "win_prob": 81.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4926,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 62.0,
+      "rank": 54,
+      "win_prob": 61.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4899,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 81.5,
+      "rank": 54,
+      "win_prob": 80.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4682,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 91.7,
+      "rank": 54,
+      "win_prob": 91.4,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
-      "rating2": 4907,
+      "rating1": 5129,
+      "rating2": 4918,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 81.0,
+      "rank": 54,
+      "win_prob": 79.6,
       "type": "fixture"
     },
     {
@@ -181,6 +181,7 @@
       "rating2": 4698,
       "rating_ev": -9,
       "rank": 53,
+<<<<<<< HEAD
       "win_prob": 91.5,
       "type": "past"
     },
@@ -200,8 +201,10 @@
       "rating2": 4689,
       "rating_ev": 0,
       "rank": 52,
+=======
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 91.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

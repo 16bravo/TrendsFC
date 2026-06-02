@@ -44,11 +44,11 @@
       "flag2": "israel.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5126,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 74.3,
+      "win_prob": 74.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5173,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 78.6,
+      "win_prob": 78.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "kosovo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5202,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 57.3,
+      "win_prob": 57.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5173,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 60.4,
+      "win_prob": 60.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "kosovo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5202,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 76.3,
+      "win_prob": 76.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "israel.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5126,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 81.8,
+      "win_prob": 81.6,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5241,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 63.7,
+      "win_prob": 63.4,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5598,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 26.8,
+      "win_prob": 26.6,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5369,
+      "rating1": 5366,
       "rating2": 5116,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 75.1,
+      "win_prob": 74.9,
       "type": "fixture"
     },
     {
@@ -216,6 +216,7 @@
       "score1": 1,
       "score2": 0,
       "rating1": 5366,
+<<<<<<< HEAD
       "rating2": 5118,
       "rating_ev": -3,
       "rank": 20,
@@ -237,9 +238,13 @@
       "rating1": 5369,
       "rating2": 5129,
       "rating_ev": 0,
+=======
+      "rating2": 5132,
+      "rating_ev": -3,
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "rank": 20,
       "win_prob": 81.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

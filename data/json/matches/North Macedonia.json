@@ -12,7 +12,11 @@
     "avg_points": 1.19,
     "best_rank": 37,
     "worst_rank": 86,
+<<<<<<< HEAD
     "avg_rank": 62.83,
+=======
+    "avg_rank": 62.82,
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
     "biggest_win": {
       "score": "11-1",
       "opponent": "Liechtenstein",
@@ -44,11 +48,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5014,
       "rating2": 5181,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 44.1,
+      "rank": 71,
+      "win_prob": 42.7,
       "type": "fixture"
     },
     {
@@ -63,11 +67,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5014,
       "rating2": 5285,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 17.3,
+      "rank": 71,
+      "win_prob": 16.5,
       "type": "fixture"
     },
     {
@@ -82,11 +86,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5014,
       "rating2": 5448,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 9.5,
+      "rank": 71,
+      "win_prob": 9.0,
       "type": "fixture"
     },
     {
@@ -101,11 +105,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5014,
       "rating2": 5285,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 33.4,
+      "rank": 71,
+      "win_prob": 32.2,
       "type": "fixture"
     },
     {
@@ -120,11 +124,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5014,
       "rating2": 5181,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 24.7,
+      "rank": 71,
+      "win_prob": 23.7,
       "type": "fixture"
     },
     {
@@ -139,11 +143,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5027,
+      "rating1": 5014,
       "rating2": 5448,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 20.1,
+      "rank": 71,
+      "win_prob": 19.3,
       "type": "fixture"
     },
     {
@@ -161,6 +165,7 @@
       "rating1": 5014,
       "rating2": 5395,
       "rating_ev": -13,
+<<<<<<< HEAD
       "rank": 72,
       "win_prob": 12.1,
       "type": "past"
@@ -181,8 +186,11 @@
       "rating2": 5382,
       "rating_ev": 0,
       "rank": 70,
+=======
+      "rank": 71,
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 12.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-29",

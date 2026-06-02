@@ -44,11 +44,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5510,
+      "rating1": 5505,
       "rating2": 5564,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 44.1,
+      "win_prob": 43.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5510,
+      "rating1": 5505,
       "rating2": 5081,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 86.4,
+      "win_prob": 86.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5510,
+      "rating1": 5505,
       "rating2": 5121,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 84.3,
+      "win_prob": 84.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5510,
+      "rating1": 5505,
       "rating2": 5116,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 84.6,
+      "win_prob": 84.3,
       "type": "fixture"
     },
     {
@@ -123,6 +123,7 @@
       "rating1": 5505,
       "rating2": 4979,
       "rating_ev": -5,
+<<<<<<< HEAD
       "rank": 10,
       "win_prob": 93.8,
       "type": "past"
@@ -142,9 +143,11 @@
       "rating1": 5510,
       "rating2": 4974,
       "rating_ev": 0,
+=======
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "rank": 10,
       "win_prob": 93.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-29",

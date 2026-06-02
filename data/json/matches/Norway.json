@@ -44,11 +44,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5423,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 51.2,
+      "win_prob": 51.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5201,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 86.8,
+      "win_prob": 87.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5564,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 36.1,
+      "win_prob": 36.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5201,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 73.3,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5564,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 57.6,
+      "win_prob": 57.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5423,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 71.6,
+      "win_prob": 71.9,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5569,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 46.2,
+      "win_prob": 46.5,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5315,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 72.3,
+      "win_prob": 72.6,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 4976,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 91.5,
+      "win_prob": 91.6,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5534,
+      "rating1": 5537,
       "rating2": 5293,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 74.2,
+      "win_prob": 74.4,
       "type": "fixture"
     },
     {
@@ -237,6 +237,7 @@
       "rating1": 5537,
       "rating2": 5249,
       "rating_ev": 3,
+<<<<<<< HEAD
       "rank": 8,
       "win_prob": 84.2,
       "type": "past"
@@ -256,9 +257,11 @@
       "rating1": 5534,
       "rating2": 5252,
       "rating_ev": 0,
+=======
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "rank": 8,
       "win_prob": 84.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

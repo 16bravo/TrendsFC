@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4445,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 65.2,
+      "rank": 136,
+      "win_prob": 66.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 61.3,
+      "rank": 136,
+      "win_prob": 62.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4445,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 81.8,
+      "rank": 136,
+      "win_prob": 82.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 39.7,
+      "rank": 136,
+      "win_prob": 40.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 37.0,
+      "rank": 136,
+      "win_prob": 37.9,
       "type": "fixture"
     },
     {
@@ -143,6 +143,7 @@
       "rating2": 5129,
       "rating_ev": 9,
       "rank": 136,
+<<<<<<< HEAD
       "win_prob": 8.5,
       "type": "past"
     },
@@ -162,8 +163,10 @@
       "rating2": 5138,
       "rating_ev": 0,
       "rank": 137,
+=======
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 8.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

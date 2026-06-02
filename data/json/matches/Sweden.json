@@ -44,11 +44,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5249,
       "rating2": 5206,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 44.1,
+      "rank": 30,
+      "win_prob": 43.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5249,
       "rating2": 5149,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 50.4,
+      "rank": 30,
+      "win_prob": 50.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5249,
       "rating2": 5206,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 65.5,
+      "rank": 30,
+      "win_prob": 65.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5249,
       "rating2": 5149,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 70.9,
+      "rank": 30,
+      "win_prob": 70.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5249,
       "rating2": 5437,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 30.8,
+      "rank": 30,
+      "win_prob": 30.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5249,
       "rating2": 5538,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 22.3,
+      "rank": 30,
+      "win_prob": 22.1,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
-      "rating2": 5129,
+      "rating1": 5249,
+      "rating2": 5132,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 63.2,
+      "rank": 30,
+      "win_prob": 62.6,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5249,
       "rating2": 5300,
       "rating_ev": 0,
-      "rank": 28,
-      "win_prob": 55.7,
+      "rank": 30,
+      "win_prob": 55.3,
       "type": "fixture"
     },
     {
@@ -199,6 +199,7 @@
       "rating1": 5249,
       "rating2": 5537,
       "rating_ev": -3,
+<<<<<<< HEAD
       "rank": 29,
       "win_prob": 15.8,
       "type": "past"
@@ -219,8 +220,11 @@
       "rating2": 5534,
       "rating_ev": 0,
       "rank": 28,
+=======
+      "rank": 30,
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 15.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 4974,
+      "rating1": 4979,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 78,
-      "win_prob": 7.6,
+      "rank": 76,
+      "win_prob": 7.8,
       "type": "fixture"
     },
     {
@@ -67,6 +67,7 @@
       "rating2": 5505,
       "rating_ev": 5,
       "rank": 76,
+<<<<<<< HEAD
       "win_prob": 6.2,
       "type": "past"
     },
@@ -86,8 +87,10 @@
       "rating2": 5510,
       "rating_ev": 0,
       "rank": 78,
+=======
+>>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 6.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",
