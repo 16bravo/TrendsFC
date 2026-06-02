@@ -159,10 +159,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5366,
-      "rating2": 5241,
+      "rating2": 5244,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 63.4,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -197,10 +197,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5366,
-      "rating2": 5116,
+      "rating2": 5117,
       "rating_ev": 0,
       "rank": 20,
-      "win_prob": 74.9,
+      "win_prob": 74.8,
       "type": "fixture"
     },
     {
@@ -216,34 +216,10 @@
       "score1": 1,
       "score2": 0,
       "rating1": 5366,
-<<<<<<< HEAD
       "rating2": 5118,
       "rating_ev": -3,
       "rank": 20,
       "win_prob": 82.5,
-      "type": "past"
-    },
-    {
-      "date": "2026-06-01",
-      "country": "Austria",
-      "tournament": "Friendly",
-      "team1": "Austria",
-      "team2": "Tunisia",
-      "original_team1": "Austria",
-      "original_team2": "Tunisia",
-      "flag1": "austria.png",
-      "flag2": "tunisia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5369,
-      "rating2": 5129,
-      "rating_ev": 0,
-=======
-      "rating2": 5132,
-      "rating_ev": -3,
->>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
-      "rank": 20,
-      "win_prob": 81.6,
       "type": "past"
     },
     {

@@ -159,10 +159,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5395,
-      "rating2": 5224,
+      "rating2": 5225,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 57.7,
+      "win_prob": 57.6,
       "type": "fixture"
     },
     {
@@ -238,28 +238,6 @@
       "rating2": 5014,
       "rating_ev": 13,
       "rank": 17,
-<<<<<<< HEAD
-      "win_prob": 87.9,
-      "type": "past"
-    },
-    {
-      "date": "2026-06-01",
-      "country": "Turkey",
-      "tournament": "Friendly",
-      "team1": "Turkey",
-      "team2": "North Macedonia",
-      "original_team1": "Turkey",
-      "original_team2": "North Macedonia",
-      "flag1": "turkey.png",
-      "flag2": "macedonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5382,
-      "rating2": 5027,
-      "rating_ev": 0,
-      "rank": 18,
-=======
->>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 87.9,
       "type": "past"
     },

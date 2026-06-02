@@ -47,7 +47,7 @@
       "rating1": 5249,
       "rating2": 5206,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 29,
       "win_prob": 43.8,
       "type": "fixture"
     },
@@ -66,7 +66,7 @@
       "rating1": 5249,
       "rating2": 5149,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 29,
       "win_prob": 50.0,
       "type": "fixture"
     },
@@ -85,7 +85,7 @@
       "rating1": 5249,
       "rating2": 5206,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 29,
       "win_prob": 65.2,
       "type": "fixture"
     },
@@ -104,7 +104,7 @@
       "rating1": 5249,
       "rating2": 5149,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 29,
       "win_prob": 70.7,
       "type": "fixture"
     },
@@ -123,7 +123,7 @@
       "rating1": 5249,
       "rating2": 5437,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 29,
       "win_prob": 30.5,
       "type": "fixture"
     },
@@ -142,7 +142,7 @@
       "rating1": 5249,
       "rating2": 5538,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 29,
       "win_prob": 22.1,
       "type": "fixture"
     },
@@ -159,10 +159,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5249,
-      "rating2": 5132,
+      "rating2": 5118,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 62.6,
+      "rank": 29,
+      "win_prob": 64.0,
       "type": "fixture"
     },
     {
@@ -180,7 +180,7 @@
       "rating1": 5249,
       "rating2": 5300,
       "rating_ev": 0,
-      "rank": 30,
+      "rank": 29,
       "win_prob": 55.3,
       "type": "fixture"
     },
@@ -199,30 +199,7 @@
       "rating1": 5249,
       "rating2": 5537,
       "rating_ev": -3,
-<<<<<<< HEAD
       "rank": 29,
-      "win_prob": 15.8,
-      "type": "past"
-    },
-    {
-      "date": "2026-06-01",
-      "country": "Norway",
-      "tournament": "Friendly",
-      "team1": "Sweden",
-      "team2": "Norway",
-      "original_team1": "Sweden",
-      "original_team2": "Norway",
-      "flag1": "sweden.png",
-      "flag2": "norway.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5252,
-      "rating2": 5534,
-      "rating_ev": 0,
-      "rank": 28,
-=======
-      "rank": 30,
->>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 15.8,
       "type": "past"
     },

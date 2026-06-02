@@ -178,10 +178,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5537,
-      "rating2": 5315,
+      "rating2": 5328,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 72.6,
+      "win_prob": 71.4,
       "type": "fixture"
     },
     {
@@ -216,10 +216,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5537,
-      "rating2": 5293,
+      "rating2": 5296,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 74.4,
+      "win_prob": 74.2,
       "type": "fixture"
     },
     {
@@ -237,28 +237,6 @@
       "rating1": 5537,
       "rating2": 5249,
       "rating_ev": 3,
-<<<<<<< HEAD
-      "rank": 8,
-      "win_prob": 84.2,
-      "type": "past"
-    },
-    {
-      "date": "2026-06-01",
-      "country": "Norway",
-      "tournament": "Friendly",
-      "team1": "Norway",
-      "team2": "Sweden",
-      "original_team1": "Norway",
-      "original_team2": "Sweden",
-      "flag1": "norway.png",
-      "flag2": "sweden.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5534,
-      "rating2": 5252,
-      "rating_ev": 0,
-=======
->>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "rank": 8,
       "win_prob": 84.2,
       "type": "past"

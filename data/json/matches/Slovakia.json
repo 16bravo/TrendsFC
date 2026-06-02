@@ -47,7 +47,7 @@
       "rating1": 5129,
       "rating2": 4899,
       "rating_ev": 0,
-      "rank": 54,
+      "rank": 53,
       "win_prob": 63.8,
       "type": "fixture"
     },
@@ -66,7 +66,7 @@
       "rating1": 5129,
       "rating2": 4926,
       "rating_ev": 0,
-      "rank": 54,
+      "rank": 53,
       "win_prob": 79.1,
       "type": "fixture"
     },
@@ -85,7 +85,7 @@
       "rating1": 5129,
       "rating2": 4682,
       "rating_ev": 0,
-      "rank": 54,
+      "rank": 53,
       "win_prob": 81.6,
       "type": "fixture"
     },
@@ -104,7 +104,7 @@
       "rating1": 5129,
       "rating2": 4926,
       "rating_ev": 0,
-      "rank": 54,
+      "rank": 53,
       "win_prob": 61.1,
       "type": "fixture"
     },
@@ -123,7 +123,7 @@
       "rating1": 5129,
       "rating2": 4899,
       "rating_ev": 0,
-      "rank": 54,
+      "rank": 53,
       "win_prob": 80.9,
       "type": "fixture"
     },
@@ -142,7 +142,7 @@
       "rating1": 5129,
       "rating2": 4682,
       "rating_ev": 0,
-      "rank": 54,
+      "rank": 53,
       "win_prob": 91.4,
       "type": "fixture"
     },
@@ -161,7 +161,7 @@
       "rating1": 5129,
       "rating2": 4918,
       "rating_ev": 0,
-      "rank": 54,
+      "rank": 53,
       "win_prob": 79.6,
       "type": "fixture"
     },
@@ -181,28 +181,6 @@
       "rating2": 4698,
       "rating_ev": -9,
       "rank": 53,
-<<<<<<< HEAD
-      "win_prob": 91.5,
-      "type": "past"
-    },
-    {
-      "date": "2026-06-01",
-      "country": "Slovakia",
-      "tournament": "Friendly",
-      "team1": "Slovakia",
-      "team2": "Malta",
-      "original_team1": "Slovakia",
-      "original_team2": "Malta",
-      "flag1": "slovakia.png",
-      "flag2": "malta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5138,
-      "rating2": 4689,
-      "rating_ev": 0,
-      "rank": 52,
-=======
->>>>>>> f47f36ff174a01a045c8ea03c9f9eae3214668e2
       "win_prob": 91.5,
       "type": "past"
     },
