@@ -1,18 +1,18 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 787,
+    "matches_played": 788,
     "wins": 355,
     "draws": 191,
-    "losses": 241,
-    "goals_for": 1364,
-    "goals_against": 917,
-    "goal_difference": 447,
+    "losses": 242,
+    "goals_for": 1365,
+    "goals_against": 920,
+    "goal_difference": 445,
     "win_percentage": 45.1,
-    "avg_points": 1.6,
+    "avg_points": 1.59,
     "best_rank": 8,
     "worst_rank": 79,
-    "avg_rank": 47.06,
+    "avg_rank": 47.1,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 259,
-    "away_matches": 277,
+    "away_matches": 278,
     "neutral_matches": 251,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 4974,
+      "rating1": 4979,
       "rating2": 5562,
       "rating_ev": 0,
-      "rank": 78,
-      "win_prob": 7.6,
+      "rank": 76,
+      "win_prob": 7.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Colombia",
       "flag1": "costa_rica.png",
       "flag2": "colombia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4974,
-      "rating2": 5510,
-      "rating_ev": 0,
-      "rank": 78,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4979,
+      "rating2": 5505,
+      "rating_ev": 5,
+      "rank": 76,
       "win_prob": 6.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

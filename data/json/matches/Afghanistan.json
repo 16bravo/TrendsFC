@@ -1,18 +1,18 @@
 {
   "team": "Afghanistan",
   "stats": {
-    "matches_played": 164,
-    "wins": 36,
+    "matches_played": 165,
+    "wins": 37,
     "draws": 39,
     "losses": 89,
-    "goals_for": 152,
+    "goals_for": 153,
     "goals_against": 336,
-    "goal_difference": -184,
-    "win_percentage": 22.0,
-    "avg_points": 0.9,
+    "goal_difference": -183,
+    "win_percentage": 22.4,
+    "avg_points": 0.91,
     "best_rank": 86,
     "worst_rank": 200,
-    "avg_rank": 175.71,
+    "avg_rank": 175.72,
     "biggest_win": {
       "score": "8-1",
       "opponent": "Bhutan",
@@ -26,10 +26,10 @@
       "flag": "turkmenistan.png"
     },
     "home_matches": 9,
-    "away_matches": 64,
+    "away_matches": 65,
     "neutral_matches": 91,
     "first_match_date": "1941-08-24",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4289,
+      "rating1": 4300,
       "rating2": 4048,
       "rating_ev": 0,
       "rank": 177,
-      "win_prob": 74.2,
+      "win_prob": 75.1,
       "type": "fixture"
     },
     {
       "date": "2026-06-01",
       "country": "Maldives",
-      "tournament": "Diamond Jubilee T",
+      "tournament": "Diamond Jubilee Tournament",
       "team1": "Afghanistan",
       "team2": "Maldives",
       "original_team1": "Afghanistan",
       "original_team2": "Maldives",
       "flag1": "afghanistan.png",
       "flag2": "maldives.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4289,
-      "rating2": 4140,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4300,
+      "rating2": 4129,
+      "rating_ev": 11,
       "rank": 177,
       "win_prob": 55.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

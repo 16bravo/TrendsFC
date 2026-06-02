@@ -1,18 +1,18 @@
 {
   "team": "Slovakia",
   "stats": {
-    "matches_played": 371,
-    "wins": 151,
+    "matches_played": 372,
+    "wins": 152,
     "draws": 86,
     "losses": 134,
-    "goals_for": 524,
-    "goals_against": 467,
-    "goal_difference": 57,
-    "win_percentage": 40.7,
-    "avg_points": 1.45,
+    "goals_for": 526,
+    "goals_against": 468,
+    "goal_difference": 58,
+    "win_percentage": 40.9,
+    "avg_points": 1.46,
     "best_rank": 17,
     "worst_rank": 65,
-    "avg_rank": 39.77,
+    "avg_rank": 39.8,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1995-06-22",
       "flag": "argentina.png"
     },
-    "home_matches": 156,
+    "home_matches": 157,
     "away_matches": 171,
     "neutral_matches": 44,
     "first_match_date": "1939-08-27",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4899,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 64.7,
+      "rank": 54,
+      "win_prob": 63.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4926,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 79.7,
+      "rank": 54,
+      "win_prob": 79.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4682,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 82.1,
+      "rank": 54,
+      "win_prob": 81.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4926,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 62.0,
+      "rank": 54,
+      "win_prob": 61.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4899,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 81.5,
+      "rank": 54,
+      "win_prob": 80.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
+      "rating1": 5129,
       "rating2": 4682,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 91.7,
+      "rank": 54,
+      "win_prob": 91.4,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 5138,
-      "rating2": 4907,
+      "rating1": 5129,
+      "rating2": 4918,
       "rating_ev": 0,
-      "rank": 52,
-      "win_prob": 81.0,
+      "rank": 54,
+      "win_prob": 79.6,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Malta",
       "flag1": "slovakia.png",
       "flag2": "malta.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5138,
-      "rating2": 4689,
-      "rating_ev": 0,
-      "rank": 52,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5129,
+      "rating2": 4698,
+      "rating_ev": -9,
+      "rank": 53,
       "win_prob": 91.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

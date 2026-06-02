@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 454,
+    "matches_played": 455,
     "wins": 64,
     "draws": 77,
-    "losses": 313,
-    "goals_for": 291,
-    "goals_against": 1018,
-    "goal_difference": -727,
+    "losses": 314,
+    "goals_for": 292,
+    "goals_against": 1020,
+    "goal_difference": -728,
     "win_percentage": 14.1,
     "avg_points": 0.59,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.69,
+    "avg_rank": 112.74,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "spain.png"
     },
     "home_matches": 246,
-    "away_matches": 182,
+    "away_matches": 183,
     "neutral_matches": 26,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4445,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 65.2,
+      "rank": 136,
+      "win_prob": 66.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 61.3,
+      "rank": 136,
+      "win_prob": 62.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4445,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 81.8,
+      "rank": 136,
+      "win_prob": 82.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 39.7,
+      "rank": 136,
+      "win_prob": 40.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4689,
+      "rating1": 4698,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 137,
-      "win_prob": 37.0,
+      "rank": 136,
+      "win_prob": 37.9,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Slovakia",
       "flag1": "malta.png",
       "flag2": "slovakia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4689,
-      "rating2": 5138,
-      "rating_ev": 0,
-      "rank": 137,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 4698,
+      "rating2": 5129,
+      "rating_ev": 9,
+      "rank": 136,
       "win_prob": 8.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",
