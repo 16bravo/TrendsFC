@@ -2520,7 +2520,7 @@
       "ranking_def": 139,
       "ranking_change": -1,
       "points_change": 0,
-      "ranking_off_change": 2,
+      "ranking_off_change": 3,
       "points_off_change": 0,
       "ranking_def_change": -1,
       "points_def_change": 0
@@ -2601,7 +2601,7 @@
       "ranking": 153,
       "flag": "nl_antilles_1.png",
       "team": "Netherlands Antilles",
-      "reference_team": "Cura\u00e7ao",
+      "reference_team": "Curaçao",
       "points": 4399,
       "points_off": 4731,
       "points_def": 4416,
@@ -2672,8 +2672,8 @@
     {
       "ranking": 157,
       "flag": "sao_tome.png",
-      "team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "reference_team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "team": "São Tomé and Príncipe",
+      "reference_team": "São Tomé and Príncipe",
       "points": 4339,
       "points_off": 4678,
       "points_def": 4326,
@@ -2808,7 +2808,7 @@
       "ranking_def": 164,
       "ranking_change": -1,
       "points_change": 0,
-      "ranking_off_change": 3,
+      "ranking_off_change": 4,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
@@ -2844,7 +2844,7 @@
       "ranking_def": 172,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 2,
+      "ranking_off_change": 3,
       "points_off_change": 0,
       "ranking_def_change": -1,
       "points_def_change": 0
@@ -2897,11 +2897,11 @@
       "ranking_off": 168,
       "ranking_def": 170,
       "ranking_change": -1,
-      "points_change": -17,
-      "ranking_off_change": 2,
-      "points_off_change": 4,
+      "points_change": 0,
+      "ranking_off_change": -1,
+      "points_off_change": -7,
       "ranking_def_change": -1,
-      "points_def_change": -22
+      "points_def_change": -3
     },
     {
       "ranking": 170,

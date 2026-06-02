@@ -24,14 +24,12 @@
   <div class="container mt-5">
     <h1 class="mb-4">Ranking</h1>
 
-    <div class="form-row align-items-end mb-3">
-      <div class="col-md-6 col-12">
-        <label for="yearSelect" id="yearLabel">Year:</label>
-        <select id="yearSelect" class="form-control"></select>
-      </div>
-      <div class="col-md-6 col-12">
-        <label for="monthSelect" id="monthLabel">Month:</label>
-        <select id="monthSelect" class="form-control"></select>
+    <div class="mb-3">
+      <div class="d-flex align-items-center justify-content-center flex-wrap">
+        <button id="prevBtn" class="btn btn-outline-primary btn-sm mr-2">← Prev</button>
+        <span id="dateDisplay" class="mx-3" style="font-size:1.1em; font-weight:bold; min-width:120px; text-align:center;">May 2026</span>
+        <button id="nextBtn" class="btn btn-outline-primary btn-sm mr-2">Next →</button>
+        <button id="latestBtn" class="btn btn-outline-success btn-sm">Latest</button>
       </div>
     </div>
 

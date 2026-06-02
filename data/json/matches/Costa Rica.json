@@ -1,18 +1,18 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 787,
+    "matches_played": 788,
     "wins": 355,
     "draws": 191,
-    "losses": 241,
-    "goals_for": 1364,
-    "goals_against": 917,
-    "goal_difference": 447,
+    "losses": 242,
+    "goals_for": 1365,
+    "goals_against": 920,
+    "goal_difference": 445,
     "win_percentage": 45.1,
-    "avg_points": 1.6,
+    "avg_points": 1.59,
     "best_rank": 8,
     "worst_rank": 79,
-    "avg_rank": 47.06,
+    "avg_rank": 47.1,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 259,
-    "away_matches": 277,
+    "away_matches": 278,
     "neutral_matches": 251,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -50,6 +50,25 @@
       "rank": 78,
       "win_prob": 7.6,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-01",
+      "country": "Colombia",
+      "tournament": "Friendly",
+      "team1": "Costa Rica",
+      "team2": "Colombia",
+      "original_team1": "Costa Rica",
+      "original_team2": "Colombia",
+      "flag1": "costa_rica.png",
+      "flag2": "colombia.png",
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4979,
+      "rating2": 5505,
+      "rating_ev": 5,
+      "rank": 76,
+      "win_prob": 6.2,
+      "type": "past"
     },
     {
       "date": "2026-06-01",
@@ -83,10 +102,10 @@
       "score1": 0,
       "score2": 5,
       "rating1": 4974,
-      "rating2": 5225,
+      "rating2": 5226,
       "rating_ev": -56,
       "rank": 78,
-      "win_prob": 35.2,
+      "win_prob": 35.1,
       "type": "past"
     },
     {
@@ -102,10 +121,10 @@
       "score1": 0,
       "score2": 5,
       "rating1": 5024,
-      "rating2": 5182,
+      "rating2": 5183,
       "rating_ev": -63,
       "rank": 70,
-      "win_prob": 46.5,
+      "win_prob": 46.4,
       "type": "past"
     },
     {
@@ -121,10 +140,10 @@
       "score1": 2,
       "score2": 2,
       "rating1": 5030,
-      "rating2": 5119,
+      "rating2": 5120,
       "rating_ev": 6,
       "rank": 70,
-      "win_prob": 39.1,
+      "win_prob": 39.0,
       "type": "past"
     },
     {
@@ -142,7 +161,7 @@
       "rating1": 5087,
       "rating2": 5121,
       "rating_ev": 2,
-      "rank": 62,
+      "rank": 63,
       "win_prob": 45.8,
       "type": "past"
     },

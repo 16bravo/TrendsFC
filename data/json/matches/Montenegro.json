@@ -1,18 +1,18 @@
 {
   "team": "Montenegro",
   "stats": {
-    "matches_played": 166,
-    "wins": 56,
+    "matches_played": 167,
+    "wins": 57,
     "draws": 41,
     "losses": 69,
-    "goals_for": 196,
+    "goals_for": 197,
     "goals_against": 224,
-    "goal_difference": -28,
-    "win_percentage": 33.7,
-    "avg_points": 1.26,
+    "goal_difference": -27,
+    "win_percentage": 34.1,
+    "avg_points": 1.27,
     "best_rank": 40,
     "worst_rank": 89,
-    "avg_rank": 59.66,
+    "avg_rank": 59.83,
     "biggest_win": {
       "score": "6-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 87,
-    "away_matches": 74,
+    "away_matches": 75,
     "neutral_matches": 5,
     "first_match_date": "2007-03-24",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -164,6 +164,25 @@
       "rank": 87,
       "win_prob": 19.0,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-01",
+      "country": "Bulgaria",
+      "tournament": "Friendly",
+      "team1": "Montenegro",
+      "team2": "Bulgaria",
+      "original_team1": "Montenegro",
+      "original_team2": "Bulgaria",
+      "flag1": "montenegro.png",
+      "flag2": "bulgaria.png",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4918,
+      "rating2": 4938,
+      "rating_ev": 11,
+      "rank": 87,
+      "win_prob": 34.9,
+      "type": "past"
     },
     {
       "date": "2026-06-01",

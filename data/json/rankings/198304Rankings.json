@@ -848,7 +848,7 @@
       "points_change": 39,
       "ranking_off_change": 1,
       "points_off_change": 18,
-      "ranking_def_change": 12,
+      "ranking_def_change": 11,
       "points_def_change": 33
     },
     {
@@ -1118,7 +1118,7 @@
       "points_change": 8,
       "ranking_off_change": 2,
       "points_off_change": 14,
-      "ranking_def_change": 5,
+      "ranking_def_change": 4,
       "points_def_change": 17
     },
     {
@@ -1370,7 +1370,7 @@
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -2,
+      "ranking_def_change": -3,
       "points_def_change": 0
     },
     {
@@ -1442,7 +1442,7 @@
       "points_change": 36,
       "ranking_off_change": 4,
       "points_off_change": 15,
-      "ranking_def_change": 12,
+      "ranking_def_change": 11,
       "points_def_change": 33
     },
     {
@@ -1478,7 +1478,7 @@
       "points_change": 0,
       "ranking_off_change": -1,
       "points_off_change": 0,
-      "ranking_def_change": -1,
+      "ranking_def_change": -2,
       "points_def_change": 0
     },
     {
@@ -1496,7 +1496,7 @@
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -2,
+      "ranking_def_change": -3,
       "points_def_change": 0
     },
     {
@@ -1636,12 +1636,12 @@
       "confederation": "CAF",
       "ranking_off": 130,
       "ranking_def": 74,
-      "ranking_change": 7,
-      "points_change": 46,
-      "ranking_off_change": 5,
-      "points_off_change": 16,
-      "ranking_def_change": 8,
-      "points_def_change": 21
+      "ranking_change": 8,
+      "points_change": 60,
+      "ranking_off_change": 8,
+      "points_off_change": 29,
+      "ranking_def_change": 14,
+      "points_def_change": 39
     },
     {
       "ranking": 97,
@@ -1798,7 +1798,7 @@
       "confederation": "CAF",
       "ranking_off": 123,
       "ranking_def": 92,
-      "ranking_change": -1,
+      "ranking_change": -2,
       "points_change": 0,
       "ranking_off_change": 1,
       "points_off_change": 0,
@@ -2052,7 +2052,7 @@
       "ranking_def": 98,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 0,
+      "ranking_off_change": -1,
       "points_off_change": 0,
       "ranking_def_change": 1,
       "points_def_change": 0
@@ -2268,7 +2268,7 @@
       "ranking_def": 138,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
@@ -2358,7 +2358,7 @@
       "ranking_def": 132,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 1,
       "points_def_change": 0
@@ -2529,7 +2529,7 @@
       "ranking": 149,
       "flag": "nl_antilles_1.png",
       "team": "Netherlands Antilles",
-      "reference_team": "Cura\u00e7ao",
+      "reference_team": "Curaçao",
       "points": 4507,
       "points_off": 4699,
       "points_def": 4570,
@@ -2726,8 +2726,8 @@
     {
       "ranking": 160,
       "flag": "sao_tome.png",
-      "team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "reference_team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "team": "São Tomé and Príncipe",
+      "reference_team": "São Tomé and Príncipe",
       "points": 4339,
       "points_off": 4678,
       "points_def": 4326,

@@ -1,18 +1,18 @@
 {
   "team": "Turkey",
   "stats": {
-    "matches_played": 661,
-    "wins": 261,
+    "matches_played": 662,
+    "wins": 262,
     "draws": 154,
     "losses": 246,
-    "goals_for": 929,
+    "goals_for": 933,
     "goals_against": 956,
-    "goal_difference": -27,
-    "win_percentage": 39.5,
+    "goal_difference": -23,
+    "win_percentage": 39.6,
     "avg_points": 1.42,
     "best_rank": 10,
     "worst_rank": 63,
-    "avg_rank": 32.37,
+    "avg_rank": 32.35,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Syria",
@@ -25,11 +25,11 @@
       "date": "1968-04-24",
       "flag": "poland.png"
     },
-    "home_matches": 287,
+    "home_matches": 288,
     "away_matches": 296,
     "neutral_matches": 78,
     "first_match_date": "1923-10-26",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -221,6 +221,25 @@
       "rank": 18,
       "win_prob": 67.9,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-01",
+      "country": "Turkey",
+      "tournament": "Friendly",
+      "team1": "Turkey",
+      "team2": "North Macedonia",
+      "original_team1": "Turkey",
+      "original_team2": "North Macedonia",
+      "flag1": "turkey.png",
+      "flag2": "macedonia.png",
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5395,
+      "rating2": 5014,
+      "rating_ev": 13,
+      "rank": 17,
+      "win_prob": 87.9,
+      "type": "past"
     },
     {
       "date": "2026-06-01",

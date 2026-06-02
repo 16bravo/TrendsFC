@@ -1,38 +1,19 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const yearSelect = document.getElementById('yearSelect');
-    const monthSelect = document.getElementById('monthSelect');
     const currentYear = new Date().getFullYear();
     const currentMonth = (new Date().getMonth() + 1).toString().padStart(2, '0');
 
-    // Add an option for the current year (Latest)
-    const latestOption = document.createElement('option');
-    latestOption.value = 'latest';
-    latestOption.textContent = 'Latest';
-    yearSelect.appendChild(latestOption);
+    // État de navigation
+    let selectedYear = currentYear;
+    let selectedMonth = currentMonth;
+    let isLatestMode = true;
 
-    // Add options for years from 1872 to current year
-    for (let year = currentYear; year >= 1872; year--) {
-        const option = document.createElement('option');
-        option.value = year.toString();
-        option.textContent = year.toString();
-        yearSelect.appendChild(option);
-    }
-    yearSelect.value = currentYear;
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
-    // Generate month list
-    const months = [
-        { value: '01', name: 'January' }, { value: '02', name: 'February' }, { value: '03', name: 'March' },
-        { value: '04', name: 'April' }, { value: '05', name: 'May' }, { value: '06', name: 'June' },
-        { value: '07', name: 'July' }, { value: '08', name: 'August' }, { value: '09', name: 'September' },
-        { value: '10', name: 'October' }, { value: '11', name: 'November' }, { value: '12', name: 'December' }
-    ];
-    months.forEach(m => {
-        const opt = document.createElement('option');
-        opt.value = m.value;
-        opt.textContent = m.name;
-        monthSelect.appendChild(opt);
-    });
-    monthSelect.value = currentMonth;
+    // Éléments DOM
+    const dateDisplay = document.getElementById('dateDisplay');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const latestBtn = document.getElementById('latestBtn');
 
     // Default JSON file path
     let jsonFilePath = 'data/json/rankings/LatestRankings.json';
@@ -47,133 +28,95 @@ document.addEventListener('DOMContentLoaded', function () {
     // Reference to table body
     const tableBody = document.getElementById('table-body');
 
-    // Initial JSON loading
-    loadJSON(jsonFilePath).then(jsonData => {
-       // console.log('Year Ranking Data:', jsonData)
-       // console.log(jsonData.year);
-       // console.log(jsonData.latest_date[0]);
+    // Mettre à jour l'affichage et charger les données
+    async function updateRankings() {
+        if (isLatestMode) {
+            jsonFilePath = 'data/json/rankings/LatestRankings.json';
+            dateDisplay.textContent = 'Latest';
+        } else {
+            const monthName = monthNames[parseInt(selectedMonth) - 1];
+            dateDisplay.textContent = monthName + ' ' + selectedYear;
+            jsonFilePath = 'data/json/rankings/' + selectedYear + selectedMonth + 'Rankings.json';
+        }
 
-       latestDateSpan = document.getElementById('latestDate');
-       latestDateSpan.textContent = jsonData.latest_date[0];
+        // Vider et recharger la table
+        $('#myTable').DataTable().clear().draw();
 
-       const rankingArray = jsonData.rankings || [];
-        // Loops through JSON data and constructs array rows
-        rankingArray.forEach(item => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-            <td>${item.ranking}</td>
-            <td class="d-none d-md-table-cell" data-toggle="tooltip" title="${item.ranking_change >= 0 ? '+' : ''}${item.ranking_change}">
-                ${item.ranking_change !== 0 ? `<i class="${item.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${item.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color:gray"></i>'}
-            </td>
-            <td style="width:32px;"><img src="img/flags/${item.flag}" alt="${item.team}" class="flag-mini"></td>
-            <td><a href="matches.html?team=${item.reference_team.replace(/&/g, "%26")}">${item.team}</a></td>
-            <td>${item.points}</td>
-            <td class="d-none d-lg-table-cell">${item.points_change}</td>
-            <td class="d-none d-md-table-cell">${item.confederation}</td>
-            `;
-            tableBody.appendChild(row);
-        });
+        try {
+            const jsonData = await loadJSON(jsonFilePath);
+            const latestDateSpan = document.getElementById('latestDate');
+            latestDateSpan.textContent = jsonData.latest_date[0];
 
-        // Activate DataTables on the array with Select
-        const dataTable = $('#myTable').DataTable({
-            paging: false // Deactivate page
-            //select: true  // Activate Select functionality
-        });
-
-        // Add an event manager to change the year
-        yearSelect.addEventListener('change', function () {
-            const selectedYear = this.value;
-            if (selectedYear === 'latest') {
-                jsonFilePath = 'data/json/rankings/LatestRankings.json';
-            } else {
-                jsonFilePath = `data/json/rankings/${selectedYear}01Rankings.json`;
-            };
-            console.log(selectedYear+selectedMonth);
-
-            // Empty existing table
-            dataTable.clear().draw();
-
-            // Load the new JSON and update the table
-            loadJSON(jsonFilePath).then(newJsonData => {
-                // console.log(newJsonData.year);
-                // console.log(newJsonData.latest_date[0]);
-
-                latestDateSpan.textContent = newJsonData.latest_date[0];
-
-                const rankingArray = newJsonData.rankings || [];
-                rankingArray.forEach(newItem => {
-                    const newRow = dataTable.row.add([
-                        newItem.ranking,
-                        `<a data-toggle="tooltip" title="${newItem.ranking_change >= 0 ? '+' : ''}${newItem.ranking_change}">
-                        ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
-                        </a>`,
-                        `<img src="img/flags/${newItem.flag}" alt="${newItem.team}" class="flag-mini">`,
-                        `<a href="matches.html?team=${newItem.reference_team.replace(/&/g, "%26")}">${newItem.team}</a>`,
-                        newItem.points,
-                        newItem.points_change,
-                        newItem.confederation
-                    ]).draw(false).node();
-                });
+            const rankingArray = jsonData.rankings || [];
+            rankingArray.forEach(item => {
+                $('#myTable').DataTable().row.add([
+                    item.ranking,
+                    '<a data-toggle="tooltip" title="' + (item.ranking_change >= 0 ? '+' : '') + item.ranking_change + '">\n                    ' + (item.ranking_change !== 0 ? '<i class="' + (item.ranking_change > 0 ? 'text-success' : 'text-danger') + ' fa fa-chevron-' + (item.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"') + '"></i>' : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>') + '\n                    </a>',
+                    '<img src="img/flags/' + item.flag + '" alt="' + item.team + '" class="flag-mini">',
+                    '<a href="matches.html?team=' + item.reference_team.replace(/&/g, '%26') + '">' + item.team + '</a>',
+                    item.points,
+                    item.points_change,
+                    item.confederation
+                ]).draw(false);
             });
-        });
 
-        // Add an event manager to change the month
-        monthSelect.addEventListener('change', function () {
-            const selectedYear = document.getElementById('yearSelect').value;
-            const selectedMonth = this.value;
-            if (selectedYear === 'latest') {
-                jsonFilePath = 'data/json/rankings/LatestRankings.json';
-            } else {
-                jsonFilePath = `data/json/rankings/${selectedYear}${selectedMonth}Rankings.json`;
-            };
-            console.log(selectedYear+selectedMonth);
-
-            // Empty existing table
-            dataTable.clear().draw();
-
-            // Load the new JSON and update the table
-            loadJSON(jsonFilePath).then(newJsonData => {
-                // console.log(newJsonData.year);
-                // console.log(newJsonData.latest_date[0]);
-
-                latestDateSpan.textContent = newJsonData.latest_date[0];
-
-                const rankingArray = newJsonData.rankings || [];
-                rankingArray.forEach(newItem => {
-                    const newRow = dataTable.row.add([
-                        newItem.ranking,
-                        `<a data-toggle="tooltip" title="${newItem.ranking_change >= 0 ? '+' : ''}${newItem.ranking_change}">
-                        ${newItem.ranking_change !== 0 ? `<i class="${newItem.ranking_change > 0 ? 'text-success' : 'text-danger'} fa fa-chevron-${newItem.ranking_change > 0 ? 'up style="color=green"' : 'down style="color=red"'}"></i>` : '<i class="fa fa-chevron-right" aria-hidden="true" style="color=gray"></i>'}
-                        </a>`,
-                        `<img src="img/flags/${newItem.flag}" alt="${newItem.team}" class="flag-mini">`,
-                        `<a href="matches.html?team=${newItem.reference_team.replace(/&/g, "%26")}">${newItem.team}</a>`,
-                        newItem.points,
-                        newItem.points_change,
-                        newItem.confederation
-                    ]).draw(false).node();
+            // Générer les filtres par confédération
+            const confedFiltersDiv = document.getElementById('confed-filters');
+            const existingCheckboxes = confedFiltersDiv.querySelectorAll('.confed-checkbox');
+            const existingConfeds = new Set([...existingCheckboxes].map(cb => cb.value));
+            const confederations = [...new Set(rankingArray.map(item => item.confederation))];
+            
+            // Ne regénérer que si le set a changé
+            if (confederations.length !== existingConfeds.size || confederations.some(c => !existingConfeds.has(c))) {
+                confedFiltersDiv.innerHTML = '';
+                confederations.forEach(confed => {
+                    const label = document.createElement('label');
+                    label.className = 'form-check-label mr-2';
+                    label.innerHTML = '\n                        <input class="form-check-input confed-checkbox" type="checkbox" value="' + confed + '" checked>\n                        ' + confed + '\n                    ';
+                    confedFiltersDiv.appendChild(label);
                 });
-            });
-        });
+            }
+        } catch (error) {
+            console.error('Erreur lors du chargement du classement:', error);
+        }
+    }
 
-        // ...after DataTables initialization...
-        // Generate confederation filters dynamically
-        const confedFiltersDiv = document.getElementById('confed-filters');
-        const confederations = [...new Set(rankingArray.map(item => item.confederation))];
-        confederations.forEach(confed => {
-            const label = document.createElement('label');
-            label.className = 'form-check-label mr-2';
-            label.innerHTML = `
-                <input class="form-check-input confed-checkbox" type="checkbox" value="${confed}" checked>
-                ${confed}
-            `;
-            confedFiltersDiv.appendChild(label);
-        });
+    // Naviguer d'un mois
+    function navigateMonth(offset) {
+        isLatestMode = false;
+        let newMonth = parseInt(selectedMonth) + offset;
+        let newYear = parseInt(selectedYear);
 
-        // Filter table rows on checkbox change
-        $('#confed-filters').on('change', '.confed-checkbox', function () {
-            const checked = $('.confed-checkbox:checked').map(function () { return this.value; }).get();
-            $('#myTable').DataTable().column(6).search(checked.join('|'), true, false).draw();
-        });
+        if (newMonth > 12) {
+            newMonth = 1;
+            newYear += 1;
+        } else if (newMonth < 1) {
+            newMonth = 12;
+            newYear -= 1;
+        }
+
+        selectedMonth = newMonth.toString().padStart(2, '0');
+        selectedYear = newYear;
+        updateRankings();
+    }
+
+    // Listeners des boutons
+    prevBtn.addEventListener('click', () => navigateMonth(-1));
+    nextBtn.addEventListener('click', () => navigateMonth(1));
+    latestBtn.addEventListener('click', () => {
+        isLatestMode = true;
+        updateRankings();
+    });
+
+    // Filtre par confédération
+    $(document).on('change', '.confed-checkbox', function () {
+        const checked = $('.confed-checkbox:checked').map(function () { return this.value; }).get();
+        $('#myTable').DataTable().column(6).search(checked.join('|'), true, false).draw();
+    });
+
+    // Activate DataTables
+    $('#myTable').DataTable({
+        paging: false
     });
 
     // Back to top button logic
@@ -204,4 +147,7 @@ document.addEventListener('DOMContentLoaded', function () {
             localStorage.setItem('theme', isDark ? 'dark' : 'light');
         });
     }
+
+    // Chargement initial
+    updateRankings();
 });

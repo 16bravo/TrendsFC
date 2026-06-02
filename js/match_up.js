@@ -8,6 +8,78 @@ function flagImgFromFile(flag, team) {
 let teamsList = [];
 let rankingsMap = {}; // Pour accès rapide aux points/rank/flag
 
+// Couleurs des équipes
+let countriesColorsMap = {}; // { current_name: { primary: '#...', secondary: '#...' } }
+
+async function loadCountriesColors() {
+    const resp = await fetch('data/source/match_dataset/countries_names.csv');
+    const text = await resp.text();
+    const lines = text.trim().split('\n');
+    for (let i = 1; i < lines.length; i++) {
+        const parts = lines[i].split(',');
+        if (parts.length >= 4) {
+            const currentName = parts[1].trim();
+            const primary = parts[2].trim();
+            const secondary = parts[3].trim();
+            countriesColorsMap[currentName] = { primary, secondary };
+        }
+    }
+}
+
+function hexToRgb(hex) {
+    hex = hex.replace(/^#/, '');
+    if (hex.length === 3) hex = hex.split('').map(c => c + c).join('');
+    const num = parseInt(hex, 16);
+    return [(num >> 16) & 255, (num >> 8) & 255, num & 255];
+}
+
+function colorDistance(hex1, hex2) {
+    const [r1, g1, b1] = hexToRgb(hex1);
+    const [r2, g2, b2] = hexToRgb(hex2);
+    return Math.sqrt((r1 - r2) ** 2 + (g1 - g2) ** 2 + (b1 - b2) ** 2);
+}
+
+function getColorLuminance(hex) {
+    const [r, g, b] = hexToRgb(hex);
+    return 0.299 * r + 0.587 * g + 0.114 * b;
+}
+
+function getH2HScoreColor(winnerTeam, isDark) {
+    if (!winnerTeam) {
+        return isDark ? '#adb5bd' : '#495057';
+    }
+    const c = countriesColorsMap[winnerTeam];
+    if (!c) return isDark ? '#cccccc' : '#333333';
+    const lum1 = getColorLuminance(c.primary);
+    const lum2 = getColorLuminance(c.secondary);
+    // En dark mode : la couleur primaire est illisible seulement si vraiment trop sombre (< 40)
+    // En mode normal : illisible seulement si vraiment trop claire (> 210)
+    if (isDark) {
+        return lum1 < 40 ? c.secondary : c.primary;
+    } else {
+        return lum1 > 210 ? c.secondary : c.primary;
+    }
+}
+
+function getTeamColors(team1, team2) {
+    const c1 = countriesColorsMap[team1];
+    const c2 = countriesColorsMap[team2];
+    const color1 = c1?.primary ?? '#FF4560';
+    const textColor1 = c1?.secondary ?? '#FFFFFF';
+    const primary2 = c2?.primary ?? '#008FFB';
+    const secondary2 = c2?.secondary ?? '#FFFFFF';
+
+    let color2, textColor2;
+    if (c1 && c2 && colorDistance(color1, primary2) < 100) {
+        color2 = secondary2;
+        textColor2 = primary2;
+    } else {
+        color2 = primary2;
+        textColor2 = secondary2;
+    }
+    return { color1, color2, textColor1, textColor2 };
+}
+
 async function loadTeamsList() {
     const resp = await fetch('data/json/rankings/LatestRankings.json');
     const data = await resp.json();
@@ -226,7 +298,8 @@ function renderTeamPanel(teamData, side) {
 }
 
 // Affichage du donut ou de l'historique cumulé
-function renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2) {
+function renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2, colors) {
+    const { color1, color2, textColor1, textColor2 } = colors ?? { color1: '#FF4560', color2: '#008FFB', textColor1: '#FFFFFF', textColor2: '#FFFFFF' };
     const donutDiv = document.getElementById('donutContainer');
     donutDiv.innerHTML = '';
     // Détruit l'ancien graphique s'il existe
@@ -235,23 +308,51 @@ function renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2) {
         window.apexDonutChart = null;
     }
     if (!donutMode) {
+        const sliceColors = [color2, color1];
+        const sliceTextColors = [textColor2, textColor1];
         const options = {
             chart: { type: 'donut', height: 300 },
             series: [prob2, prob1],
             labels: [team2, team1],
-            colors: ['#008FFB', '#FF4560'],
-            dataLabels: { formatter: (val) => val.toFixed(1) + '%' },
+            colors: sliceColors,
+            dataLabels: {
+                formatter: (val) => val.toFixed(1) + '%',
+                style: { colors: sliceTextColors }
+            },
+            tooltip: {
+                custom: ({ series, seriesIndex, w }) => {
+                    const bg = sliceColors[seriesIndex];
+                    const fg = sliceTextColors[seriesIndex];
+                    const label = w.globals.labels[seriesIndex];
+                    const val = series[seriesIndex].toFixed(1);
+                    return `<div style="background:${bg};color:${fg};padding:6px 10px;border-radius:4px;font-weight:bold;">${label}: ${val}%</div>`;
+                }
+            },
             legend: { show: false }
         };
         window.apexDonutChart = new ApexCharts(donutDiv, options);
         window.apexDonutChart.render();
     } else {
+        const sliceColors = [color2, '#999', color1];
+        const sliceTextColors = [textColor2, '#FFFFFF', textColor1];
         const options = {
             chart: { type: 'donut', height: 300 },
             series: [h2hStats.win2, h2hStats.draw, h2hStats.win1],
             labels: [`Wins ${team2}`, 'Draws', `Wins ${team1}`],
-            colors: ['#008FFB', '#999', '#FF4560'],
-            dataLabels: { formatter: (val) => val.toFixed(1) + '%' },
+            colors: sliceColors,
+            dataLabels: {
+                formatter: (val) => val.toFixed(1) + '%',
+                style: { colors: sliceTextColors }
+            },
+            tooltip: {
+                custom: ({ series, seriesIndex, w }) => {
+                    const bg = sliceColors[seriesIndex];
+                    const fg = sliceTextColors[seriesIndex];
+                    const label = w.globals.labels[seriesIndex];
+                    const val = series[seriesIndex].toFixed(1);
+                    return `<div style="background:${bg};color:${fg};padding:6px 10px;border-radius:4px;font-weight:bold;">${label}: ${val}%</div>`;
+                }
+            },
             legend: { show: false }
         };
         window.apexDonutChart = new ApexCharts(donutDiv, options);
@@ -270,10 +371,10 @@ function renderHeadToHead(matches, team1, team2) {
         <table class="table table-bordered table-sm align-middle" style="font-size:0.85em;">
         <thead>
             <tr>
-                <th style="white-space:nowrap">Date</th>
-                <th class="d-none d-sm-table-cell">Home</th>
+                <th>Home</th>
                 <th>Score</th>
-                <th class="d-none d-sm-table-cell">Away</th>
+                <th>Away</th>
+                <th class="d-none d-sm-table-cell" style="white-space:nowrap">Date</th>
                 <th class="d-none d-md-table-cell">Venue</th>
                 <th class="d-none d-lg-table-cell">Tournament</th>
                 <th class="d-none d-lg-table-cell">Δpts</th>
@@ -314,27 +415,24 @@ function renderHeadToHead(matches, team1, team2) {
             awayFlag = m.flag2;
         }
 
-        // Détermine la couleur selon le vainqueur réel (team1 ou team2 sélectionné)
-        let scoreColor = '';
+        // Détermine la couleur selon le vainqueur réel
+        const isDark = document.body.classList.contains('dark-theme');
+        let winner = null;
         if (typeof homeScore === 'number' && typeof awayScore === 'number') {
-            let winner = null;
             if (homeScore > awayScore) winner = homeTeam;
             else if (homeScore < awayScore) winner = awayTeam;
-            // Compare winner avec team1 et team2 sélectionnés
-            if (winner === team1) scoreColor = 'color: #ff4560;'; // couleur 1 pour team1 sélectionné
-            else if (winner === team2) scoreColor = 'color: #008ffb;'; // couleur 2 pour team2 sélectionné
-            else scoreColor = 'color: #6c757d;'; // gris pour nul
         }
+        const scoreColor = `color: ${getH2HScoreColor(winner, isDark)}; font-weight: bold;`;
         const venue = m.country || '';
         const tournament = m.tournament || '';
         const pts = m.rating_ev !== undefined && m.rating_ev !== null && m.rating_ev !== "" ? (m.rating_ev > 0 ? '+' : '') + m.rating_ev : '';
         const rank = m.rank ?? '';
 
             html += `<tr>
-                <td>${m.date}</td>
-                <td class="d-none d-sm-table-cell">${flagImgFromFile(homeFlag, homeOriginal)} ${homeOriginal}</td>
+                <td>${flagImgFromFile(homeFlag, homeOriginal)} ${homeOriginal}</td>
                 <td class="font-weight-bold" style="${scoreColor}">${homeScore} - ${awayScore}</td>
-                <td class="d-none d-sm-table-cell">${flagImgFromFile(awayFlag, awayOriginal)} ${awayOriginal}</td>
+                <td>${flagImgFromFile(awayFlag, awayOriginal)} ${awayOriginal}</td>
+                <td class="d-none d-sm-table-cell">${m.date}</td>
                 <td class="d-none d-md-table-cell">${venue}</td>
                 <td class="d-none d-lg-table-cell">${tournament}</td>
                 <td class="d-none d-lg-table-cell">${pts}</td>
@@ -400,7 +498,8 @@ async function refreshAll() {
     document.getElementById('team2Panel').innerHTML = renderTeamPanel(data2, 'right');
 
     // Affichage donut/historique cumulé
-    renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2);
+    const colors = getTeamColors(team1, team2);
+    renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2, colors);
 
     // Affiche ou masque le switch "Neutral ground" selon le mode
     const neutralSwitchWrapper = document.getElementById('neutralSwitchWrapper');
@@ -414,7 +513,7 @@ async function refreshAll() {
 
 // Listeners
 document.addEventListener('DOMContentLoaded', async () => {
-    await loadTeamsList();
+    await Promise.all([loadTeamsList(), loadCountriesColors()]);
     populateTeamSelects();
     refreshAll();
     document.getElementById('team1Select').addEventListener('change', refreshAll);
@@ -434,6 +533,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             const isDark = document.body.classList.contains('dark-theme');
             themeToggle.textContent = isDark ? '☀️' : '🌙';
             localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            refreshAll();
         });
     }
 });

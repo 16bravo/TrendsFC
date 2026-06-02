@@ -12,7 +12,7 @@
     "avg_points": 1.08,
     "best_rank": 102,
     "worst_rank": 175,
-    "avg_rank": 131.08,
+    "avg_rank": 131.11,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Mauritius",
@@ -196,11 +196,11 @@
       "flag2": "malawi.png",
       "score1": 1,
       "score2": 0,
-      "rating1": 4749,
-      "rating2": 4701,
-      "rating_ev": 6,
-      "rank": 127,
-      "win_prob": 64.5,
+      "rating1": 4729,
+      "rating2": 4700,
+      "rating_ev": 7,
+      "rank": 132,
+      "win_prob": 62.4,
       "type": "past"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "malawi.png",
       "score1": 1,
       "score2": 0,
-      "rating1": 4717,
-      "rating2": 4693,
-      "rating_ev": 8,
+      "rating1": 4701,
+      "rating2": 4691,
+      "rating_ev": 9,
       "rank": 135,
-      "win_prob": 61.6,
+      "win_prob": 60.0,
       "type": "past"
     },
     {
@@ -234,11 +234,11 @@
       "flag2": "zimbabwe.png",
       "score1": 0,
       "score2": 3,
-      "rating1": 4743,
-      "rating2": 4865,
-      "rating_ev": -44,
-      "rank": 130,
-      "win_prob": 57.2,
+      "rating1": 4722,
+      "rating2": 4882,
+      "rating_ev": -42,
+      "rank": 133,
+      "win_prob": 52.6,
       "type": "past"
     },
     {
@@ -253,11 +253,11 @@
       "flag2": "zimbabwe.png",
       "score1": 0,
       "score2": 3,
-      "rating1": 4709,
-      "rating2": 4905,
-      "rating_ev": -40,
-      "rank": 135,
-      "win_prob": 48.2,
+      "rating1": 4692,
+      "rating2": 4919,
+      "rating_ev": -37,
+      "rank": 136,
+      "win_prob": 44.2,
       "type": "past"
     },
     {
@@ -292,10 +292,10 @@
       "score1": 0,
       "score2": 1,
       "rating1": 4787,
-      "rating2": 4904,
+      "rating2": 4905,
       "rating_ev": -8,
       "rank": 122,
-      "win_prob": 39.1,
+      "win_prob": 39.0,
       "type": "past"
     },
     {
@@ -351,7 +351,7 @@
       "rating1": 4803,
       "rating2": 4970,
       "rating_ev": 11,
-      "rank": 113,
+      "rank": 114,
       "win_prob": 30.4,
       "type": "past"
     },

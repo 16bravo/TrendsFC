@@ -12,7 +12,7 @@
     "avg_points": 1.14,
     "best_rank": 67,
     "worst_rank": 156,
-    "avg_rank": 107.93,
+    "avg_rank": 107.91,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Somalia",
@@ -196,10 +196,10 @@
       "flag2": "macao.png",
       "score1": 6,
       "score2": 0,
-      "rating1": 4809,
-      "rating2": 3634,
-      "rating_ev": 16,
-      "rank": 111,
+      "rating1": 4824,
+      "rating2": 3635,
+      "rating_ev": 15,
+      "rank": 108,
       "win_prob": 98.8,
       "type": "past"
     },
@@ -215,11 +215,11 @@
       "flag2": "liechtenstein.png",
       "score1": 0,
       "score2": 1,
-      "rating1": 4793,
+      "rating1": 4809,
       "rating2": 4386,
       "rating_ev": -43,
-      "rank": 117,
-      "win_prob": 89.2,
+      "rank": 108,
+      "win_prob": 89.8,
       "type": "past"
     },
     {
@@ -234,11 +234,11 @@
       "flag2": "morocco.png",
       "score1": 0,
       "score2": 1,
-      "rating1": 4836,
-      "rating2": 5285,
-      "rating_ev": 20,
-      "rank": 103,
-      "win_prob": 7.3,
+      "rating1": 4852,
+      "rating2": 5286,
+      "rating_ev": 19,
+      "rank": 99,
+      "win_prob": 7.8,
       "type": "past"
     },
     {
@@ -256,7 +256,7 @@
       "rating1": 4833,
       "rating2": 5089,
       "rating_ev": 17,
-      "rank": 103,
+      "rank": 104,
       "win_prob": 22.0,
       "type": "past"
     },
@@ -292,10 +292,10 @@
       "score1": 1,
       "score2": 2,
       "rating1": 4813,
-      "rating2": 5092,
+      "rating2": 5093,
       "rating_ev": 3,
-      "rank": 106,
-      "win_prob": 22.4,
+      "rank": 107,
+      "win_prob": 22.3,
       "type": "past"
     },
     {
@@ -313,7 +313,7 @@
       "rating1": 4810,
       "rating2": 4704,
       "rating_ev": -11,
-      "rank": 112,
+      "rank": 113,
       "win_prob": 63.7,
       "type": "past"
     },
@@ -332,7 +332,7 @@
       "rating1": 4821,
       "rating2": 5139,
       "rating_ev": -5,
-      "rank": 107,
+      "rank": 108,
       "win_prob": 20.7,
       "type": "past"
     },
@@ -351,7 +351,7 @@
       "rating1": 4826,
       "rating2": 4862,
       "rating_ev": -20,
-      "rank": 109,
+      "rank": 110,
       "win_prob": 61.2,
       "type": "past"
     },
@@ -370,7 +370,7 @@
       "rating1": 4846,
       "rating2": 4872,
       "rating_ev": -21,
-      "rank": 98,
+      "rank": 99,
       "win_prob": 62.5,
       "type": "past"
     },

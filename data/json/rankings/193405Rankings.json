@@ -233,11 +233,11 @@
       "ranking_off": 10,
       "ranking_def": 15,
       "ranking_change": 1,
-      "points_change": 29,
+      "points_change": 30,
       "ranking_off_change": 0,
-      "points_off_change": 10,
+      "points_off_change": 12,
       "ranking_def_change": 0,
-      "points_def_change": 20
+      "points_def_change": 37
     },
     {
       "ranking": 14,
@@ -783,7 +783,7 @@
       "ranking": 45,
       "flag": "netherlands.png",
       "team": "Netherlands Antilles",
-      "reference_team": "Cura\u00e7ao",
+      "reference_team": "Curaçao",
       "points": 4919,
       "points_off": 4933,
       "points_def": 4732,

@@ -40,6 +40,42 @@
       "points_off_change": 28,
       "ranking_def_change": 0,
       "points_def_change": -2
+    },
+    {
+      "ranking": 3,
+      "flag": "wales_1.png",
+      "team": "Wales",
+      "reference_team": "Wales",
+      "points": 5201,
+      "points_off": 4984,
+      "points_def": 4835,
+      "confederation": "UEFA",
+      "ranking_off": 3,
+      "ranking_def": 4,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
+    },
+    {
+      "ranking": 4,
+      "flag": "ireland_1.png",
+      "team": "Ireland",
+      "reference_team": "Ireland",
+      "points": 5173,
+      "points_off": 4946,
+      "points_def": 4878,
+      "confederation": "UEFA",
+      "ranking_off": 4,
+      "ranking_def": 3,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     }
   ]
 }

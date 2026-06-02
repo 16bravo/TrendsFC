@@ -1,18 +1,18 @@
 {
   "team": "Slovakia",
   "stats": {
-    "matches_played": 371,
-    "wins": 151,
+    "matches_played": 372,
+    "wins": 152,
     "draws": 86,
     "losses": 134,
-    "goals_for": 524,
-    "goals_against": 467,
-    "goal_difference": 57,
-    "win_percentage": 40.7,
-    "avg_points": 1.45,
+    "goals_for": 526,
+    "goals_against": 468,
+    "goal_difference": 58,
+    "win_percentage": 40.9,
+    "avg_points": 1.46,
     "best_rank": 17,
     "worst_rank": 65,
-    "avg_rank": 39.77,
+    "avg_rank": 39.8,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1995-06-22",
       "flag": "argentina.png"
     },
-    "home_matches": 156,
+    "home_matches": 157,
     "away_matches": 171,
     "neutral_matches": 44,
     "first_match_date": "1939-08-27",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -164,6 +164,25 @@
       "rank": 52,
       "win_prob": 81.0,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-01",
+      "country": "Slovakia",
+      "tournament": "Friendly",
+      "team1": "Slovakia",
+      "team2": "Malta",
+      "original_team1": "Slovakia",
+      "original_team2": "Malta",
+      "flag1": "slovakia.png",
+      "flag2": "malta.png",
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5129,
+      "rating2": 4698,
+      "rating_ev": -9,
+      "rank": 53,
+      "win_prob": 91.5,
+      "type": "past"
     },
     {
       "date": "2026-06-01",

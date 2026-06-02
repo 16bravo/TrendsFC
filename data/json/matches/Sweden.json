@@ -1,18 +1,18 @@
 {
   "team": "Sweden",
   "stats": {
-    "matches_played": 1120,
+    "matches_played": 1121,
     "wins": 551,
     "draws": 235,
-    "losses": 334,
-    "goals_for": 2230,
-    "goals_against": 1478,
-    "goal_difference": 752,
+    "losses": 335,
+    "goals_for": 2231,
+    "goals_against": 1481,
+    "goal_difference": 750,
     "win_percentage": 49.2,
-    "avg_points": 1.69,
+    "avg_points": 1.68,
     "best_rank": 3,
     "worst_rank": 37,
-    "avg_rank": 16.78,
+    "avg_rank": 16.79,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Latvia",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 488,
-    "away_matches": 501,
+    "away_matches": 502,
     "neutral_matches": 131,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -183,6 +183,25 @@
       "rank": 28,
       "win_prob": 55.7,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-01",
+      "country": "Norway",
+      "tournament": "Friendly",
+      "team1": "Sweden",
+      "team2": "Norway",
+      "original_team1": "Sweden",
+      "original_team2": "Norway",
+      "flag1": "sweden.png",
+      "flag2": "norway.png",
+      "score1": 1,
+      "score2": 3,
+      "rating1": 5249,
+      "rating2": 5537,
+      "rating_ev": -3,
+      "rank": 29,
+      "win_prob": 15.8,
+      "type": "past"
     },
     {
       "date": "2026-06-01",

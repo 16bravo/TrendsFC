@@ -1082,7 +1082,7 @@
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -2,
+      "ranking_def_change": -3,
       "points_def_change": 0
     },
     {
@@ -1386,7 +1386,7 @@
       "ranking_def": 93,
       "ranking_change": 1,
       "points_change": 0,
-      "ranking_off_change": 0,
+      "ranking_off_change": -1,
       "points_off_change": 0,
       "ranking_def_change": 2,
       "points_def_change": 0
@@ -1404,7 +1404,7 @@
       "ranking_def": 77,
       "ranking_change": -5,
       "points_change": -52,
-      "ranking_off_change": 2,
+      "ranking_off_change": 1,
       "points_off_change": 4,
       "ranking_def_change": -21,
       "points_def_change": -79
@@ -1456,12 +1456,12 @@
       "confederation": "AFC",
       "ranking_off": 72,
       "ranking_def": 74,
-      "ranking_change": 10,
-      "points_change": 43,
-      "ranking_off_change": 16,
-      "points_off_change": 46,
-      "ranking_def_change": 7,
-      "points_def_change": 24
+      "ranking_change": 12,
+      "points_change": 57,
+      "ranking_off_change": 22,
+      "points_off_change": 62,
+      "ranking_def_change": 12,
+      "points_def_change": 46
     },
     {
       "ranking": 86,
@@ -1514,7 +1514,7 @@
       "points_change": 0,
       "ranking_off_change": -1,
       "points_off_change": 0,
-      "ranking_def_change": -1,
+      "ranking_def_change": -2,
       "points_def_change": 0
     },
     {
@@ -1584,9 +1584,9 @@
       "ranking_def": 97,
       "ranking_change": -10,
       "points_change": -48,
-      "ranking_off_change": -2,
+      "ranking_off_change": -3,
       "points_off_change": -8,
-      "ranking_def_change": -13,
+      "ranking_def_change": -14,
       "points_def_change": -47
     },
     {
@@ -1636,7 +1636,7 @@
       "confederation": "UEFA",
       "ranking_off": 77,
       "ranking_def": 113,
-      "ranking_change": 0,
+      "ranking_change": -1,
       "points_change": 0,
       "ranking_off_change": 1,
       "points_off_change": 0,
@@ -1654,7 +1654,7 @@
       "confederation": "AFC",
       "ranking_off": 104,
       "ranking_def": 107,
-      "ranking_change": 0,
+      "ranking_change": -1,
       "points_change": 0,
       "ranking_off_change": 1,
       "points_off_change": 0,
@@ -1766,7 +1766,7 @@
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -2,
+      "ranking_def_change": -3,
       "points_def_change": 0
     },
     {
@@ -1800,7 +1800,7 @@
       "ranking_def": 114,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
@@ -1872,7 +1872,7 @@
       "ranking_def": 103,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 0,
+      "ranking_off_change": -1,
       "points_off_change": 0,
       "ranking_def_change": 1,
       "points_def_change": 0
@@ -1928,7 +1928,7 @@
       "points_change": 0,
       "ranking_off_change": -1,
       "points_off_change": 0,
-      "ranking_def_change": -1,
+      "ranking_def_change": -2,
       "points_def_change": 0
     },
     {
@@ -2214,7 +2214,7 @@
       "ranking_def": 148,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 0,
+      "ranking_off_change": -1,
       "points_off_change": 0,
       "ranking_def_change": -1,
       "points_def_change": 0
@@ -2330,8 +2330,8 @@
     {
       "ranking": 137,
       "flag": "nl_antilles.png",
-      "team": "Cura\u00e7ao",
-      "reference_team": "Cura\u00e7ao",
+      "team": "Curaçao",
+      "reference_team": "Curaçao",
       "points": 4564,
       "points_off": 4694,
       "points_def": 4642,
@@ -2744,8 +2744,8 @@
     {
       "ranking": 161,
       "flag": "sao_tome.png",
-      "team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "reference_team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "team": "São Tomé and Príncipe",
+      "reference_team": "São Tomé and Príncipe",
       "points": 4372,
       "points_off": 4678,
       "points_def": 4365,

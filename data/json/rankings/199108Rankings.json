@@ -1708,12 +1708,12 @@
       "confederation": "UEFA",
       "ranking_off": 71,
       "ranking_def": 113,
-      "ranking_change": 0,
-      "points_change": 0,
-      "ranking_off_change": 0,
-      "points_off_change": 0,
-      "ranking_def_change": 0,
-      "points_def_change": 0
+      "ranking_change": -48,
+      "points_change": -73,
+      "ranking_off_change": -16,
+      "points_off_change": -36,
+      "ranking_def_change": -70,
+      "points_def_change": -59
     },
     {
       "ranking": 97,
@@ -2068,12 +2068,12 @@
       "confederation": "UEFA",
       "ranking_off": 134,
       "ranking_def": 122,
-      "ranking_change": 0,
-      "points_change": 0,
-      "ranking_off_change": 0,
-      "points_off_change": 0,
-      "ranking_def_change": 1,
-      "points_def_change": 0
+      "ranking_change": -59,
+      "points_change": -92,
+      "ranking_off_change": -61,
+      "points_off_change": -44,
+      "ranking_def_change": -71,
+      "points_def_change": -49
     },
     {
       "ranking": 116,
@@ -2438,8 +2438,8 @@
     {
       "ranking": 137,
       "flag": "nl_antilles.png",
-      "team": "Cura\u00e7ao",
-      "reference_team": "Cura\u00e7ao",
+      "team": "Curaçao",
+      "reference_team": "Curaçao",
       "points": 4596,
       "points_off": 4707,
       "points_def": 4653,
@@ -2906,8 +2906,8 @@
     {
       "ranking": 164,
       "flag": "sao_tome.png",
-      "team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "reference_team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "team": "São Tomé and Príncipe",
+      "reference_team": "São Tomé and Príncipe",
       "points": 4372,
       "points_off": 4678,
       "points_def": 4365,

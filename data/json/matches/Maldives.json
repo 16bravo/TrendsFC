@@ -1,18 +1,18 @@
 {
   "team": "Maldives",
   "stats": {
-    "matches_played": 238,
+    "matches_played": 239,
     "wins": 68,
     "draws": 41,
-    "losses": 129,
+    "losses": 130,
     "goals_for": 292,
-    "goals_against": 523,
-    "goal_difference": -231,
-    "win_percentage": 28.6,
+    "goals_against": 524,
+    "goal_difference": -232,
+    "win_percentage": 28.5,
     "avg_points": 1.03,
     "best_rank": 161,
     "worst_rank": 205,
-    "avg_rank": 184.9,
+    "avg_rank": 184.93,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Mongolia",
@@ -25,11 +25,11 @@
       "date": "1997-06-02",
       "flag": "iran.png"
     },
-    "home_matches": 62,
+    "home_matches": 63,
     "away_matches": 84,
     "neutral_matches": 92,
     "first_match_date": "1979-08-27",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -69,6 +69,25 @@
       "rank": 190,
       "win_prob": 44.6,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-01",
+      "country": "Maldives",
+      "tournament": "Diamond Jubilee Tournament",
+      "team1": "Maldives",
+      "team2": "Afghanistan",
+      "original_team1": "Maldives",
+      "original_team2": "Afghanistan",
+      "flag1": "maldives.png",
+      "flag2": "afghanistan.png",
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4129,
+      "rating2": 4300,
+      "rating_ev": -11,
+      "rank": 193,
+      "win_prob": 44.6,
+      "type": "past"
     },
     {
       "date": "2026-03-31",

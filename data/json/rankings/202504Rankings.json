@@ -2365,6 +2365,24 @@
     },
     {
       "ranking": 132,
+      "flag": "kuwait.png",
+      "team": "Kuwait",
+      "reference_team": "Kuwait",
+      "points": 4746,
+      "points_off": 4720,
+      "points_def": 4644,
+      "confederation": "AFC",
+      "ranking_off": 158,
+      "ranking_def": 141,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
+    },
+    {
+      "ranking": 133,
       "flag": "nicaragua.png",
       "team": "Nicaragua",
       "reference_team": "Nicaragua",
@@ -2382,7 +2400,7 @@
       "points_def_change": 0
     },
     {
-      "ranking": 133,
+      "ranking": 134,
       "flag": "vietnam.png",
       "team": "Vietnam",
       "reference_team": "Vietnam",
@@ -2400,7 +2418,7 @@
       "points_def_change": 0
     },
     {
-      "ranking": 134,
+      "ranking": 135,
       "flag": "martinique.png",
       "team": "Martinique",
       "reference_team": "Martinique",
@@ -2418,7 +2436,7 @@
       "points_def_change": 0
     },
     {
-      "ranking": 135,
+      "ranking": 136,
       "flag": "kyrgyzstan.png",
       "team": "Kyrgyzstan",
       "reference_team": "Kyrgyzstan",
@@ -2436,25 +2454,7 @@
       "points_def_change": 0
     },
     {
-      "ranking": 136,
-      "flag": "kuwait.png",
-      "team": "Kuwait",
-      "reference_team": "Kuwait",
-      "points": 4735,
-      "points_off": 4700,
-      "points_def": 4646,
-      "confederation": "AFC",
-      "ranking_off": 161,
-      "ranking_def": 141,
-      "ranking_change": 0,
-      "points_change": 0,
-      "ranking_off_change": 0,
-      "points_off_change": 0,
-      "ranking_def_change": 0,
-      "points_def_change": 0
-    },
-    {
-      "ranking": 136,
+      "ranking": 137,
       "flag": "malawi.png",
       "team": "Malawi",
       "reference_team": "Malawi",
@@ -2546,8 +2546,8 @@
     {
       "ranking": 142,
       "flag": "curacao.png",
-      "team": "Cura\u00e7ao",
-      "reference_team": "Cura\u00e7ao",
+      "team": "Curaçao",
+      "reference_team": "Curaçao",
       "points": 4706,
       "points_off": 4778,
       "points_def": 4618,
@@ -2768,7 +2768,7 @@
       "points_off": 4716,
       "points_def": 4692,
       "confederation": "CAF",
-      "ranking_off": 158,
+      "ranking_off": 159,
       "ranking_def": 128,
       "ranking_change": 0,
       "points_change": 0,
@@ -2876,7 +2876,7 @@
       "points_off": 4704,
       "points_def": 4471,
       "confederation": "AFC",
-      "ranking_off": 160,
+      "ranking_off": 161,
       "ranking_def": 165,
       "ranking_change": 0,
       "points_change": 0,
@@ -2996,8 +2996,8 @@
     {
       "ranking": 167,
       "flag": "sao_tome.png",
-      "team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "reference_team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "team": "São Tomé and Príncipe",
+      "reference_team": "São Tomé and Príncipe",
       "points": 4443,
       "points_off": 4790,
       "points_def": 4456,
@@ -3038,7 +3038,7 @@
       "points_off": 4712,
       "points_def": 4506,
       "confederation": "CAF",
-      "ranking_off": 159,
+      "ranking_off": 160,
       "ranking_def": 162,
       "ranking_change": 0,
       "points_change": 0,

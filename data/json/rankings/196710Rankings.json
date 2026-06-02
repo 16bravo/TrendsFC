@@ -596,7 +596,7 @@
       "points_change": 8,
       "ranking_off_change": -1,
       "points_off_change": -10,
-      "ranking_def_change": 1,
+      "ranking_def_change": 2,
       "points_def_change": 11
     },
     {
@@ -658,9 +658,9 @@
       "flag": "peru.png",
       "team": "Peru",
       "reference_team": "Peru",
-      "points": 5319,
-      "points_off": 5069,
-      "points_def": 4965,
+      "points": 5320,
+      "points_off": 5073,
+      "points_def": 4978,
       "confederation": "CONMEBOL",
       "ranking_off": 56,
       "ranking_def": 34,
@@ -668,7 +668,7 @@
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -1773,7 +1773,7 @@
       "ranking": 104,
       "flag": "nl_antilles_1.png",
       "team": "Netherlands Antilles",
-      "reference_team": "Cura\u00e7ao",
+      "reference_team": "Curaçao",
       "points": 4761,
       "points_off": 4731,
       "points_def": 4759,

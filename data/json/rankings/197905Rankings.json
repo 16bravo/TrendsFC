@@ -1748,7 +1748,7 @@
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 0,
+      "ranking_def_change": 1,
       "points_def_change": 0
     },
     {
@@ -1892,7 +1892,7 @@
       "points_change": 0,
       "ranking_off_change": 1,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 2,
       "points_def_change": 0
     },
     {
@@ -1961,11 +1961,11 @@
       "ranking_off": 126,
       "ranking_def": 110,
       "ranking_change": 3,
-      "points_change": 22,
-      "ranking_off_change": 10,
-      "points_off_change": 49,
-      "ranking_def_change": 7,
-      "points_def_change": 22
+      "points_change": 13,
+      "ranking_off_change": 7,
+      "points_off_change": 20,
+      "ranking_def_change": 3,
+      "points_def_change": 11
     },
     {
       "ranking": 114,
@@ -1998,7 +1998,7 @@
       "ranking_def": 107,
       "ranking_change": -1,
       "points_change": 0,
-      "ranking_off_change": -1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 1,
       "points_def_change": 0
@@ -2052,7 +2052,7 @@
       "ranking_def": 126,
       "ranking_change": 11,
       "points_change": 64,
-      "ranking_off_change": 19,
+      "ranking_off_change": 20,
       "points_off_change": 56,
       "ranking_def_change": 4,
       "points_def_change": 16
@@ -2086,7 +2086,7 @@
       "confederation": "CAF",
       "ranking_off": 118,
       "ranking_def": 119,
-      "ranking_change": -6,
+      "ranking_change": -5,
       "points_change": -64,
       "ranking_off_change": -7,
       "points_off_change": -16,
@@ -2144,7 +2144,7 @@
       "points_change": 0,
       "ranking_off_change": -1,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 2,
       "points_def_change": 0
     },
     {
@@ -2162,7 +2162,7 @@
       "points_change": -74,
       "ranking_off_change": 7,
       "points_off_change": 30,
-      "ranking_def_change": -21,
+      "ranking_def_change": -20,
       "points_def_change": -82
     },
     {
@@ -2232,7 +2232,7 @@
       "ranking_def": 127,
       "ranking_change": -4,
       "points_change": -24,
-      "ranking_off_change": -1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": -2,
       "points_def_change": -8
@@ -2480,7 +2480,7 @@
       "points_off": 4600,
       "points_def": 4489,
       "confederation": "CONCACAF",
-      "ranking_off": 169,
+      "ranking_off": 170,
       "ranking_def": 138,
       "ranking_change": 1,
       "points_change": 0,
@@ -2601,7 +2601,7 @@
       "ranking": 153,
       "flag": "nl_antilles_1.png",
       "team": "Netherlands Antilles",
-      "reference_team": "Cura\u00e7ao",
+      "reference_team": "Curaçao",
       "points": 4399,
       "points_off": 4731,
       "points_def": 4416,
@@ -2690,8 +2690,8 @@
     {
       "ranking": 158,
       "flag": "sao_tome.png",
-      "team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-      "reference_team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+      "team": "São Tomé and Príncipe",
+      "reference_team": "São Tomé and Príncipe",
       "points": 4330,
       "points_off": 4680,
       "points_def": 4315,
@@ -2822,7 +2822,7 @@
       "points_off": 4592,
       "points_def": 4273,
       "confederation": "CONCACAF",
-      "ranking_off": 171,
+      "ranking_off": 172,
       "ranking_def": 165,
       "ranking_change": 0,
       "points_change": 0,
@@ -2876,7 +2876,7 @@
       "points_off": 4598,
       "points_def": 4173,
       "confederation": "AFC",
-      "ranking_off": 170,
+      "ranking_off": 171,
       "ranking_def": 170,
       "ranking_change": 0,
       "points_change": 0,
@@ -2890,11 +2890,11 @@
       "flag": "bangladesh.png",
       "team": "Bangladesh",
       "reference_team": "Bangladesh",
-      "points": 4181,
-      "points_off": 4592,
-      "points_def": 4201,
+      "points": 4164,
+      "points_off": 4603,
+      "points_def": 4182,
       "confederation": "AFC",
-      "ranking_off": 172,
+      "ranking_off": 169,
       "ranking_def": 168,
       "ranking_change": 0,
       "points_change": 0,

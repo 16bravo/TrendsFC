@@ -1,13 +1,13 @@
 {
   "team": "Austria",
   "stats": {
-    "matches_played": 863,
-    "wins": 370,
+    "matches_played": 864,
+    "wins": 371,
     "draws": 183,
     "losses": 310,
-    "goals_for": 1555,
+    "goals_for": 1556,
     "goals_against": 1316,
-    "goal_difference": 239,
+    "goal_difference": 240,
     "win_percentage": 42.9,
     "avg_points": 1.5,
     "best_rank": 3,
@@ -25,11 +25,11 @@
       "date": "1908-06-08",
       "flag": "england.png"
     },
-    "home_matches": 430,
+    "home_matches": 431,
     "away_matches": 382,
     "neutral_matches": 51,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -202,6 +202,25 @@
       "rank": 20,
       "win_prob": 75.1,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-01",
+      "country": "Austria",
+      "tournament": "Friendly",
+      "team1": "Austria",
+      "team2": "Tunisia",
+      "original_team1": "Austria",
+      "original_team2": "Tunisia",
+      "flag1": "austria.png",
+      "flag2": "tunisia.png",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5366,
+      "rating2": 5118,
+      "rating_ev": -3,
+      "rank": 20,
+      "win_prob": 82.5,
+      "type": "past"
     },
     {
       "date": "2026-06-01",

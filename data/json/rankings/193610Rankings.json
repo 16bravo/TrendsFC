@@ -128,7 +128,7 @@
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 2,
+      "ranking_def_change": 1,
       "points_def_change": 0
     },
     {
@@ -162,7 +162,7 @@
       "ranking_def": 8,
       "ranking_change": 2,
       "points_change": 19,
-      "ranking_off_change": 0,
+      "ranking_off_change": 1,
       "points_off_change": -1,
       "ranking_def_change": 0,
       "points_def_change": 13
@@ -215,11 +215,11 @@
       "ranking_off": 9,
       "ranking_def": 12,
       "ranking_change": 0,
-      "points_change": -27,
-      "ranking_off_change": 0,
-      "points_off_change": 3,
-      "ranking_def_change": -3,
-      "points_def_change": -51
+      "points_change": -29,
+      "ranking_off_change": -1,
+      "points_off_change": -16,
+      "ranking_def_change": 0,
+      "points_def_change": -22
     },
     {
       "ranking": 13,
@@ -254,7 +254,7 @@
       "points_change": 0,
       "ranking_off_change": -1,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -290,7 +290,7 @@
       "points_change": -19,
       "ranking_off_change": -2,
       "points_off_change": -13,
-      "ranking_def_change": 0,
+      "ranking_def_change": -1,
       "points_def_change": -22
     },
     {
@@ -801,7 +801,7 @@
       "ranking": 47,
       "flag": "netherlands.png",
       "team": "Netherlands Antilles",
-      "reference_team": "Cura\u00e7ao",
+      "reference_team": "Curaçao",
       "points": 4891,
       "points_off": 4934,
       "points_def": 4676,

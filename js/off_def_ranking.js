@@ -1,51 +1,27 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const yearSelect = document.getElementById('yearSelect');
-    const monthSelect = document.getElementById('monthSelect');
     const latestDateSpan = document.getElementById('latestDate');
     const currentYear = new Date().getFullYear();
     const currentMonth = (new Date().getMonth() + 1).toString().padStart(2, '0');
 
-    // Year options
-    const latestOption = document.createElement('option');
-    latestOption.value = 'latest';
-    latestOption.textContent = 'Latest';
-    yearSelect.appendChild(latestOption);
-    for (let year = currentYear; year >= 1872; year--) {
-        const option = document.createElement('option');
-        option.value = year.toString();
-        option.textContent = year.toString();
-        yearSelect.appendChild(option);
-    }
-    yearSelect.value = currentYear.toString();
+    // État de navigation
+    let selectedYear = currentYear;
+    let selectedMonth = currentMonth;
+    let isLatestMode = true;
 
-    // Month options
-    const months = [
-        { value: '01', name: 'January' }, { value: '02', name: 'February' }, { value: '03', name: 'March' },
-        { value: '04', name: 'April' }, { value: '05', name: 'May' }, { value: '06', name: 'June' },
-        { value: '07', name: 'July' }, { value: '08', name: 'August' }, { value: '09', name: 'September' },
-        { value: '10', name: 'October' }, { value: '11', name: 'November' }, { value: '12', name: 'December' }
-    ];
-    months.forEach(m => {
-        const opt = document.createElement('option');
-        opt.value = m.value;
-        opt.textContent = m.name;
-        monthSelect.appendChild(opt);
-    });
-    monthSelect.value = currentMonth;
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+    // Éléments DOM
+    const dateDisplay = document.getElementById('dateDisplay');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const latestBtn = document.getElementById('latestBtn');
 
     // ── Helpers ─────────────────────────────────────────────────────────────
 
     async function loadJSON(filePath) {
         const response = await fetch(filePath);
-        if (!response.ok) throw new Error(`HTTP ${response.status} for ${filePath}`);
+        if (!response.ok) throw new Error('HTTP ' + response.status + ' for ' + filePath);
         return response.json();
-    }
-
-    function getFilePath() {
-        const year = yearSelect.value;
-        const month = monthSelect.value;
-        if (year === 'latest') return 'data/json/rankings/LatestRankings.json';
-        return `data/json/rankings/${year}${month}Rankings.json`;
     }
 
     // Chevron icon for a ranking change value (positive = moved up = green)
@@ -53,14 +29,14 @@ document.addEventListener('DOMContentLoaded', function () {
         if (change === 0) return '';
         const dir = change > 0 ? 'up' : 'down';
         const cls = change > 0 ? 'text-success' : 'text-danger';
-        return `<i class="fa fa-chevron-${dir} ${cls}" aria-hidden="true"></i>`;
+        return '<i class="fa fa-chevron-' + dir + ' ' + cls + '" aria-hidden="true"></i>';
     }
 
     // Points cell: value + small coloured delta
     function ptsHtml(pts, change) {
         const sign = change > 0 ? '+' : '';
         const cls = change > 0 ? 'text-success' : change < 0 ? 'text-danger' : 'text-muted';
-        return `${pts} <small class="${cls}">${sign}${change}</small>`;
+        return pts + ' <small class="' + cls + '">' + sign + change + '</small>';
     }
 
     // Build a DataTables row array from one ranking item
@@ -69,11 +45,11 @@ document.addEventListener('DOMContentLoaded', function () {
         const defRankOk = item.ranking_def != null;
         return [
             item.ranking,
-            `<img src="img/flags/${item.flag}" alt="${item.team}" class="flag-mini">`,
-            `<a href="matches.html?team=${item.reference_team.replace(/&/g, '%26')}">${item.team}</a>`,
-            offRankOk ? `${item.ranking_off} ${chevron(item.ranking_off_change || 0)}` : '-',
+            '<img src="img/flags/' + item.flag + '" alt="' + item.team + '" class="flag-mini">',
+            '<a href="matches.html?team=' + item.reference_team.replace(/&/g, '%26') + '">' + item.team + '</a>',
+            offRankOk ? item.ranking_off + ' ' + chevron(item.ranking_off_change || 0) : '-',
             offRankOk ? ptsHtml(item.points_off, item.points_off_change || 0) : '-',
-            defRankOk ? `${item.ranking_def} ${chevron(item.ranking_def_change || 0)}` : '-',
+            defRankOk ? item.ranking_def + ' ' + chevron(item.ranking_def_change || 0) : '-',
             defRankOk ? ptsHtml(item.points_def, item.points_def_change || 0) : '-',
             item.confederation
         ];
@@ -124,10 +100,7 @@ document.addEventListener('DOMContentLoaded', function () {
         confederations.forEach(confed => {
             const label = document.createElement('label');
             label.className = 'form-check-label mr-2';
-            label.innerHTML = `
-                <input class="form-check-input confed-checkbox" type="checkbox" value="${confed}" checked>
-                ${confed}
-            `;
+            label.innerHTML = '\n                <input class="form-check-input confed-checkbox" type="checkbox" value="' + confed + '" checked>\n                ' + confed + '\n            ';
             confedFiltersDiv.appendChild(label);
         });
 
@@ -138,33 +111,74 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 
-    // ── Event listeners ───────────────────────────────────────────────────────
+    // ── Navigation ────────────────────────────────────────────────────────────
 
-    yearSelect.addEventListener('change', () => loadData(getFilePath()));
-    monthSelect.addEventListener('change', () => loadData(getFilePath()));
+    async function updateRankings() {
+        let filePath;
+        if (isLatestMode) {
+            filePath = 'data/json/rankings/LatestRankings.json';
+            dateDisplay.textContent = 'Latest';
+        } else {
+            const monthName = monthNames[parseInt(selectedMonth) - 1];
+            dateDisplay.textContent = monthName + ' ' + selectedYear;
+            filePath = 'data/json/rankings/' + selectedYear + selectedMonth + 'Rankings.json';
+        }
+        await loadData(filePath);
+    }
+
+    function navigateMonth(offset) {
+        isLatestMode = false;
+        let newMonth = parseInt(selectedMonth) + offset;
+        let newYear = parseInt(selectedYear);
+
+        if (newMonth > 12) {
+            newMonth = 1;
+            newYear += 1;
+        } else if (newMonth < 1) {
+            newMonth = 12;
+            newYear -= 1;
+        }
+
+        selectedMonth = newMonth.toString().padStart(2, '0');
+        selectedYear = newYear;
+        updateRankings();
+    }
+
+    // Event listeners
+    prevBtn.addEventListener('click', () => navigateMonth(-1));
+    nextBtn.addEventListener('click', () => navigateMonth(1));
+    latestBtn.addEventListener('click', () => {
+        isLatestMode = true;
+        updateRankings();
+    });
 
     // Initial load
-    loadData('data/json/rankings/LatestRankings.json');
+    updateRankings();
 
     // ── Back to top ───────────────────────────────────────────────────────────
 
     const backToTopBtn = document.getElementById('back-to-top');
-    window.addEventListener('scroll', function () {
-        backToTopBtn.style.display = window.scrollY > 200 ? 'block' : 'none';
-    });
-    backToTopBtn.addEventListener('click', function () {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
+    if (backToTopBtn) {
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 200) {
+                backToTopBtn.style.display = 'block';
+            } else {
+                backToTopBtn.style.display = 'none';
+            }
+        });
+        backToTopBtn.addEventListener('click', function() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    }
 
-    // ── Dark theme ────────────────────────────────────────────────────────────
-
+    // Theme switch
     const themeToggle = document.getElementById('theme-toggle');
     if (themeToggle) {
         if (localStorage.getItem('theme') === 'dark') {
             document.body.classList.add('dark-theme');
             themeToggle.textContent = '☀️';
         }
-        themeToggle.addEventListener('click', function () {
+        themeToggle.addEventListener('click', function() {
             document.body.classList.toggle('dark-theme');
             const isDark = document.body.classList.contains('dark-theme');
             themeToggle.textContent = isDark ? '☀️' : '🌙';
