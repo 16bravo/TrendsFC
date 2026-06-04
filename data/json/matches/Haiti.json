@@ -1,18 +1,18 @@
 {
   "team": "Haiti",
   "stats": {
-    "matches_played": 559,
-    "wins": 245,
+    "matches_played": 560,
+    "wins": 246,
     "draws": 118,
     "losses": 196,
-    "goals_for": 949,
+    "goals_for": 953,
     "goals_against": 757,
-    "goal_difference": 192,
-    "win_percentage": 43.8,
+    "goal_difference": 196,
+    "win_percentage": 43.9,
     "avg_points": 1.53,
     "best_rank": 53,
     "worst_rank": 144,
-    "avg_rank": 92.42,
+    "avg_rank": 92.39,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Sint Maarten",
@@ -27,9 +27,9 @@
     },
     "home_matches": 181,
     "away_matches": 193,
-    "neutral_matches": 185,
+    "neutral_matches": 186,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-02"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4984,
-      "rating2": 5296,
+      "rating1": 5014,
+      "rating2": 5306,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 20.4,
+      "rank": 72,
+      "win_prob": 21.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 4984,
+      "rating1": 5014,
       "rating2": 5516,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 9.4,
+      "rank": 72,
+      "win_prob": 10.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4984,
+      "rating1": 5014,
       "rating2": 5285,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 21.2,
+      "rank": 72,
+      "win_prob": 23.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "peru.png",
       "score1": "",
       "score2": "",
-      "rating1": 4984,
+      "rating1": 5014,
       "rating2": 5195,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 28.4,
+      "rank": 72,
+      "win_prob": 31.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "New Zealand",
       "flag1": "haiti.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4984,
-      "rating2": 5105,
-      "rating_ev": 0,
-      "rank": 74,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5014,
+      "rating2": 5075,
+      "rating_ev": 30,
+      "rank": 72,
       "win_prob": 37.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

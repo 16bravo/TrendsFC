@@ -1,18 +1,18 @@
 {
   "team": "Brunei",
   "stats": {
-    "matches_played": 151,
+    "matches_played": 152,
     "wins": 27,
     "draws": 13,
-    "losses": 111,
+    "losses": 112,
     "goals_for": 119,
-    "goals_against": 485,
-    "goal_difference": -366,
-    "win_percentage": 17.9,
+    "goals_against": 488,
+    "goal_difference": -369,
+    "win_percentage": 17.8,
     "avg_points": 0.62,
     "best_rank": 168,
     "worst_rank": 212,
-    "avg_rank": 196.15,
+    "avg_rank": 196.25,
     "biggest_win": {
       "score": "4-0",
       "opponent": "East Timor",
@@ -25,11 +25,11 @@
       "date": "2001-04-14",
       "flag": "uae.png"
     },
-    "home_matches": 29,
+    "home_matches": 30,
     "away_matches": 42,
     "neutral_matches": 80,
     "first_match_date": "1971-05-22",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-02"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "timor.png",
       "score1": "",
       "score2": "",
-      "rating1": 3648,
-      "rating2": 3821,
+      "rating1": 3612,
+      "rating2": 3857,
       "rating_ev": 0,
-      "rank": 210,
-      "win_prob": 31.9,
+      "rank": 211,
+      "win_prob": 25.5,
       "type": "fixture"
     },
     {
       "date": "2026-06-02",
       "country": "Brunei",
-      "tournament": "SE Asian Champ qual",
+      "tournament": "Southeast Asian Champ qual",
       "team1": "Brunei",
       "team2": "East Timor",
       "original_team1": "Brunei",
       "original_team2": "East Timor",
       "flag1": "brunei.png",
       "flag2": "timor.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3648,
-      "rating2": 3821,
-      "rating_ev": 0,
-      "rank": 210,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 3612,
+      "rating2": 3857,
+      "rating_ev": -36,
+      "rank": 211,
       "win_prob": 42.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 482,
-    "wins": 188,
+    "matches_played": 483,
+    "wins": 189,
     "draws": 114,
     "losses": 180,
-    "goals_for": 620,
+    "goals_for": 622,
     "goals_against": 607,
-    "goal_difference": 13,
-    "win_percentage": 39.0,
+    "goal_difference": 15,
+    "win_percentage": 39.1,
     "avg_points": 1.41,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 61.41,
+    "avg_rank": 61.34,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -25,11 +25,11 @@
       "date": "1993-07-18",
       "flag": "mexico.png"
     },
-    "home_matches": 148,
+    "home_matches": 149,
     "away_matches": 200,
     "neutral_matches": 134,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-01"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5249,
+      "rating1": 5256,
       "rating2": 5448,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 39.3,
+      "win_prob": 40.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5249,
+      "rating1": 5256,
       "rating2": 4811,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 91.1,
+      "win_prob": 91.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5249,
+      "rating1": 5256,
       "rating2": 5173,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 68.4,
+      "win_prob": 69.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Uzbekistan",
       "flag1": "canada.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5249,
-      "rating2": 5121,
-      "rating_ev": 0,
-      "rank": 29,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5256,
+      "rating2": 5114,
+      "rating_ev": 7,
+      "rank": 28,
       "win_prob": 73.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

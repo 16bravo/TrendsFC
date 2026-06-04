@@ -1,14 +1,14 @@
 {
   "team": "Philippines",
   "stats": {
-    "matches_played": 387,
-    "wins": 96,
+    "matches_played": 388,
+    "wins": 97,
     "draws": 59,
     "losses": 232,
-    "goals_for": 413,
-    "goals_against": 992,
-    "goal_difference": -579,
-    "win_percentage": 24.8,
+    "goals_for": 418,
+    "goals_against": 993,
+    "goal_difference": -575,
+    "win_percentage": 25.0,
     "avg_points": 0.9,
     "best_rank": 27,
     "worst_rank": 204,
@@ -25,11 +25,11 @@
       "date": "1967-09-27",
       "flag": "japan.png"
     },
-    "home_matches": 103,
+    "home_matches": 104,
     "away_matches": 125,
     "neutral_matches": 159,
     "first_match_date": "1913-02-04",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4503,
+      "rating1": 4508,
       "rating2": 4581,
       "rating_ev": 0,
       "rank": 164,
-      "win_prob": 31.4,
+      "win_prob": 31.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4503,
+      "rating1": 4508,
       "rating2": 4741,
       "rating_ev": 0,
       "rank": 164,
-      "win_prob": 35.4,
+      "win_prob": 35.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4503,
+      "rating1": 4508,
       "rating2": 3949,
       "rating_ev": 0,
       "rank": 164,
-      "win_prob": 87.2,
+      "win_prob": 87.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4503,
+      "rating1": 4508,
       "rating2": 4154,
       "rating_ev": 0,
       "rank": 164,
-      "win_prob": 87.6,
+      "win_prob": 87.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4503,
+      "rating1": 4508,
       "rating2": 4154,
       "rating_ev": 0,
       "rank": 164,
-      "win_prob": 87.6,
+      "win_prob": 87.8,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Guam",
       "flag1": "philippines.png",
       "flag2": "guam.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4503,
-      "rating2": 3752,
-      "rating_ev": 0,
+      "score1": 5,
+      "score2": 1,
+      "rating1": 4508,
+      "rating2": 3747,
+      "rating_ev": 5,
       "rank": 164,
       "win_prob": 97.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

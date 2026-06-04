@@ -1,18 +1,18 @@
 {
   "team": "Netherlands",
   "stats": {
-    "matches_played": 895,
+    "matches_played": 896,
     "wins": 460,
     "draws": 196,
-    "losses": 239,
+    "losses": 240,
     "goals_for": 1872,
-    "goals_against": 1134,
-    "goal_difference": 738,
-    "win_percentage": 51.4,
+    "goals_against": 1135,
+    "goal_difference": 737,
+    "win_percentage": 51.3,
     "avg_points": 1.76,
     "best_rank": 1,
     "worst_rank": 35,
-    "avg_rank": 10.3,
+    "avg_rank": 10.29,
     "biggest_win": {
       "score": "11-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "1907-12-21",
       "flag": "england.png"
     },
-    "home_matches": 424,
+    "home_matches": 425,
     "away_matches": 357,
     "neutral_matches": 114,
     "first_match_date": "1905-04-30",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5541,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 38.9,
+      "rank": 8,
+      "win_prob": 37.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5300,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 81.5,
+      "rank": 8,
+      "win_prob": 80.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5189,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 87.6,
+      "rank": 8,
+      "win_prob": 86.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5300,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 64.6,
+      "rank": 8,
+      "win_prob": 62.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5189,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 74.6,
+      "rank": 8,
+      "win_prob": 73.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5541,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 60.5,
+      "rank": 8,
+      "win_prob": 58.6,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5118,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 86.0,
+      "rank": 8,
+      "win_prob": 85.0,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5249,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 77.9,
+      "rank": 8,
+      "win_prob": 76.6,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
+      "rating1": 5520,
       "rating2": 5437,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 60.9,
+      "rank": 8,
+      "win_prob": 59.0,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5538,
-      "rating2": 5121,
+      "rating1": 5520,
+      "rating2": 5114,
       "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 85.8,
+      "rank": 8,
+      "win_prob": 85.3,
       "type": "fixture"
     },
     {
@@ -232,14 +232,14 @@
       "original_team2": "Algeria",
       "flag1": "netherlands.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5538,
-      "rating2": 5244,
-      "rating_ev": 0,
-      "rank": 7,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5520,
+      "rating2": 5262,
+      "rating_ev": -18,
+      "rank": 8,
       "win_prob": 84.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-02",
+      "date": "2027-03-04",
       "country": "Liberia",
       "tournament": "African Cup qualifier",
       "team1": "Rwanda",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-02",
+      "date": "2027-03-04",
       "country": "Rwanda",
       "tournament": "African Cup qualifier",
       "team1": "Rwanda",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "country": "Mali",
       "tournament": "African Cup qualifier",
       "team1": "Rwanda",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "country": "Rwanda",
       "tournament": "African Cup qualifier",
       "team1": "Rwanda",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-04",
       "country": "Cape Verde",
       "tournament": "African Cup qualifier",
       "team1": "Rwanda",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-04",
       "country": "Rwanda",
       "tournament": "African Cup qualifier",
       "team1": "Rwanda",
@@ -144,44 +144,6 @@
       "rating_ev": 0,
       "rank": 99,
       "win_prob": 72.5,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-09",
-      "country": "Morocco",
-      "tournament": "Friendly",
-      "team1": "Rwanda",
-      "team2": "Tanzania",
-      "original_team1": "Rwanda",
-      "original_team2": "Tanzania",
-      "flag1": "rwanda.png",
-      "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4846,
-      "rating2": 4824,
-      "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 52.4,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-06",
-      "country": "Morocco",
-      "tournament": "Friendly",
-      "team1": "Rwanda",
-      "team2": "Comoros",
-      "original_team1": "Rwanda",
-      "original_team2": "Comoros",
-      "flag1": "rwanda.png",
-      "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4846,
-      "rating2": 4837,
-      "rating_ev": 0,
-      "rank": 99,
-      "win_prob": 51.0,
       "type": "fixture"
     },
     {

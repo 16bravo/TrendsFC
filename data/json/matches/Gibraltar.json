@@ -1,23 +1,23 @@
 {
   "team": "Gibraltar",
   "stats": {
-    "matches_played": 108,
-    "wins": 12,
+    "matches_played": 109,
+    "wins": 13,
     "draws": 14,
     "losses": 82,
-    "goals_for": 44,
+    "goals_for": 48,
     "goals_against": 332,
-    "goal_difference": -288,
-    "win_percentage": 11.1,
-    "avg_points": 0.46,
+    "goal_difference": -284,
+    "win_percentage": 11.9,
+    "avg_points": 0.49,
     "best_rank": 162,
     "worst_rank": 186,
-    "avg_rank": 174.34,
+    "avg_rank": 174.28,
     "biggest_win": {
-      "score": "3-0",
-      "opponent": "Faroe Islands",
-      "date": "2011-03-11",
-      "flag": "faroe.png"
+      "score": "4-0",
+      "opponent": "British Virgin Islands",
+      "date": "2026-06-03",
+      "flag": "gb_virgin.png"
     },
     "biggest_loss": {
       "score": "0-14",
@@ -25,11 +25,11 @@
       "date": "2023-11-18",
       "flag": "france.png"
     },
-    "home_matches": 37,
+    "home_matches": 38,
     "away_matches": 49,
     "neutral_matches": 22,
     "first_match_date": "2007-07-04",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4445,
+      "rating1": 4454,
       "rating2": 4698,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 33.9,
+      "rank": 167,
+      "win_prob": 34.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4445,
+      "rating1": 4454,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 18.5,
+      "rank": 167,
+      "win_prob": 19.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4445,
+      "rating1": 4454,
       "rating2": 4698,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 17.6,
+      "rank": 167,
+      "win_prob": 18.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4445,
+      "rating1": 4454,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 35.3,
+      "rank": 167,
+      "win_prob": 36.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "cayman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4445,
+      "rating1": 4454,
       "rating2": 3880,
       "rating_ev": 0,
-      "rank": 168,
-      "win_prob": 94.5,
+      "rank": 167,
+      "win_prob": 94.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "British Virgin Islands",
       "flag1": "gibraltar.png",
       "flag2": "gb_virgin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4445,
-      "rating2": 3936,
-      "rating_ev": 0,
-      "rank": 168,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4454,
+      "rating2": 3927,
+      "rating_ev": 9,
+      "rank": 167,
       "win_prob": 93.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

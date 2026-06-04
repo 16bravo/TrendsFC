@@ -1,14 +1,14 @@
 {
   "team": "British Virgin Islands",
   "stats": {
-    "matches_played": 139,
+    "matches_played": 140,
     "wins": 24,
     "draws": 24,
-    "losses": 91,
+    "losses": 92,
     "goals_for": 131,
-    "goals_against": 397,
-    "goal_difference": -266,
-    "win_percentage": 17.3,
+    "goals_against": 401,
+    "goal_difference": -270,
+    "win_percentage": 17.1,
     "avg_points": 0.69,
     "best_rank": 180,
     "worst_rank": 214,
@@ -26,10 +26,10 @@
       "flag": "dominican_rep.png"
     },
     "home_matches": 36,
-    "away_matches": 62,
+    "away_matches": 63,
     "neutral_matches": 41,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2026-03-29"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bonaire.png",
       "score1": "",
       "score2": "",
-      "rating1": 3936,
+      "rating1": 3927,
       "rating2": 3998,
       "rating_ev": 0,
       "rank": 205,
-      "win_prob": 43.2,
+      "win_prob": 42.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Gibraltar",
       "flag1": "gb_virgin.png",
       "flag2": "gibraltar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3936,
-      "rating2": 4445,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 3927,
+      "rating2": 4454,
+      "rating_ev": -9,
       "rank": 205,
       "win_prob": 6.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-29",

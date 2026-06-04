@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-02",
+      "date": "2027-03-04",
       "country": "Central African Republic",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-02",
+      "date": "2027-03-04",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "country": "Burkina Faso",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-04",
       "country": "Benin",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-04",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -147,7 +147,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-06-08",
       "country": "Morocco",
       "tournament": "Friendly",
       "team1": "Mauritania",
@@ -163,6 +163,25 @@
       "rating_ev": 0,
       "rank": 118,
       "win_prob": 39.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-05",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Mauritania",
+      "team2": "Angola",
+      "original_team1": "Mauritania",
+      "original_team2": "Angola",
+      "flag1": "mauritania.png",
+      "flag2": "angola.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4794,
+      "rating2": 5015,
+      "rating_ev": 0,
+      "rank": 118,
+      "win_prob": 27.5,
       "type": "fixture"
     },
     {

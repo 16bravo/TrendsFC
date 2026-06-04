@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-06-09",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Grenada",
+      "team2": "Iran",
+      "original_team1": "Grenada",
+      "original_team2": "Iran",
+      "flag1": "grenada.png",
+      "flag2": "iran.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4335,
+      "rating2": 5232,
+      "rating_ev": 0,
+      "rank": 173,
+      "win_prob": 2.6,
+      "type": "fixture"
+    },
+    {
       "date": "2026-05-16",
       "country": "Spain",
       "tournament": "Friendly",

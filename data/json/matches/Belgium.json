@@ -1,18 +1,18 @@
 {
   "team": "Belgium",
   "stats": {
-    "matches_played": 876,
-    "wins": 390,
+    "matches_played": 877,
+    "wins": 391,
     "draws": 184,
     "losses": 302,
-    "goals_for": 1599,
+    "goals_for": 1601,
     "goals_against": 1359,
-    "goal_difference": 240,
-    "win_percentage": 44.5,
+    "goal_difference": 242,
+    "win_percentage": 44.6,
     "avg_points": 1.55,
     "best_rank": 1,
     "worst_rank": 73,
-    "avg_rank": 20.12,
+    "avg_rank": 20.11,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Zambia",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 415,
-    "away_matches": 375,
+    "away_matches": 376,
     "neutral_matches": 86,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-02"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
-      "rating2": 5379,
+      "rating1": 5476,
+      "rating2": 5376,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 68.9,
+      "win_prob": 70.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
+      "rating1": 5476,
       "rating2": 5395,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 46.2,
+      "win_prob": 47.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
+      "rating1": 5476,
       "rating2": 5569,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 28.5,
+      "win_prob": 30.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
+      "rating1": 5476,
       "rating2": 5395,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 67.4,
+      "win_prob": 68.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
+      "rating1": 5476,
       "rating2": 5569,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 49.0,
+      "win_prob": 50.7,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
-      "rating2": 5379,
+      "rating1": 5476,
+      "rating2": 5376,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 47.9,
+      "win_prob": 50.0,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
-      "rating2": 5105,
+      "rating1": 5476,
+      "rating2": 5075,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 82.4,
+      "win_prob": 85.0,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
+      "rating1": 5476,
       "rating2": 5232,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 73.1,
+      "win_prob": 74.4,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "egypt.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
+      "rating1": 5476,
       "rating2": 5132,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 80.6,
+      "win_prob": 81.7,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5460,
+      "rating1": 5476,
       "rating2": 5118,
       "rating_ev": 0,
       "rank": 11,
-      "win_prob": 87.3,
+      "win_prob": 88.0,
       "type": "fixture"
     },
     {
@@ -232,14 +232,14 @@
       "original_team2": "Croatia",
       "flag1": "belgium.png",
       "flag2": "croatia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5460,
-      "rating2": 5422,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5476,
+      "rating2": 5406,
+      "rating_ev": 16,
       "rank": 11,
       "win_prob": 43.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

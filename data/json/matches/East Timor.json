@@ -1,15 +1,15 @@
 {
   "team": "East Timor",
   "stats": {
-    "matches_played": 93,
-    "wins": 11,
+    "matches_played": 94,
+    "wins": 12,
     "draws": 8,
     "losses": 74,
-    "goals_for": 83,
+    "goals_for": 86,
     "goals_against": 298,
-    "goal_difference": -215,
-    "win_percentage": 11.8,
-    "avg_points": 0.44,
+    "goal_difference": -212,
+    "win_percentage": 12.8,
+    "avg_points": 0.47,
     "best_rank": 203,
     "worst_rank": 211,
     "avg_rank": 206.55,
@@ -26,10 +26,10 @@
       "flag": "saudi_arabia.png"
     },
     "home_matches": 6,
-    "away_matches": 47,
+    "away_matches": 48,
     "neutral_matches": 40,
     "first_match_date": "2003-03-21",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-02"
   },
   "matches": [
     {
@@ -44,31 +44,31 @@
       "flag2": "brunei.png",
       "score1": "",
       "score2": "",
-      "rating1": 3821,
-      "rating2": 3648,
+      "rating1": 3857,
+      "rating2": 3612,
       "rating_ev": 0,
       "rank": 207,
-      "win_prob": 68.1,
+      "win_prob": 74.5,
       "type": "fixture"
     },
     {
       "date": "2026-06-02",
       "country": "Brunei",
-      "tournament": "SE Asian Champ qual",
+      "tournament": "Southeast Asian Champ qual",
       "team1": "East Timor",
       "team2": "Brunei",
       "original_team1": "East Timor",
       "original_team2": "Brunei",
       "flag1": "timor.png",
       "flag2": "brunei.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3821,
-      "rating2": 3648,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 3857,
+      "rating2": 3612,
+      "rating_ev": 36,
       "rank": 207,
       "win_prob": 58.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

@@ -1,18 +1,18 @@
 {
   "team": "Nigeria",
   "stats": {
-    "matches_played": 713,
+    "matches_played": 714,
     "wins": 329,
-    "draws": 205,
+    "draws": 206,
     "losses": 179,
-    "goals_for": 1072,
-    "goals_against": 724,
+    "goals_for": 1074,
+    "goals_against": 726,
     "goal_difference": 348,
     "win_percentage": 46.1,
     "avg_points": 1.67,
     "best_rank": 23,
     "worst_rank": 71,
-    "avg_rank": 46.89,
+    "avg_rank": 46.87,
     "biggest_win": {
       "score": "10-0",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -26,14 +26,14 @@
       "flag": "gold_coast.png"
     },
     "home_matches": 235,
-    "away_matches": 261,
+    "away_matches": 262,
     "neutral_matches": 217,
     "first_match_date": "1949-10-08",
-    "last_match_date": "2026-05-30"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
-      "date": "2027-03-02",
+      "date": "2027-03-04",
       "country": "Madagascar",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -44,15 +44,15 @@
       "flag2": "madagascar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
-      "rating2": 4837,
+      "rating1": 5243,
+      "rating2": 4827,
       "rating_ev": 0,
       "rank": 32,
-      "win_prob": 78.7,
+      "win_prob": 79.5,
       "type": "fixture"
     },
     {
-      "date": "2027-03-02",
+      "date": "2027-03-04",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -63,7 +63,7 @@
       "flag2": "guinea_bissau.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
+      "rating1": 5243,
       "rating2": 4736,
       "rating_ev": 0,
       "rank": 32,
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -82,7 +82,7 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
+      "rating1": 5243,
       "rating2": 4824,
       "rating_ev": 0,
       "rank": 32,
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "country": "Tanzania",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -101,15 +101,15 @@
       "flag2": "tanzania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
+      "rating1": 5243,
       "rating2": 4824,
       "rating_ev": 0,
       "rank": 32,
-      "win_prob": 79.6,
+      "win_prob": 79.7,
       "type": "fixture"
     },
     {
-      "date": "2026-10-02",
+      "date": "2026-10-04",
       "country": "Guinea-Bissau",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -120,15 +120,15 @@
       "flag2": "guinea_bissau.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
+      "rating1": 5243,
       "rating2": 4736,
       "rating_ev": 0,
       "rank": 32,
-      "win_prob": 84.8,
+      "win_prob": 85.0,
       "type": "fixture"
     },
     {
-      "date": "2026-09-02",
+      "date": "2026-09-04",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -139,11 +139,11 @@
       "flag2": "madagascar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
-      "rating2": 4837,
+      "rating1": 5243,
+      "rating2": 4827,
       "rating_ev": 0,
       "rank": 32,
-      "win_prob": 89.9,
+      "win_prob": 90.3,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5241,
+      "rating1": 5243,
       "rating2": 5564,
       "rating_ev": 0,
       "rank": 32,
-      "win_prob": 13.7,
+      "win_prob": 13.8,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Poland",
       "flag1": "nigeria.png",
       "flag2": "poland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5241,
-      "rating2": 5206,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5243,
+      "rating2": 5204,
+      "rating_ev": 2,
       "rank": 32,
       "win_prob": 42.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-30",

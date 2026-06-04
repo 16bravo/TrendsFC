@@ -1,18 +1,18 @@
 {
   "team": "Poland",
   "stats": {
-    "matches_played": 918,
+    "matches_played": 919,
     "wins": 399,
-    "draws": 224,
+    "draws": 225,
     "losses": 295,
-    "goals_for": 1558,
-    "goals_against": 1237,
+    "goals_for": 1560,
+    "goals_against": 1239,
     "goal_difference": 321,
-    "win_percentage": 43.5,
+    "win_percentage": 43.4,
     "avg_points": 1.55,
     "best_rank": 1,
     "worst_rank": 48,
-    "avg_rank": 24.22,
+    "avg_rank": 24.24,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "1948-06-26",
       "flag": "denmark.png"
     },
-    "home_matches": 396,
+    "home_matches": 397,
     "away_matches": 407,
     "neutral_matches": 115,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2026-05-31"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5206,
+      "rating1": 5204,
       "rating2": 5249,
       "rating_ev": 0,
       "rank": 38,
-      "win_prob": 56.2,
+      "win_prob": 56.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5206,
-      "rating2": 5149,
+      "rating1": 5204,
+      "rating2": 5153,
       "rating_ev": 0,
       "rank": 38,
-      "win_prob": 45.3,
+      "win_prob": 44.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5206,
-      "rating2": 5149,
+      "rating1": 5204,
+      "rating2": 5153,
       "rating_ev": 0,
       "rank": 38,
-      "win_prob": 66.6,
+      "win_prob": 66.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5206,
+      "rating1": 5204,
       "rating2": 5249,
       "rating_ev": 0,
       "rank": 38,
-      "win_prob": 34.8,
+      "win_prob": 34.6,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Nigeria",
       "flag1": "poland.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5206,
-      "rating2": 5241,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5204,
+      "rating2": 5243,
+      "rating_ev": -2,
       "rank": 38,
       "win_prob": 57.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-31",

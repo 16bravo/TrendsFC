@@ -1,18 +1,18 @@
 {
   "team": "Guam",
   "stats": {
-    "matches_played": 126,
+    "matches_played": 127,
     "wins": 28,
     "draws": 13,
-    "losses": 85,
-    "goals_for": 155,
-    "goals_against": 575,
-    "goal_difference": -420,
-    "win_percentage": 22.2,
-    "avg_points": 0.77,
+    "losses": 86,
+    "goals_for": 156,
+    "goals_against": 580,
+    "goal_difference": -424,
+    "win_percentage": 22.0,
+    "avg_points": 0.76,
     "best_rank": 176,
     "worst_rank": 219,
-    "avg_rank": 209.37,
+    "avg_rank": 209.35,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Palau",
@@ -26,10 +26,10 @@
       "flag": "north_korea.png"
     },
     "home_matches": 22,
-    "away_matches": 36,
+    "away_matches": 37,
     "neutral_matches": 68,
     "first_match_date": "1975-08-02",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 3752,
+      "rating1": 3747,
       "rating2": 4154,
       "rating_ev": 0,
       "rank": 208,
-      "win_prob": 15.0,
+      "win_prob": 14.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Philippines",
       "flag1": "guam.png",
       "flag2": "philippines.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3752,
-      "rating2": 4503,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 3747,
+      "rating2": 4508,
+      "rating_ev": -5,
       "rank": 208,
       "win_prob": 2.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",
