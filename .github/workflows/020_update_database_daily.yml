@@ -2,7 +2,7 @@ name: DB Update Daily
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '17 2,14 * * *'
 
 jobs:
   daily_update:
