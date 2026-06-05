@@ -1,18 +1,18 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1051,
-    "wins": 575,
+    "matches_played": 1052,
+    "wins": 576,
     "draws": 257,
     "losses": 219,
-    "goals_for": 1914,
+    "goals_for": 1915,
     "goals_against": 958,
-    "goal_difference": 956,
-    "win_percentage": 54.7,
+    "goal_difference": 957,
+    "win_percentage": 54.8,
     "avg_points": 1.89,
     "best_rank": 19,
     "worst_rank": 100,
-    "avg_rank": 47.2,
+    "avg_rank": 47.19,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Nepal",
@@ -27,9 +27,9 @@
     },
     "home_matches": 353,
     "away_matches": 250,
-    "neutral_matches": 448,
+    "neutral_matches": 449,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2026-05-30"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5197,
+      "rating1": 5189,
       "rating2": 4956,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 74.2,
+      "rank": 44,
+      "win_prob": 73.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,30 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 5197,
+      "rating1": 5189,
       "rating2": 4664,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 90.7,
+      "rank": 44,
+      "win_prob": 90.4,
+      "type": "fixture"
+    },
+    {
+      "date": "2027-01-10",
+      "country": "Saudi Arabia",
+      "tournament": "Asian Cup",
+      "team1": "South Korea",
+      "team2": "Yemen",
+      "original_team1": "South Korea",
+      "original_team2": "Yemen",
+      "flag1": "south_korea.png",
+      "flag2": "yemen.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5189,
+      "rating2": 4615,
+      "rating_ev": 0,
+      "rank": 44,
+      "win_prob": 92.0,
       "type": "fixture"
     },
     {
@@ -82,11 +101,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5197,
+      "rating1": 5189,
       "rating2": 4978,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 72.3,
+      "rank": 44,
+      "win_prob": 71.6,
       "type": "fixture"
     },
     {
@@ -101,11 +120,11 @@
       "flag2": "mexico.png",
       "score1": "",
       "score2": "",
-      "rating1": 5197,
+      "rating1": 5189,
       "rating2": 5314,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 27.8,
+      "rank": 44,
+      "win_prob": 27.1,
       "type": "fixture"
     },
     {
@@ -120,11 +139,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5197,
-      "rating2": 5223,
+      "rating1": 5189,
+      "rating2": 5227,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 47.1,
+      "rank": 44,
+      "win_prob": 45.8,
       "type": "fixture"
     },
     {
@@ -137,14 +156,14 @@
       "original_team2": "El Salvador",
       "flag1": "south_korea.png",
       "flag2": "salvador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5197,
-      "rating2": 4673,
-      "rating_ev": 0,
-      "rank": 40,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5189,
+      "rating2": 4681,
+      "rating_ev": -8,
+      "rank": 43,
       "win_prob": 90.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-30",

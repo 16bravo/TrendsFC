@@ -1,18 +1,18 @@
 {
   "team": "Lebanon",
   "stats": {
-    "matches_played": 396,
+    "matches_played": 397,
     "wins": 114,
     "draws": 105,
-    "losses": 177,
+    "losses": 178,
     "goals_for": 475,
-    "goals_against": 591,
-    "goal_difference": -116,
-    "win_percentage": 28.8,
+    "goals_against": 593,
+    "goal_difference": -118,
+    "win_percentage": 28.7,
     "avg_points": 1.13,
     "best_rank": 49,
     "worst_rank": 163,
-    "avg_rank": 117.18,
+    "avg_rank": 117.26,
     "biggest_win": {
       "score": "11-1",
       "opponent": "Philippines",
@@ -27,9 +27,9 @@
     },
     "home_matches": 139,
     "away_matches": 130,
-    "neutral_matches": 127,
+    "neutral_matches": 128,
     "first_match_date": "1940-04-27",
-    "last_match_date": "2025-11-26"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Yemen",
       "flag1": "lebanon.png",
       "flag2": "yemen.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4680,
-      "rating2": 4581,
-      "rating_ev": 0,
-      "rank": 143,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4646,
+      "rating2": 4615,
+      "rating_ev": -34,
+      "rank": 148,
       "win_prob": 60.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-26",

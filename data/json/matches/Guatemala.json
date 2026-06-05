@@ -1,18 +1,18 @@
 {
   "team": "Guatemala",
   "stats": {
-    "matches_played": 624,
+    "matches_played": 625,
     "wins": 225,
     "draws": 166,
-    "losses": 233,
-    "goals_for": 876,
-    "goals_against": 845,
-    "goal_difference": 31,
-    "win_percentage": 36.1,
+    "losses": 234,
+    "goals_for": 877,
+    "goals_against": 848,
+    "goal_difference": 29,
+    "win_percentage": 36.0,
     "avg_points": 1.35,
     "best_rank": 31,
     "worst_rank": 113,
-    "avg_rank": 76.9,
+    "avg_rank": 76.92,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 205,
     "away_matches": 180,
-    "neutral_matches": 239,
+    "neutral_matches": 240,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-03-27"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4900,
+      "rating1": 4896,
       "rating2": 5416,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 9.9,
+      "rank": 90,
+      "win_prob": 9.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Czechia",
       "flag1": "guatemala.png",
       "flag2": "czechia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4900,
-      "rating2": 5223,
-      "rating_ev": 0,
-      "rank": 88,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4896,
+      "rating2": 5227,
+      "rating_ev": -4,
+      "rank": 90,
       "win_prob": 19.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-27",

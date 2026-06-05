@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 597,
-    "wins": 199,
+    "matches_played": 598,
+    "wins": 200,
     "draws": 145,
     "losses": 253,
-    "goals_for": 746,
-    "goals_against": 916,
-    "goal_difference": -170,
-    "win_percentage": 33.3,
-    "avg_points": 1.24,
+    "goals_for": 750,
+    "goals_against": 918,
+    "goal_difference": -168,
+    "win_percentage": 33.4,
+    "avg_points": 1.25,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.04,
+    "avg_rank": 85.01,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -25,11 +25,11 @@
       "date": "1938-02-16",
       "flag": "costa_rica.png"
     },
-    "home_matches": 202,
+    "home_matches": 203,
     "away_matches": 231,
     "neutral_matches": 164,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-05-31"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -99,14 +99,14 @@
       "original_team2": "Dominican Republic",
       "flag1": "panama.png",
       "flag2": "dominican_rep.png",
-      "score1": "",
-      "score2": "",
+      "score1": 4,
+      "score2": 2,
       "rating1": 5094,
       "rating2": 4734,
       "rating_ev": 0,
       "rank": 62,
       "win_prob": 88.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-31",

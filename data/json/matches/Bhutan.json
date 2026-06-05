@@ -1,18 +1,18 @@
 {
   "team": "Bhutan",
   "stats": {
-    "matches_played": 111,
+    "matches_played": 112,
     "wins": 11,
     "draws": 7,
-    "losses": 93,
+    "losses": 94,
     "goals_for": 62,
-    "goals_against": 407,
-    "goal_difference": -345,
-    "win_percentage": 9.9,
+    "goals_against": 411,
+    "goal_difference": -349,
+    "win_percentage": 9.8,
     "avg_points": 0.36,
     "best_rank": 182,
     "worst_rank": 214,
-    "avg_rank": 207.14,
+    "avg_rank": 207.16,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "kuwait.png"
     },
     "home_matches": 18,
-    "away_matches": 39,
+    "away_matches": 40,
     "neutral_matches": 54,
     "first_match_date": "1982-04-30",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Cambodia",
       "flag1": "bhutan.png",
       "flag2": "cambodia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3710,
-      "rating2": 4170,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 3700,
+      "rating2": 4180,
+      "rating_ev": -10,
       "rank": 209,
       "win_prob": 8.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

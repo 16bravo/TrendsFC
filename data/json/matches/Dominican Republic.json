@@ -1,18 +1,18 @@
 {
   "team": "Dominican Republic",
   "stats": {
-    "matches_played": 189,
+    "matches_played": 190,
     "wins": 69,
     "draws": 33,
-    "losses": 87,
-    "goals_for": 299,
-    "goals_against": 301,
-    "goal_difference": -2,
-    "win_percentage": 36.5,
-    "avg_points": 1.27,
+    "losses": 88,
+    "goals_for": 301,
+    "goals_against": 305,
+    "goal_difference": -4,
+    "win_percentage": 36.3,
+    "avg_points": 1.26,
     "best_rank": 100,
     "worst_rank": 187,
-    "avg_rank": 162.58,
+    "avg_rank": 162.41,
     "biggest_win": {
       "score": "17-0",
       "opponent": "British Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "trinidad.png"
     },
     "home_matches": 88,
-    "away_matches": 61,
+    "away_matches": 62,
     "neutral_matches": 40,
     "first_match_date": "1949-05-14",
-    "last_match_date": "2026-03-29"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Panama",
       "flag1": "dominican_rep.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 4,
       "rating1": 4734,
       "rating2": 5094,
       "rating_ev": 0,
       "rank": 131,
       "win_prob": 11.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-29",

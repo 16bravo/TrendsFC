@@ -1,18 +1,18 @@
 {
   "team": "El Salvador",
   "stats": {
-    "matches_played": 680,
+    "matches_played": 681,
     "wins": 225,
     "draws": 152,
-    "losses": 303,
+    "losses": 304,
     "goals_for": 856,
-    "goals_against": 1013,
-    "goal_difference": -157,
-    "win_percentage": 33.1,
-    "avg_points": 1.22,
+    "goals_against": 1014,
+    "goal_difference": -158,
+    "win_percentage": 33.0,
+    "avg_points": 1.21,
     "best_rank": 37,
     "worst_rank": 150,
-    "avg_rank": 87.65,
+    "avg_rank": 87.73,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 206,
     "away_matches": 207,
-    "neutral_matches": 267,
+    "neutral_matches": 268,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-03-29"
+    "last_match_date": "2026-06-03"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4673,
+      "rating1": 4681,
       "rating2": 4811,
       "rating_ev": 0,
-      "rank": 145,
-      "win_prob": 35.3,
+      "rank": 143,
+      "win_prob": 36.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "South Korea",
       "flag1": "salvador.png",
       "flag2": "south_korea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4673,
-      "rating2": 5197,
-      "rating_ev": 0,
-      "rank": 145,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4681,
+      "rating2": 5189,
+      "rating_ev": 8,
+      "rank": 143,
       "win_prob": 9.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-29",

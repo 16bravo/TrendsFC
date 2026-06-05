@@ -1,18 +1,18 @@
 {
   "team": "Cambodia",
   "stats": {
-    "matches_played": 308,
-    "wins": 68,
+    "matches_played": 309,
+    "wins": 69,
     "draws": 44,
     "losses": 196,
-    "goals_for": 349,
+    "goals_for": 353,
     "goals_against": 794,
-    "goal_difference": -445,
-    "win_percentage": 22.1,
+    "goal_difference": -441,
+    "win_percentage": 22.3,
     "avg_points": 0.81,
     "best_rank": 102,
     "worst_rank": 206,
-    "avg_rank": 173.12,
+    "avg_rank": 173.16,
     "biggest_win": {
       "score": "8-0",
       "opponent": "North Yemen",
@@ -25,11 +25,11 @@
       "date": "2019-10-10",
       "flag": "iran.png"
     },
-    "home_matches": 76,
+    "home_matches": 77,
     "away_matches": 89,
     "neutral_matches": 143,
     "first_match_date": "1956-03-17",
-    "last_match_date": "2025-11-13"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4170,
+      "rating1": 4180,
       "rating2": 4664,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 7.2,
+      "rank": 185,
+      "win_prob": 7.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4170,
+      "rating1": 4180,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 6.7,
+      "rank": 185,
+      "win_prob": 6.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4170,
+      "rating1": 4180,
       "rating2": 4403,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 35.9,
+      "rank": 185,
+      "win_prob": 36.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "hong_kong.png",
       "score1": "",
       "score2": "",
-      "rating1": 4170,
+      "rating1": 4180,
       "rating2": 4510,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 26.1,
+      "rank": 185,
+      "win_prob": 27.0,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Bhutan",
       "flag1": "cambodia.png",
       "flag2": "bhutan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4170,
-      "rating2": 3710,
-      "rating_ev": 0,
-      "rank": 186,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4180,
+      "rating2": 3700,
+      "rating_ev": 10,
+      "rank": 185,
       "win_prob": 91.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-13",

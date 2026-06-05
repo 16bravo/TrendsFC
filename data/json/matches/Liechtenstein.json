@@ -1,18 +1,18 @@
 {
   "team": "Liechtenstein",
   "stats": {
-    "matches_played": 257,
+    "matches_played": 258,
     "wins": 19,
     "draws": 32,
-    "losses": 206,
+    "losses": 207,
     "goals_for": 104,
-    "goals_against": 722,
-    "goal_difference": -618,
+    "goals_against": 724,
+    "goal_difference": -620,
     "win_percentage": 7.4,
-    "avg_points": 0.35,
+    "avg_points": 0.34,
     "best_rank": 117,
     "worst_rank": 184,
-    "avg_rank": 153.57,
+    "avg_rank": 153.65,
     "biggest_win": {
       "score": "4-0",
       "opponent": "Luxembourg",
@@ -26,10 +26,10 @@
       "flag": "macedonia.png"
     },
     "home_matches": 114,
-    "away_matches": 124,
+    "away_matches": 125,
     "neutral_matches": 19,
     "first_match_date": "1981-06-14",
-    "last_match_date": "2026-03-29"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -44,10 +44,10 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4335,
+      "rating1": 4334,
       "rating2": 4822,
       "rating_ev": 0,
-      "rank": 173,
+      "rank": 174,
       "win_prob": 7.4,
       "type": "fixture"
     },
@@ -63,11 +63,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4335,
+      "rating1": 4334,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 173,
-      "win_prob": 16.8,
+      "rank": 174,
+      "win_prob": 16.7,
       "type": "fixture"
     },
     {
@@ -82,10 +82,10 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4335,
+      "rating1": 4334,
       "rating2": 4810,
       "rating_ev": 0,
-      "rank": 173,
+      "rank": 174,
       "win_prob": 7.7,
       "type": "fixture"
     },
@@ -101,10 +101,10 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4335,
+      "rating1": 4334,
       "rating2": 4822,
       "rating_ev": 0,
-      "rank": 173,
+      "rank": 174,
       "win_prob": 16.1,
       "type": "fixture"
     },
@@ -120,11 +120,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 4335,
-      "rating2": 4797,
+      "rating1": 4334,
+      "rating2": 4811,
       "rating_ev": 0,
-      "rank": 173,
-      "win_prob": 17.5,
+      "rank": 174,
+      "win_prob": 16.7,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Andorra",
       "flag1": "liechtenstein.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4335,
-      "rating2": 4684,
-      "rating_ev": 0,
-      "rank": 173,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4334,
+      "rating2": 4685,
+      "rating_ev": -1,
+      "rank": 174,
       "win_prob": 12.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-29",

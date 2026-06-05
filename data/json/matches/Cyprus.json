@@ -1,18 +1,18 @@
 {
   "team": "Cyprus",
   "stats": {
-    "matches_played": 428,
+    "matches_played": 429,
     "wins": 84,
-    "draws": 73,
+    "draws": 74,
     "losses": 271,
-    "goals_for": 385,
-    "goals_against": 931,
+    "goals_for": 386,
+    "goals_against": 932,
     "goal_difference": -546,
     "win_percentage": 19.6,
     "avg_points": 0.76,
     "best_rank": 57,
     "worst_rank": 140,
-    "avg_rank": 90.06,
+    "avg_rank": 90.11,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Andorra",
@@ -26,10 +26,10 @@
       "flag": "germany.png"
     },
     "home_matches": 238,
-    "away_matches": 184,
+    "away_matches": 185,
     "neutral_matches": 6,
     "first_match_date": "1949-07-30",
-    "last_match_date": "2026-03-30"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
+      "rating1": 4811,
       "rating2": 4918,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 47.7,
+      "rank": 113,
+      "win_prob": 49.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
+      "rating1": 4811,
       "rating2": 4789,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 40.0,
+      "rank": 113,
+      "win_prob": 41.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
+      "rating1": 4811,
       "rating2": 4792,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 61.3,
+      "rank": 113,
+      "win_prob": 62.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
+      "rating1": 4811,
       "rating2": 4789,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 61.6,
+      "rank": 113,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "latvia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
+      "rating1": 4811,
       "rating2": 4792,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 39.7,
+      "rank": 113,
+      "win_prob": 41.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
+      "rating1": 4811,
       "rating2": 4918,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 27.5,
+      "rank": 113,
+      "win_prob": 28.7,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 4797,
-      "rating2": 4335,
+      "rating1": 4811,
+      "rating2": 4334,
       "rating_ev": 0,
-      "rank": 116,
-      "win_prob": 82.5,
+      "rank": 113,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Slovenia",
       "flag1": "cyprus.png",
       "flag2": "slovenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4797,
-      "rating2": 5181,
-      "rating_ev": 0,
-      "rank": 116,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4811,
+      "rating2": 5167,
+      "rating_ev": 14,
+      "rank": 113,
       "win_prob": 10.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-30",

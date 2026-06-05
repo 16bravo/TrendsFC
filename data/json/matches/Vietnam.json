@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2027-01-20",
+      "country": "Saudi Arabia",
+      "tournament": "Asian Cup",
+      "team1": "Vietnam",
+      "team2": "Yemen",
+      "original_team1": "Vietnam",
+      "original_team2": "Yemen",
+      "flag1": "vietnam.png",
+      "flag2": "yemen.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4664,
+      "rating2": 4615,
+      "rating_ev": 0,
+      "rank": 145,
+      "win_prob": 55.4,
+      "type": "fixture"
+    },
+    {
       "date": "2027-01-15",
       "country": "Saudi Arabia",
       "tournament": "Asian Cup",
@@ -45,10 +64,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4664,
-      "rating2": 5197,
+      "rating2": 5189,
       "rating_ev": 0,
-      "rank": 146,
-      "win_prob": 9.3,
+      "rank": 145,
+      "win_prob": 9.6,
       "type": "fixture"
     },
     {
@@ -66,7 +85,7 @@
       "rating1": 4664,
       "rating2": 4956,
       "rating_ev": 0,
-      "rank": 146,
+      "rank": 145,
       "win_prob": 21.9,
       "type": "fixture"
     },
@@ -83,10 +102,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4664,
-      "rating2": 4170,
+      "rating2": 4180,
       "rating_ev": 0,
-      "rank": 146,
-      "win_prob": 92.8,
+      "rank": 145,
+      "win_prob": 92.5,
       "type": "fixture"
     },
     {
@@ -104,7 +123,7 @@
       "rating1": 4664,
       "rating2": 4684,
       "rating_ev": 0,
-      "rank": 146,
+      "rank": 145,
       "win_prob": 37.1,
       "type": "fixture"
     },
@@ -123,7 +142,7 @@
       "rating1": 4664,
       "rating2": 4403,
       "rating_ev": 0,
-      "rank": 146,
+      "rank": 145,
       "win_prob": 82.9,
       "type": "fixture"
     },

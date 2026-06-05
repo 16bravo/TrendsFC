@@ -1,18 +1,18 @@
 {
   "team": "France",
   "stats": {
-    "matches_played": 935,
+    "matches_played": 936,
     "wins": 471,
     "draws": 195,
-    "losses": 269,
-    "goals_for": 1690,
-    "goals_against": 1279,
-    "goal_difference": 411,
-    "win_percentage": 50.4,
+    "losses": 270,
+    "goals_for": 1691,
+    "goals_against": 1281,
+    "goal_difference": 410,
+    "win_percentage": 50.3,
     "avg_points": 1.72,
     "best_rank": 1,
     "worst_rank": 36,
-    "avg_rank": 12.22,
+    "avg_rank": 12.21,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Gibraltar",
@@ -25,11 +25,11 @@
       "date": "1908-10-22",
       "flag": "denmark.png"
     },
-    "home_matches": 471,
+    "home_matches": 472,
     "away_matches": 340,
     "neutral_matches": 124,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2026-03-29"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
+      "rating1": 5547,
       "rating2": 5395,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 76.9,
+      "rank": 5,
+      "win_prob": 75.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
+      "rating1": 5547,
       "rating2": 5376,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 60.1,
+      "rank": 5,
+      "win_prob": 57.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
+      "rating1": 5547,
       "rating2": 5476,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 70.0,
+      "rank": 5,
+      "win_prob": 67.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
+      "rating1": 5547,
       "rating2": 5376,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 78.3,
+      "rank": 5,
+      "win_prob": 76.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
+      "rating1": 5547,
       "rating2": 5476,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 49.3,
+      "rank": 5,
+      "win_prob": 46.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
+      "rating1": 5547,
       "rating2": 5395,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 58.1,
+      "rank": 5,
+      "win_prob": 55.7,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
+      "rating1": 5547,
       "rating2": 5537,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 53.5,
+      "rank": 5,
+      "win_prob": 51.1,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
-      "rating2": 4976,
+      "rating1": 5547,
+      "rating2": 4999,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 92.5,
+      "rank": 5,
+      "win_prob": 91.2,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
+      "rating1": 5547,
       "rating2": 5328,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 74.2,
+      "rank": 5,
+      "win_prob": 72.3,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "northern_ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5569,
-      "rating2": 5121,
+      "rating1": 5547,
+      "rating2": 5123,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 91.4,
+      "rank": 5,
+      "win_prob": 90.6,
       "type": "fixture"
     },
     {
@@ -232,14 +232,14 @@
       "original_team2": "Ivory Coast",
       "flag1": "france.png",
       "flag2": "ivory_coast.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5569,
-      "rating2": 5169,
-      "rating_ev": 0,
-      "rank": 3,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5547,
+      "rating2": 5191,
+      "rating_ev": -22,
+      "rank": 5,
       "win_prob": 89.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-29",

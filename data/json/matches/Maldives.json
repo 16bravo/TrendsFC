@@ -1,18 +1,18 @@
 {
   "team": "Maldives",
   "stats": {
-    "matches_played": 239,
+    "matches_played": 240,
     "wins": 68,
     "draws": 41,
-    "losses": 130,
+    "losses": 131,
     "goals_for": 292,
-    "goals_against": 524,
-    "goal_difference": -232,
-    "win_percentage": 28.5,
-    "avg_points": 1.03,
+    "goals_against": 527,
+    "goal_difference": -235,
+    "win_percentage": 28.3,
+    "avg_points": 1.02,
     "best_rank": 161,
     "worst_rank": 205,
-    "avg_rank": 184.93,
+    "avg_rank": 184.97,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Mongolia",
@@ -25,31 +25,31 @@
       "date": "1997-06-02",
       "flag": "iran.png"
     },
-    "home_matches": 63,
+    "home_matches": 64,
     "away_matches": 84,
     "neutral_matches": 92,
     "first_match_date": "1979-08-27",
-    "last_match_date": "2026-06-01"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
       "date": "2026-06-04",
       "country": "Maldives",
-      "tournament": "Diamond Jubilee T",
+      "tournament": "Diamond Jubilee Tournament",
       "team1": "Maldives",
       "team2": "Pakistan",
       "original_team1": "Maldives",
       "original_team2": "Pakistan",
       "flag1": "maldives.png",
       "flag2": "pakistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4129,
-      "rating2": 4048,
-      "rating_ev": 0,
-      "rank": 193,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4078,
+      "rating2": 4099,
+      "rating_ev": -51,
+      "rank": 195,
       "win_prob": 68.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-01",

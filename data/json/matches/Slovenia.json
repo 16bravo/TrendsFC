@@ -1,18 +1,18 @@
 {
   "team": "Slovenia",
   "stats": {
-    "matches_played": 316,
+    "matches_played": 317,
     "wins": 115,
-    "draws": 85,
+    "draws": 86,
     "losses": 116,
-    "goals_for": 392,
-    "goals_against": 369,
+    "goals_for": 393,
+    "goals_against": 370,
     "goal_difference": 23,
-    "win_percentage": 36.4,
+    "win_percentage": 36.3,
     "avg_points": 1.36,
     "best_rank": 24,
     "worst_rank": 69,
-    "avg_rank": 46.13,
+    "avg_rank": 46.14,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Oman",
@@ -25,11 +25,11 @@
       "date": "2002-10-12",
       "flag": "france.png"
     },
-    "home_matches": 142,
+    "home_matches": 143,
     "away_matches": 144,
     "neutral_matches": 30,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5181,
+      "rating1": 5167,
       "rating2": 5014,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 57.3,
+      "rank": 49,
+      "win_prob": 55.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5181,
+      "rating1": 5167,
       "rating2": 5448,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 32.6,
+      "rank": 49,
+      "win_prob": 31.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5181,
+      "rating1": 5167,
       "rating2": 5285,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 29.0,
+      "rank": 49,
+      "win_prob": 27.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5181,
+      "rating1": 5167,
       "rating2": 5448,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 16.7,
+      "rank": 49,
+      "win_prob": 15.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5181,
+      "rating1": 5167,
       "rating2": 5014,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 76.3,
+      "rank": 49,
+      "win_prob": 75.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5181,
+      "rating1": 5167,
       "rating2": 5285,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 49.5,
+      "rank": 49,
+      "win_prob": 48.0,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5181,
+      "rating1": 5167,
       "rating2": 5406,
       "rating_ev": 0,
-      "rank": 45,
-      "win_prob": 19.4,
+      "rank": 49,
+      "win_prob": 18.5,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Cyprus",
       "flag1": "slovenia.png",
       "flag2": "cyprus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5181,
-      "rating2": 4797,
-      "rating_ev": 0,
-      "rank": 45,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5167,
+      "rating2": 4811,
+      "rating_ev": -14,
+      "rank": 49,
       "win_prob": 89.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

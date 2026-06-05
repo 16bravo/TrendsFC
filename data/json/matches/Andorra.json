@@ -1,18 +1,18 @@
 {
   "team": "Andorra",
   "stats": {
-    "matches_played": 229,
-    "wins": 14,
+    "matches_played": 230,
+    "wins": 15,
     "draws": 32,
     "losses": 183,
-    "goals_for": 75,
+    "goals_for": 77,
     "goals_against": 540,
-    "goal_difference": -465,
-    "win_percentage": 6.1,
-    "avg_points": 0.32,
+    "goal_difference": -463,
+    "win_percentage": 6.5,
+    "avg_points": 0.33,
     "best_rank": 127,
     "worst_rank": 166,
-    "avg_rank": 150.25,
+    "avg_rank": 150.2,
     "biggest_win": {
       "score": "3-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2005-06-04",
       "flag": "czechia.png"
     },
-    "home_matches": 91,
+    "home_matches": 92,
     "away_matches": 105,
     "neutral_matches": 33,
     "first_match_date": "1996-11-13",
-    "last_match_date": "2026-05-29"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
+      "rating1": 4685,
       "rating2": 4454,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 80.9,
+      "rank": 138,
+      "win_prob": 81.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
+      "rating1": 4685,
       "rating2": 4698,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 37.7,
+      "rank": 138,
+      "win_prob": 37.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
+      "rating1": 4685,
       "rating2": 4454,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 63.8,
+      "rank": 138,
+      "win_prob": 63.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
+      "rating1": 4685,
       "rating2": 4698,
       "rating_ev": 0,
-      "rank": 139,
-      "win_prob": 59.3,
+      "rank": 138,
+      "win_prob": 59.4,
       "type": "fixture"
     },
     {
@@ -120,10 +120,10 @@
       "flag2": "kosovo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4684,
+      "rating1": 4685,
       "rating2": 5202,
       "rating_ev": 0,
-      "rank": 139,
+      "rank": 138,
       "win_prob": 6.6,
       "type": "fixture"
     },
@@ -137,14 +137,14 @@
       "original_team2": "Liechtenstein",
       "flag1": "andorra.png",
       "flag2": "liechtenstein.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4684,
-      "rating2": 4335,
-      "rating_ev": 0,
-      "rank": 139,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4685,
+      "rating2": 4334,
+      "rating_ev": 1,
+      "rank": 138,
       "win_prob": 87.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-29",
