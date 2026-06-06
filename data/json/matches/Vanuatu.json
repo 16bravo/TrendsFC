@@ -1,18 +1,18 @@
 {
   "team": "Vanuatu",
   "stats": {
-    "matches_played": 219,
-    "wins": 67,
+    "matches_played": 220,
+    "wins": 68,
     "draws": 30,
     "losses": 122,
-    "goals_for": 384,
-    "goals_against": 474,
-    "goal_difference": -90,
-    "win_percentage": 30.6,
-    "avg_points": 1.05,
+    "goals_for": 386,
+    "goals_against": 475,
+    "goal_difference": -89,
+    "win_percentage": 30.9,
+    "avg_points": 1.06,
     "best_rank": 112,
     "worst_rank": 197,
-    "avg_rank": 177.2,
+    "avg_rank": 177.25,
     "biggest_win": {
       "score": "18-0",
       "opponent": "Kiribati",
@@ -25,11 +25,11 @@
       "date": "1951-10-04",
       "flag": "new_zealand.png"
     },
-    "home_matches": 46,
+    "home_matches": 47,
     "away_matches": 51,
     "neutral_matches": 122,
     "first_match_date": "1951-10-04",
-    "last_match_date": "2025-11-23"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "fiji.png",
       "score1": "",
       "score2": "",
-      "rating1": 4146,
-      "rating2": 4178,
+      "rating1": 4151,
+      "rating2": 4173,
       "rating_ev": 0,
       "rank": 189,
-      "win_prob": 57.4,
+      "win_prob": 58.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Fiji",
       "flag1": "vanuatu.png",
       "flag2": "fiji.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4146,
-      "rating2": 4178,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4151,
+      "rating2": 4173,
+      "rating_ev": 5,
       "rank": 189,
       "win_prob": 57.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-11-23",

@@ -1,18 +1,18 @@
 {
   "team": "Guam",
   "stats": {
-    "matches_played": 127,
+    "matches_played": 128,
     "wins": 28,
     "draws": 13,
-    "losses": 86,
-    "goals_for": 156,
-    "goals_against": 580,
-    "goal_difference": -424,
-    "win_percentage": 22.0,
+    "losses": 87,
+    "goals_for": 157,
+    "goals_against": 586,
+    "goal_difference": -429,
+    "win_percentage": 21.9,
     "avg_points": 0.76,
     "best_rank": 176,
     "worst_rank": 219,
-    "avg_rank": 209.35,
+    "avg_rank": 209.34,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Palau",
@@ -27,9 +27,9 @@
     },
     "home_matches": 22,
     "away_matches": 37,
-    "neutral_matches": 68,
+    "neutral_matches": 69,
     "first_match_date": "1975-08-02",
-    "last_match_date": "2026-06-03"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Myanmar",
       "flag1": "guam.png",
       "flag2": "myanmar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3747,
-      "rating2": 4154,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 6,
+      "rating1": 3706,
+      "rating2": 4195,
+      "rating_ev": -41,
       "rank": 208,
       "win_prob": 14.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-03",
