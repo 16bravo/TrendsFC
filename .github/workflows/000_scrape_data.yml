@@ -1,7 +1,8 @@
 name: Match Data Web Scraping
 on:
   schedule:
-    - cron: '24 1,13 * * *'
+    # - cron: '24 1,13 * * *'
+    - cron: '26 * * * *'
     
 jobs:
   web_scraping:
