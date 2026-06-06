@@ -1,18 +1,18 @@
 {
   "team": "Hong Kong",
   "stats": {
-    "matches_played": 513,
-    "wins": 181,
+    "matches_played": 514,
+    "wins": 182,
     "draws": 100,
     "losses": 232,
-    "goals_for": 812,
+    "goals_for": 814,
     "goals_against": 863,
-    "goal_difference": -51,
-    "win_percentage": 35.3,
-    "avg_points": 1.25,
+    "goal_difference": -49,
+    "win_percentage": 35.4,
+    "avg_points": 1.26,
     "best_rank": 74,
     "worst_rank": 173,
-    "avg_rank": 130.32,
+    "avg_rank": 130.39,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "1948-03-31",
       "flag": "south_vietnam.png"
     },
-    "home_matches": 181,
+    "home_matches": 182,
     "away_matches": 152,
     "neutral_matches": 180,
     "first_match_date": "1947-04-20",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cambodia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4510,
+      "rating1": 4505,
       "rating2": 4180,
       "rating_ev": 0,
-      "rank": 162,
-      "win_prob": 73.0,
+      "rank": 164,
+      "win_prob": 72.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Mongolia",
       "flag1": "hong_kong.png",
       "flag2": "mongolia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4510,
-      "rating2": 3973,
-      "rating_ev": 0,
-      "rank": 162,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4505,
+      "rating2": 3978,
+      "rating_ev": -5,
+      "rank": 164,
       "win_prob": 93.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

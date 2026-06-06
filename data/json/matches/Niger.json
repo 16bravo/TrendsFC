@@ -1,18 +1,18 @@
 {
   "team": "Niger",
   "stats": {
-    "matches_played": 284,
+    "matches_played": 285,
     "wins": 63,
-    "draws": 68,
+    "draws": 69,
     "losses": 153,
-    "goals_for": 280,
-    "goals_against": 494,
+    "goals_for": 281,
+    "goals_against": 495,
     "goal_difference": -214,
-    "win_percentage": 22.2,
-    "avg_points": 0.9,
+    "win_percentage": 22.1,
+    "avg_points": 0.91,
     "best_rank": 77,
     "worst_rank": 147,
-    "avg_rank": 119.29,
+    "avg_rank": 119.19,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Mauritania",
@@ -27,13 +27,13 @@
     },
     "home_matches": 96,
     "away_matches": 115,
-    "neutral_matches": 73,
+    "neutral_matches": 74,
     "first_match_date": "1961-12-25",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
-      "date": "2027-03-05",
+      "date": "2027-03-06",
       "country": "Lesotho",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-05",
+      "date": "2027-03-06",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "country": "Morocco",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "country": "Gabon",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -159,10 +159,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4892,
-      "rating2": 4794,
+      "rating2": 4801,
       "rating_ev": 0,
       "rank": 92,
-      "win_prob": 60.6,
+      "win_prob": 59.9,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Benin",
       "flag1": "niger.png",
       "flag2": "benin.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 1,
       "rating1": 4892,
       "rating2": 4881,
       "rating_ev": 0,
       "rank": 92,
       "win_prob": 51.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

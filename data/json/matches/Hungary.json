@@ -1,18 +1,18 @@
 {
   "team": "Hungary",
   "stats": {
-    "matches_played": 1036,
-    "wins": 489,
+    "matches_played": 1037,
+    "wins": 490,
     "draws": 222,
     "losses": 325,
-    "goals_for": 2086,
-    "goals_against": 1529,
-    "goal_difference": 557,
-    "win_percentage": 47.2,
+    "goals_for": 2088,
+    "goals_against": 1530,
+    "goal_difference": 558,
+    "win_percentage": 47.3,
     "avg_points": 1.63,
     "best_rank": 1,
     "worst_rank": 71,
-    "avg_rank": 22.4,
+    "avg_rank": 22.43,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Russia",
@@ -25,11 +25,11 @@
       "date": "1908-06-10",
       "flag": "england.png"
     },
-    "home_matches": 467,
+    "home_matches": 468,
     "away_matches": 495,
     "neutral_matches": 74,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -47,7 +47,7 @@
       "rating1": 5180,
       "rating2": 5123,
       "rating_ev": 0,
-      "rank": 46,
+      "rank": 45,
       "win_prob": 66.6,
       "type": "fixture"
     },
@@ -66,7 +66,7 @@
       "rating1": 5180,
       "rating2": 5168,
       "rating_ev": 0,
-      "rank": 46,
+      "rank": 45,
       "win_prob": 40.5,
       "type": "fixture"
     },
@@ -85,7 +85,7 @@
       "rating1": 5180,
       "rating2": 5240,
       "rating_ev": 0,
-      "rank": 46,
+      "rank": 45,
       "win_prob": 43.4,
       "type": "fixture"
     },
@@ -104,7 +104,7 @@
       "rating1": 5180,
       "rating2": 5168,
       "rating_ev": 0,
-      "rank": 46,
+      "rank": 45,
       "win_prob": 62.0,
       "type": "fixture"
     },
@@ -123,7 +123,7 @@
       "rating1": 5180,
       "rating2": 5123,
       "rating_ev": 0,
-      "rank": 46,
+      "rank": 45,
       "win_prob": 45.3,
       "type": "fixture"
     },
@@ -142,7 +142,7 @@
       "rating1": 5180,
       "rating2": 5240,
       "rating_ev": 0,
-      "rank": 46,
+      "rank": 45,
       "win_prob": 54.4,
       "type": "fixture"
     },
@@ -161,7 +161,7 @@
       "rating1": 5180,
       "rating2": 4899,
       "rating_ev": 0,
-      "rank": 46,
+      "rank": 45,
       "win_prob": 84.1,
       "type": "fixture"
     },
@@ -175,14 +175,14 @@
       "original_team2": "Finland",
       "flag1": "hungary.png",
       "flag2": "finland.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 1,
       "rating1": 5180,
       "rating2": 5030,
       "rating_ev": 0,
-      "rank": 46,
+      "rank": 45,
       "win_prob": 75.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

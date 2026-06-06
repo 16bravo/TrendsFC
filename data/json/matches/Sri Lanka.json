@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-06-08",
+      "country": "Thailand",
+      "tournament": "Friendly",
+      "team1": "Sri Lanka",
+      "team2": "Bhutan",
+      "original_team1": "Sri Lanka",
+      "original_team2": "Bhutan",
+      "flag1": "sri_lanka.png",
+      "flag2": "bhutan.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4073,
+      "rating2": 3700,
+      "rating_ev": 0,
+      "rank": 196,
+      "win_prob": 83.4,
+      "type": "fixture"
+    },
+    {
       "date": "2026-03-31",
       "country": "Taiwan",
       "tournament": "Asian Cup qualifier",

@@ -1,18 +1,18 @@
 {
   "team": "China",
   "stats": {
-    "matches_played": 744,
-    "wins": 361,
+    "matches_played": 745,
+    "wins": 362,
     "draws": 158,
     "losses": 225,
-    "goals_for": 1386,
-    "goals_against": 824,
-    "goal_difference": 562,
-    "win_percentage": 48.5,
+    "goals_for": 1388,
+    "goals_against": 825,
+    "goal_difference": 563,
+    "win_percentage": 48.6,
     "avg_points": 1.67,
     "best_rank": 24,
     "worst_rank": 128,
-    "avg_rank": 60.82,
+    "avg_rank": 60.88,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 270,
-    "away_matches": 247,
+    "away_matches": 248,
     "neutral_matches": 227,
     "first_match_date": "1913-02-04",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kyrgyzstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
+      "rating1": 4822,
       "rating2": 4683,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 65.1,
+      "rank": 107,
+      "win_prob": 64.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
-      "rating2": 4926,
+      "rating1": 4822,
+      "rating2": 4910,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 39.1,
+      "rank": 107,
+      "win_prob": 40.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
+      "rating1": 4822,
       "rating2": 5242,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 14.2,
+      "rank": 107,
+      "win_prob": 14.0,
       "type": "fixture"
     },
     {
@@ -101,10 +101,10 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4825,
-      "rating2": 4741,
+      "rating1": 4822,
+      "rating2": 4738,
       "rating_ev": 0,
-      "rank": 106,
+      "rank": 107,
       "win_prob": 69.2,
       "type": "fixture"
     },
@@ -118,14 +118,14 @@
       "original_team2": "Singapore",
       "flag1": "china.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4825,
-      "rating2": 4403,
-      "rating_ev": 0,
-      "rank": 106,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4822,
+      "rating2": 4406,
+      "rating_ev": -3,
+      "rank": 107,
       "win_prob": 79.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

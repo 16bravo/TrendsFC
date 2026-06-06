@@ -1,18 +1,18 @@
 {
   "team": "Kuwait",
   "stats": {
-    "matches_played": 737,
+    "matches_played": 738,
     "wins": 306,
-    "draws": 192,
+    "draws": 193,
     "losses": 239,
-    "goals_for": 1147,
-    "goals_against": 844,
+    "goals_for": 1149,
+    "goals_against": 846,
     "goal_difference": 303,
     "win_percentage": 41.5,
     "avg_points": 1.51,
     "best_rank": 21,
     "worst_rank": 144,
-    "avg_rank": 78.78,
+    "avg_rank": 78.85,
     "biggest_win": {
       "score": "20-0",
       "opponent": "Bhutan",
@@ -26,10 +26,10 @@
       "flag": "uar.png"
     },
     "home_matches": 258,
-    "away_matches": 172,
+    "away_matches": 173,
     "neutral_matches": 307,
     "first_match_date": "1961-09-03",
-    "last_match_date": "2025-12-09"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4737,
+      "rating1": 4740,
       "rating2": 4992,
       "rating_ev": 0,
-      "rank": 129,
-      "win_prob": 17.5,
+      "rank": 128,
+      "win_prob": 17.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "palestine.png",
       "score1": "",
       "score2": "",
-      "rating1": 4737,
+      "rating1": 4740,
       "rating2": 4884,
       "rating_ev": 0,
-      "rank": 129,
-      "win_prob": 34.4,
+      "rank": 128,
+      "win_prob": 34.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4737,
-      "rating2": 4873,
+      "rating1": 4740,
+      "rating2": 4850,
       "rating_ev": 0,
-      "rank": 129,
-      "win_prob": 35.5,
+      "rank": 128,
+      "win_prob": 38.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4737,
-      "rating2": 4873,
+      "rating1": 4740,
+      "rating2": 4850,
       "rating_ev": 0,
-      "rank": 129,
-      "win_prob": 35.5,
+      "rank": 128,
+      "win_prob": 38.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 4737,
+      "rating1": 4740,
       "rating2": 4999,
       "rating_ev": 0,
-      "rank": 129,
-      "win_prob": 24.1,
+      "rank": 128,
+      "win_prob": 24.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4737,
+      "rating1": 4740,
       "rating2": 4992,
       "rating_ev": 0,
-      "rank": 129,
-      "win_prob": 17.5,
+      "rank": 128,
+      "win_prob": 17.6,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Thailand",
       "flag1": "kuwait.png",
       "flag2": "thailand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4737,
-      "rating2": 4741,
-      "rating_ev": 0,
-      "rank": 129,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4740,
+      "rating2": 4738,
+      "rating_ev": 3,
+      "rank": 128,
       "win_prob": 38.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-09",

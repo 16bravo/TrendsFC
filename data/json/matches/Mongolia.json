@@ -1,18 +1,18 @@
 {
   "team": "Mongolia",
   "stats": {
-    "matches_played": 98,
+    "matches_played": 99,
     "wins": 21,
     "draws": 11,
-    "losses": 66,
+    "losses": 67,
     "goals_for": 98,
-    "goals_against": 274,
-    "goal_difference": -176,
-    "win_percentage": 21.4,
-    "avg_points": 0.76,
+    "goals_against": 276,
+    "goal_difference": -178,
+    "win_percentage": 21.2,
+    "avg_points": 0.75,
     "best_rank": 149,
     "worst_rank": 210,
-    "avg_rank": 202.73,
+    "avg_rank": 202.74,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Northern Mariana Islands",
@@ -26,10 +26,10 @@
       "flag": "uzbekistan.png"
     },
     "home_matches": 20,
-    "away_matches": 37,
+    "away_matches": 38,
     "neutral_matches": 41,
     "first_match_date": "1960-12-03",
-    "last_match_date": "2026-05-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Hong Kong",
       "flag1": "mongolia.png",
       "flag2": "hong_kong.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3973,
-      "rating2": 4510,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 3978,
+      "rating2": 4505,
+      "rating_ev": 5,
       "rank": 203,
       "win_prob": 6.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-31",

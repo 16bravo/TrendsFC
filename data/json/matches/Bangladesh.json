@@ -1,18 +1,18 @@
 {
   "team": "Bangladesh",
   "stats": {
-    "matches_played": 325,
-    "wins": 85,
+    "matches_played": 326,
+    "wins": 86,
     "draws": 73,
     "losses": 167,
-    "goals_for": 290,
-    "goals_against": 581,
-    "goal_difference": -291,
-    "win_percentage": 26.2,
-    "avg_points": 1.01,
+    "goals_for": 292,
+    "goals_against": 582,
+    "goal_difference": -290,
+    "win_percentage": 26.4,
+    "avg_points": 1.02,
     "best_rank": 144,
     "worst_rank": 200,
-    "avg_rank": 178.56,
+    "avg_rank": 178.57,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Maldives",
@@ -26,10 +26,10 @@
       "flag": "south_korea.png"
     },
     "home_matches": 92,
-    "away_matches": 92,
+    "away_matches": 93,
     "neutral_matches": 141,
     "first_match_date": "1973-07-27",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "San Marino",
       "flag1": "bangladesh.png",
       "flag2": "san_marino.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4234,
-      "rating2": 4258,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4245,
+      "rating2": 4247,
+      "rating_ev": 11,
       "rank": 180,
       "win_prob": 36.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

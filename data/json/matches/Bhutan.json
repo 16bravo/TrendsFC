@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-06-08",
+      "country": "Thailand",
+      "tournament": "Friendly",
+      "team1": "Bhutan",
+      "team2": "Sri Lanka",
+      "original_team1": "Bhutan",
+      "original_team2": "Sri Lanka",
+      "flag1": "bhutan.png",
+      "flag2": "sri_lanka.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 3700,
+      "rating2": 4073,
+      "rating_ev": 0,
+      "rank": 209,
+      "win_prob": 16.6,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-04",
       "country": "Cambodia",
       "tournament": "Friendly",

@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 455,
-    "wins": 64,
+    "matches_played": 456,
+    "wins": 65,
     "draws": 77,
     "losses": 314,
-    "goals_for": 292,
+    "goals_for": 294,
     "goals_against": 1020,
-    "goal_difference": -728,
-    "win_percentage": 14.1,
-    "avg_points": 0.59,
+    "goal_difference": -726,
+    "win_percentage": 14.3,
+    "avg_points": 0.6,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.74,
+    "avg_rank": 112.79,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -27,9 +27,9 @@
     },
     "home_matches": 246,
     "away_matches": 183,
-    "neutral_matches": 26,
+    "neutral_matches": 27,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2026-06-01"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4698,
+      "rating1": 4715,
       "rating2": 4454,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 65.2,
+      "rank": 135,
+      "win_prob": 66.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4698,
+      "rating1": 4715,
       "rating2": 4685,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 62.1,
+      "rank": 135,
+      "win_prob": 63.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4698,
+      "rating1": 4715,
       "rating2": 4454,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 81.8,
+      "rank": 135,
+      "win_prob": 82.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "andorra.png",
       "score1": "",
       "score2": "",
-      "rating1": 4698,
+      "rating1": 4715,
       "rating2": 4685,
       "rating_ev": 0,
-      "rank": 136,
-      "win_prob": 40.6,
+      "rank": 135,
+      "win_prob": 42.4,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Azerbaijan",
       "flag1": "malta.png",
       "flag2": "azerbaijan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4698,
-      "rating2": 4810,
-      "rating_ev": 0,
-      "rank": 136,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4715,
+      "rating2": 4793,
+      "rating_ev": 17,
+      "rank": 135,
       "win_prob": 37.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-01",

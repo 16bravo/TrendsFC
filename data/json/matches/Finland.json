@@ -1,18 +1,18 @@
 {
   "team": "Finland",
   "stats": {
-    "matches_played": 824,
+    "matches_played": 825,
     "wins": 217,
     "draws": 167,
-    "losses": 440,
-    "goals_for": 971,
-    "goals_against": 1697,
-    "goal_difference": -726,
+    "losses": 441,
+    "goals_for": 972,
+    "goals_against": 1699,
+    "goal_difference": -727,
     "win_percentage": 26.3,
     "avg_points": 0.99,
     "best_rank": 19,
     "worst_rank": 97,
-    "avg_rank": 51.27,
+    "avg_rank": 51.29,
     "biggest_win": {
       "score": "10-2",
       "opponent": "Estonia",
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 337,
-    "away_matches": 429,
+    "away_matches": 430,
     "neutral_matches": 58,
     "first_match_date": "1911-10-22",
-    "last_match_date": "2026-05-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5030,
-      "rating2": 4258,
+      "rating2": 4247,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 97.4,
+      "rank": 68,
+      "win_prob": 97.5,
       "type": "fixture"
     },
     {
@@ -66,7 +66,7 @@
       "rating1": 5030,
       "rating2": 5131,
       "rating_ev": 0,
-      "rank": 69,
+      "rank": 68,
       "win_prob": 29.3,
       "type": "fixture"
     },
@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5030,
-      "rating2": 4981,
+      "rating2": 4997,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 55.4,
+      "rank": 68,
+      "win_prob": 53.6,
       "type": "fixture"
     },
     {
@@ -104,7 +104,7 @@
       "rating1": 5030,
       "rating2": 5131,
       "rating_ev": 0,
-      "rank": 69,
+      "rank": 68,
       "win_prob": 49.9,
       "type": "fixture"
     },
@@ -121,10 +121,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5030,
-      "rating2": 4981,
+      "rating2": 4997,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 65.8,
+      "rank": 68,
+      "win_prob": 64.2,
       "type": "fixture"
     },
     {
@@ -140,10 +140,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5030,
-      "rating2": 4258,
+      "rating2": 4247,
       "rating_ev": 0,
-      "rank": 69,
-      "win_prob": 94.0,
+      "rank": 68,
+      "win_prob": 94.2,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Hungary",
       "flag1": "finland.png",
       "flag2": "hungary.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 2,
       "rating1": 5030,
       "rating2": 5180,
       "rating_ev": 0,
       "rank": 69,
       "win_prob": 25.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-31",

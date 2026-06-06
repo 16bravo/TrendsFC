@@ -1,18 +1,18 @@
 {
   "team": "Thailand",
   "stats": {
-    "matches_played": 931,
+    "matches_played": 932,
     "wins": 365,
-    "draws": 211,
+    "draws": 212,
     "losses": 355,
-    "goals_for": 1489,
-    "goals_against": 1393,
+    "goals_for": 1491,
+    "goals_against": 1395,
     "goal_difference": 96,
     "win_percentage": 39.2,
     "avg_points": 1.4,
     "best_rank": 69,
     "worst_rank": 145,
-    "avg_rank": 113.3,
+    "avg_rank": 113.32,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Brunei",
@@ -25,11 +25,11 @@
       "date": "2023-10-12",
       "flag": "georgia.png"
     },
-    "home_matches": 389,
+    "home_matches": 390,
     "away_matches": 199,
     "neutral_matches": 343,
     "first_match_date": "1948-08-20",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4741,
-      "rating2": 4684,
+      "rating1": 4738,
+      "rating2": 4707,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 56.2,
+      "rank": 129,
+      "win_prob": 53.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4741,
+      "rating1": 4738,
       "rating2": 5437,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 5.2,
+      "rank": 129,
+      "win_prob": 5.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4741,
+      "rating1": 4738,
       "rating2": 4811,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 42.4,
+      "rank": 129,
+      "win_prob": 42.0,
       "type": "fixture"
     },
     {
@@ -101,10 +101,10 @@
       "flag2": "myanmar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4741,
+      "rating1": 4738,
       "rating2": 4154,
       "rating_ev": 0,
-      "rank": 127,
+      "rank": 129,
       "win_prob": 94.9,
       "type": "fixture"
     },
@@ -120,11 +120,11 @@
       "flag2": "philippines.png",
       "score1": "",
       "score2": "",
-      "rating1": 4741,
+      "rating1": 4738,
       "rating2": 4508,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 64.1,
+      "rank": 129,
+      "win_prob": 63.8,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "malaysia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4741,
+      "rating1": 4738,
       "rating2": 4581,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 75.8,
+      "rank": 129,
+      "win_prob": 75.6,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "laos.png",
       "score1": "",
       "score2": "",
-      "rating1": 4741,
+      "rating1": 4738,
       "rating2": 3949,
       "rating_ev": 0,
-      "rank": 127,
-      "win_prob": 94.4,
+      "rank": 129,
+      "win_prob": 94.3,
       "type": "fixture"
     },
     {
@@ -177,10 +177,10 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 4741,
-      "rating2": 4825,
+      "rating1": 4738,
+      "rating2": 4822,
       "rating_ev": 0,
-      "rank": 127,
+      "rank": 129,
       "win_prob": 30.8,
       "type": "fixture"
     },
@@ -194,14 +194,14 @@
       "original_team2": "Kuwait",
       "flag1": "thailand.png",
       "flag2": "kuwait.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4741,
-      "rating2": 4737,
-      "rating_ev": 0,
-      "rank": 127,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4738,
+      "rating2": 4740,
+      "rating_ev": -3,
+      "rank": 129,
       "win_prob": 61.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

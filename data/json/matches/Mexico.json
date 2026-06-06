@@ -1,13 +1,13 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1026,
-    "wins": 531,
+    "matches_played": 1027,
+    "wins": 532,
     "draws": 237,
     "losses": 258,
-    "goals_for": 1819,
-    "goals_against": 1053,
-    "goal_difference": 766,
+    "goals_for": 1824,
+    "goals_against": 1054,
+    "goal_difference": 770,
     "win_percentage": 51.8,
     "avg_points": 1.78,
     "best_rank": 2,
@@ -25,11 +25,11 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 297,
+    "home_matches": 298,
     "away_matches": 271,
     "neutral_matches": 458,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2026-05-30"
+    "last_match_date": "2026-06-04"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5314,
+      "rating1": 5334,
       "rating2": 5227,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 69.5,
+      "rank": 21,
+      "win_prob": 71.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5314,
+      "rating1": 5334,
       "rating2": 5189,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 72.9,
+      "rank": 21,
+      "win_prob": 74.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5314,
+      "rating1": 5334,
       "rating2": 4978,
       "rating_ev": 0,
-      "rank": 24,
-      "win_prob": 87.0,
+      "rank": 21,
+      "win_prob": 87.9,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Serbia",
       "flag1": "mexico.png",
       "flag2": "serbia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5314,
-      "rating2": 5189,
-      "rating_ev": 0,
-      "rank": 24,
+      "score1": 5,
+      "score2": 1,
+      "rating1": 5334,
+      "rating2": 5169,
+      "rating_ev": 20,
+      "rank": 21,
       "win_prob": 72.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-30",

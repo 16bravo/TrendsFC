@@ -1,18 +1,18 @@
 {
   "team": "Nicaragua",
   "stats": {
-    "matches_played": 252,
+    "matches_played": 253,
     "wins": 54,
     "draws": 32,
-    "losses": 166,
+    "losses": 167,
     "goals_for": 258,
-    "goals_against": 617,
-    "goal_difference": -359,
-    "win_percentage": 21.4,
+    "goals_against": 621,
+    "goal_difference": -363,
+    "win_percentage": 21.3,
     "avg_points": 0.77,
     "best_rank": 67,
     "worst_rank": 187,
-    "avg_rank": 146.79,
+    "avg_rank": 146.73,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Turks and Caicos Islands",
@@ -26,10 +26,10 @@
       "flag": "honduras.png"
     },
     "home_matches": 63,
-    "away_matches": 99,
+    "away_matches": 100,
     "neutral_matches": 90,
     "first_match_date": "1929-05-01",
-    "last_match_date": "2026-05-29"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Paraguay",
       "flag1": "nicaragua.png",
       "flag2": "paraguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4730,
-      "rating2": 5321,
-      "rating_ev": 0,
-      "rank": 132,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4723,
+      "rating2": 5328,
+      "rating_ev": -7,
+      "rank": 133,
       "win_prob": 5.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-29",

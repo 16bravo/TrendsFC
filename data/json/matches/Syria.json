@@ -1,14 +1,14 @@
 {
   "team": "Syria",
   "stats": {
-    "matches_played": 579,
+    "matches_played": 580,
     "wins": 216,
     "draws": 141,
-    "losses": 222,
-    "goals_for": 836,
-    "goals_against": 739,
-    "goal_difference": 97,
-    "win_percentage": 37.3,
+    "losses": 223,
+    "goals_for": 837,
+    "goals_against": 743,
+    "goal_difference": 94,
+    "win_percentage": 37.2,
     "avg_points": 1.36,
     "best_rank": 61,
     "worst_rank": 118,
@@ -26,10 +26,10 @@
       "flag": "greece_1.png"
     },
     "home_matches": 116,
-    "away_matches": 215,
+    "away_matches": 216,
     "neutral_matches": 248,
     "first_match_date": "1944-03-10",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4910,
       "rating2": 5242,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 20.2,
+      "rank": 87,
+      "win_prob": 19.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
-      "rating2": 4825,
+      "rating1": 4910,
+      "rating2": 4822,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 60.9,
+      "rank": 87,
+      "win_prob": 59.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "kyrgyzstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4910,
       "rating2": 4683,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 74.3,
+      "rank": 87,
+      "win_prob": 73.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4910,
       "rating2": 4788,
       "rating_ev": 0,
-      "rank": 85,
-      "win_prob": 64.7,
+      "rank": 87,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Belarus",
       "flag1": "syria.png",
       "flag2": "belarus.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4926,
-      "rating2": 4981,
-      "rating_ev": 0,
-      "rank": 85,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4910,
+      "rating2": 4997,
+      "rating_ev": -16,
+      "rank": 87,
       "win_prob": 33.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

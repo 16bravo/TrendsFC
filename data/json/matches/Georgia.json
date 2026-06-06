@@ -1,18 +1,18 @@
 {
   "team": "Georgia",
   "stats": {
-    "matches_played": 316,
-    "wins": 105,
+    "matches_played": 317,
+    "wins": 106,
     "draws": 68,
     "losses": 143,
-    "goals_for": 407,
+    "goals_for": 409,
     "goals_against": 438,
-    "goal_difference": -31,
-    "win_percentage": 33.2,
-    "avg_points": 1.21,
+    "goal_difference": -29,
+    "win_percentage": 33.4,
+    "avg_points": 1.22,
     "best_rank": 29,
     "worst_rank": 90,
-    "avg_rank": 59.49,
+    "avg_rank": 59.46,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Thailand",
@@ -25,11 +25,11 @@
       "date": "2023-09-08",
       "flag": "spain.png"
     },
-    "home_matches": 137,
+    "home_matches": 138,
     "away_matches": 148,
     "neutral_matches": 31,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2026-06-02"
+    "last_match_date": "2026-06-05"
   },
   "matches": [
     {
@@ -156,14 +156,14 @@
       "original_team2": "Bahrain",
       "flag1": "georgia.png",
       "flag2": "bahrain.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 0,
       "rating1": 5168,
       "rating2": 4788,
       "rating_ev": 0,
       "rank": 48,
       "win_prob": 88.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-02",
