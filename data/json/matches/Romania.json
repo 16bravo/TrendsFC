@@ -1,18 +1,18 @@
 {
   "team": "Romania",
   "stats": {
-    "matches_played": 794,
-    "wins": 352,
+    "matches_played": 795,
+    "wins": 353,
     "draws": 198,
     "losses": 244,
-    "goals_for": 1291,
-    "goals_against": 1004,
-    "goal_difference": 287,
-    "win_percentage": 44.3,
+    "goals_for": 1293,
+    "goals_against": 1005,
+    "goal_difference": 288,
+    "win_percentage": 44.4,
     "avg_points": 1.58,
     "best_rank": 6,
     "worst_rank": 64,
-    "avg_rank": 23.79,
+    "avg_rank": 23.82,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Finland",
@@ -25,11 +25,11 @@
       "date": "1948-06-06",
       "flag": "hungary_3.png"
     },
-    "home_matches": 331,
+    "home_matches": 332,
     "away_matches": 373,
     "neutral_matches": 90,
     "first_match_date": "1922-06-08",
-    "last_match_date": "2026-06-02"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5153,
+      "rating1": 5158,
       "rating2": 5204,
       "rating_ev": 0,
       "rank": 50,
-      "win_prob": 55.3,
+      "win_prob": 55.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5153,
+      "rating1": 5158,
       "rating2": 5248,
       "rating_ev": 0,
       "rank": 50,
-      "win_prob": 50.5,
+      "win_prob": 51.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5153,
+      "rating1": 5158,
       "rating2": 5204,
       "rating_ev": 0,
       "rank": 50,
-      "win_prob": 34.0,
+      "win_prob": 34.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5153,
+      "rating1": 5158,
       "rating2": 5248,
       "rating_ev": 0,
       "rank": 50,
-      "win_prob": 29.8,
+      "win_prob": 30.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Wales",
       "flag1": "romania.png",
       "flag2": "wales.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5153,
-      "rating2": 5194,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5158,
+      "rating2": 5189,
+      "rating_ev": 5,
       "rank": 50,
       "win_prob": 56.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-02",

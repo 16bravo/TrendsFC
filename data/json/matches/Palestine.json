@@ -1,18 +1,18 @@
 {
   "team": "Palestine",
   "stats": {
-    "matches_played": 284,
+    "matches_played": 285,
     "wins": 80,
-    "draws": 75,
+    "draws": 76,
     "losses": 129,
     "goals_for": 360,
     "goals_against": 443,
     "goal_difference": -83,
-    "win_percentage": 28.2,
+    "win_percentage": 28.1,
     "avg_points": 1.11,
     "best_rank": 64,
     "worst_rank": 159,
-    "avg_rank": 128.11,
+    "avg_rank": 127.98,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Guam",
@@ -26,10 +26,10 @@
       "flag": "lebanon.png"
     },
     "home_matches": 18,
-    "away_matches": 111,
+    "away_matches": 112,
     "neutral_matches": 155,
     "first_match_date": "1934-03-16",
-    "last_match_date": "2025-12-11"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4884,
+      "rating1": 4881,
       "rating2": 4806,
       "rating_ev": 0,
       "rank": 93,
-      "win_prob": 58.5,
+      "win_prob": 58.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4884,
+      "rating1": 4881,
       "rating2": 4740,
       "rating_ev": 0,
       "rank": 93,
-      "win_prob": 65.3,
+      "win_prob": 65.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4884,
+      "rating1": 4881,
       "rating2": 4997,
       "rating_ev": 0,
       "rank": 93,
-      "win_prob": 28.2,
+      "win_prob": 27.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "kyrgyzstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4884,
-      "rating2": 4683,
+      "rating1": 4881,
+      "rating2": 4686,
       "rating_ev": 0,
       "rank": 93,
-      "win_prob": 60.9,
+      "win_prob": 60.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Kyrgyzstan",
       "flag1": "palestine.png",
       "flag2": "kyrgyzstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4884,
-      "rating2": 4683,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4881,
+      "rating2": 4686,
+      "rating_ev": -3,
       "rank": 93,
       "win_prob": 60.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2025-12-11",

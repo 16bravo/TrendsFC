@@ -1,18 +1,18 @@
 {
   "team": "Honduras",
   "stats": {
-    "matches_played": 667,
+    "matches_played": 668,
     "wins": 263,
     "draws": 174,
-    "losses": 230,
+    "losses": 231,
     "goals_for": 964,
-    "goals_against": 856,
-    "goal_difference": 108,
+    "goals_against": 858,
+    "goal_difference": 106,
     "win_percentage": 39.4,
     "avg_points": 1.44,
     "best_rank": 24,
     "worst_rank": 109,
-    "avg_rank": 62.93,
+    "avg_rank": 62.95,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Nicaragua",
@@ -27,11 +27,30 @@
     },
     "home_matches": 212,
     "away_matches": 217,
-    "neutral_matches": 238,
+    "neutral_matches": 239,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
+    {
+      "date": "2026-06-09",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Honduras",
+      "team2": "Ghana",
+      "original_team1": "Honduras",
+      "original_team2": "Ghana",
+      "flag1": "honduras.png",
+      "flag2": "ghana.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4962,
+      "rating2": 5052,
+      "rating_ev": 0,
+      "rank": 79,
+      "win_prob": 40.2,
+      "type": "fixture"
+    },
     {
       "date": "2026-06-06",
       "country": "United States",
@@ -42,14 +61,14 @@
       "original_team2": "Argentina",
       "flag1": "honduras.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4958,
-      "rating2": 5598,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4962,
+      "rating2": 5594,
+      "rating_ev": 4,
       "rank": 79,
       "win_prob": 6.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

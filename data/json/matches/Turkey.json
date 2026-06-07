@@ -1,18 +1,18 @@
 {
   "team": "Turkey",
   "stats": {
-    "matches_played": 662,
-    "wins": 262,
+    "matches_played": 663,
+    "wins": 263,
     "draws": 154,
     "losses": 246,
-    "goals_for": 933,
-    "goals_against": 956,
-    "goal_difference": -23,
-    "win_percentage": 39.6,
+    "goals_for": 935,
+    "goals_against": 957,
+    "goal_difference": -22,
+    "win_percentage": 39.7,
     "avg_points": 1.42,
     "best_rank": 10,
     "worst_rank": 63,
-    "avg_rank": 32.35,
+    "avg_rank": 32.32,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Syria",
@@ -27,9 +27,9 @@
     },
     "home_matches": 288,
     "away_matches": 296,
-    "neutral_matches": 78,
+    "neutral_matches": 79,
     "first_match_date": "1923-10-26",
-    "last_match_date": "2026-06-01"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
+      "rating1": 5397,
       "rating2": 5547,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 24.9,
+      "win_prob": 25.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
-      "rating2": 5476,
+      "rating1": 5397,
+      "rating2": 5495,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 52.1,
+      "win_prob": 50.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
+      "rating1": 5397,
       "rating2": 5376,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 41.2,
+      "win_prob": 41.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
-      "rating2": 5476,
+      "rating1": 5397,
+      "rating2": 5495,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 31.1,
+      "win_prob": 29.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
+      "rating1": 5397,
       "rating2": 5376,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 62.8,
+      "win_prob": 63.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
+      "rating1": 5397,
       "rating2": 5547,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 44.3,
+      "win_prob": 44.5,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
+      "rating1": 5397,
       "rating2": 5225,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 57.6,
+      "win_prob": 57.8,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
+      "rating1": 5397,
       "rating2": 5328,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 57.3,
+      "win_prob": 57.5,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5395,
-      "rating2": 5252,
+      "rating1": 5397,
+      "rating2": 5258,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 65.2,
+      "win_prob": 64.8,
       "type": "fixture"
     },
     {
@@ -213,14 +213,14 @@
       "original_team2": "Venezuela",
       "flag1": "turkey.png",
       "flag2": "venezuela.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5395,
-      "rating2": 5211,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5397,
+      "rating2": 5209,
+      "rating_ev": 2,
       "rank": 17,
       "win_prob": 69.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-01",

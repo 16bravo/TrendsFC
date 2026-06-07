@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-06",
+      "date": "2027-03-07",
       "country": "Comoros",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -47,12 +47,12 @@
       "rating1": 4837,
       "rating2": 5069,
       "rating_ev": 0,
-      "rank": 100,
+      "rank": 101,
       "win_prob": 36.0,
       "type": "fixture"
     },
     {
-      "date": "2027-03-06",
+      "date": "2027-03-07",
       "country": "Namibia",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -66,12 +66,12 @@
       "rating1": 4837,
       "rating2": 4755,
       "rating_ev": 0,
-      "rank": 100,
+      "rank": 101,
       "win_prob": 48.1,
       "type": "fixture"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "country": "Comoros",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -85,12 +85,12 @@
       "rating1": 4837,
       "rating2": 4658,
       "rating_ev": 0,
-      "rank": 100,
+      "rank": 101,
       "win_prob": 77.3,
       "type": "fixture"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "country": "Congo",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -104,12 +104,12 @@
       "rating1": 4837,
       "rating2": 4658,
       "rating_ev": 0,
-      "rank": 100,
+      "rank": 101,
       "win_prob": 58.6,
       "type": "fixture"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "country": "Comoros",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -123,12 +123,12 @@
       "rating1": 4837,
       "rating2": 4755,
       "rating_ev": 0,
-      "rank": 100,
+      "rank": 101,
       "win_prob": 69.0,
       "type": "fixture"
     },
     {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "country": "Cameroon",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -142,8 +142,27 @@
       "rating1": 4837,
       "rating2": 5069,
       "rating_ev": 0,
-      "rank": 100,
+      "rank": 101,
       "win_prob": 18.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-08",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Comoros",
+      "team2": "Equatorial Guinea",
+      "original_team1": "Comoros",
+      "original_team2": "Equatorial Guinea",
+      "flag1": "comoros.png",
+      "flag2": "eq_guinea.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4837,
+      "rating2": 4826,
+      "rating_ev": 0,
+      "rank": 101,
+      "win_prob": 51.2,
       "type": "fixture"
     },
     {

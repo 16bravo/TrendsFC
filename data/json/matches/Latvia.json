@@ -1,18 +1,18 @@
 {
   "team": "Latvia",
   "stats": {
-    "matches_played": 458,
+    "matches_played": 459,
     "wins": 128,
-    "draws": 111,
+    "draws": 112,
     "losses": 219,
-    "goals_for": 533,
-    "goals_against": 753,
+    "goals_for": 534,
+    "goals_against": 754,
     "goal_difference": -220,
     "win_percentage": 27.9,
     "avg_points": 1.08,
     "best_rank": 40,
     "worst_rank": 143,
-    "avg_rank": 79.14,
+    "avg_rank": 79.22,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "sweden.png"
     },
     "home_matches": 191,
-    "away_matches": 213,
+    "away_matches": 214,
     "neutral_matches": 54,
     "first_match_date": "1922-09-24",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4792,
+      "rating1": 4799,
       "rating2": 4789,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 61.1,
+      "rank": 117,
+      "win_prob": 61.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 4792,
+      "rating1": 4799,
       "rating2": 4927,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 26.3,
+      "rank": 117,
+      "win_prob": 26.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 4792,
+      "rating1": 4799,
       "rating2": 4811,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 37.2,
+      "rank": 117,
+      "win_prob": 38.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "montenegro.png",
       "score1": "",
       "score2": "",
-      "rating1": 4792,
+      "rating1": 4799,
       "rating2": 4927,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 46.1,
+      "rank": 117,
+      "win_prob": 46.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "cyprus.png",
       "score1": "",
       "score2": "",
-      "rating1": 4792,
+      "rating1": 4799,
       "rating2": 4811,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 58.8,
+      "rank": 117,
+      "win_prob": 59.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,30 @@
       "flag2": "armenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4792,
+      "rating1": 4799,
       "rating2": 4789,
       "rating_ev": 0,
-      "rank": 121,
-      "win_prob": 39.5,
+      "rank": 117,
+      "win_prob": 40.3,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-09",
+      "country": "Latvia",
+      "tournament": "Baltic Cup",
+      "team1": "Latvia",
+      "team2": "Faroe Islands",
+      "original_team1": "Latvia",
+      "original_team2": "Faroe Islands",
+      "flag1": "latvia.png",
+      "flag2": "faroe.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4799,
+      "rating2": 4911,
+      "rating_ev": 0,
+      "rank": 117,
+      "win_prob": 48.7,
       "type": "fixture"
     },
     {
@@ -156,14 +175,14 @@
       "original_team2": "Lithuania",
       "flag1": "latvia.png",
       "flag2": "lithuania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4792,
-      "rating2": 4822,
-      "rating_ev": 0,
-      "rank": 121,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4799,
+      "rating2": 4815,
+      "rating_ev": 7,
+      "rank": 117,
       "win_prob": 36.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

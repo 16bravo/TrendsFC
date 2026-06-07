@@ -1,15 +1,15 @@
 {
   "team": "British Virgin Islands",
   "stats": {
-    "matches_played": 140,
-    "wins": 24,
+    "matches_played": 141,
+    "wins": 25,
     "draws": 24,
     "losses": 92,
-    "goals_for": 131,
+    "goals_for": 133,
     "goals_against": 401,
-    "goal_difference": -270,
-    "win_percentage": 17.1,
-    "avg_points": 0.69,
+    "goal_difference": -268,
+    "win_percentage": 17.7,
+    "avg_points": 0.7,
     "best_rank": 180,
     "worst_rank": 214,
     "avg_rank": 204.78,
@@ -27,9 +27,9 @@
     },
     "home_matches": 36,
     "away_matches": 63,
-    "neutral_matches": 41,
+    "neutral_matches": 42,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2026-06-03"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Bonaire",
       "flag1": "gb_virgin.png",
       "flag2": "bonaire.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3927,
-      "rating2": 3998,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 3943,
+      "rating2": 3982,
+      "rating_ev": 16,
       "rank": 205,
       "win_prob": 42.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-03",

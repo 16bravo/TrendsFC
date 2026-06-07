@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 598,
+    "matches_played": 599,
     "wins": 200,
-    "draws": 145,
+    "draws": 146,
     "losses": 253,
-    "goals_for": 750,
-    "goals_against": 918,
+    "goals_for": 751,
+    "goals_against": 919,
     "goal_difference": -168,
     "win_percentage": 33.4,
     "avg_points": 1.25,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 85.01,
+    "avg_rank": 84.97,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 203,
     "away_matches": 231,
-    "neutral_matches": 164,
+    "neutral_matches": 165,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-06-03"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5094,
-      "rating2": 5562,
+      "rating2": 5555,
       "rating_ev": 0,
       "rank": 62,
-      "win_prob": 11.8,
+      "win_prob": 12.1,
       "type": "fixture"
     },
     {
@@ -88,6 +88,25 @@
       "rank": 62,
       "win_prob": 54.6,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-06",
+      "country": "United States",
+      "tournament": "Friendly",
+      "team1": "Panama",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "Panama",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "panama.png",
+      "flag2": "bosnia.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5094,
+      "rating2": 5090,
+      "rating_ev": 0,
+      "rank": 62,
+      "win_prob": 50.4,
+      "type": "past"
     },
     {
       "date": "2026-06-03",

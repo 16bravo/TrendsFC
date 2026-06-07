@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 478,
+    "matches_played": 479,
     "wins": 127,
     "draws": 106,
-    "losses": 245,
-    "goals_for": 517,
-    "goals_against": 871,
-    "goal_difference": -354,
-    "win_percentage": 26.6,
+    "losses": 246,
+    "goals_for": 518,
+    "goals_against": 873,
+    "goal_difference": -355,
+    "win_percentage": 26.5,
     "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.41,
+    "avg_rank": 63.35,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 176,
     "away_matches": 179,
-    "neutral_matches": 123,
+    "neutral_matches": 124,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-03-30"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5211,
+      "rating1": 5209,
       "rating2": 4999,
       "rating_ev": 0,
       "rank": 37,
-      "win_prob": 71.7,
+      "win_prob": 71.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Turkey",
       "flag1": "venezuela.png",
       "flag2": "turkey.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5211,
-      "rating2": 5395,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5209,
+      "rating2": 5397,
+      "rating_ev": -2,
       "rank": 37,
       "win_prob": 30.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-30",

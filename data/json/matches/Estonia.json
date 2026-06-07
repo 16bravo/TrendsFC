@@ -1,18 +1,18 @@
 {
   "team": "Estonia",
   "stats": {
-    "matches_played": 539,
-    "wins": 132,
+    "matches_played": 540,
+    "wins": 133,
     "draws": 120,
     "losses": 287,
-    "goals_for": 531,
+    "goals_for": 532,
     "goals_against": 960,
-    "goal_difference": -429,
-    "win_percentage": 24.5,
+    "goal_difference": -428,
+    "win_percentage": 24.6,
     "avg_points": 0.96,
     "best_rank": 32,
     "worst_rank": 154,
-    "avg_rank": 92.34,
+    "avg_rank": 92.36,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "1922-08-11",
       "flag": "finland.png"
     },
-    "home_matches": 230,
+    "home_matches": 231,
     "away_matches": 255,
     "neutral_matches": 54,
     "first_match_date": "1920-10-17",
-    "last_match_date": "2026-03-30"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4814,
+      "rating1": 4829,
       "rating2": 4933,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 47.9,
+      "rank": 103,
+      "win_prob": 49.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4814,
-      "rating2": 4934,
+      "rating1": 4829,
+      "rating2": 4950,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 27.6,
+      "rank": 103,
+      "win_prob": 27.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4814,
+      "rating1": 4829,
       "rating2": 5106,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 30.3,
+      "rank": 103,
+      "win_prob": 31.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 4814,
-      "rating2": 4934,
+      "rating1": 4829,
+      "rating2": 4950,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 47.8,
+      "rank": 103,
+      "win_prob": 47.7,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4814,
+      "rating1": 4829,
       "rating2": 4933,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 27.6,
+      "rank": 103,
+      "win_prob": 29.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,30 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4814,
+      "rating1": 4829,
       "rating2": 5106,
       "rating_ev": 0,
-      "rank": 110,
-      "win_prob": 15.3,
+      "rank": 103,
+      "win_prob": 16.1,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-09",
+      "country": "Lithuania",
+      "tournament": "Baltic Cup",
+      "team1": "Estonia",
+      "team2": "Lithuania",
+      "original_team1": "Estonia",
+      "original_team2": "Lithuania",
+      "flag1": "estonia.png",
+      "flag2": "lithuania.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4829,
+      "rating2": 4815,
+      "rating_ev": 0,
+      "rank": 103,
+      "win_prob": 40.7,
       "type": "fixture"
     },
     {
@@ -156,14 +175,14 @@
       "original_team2": "Faroe Islands",
       "flag1": "estonia.png",
       "flag2": "faroe.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4814,
-      "rating2": 4926,
-      "rating_ev": 0,
-      "rank": 110,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 4829,
+      "rating2": 4911,
+      "rating_ev": 15,
+      "rank": 103,
       "win_prob": 48.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-30",

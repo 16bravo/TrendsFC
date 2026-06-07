@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-06",
+      "date": "2027-03-07",
       "country": "Gambia",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -47,12 +47,12 @@
       "rating1": 5052,
       "rating2": 4941,
       "rating_ev": 0,
-      "rank": 67,
+      "rank": 66,
       "win_prob": 51.2,
       "type": "fixture"
     },
     {
-      "date": "2027-03-06",
+      "date": "2027-03-07",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -66,12 +66,12 @@
       "rating1": 5052,
       "rating2": 5191,
       "rating_ev": 0,
-      "rank": 67,
+      "rank": 66,
       "win_prob": 45.7,
       "type": "fixture"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -85,12 +85,12 @@
       "rating1": 5052,
       "rating2": 4512,
       "rating_ev": 0,
-      "rank": 67,
+      "rank": 66,
       "win_prob": 93.9,
       "type": "fixture"
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "country": "Somalia",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -104,12 +104,12 @@
       "rating1": 5052,
       "rating2": 4512,
       "rating_ev": 0,
-      "rank": 67,
+      "rank": 66,
       "win_prob": 86.6,
       "type": "fixture"
     },
     {
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -123,12 +123,12 @@
       "rating1": 5052,
       "rating2": 4941,
       "rating_ev": 0,
-      "rank": 67,
+      "rank": 66,
       "win_prob": 71.6,
       "type": "fixture"
     },
     {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -142,7 +142,7 @@
       "rating1": 5052,
       "rating2": 5191,
       "rating_ev": 0,
-      "rank": 67,
+      "rank": 66,
       "win_prob": 25.9,
       "type": "fixture"
     },
@@ -161,7 +161,7 @@
       "rating1": 5052,
       "rating2": 5406,
       "rating_ev": 0,
-      "rank": 67,
+      "rank": 66,
       "win_prob": 17.7,
       "type": "fixture"
     },
@@ -178,10 +178,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5052,
-      "rating2": 5562,
+      "rating2": 5555,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 10.1,
+      "rank": 66,
+      "win_prob": 10.4,
       "type": "fixture"
     },
     {
@@ -199,27 +199,27 @@
       "rating1": 5052,
       "rating2": 5094,
       "rating_ev": 0,
-      "rank": 67,
+      "rank": 66,
       "win_prob": 45.4,
       "type": "fixture"
     },
     {
-      "date": "2026-06-10",
-      "country": null,
+      "date": "2026-06-09",
+      "country": "United States",
       "tournament": "Friendly",
       "team1": "Ghana",
-      "team2": "Jamaica",
+      "team2": "Honduras",
       "original_team1": "Ghana",
-      "original_team2": "Jamaica",
+      "original_team2": "Honduras",
       "flag1": "ghana.png",
-      "flag2": "jamaica.png",
+      "flag2": "honduras.png",
       "score1": "",
       "score2": "",
       "rating1": 5052,
-      "rating2": 4894,
+      "rating2": 4962,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 66.7,
+      "rank": 66,
+      "win_prob": 59.8,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Albania",
   "stats": {
-    "matches_played": 407,
+    "matches_played": 408,
     "wins": 115,
     "draws": 85,
-    "losses": 207,
+    "losses": 208,
     "goals_for": 389,
-    "goals_against": 600,
-    "goal_difference": -211,
-    "win_percentage": 28.3,
-    "avg_points": 1.06,
+    "goals_against": 601,
+    "goal_difference": -212,
+    "win_percentage": 28.2,
+    "avg_points": 1.05,
     "best_rank": 34,
     "worst_rank": 88,
-    "avg_rank": 60.57,
+    "avg_rank": 60.56,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Vietnam",
@@ -25,11 +25,11 @@
       "date": "1950-09-24",
       "flag": "hungary_4.png"
     },
-    "home_matches": 190,
+    "home_matches": 191,
     "away_matches": 184,
     "neutral_matches": 33,
     "first_match_date": "1946-10-07",
-    "last_match_date": "2026-06-03"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
+      "rating1": 5115,
       "rating2": 4997,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 64.3,
+      "rank": 56,
+      "win_prob": 62.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
+      "rating1": 5115,
       "rating2": 5030,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 70.7,
+      "rank": 56,
+      "win_prob": 69.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
+      "rating1": 5115,
       "rating2": 4247,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 98.2,
+      "rank": 56,
+      "win_prob": 98.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
+      "rating1": 5115,
       "rating2": 5030,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 50.1,
+      "rank": 56,
+      "win_prob": 48.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
+      "rating1": 5115,
       "rating2": 4247,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 95.8,
+      "rank": 56,
+      "win_prob": 95.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "belarus.png",
       "score1": "",
       "score2": "",
-      "rating1": 5131,
+      "rating1": 5115,
       "rating2": 4997,
       "rating_ev": 0,
-      "rank": 53,
-      "win_prob": 73.6,
+      "rank": 56,
+      "win_prob": 72.3,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Luxembourg",
       "flag1": "albania.png",
       "flag2": "luxembourg.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5131,
-      "rating2": 4934,
-      "rating_ev": 0,
-      "rank": 53,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5115,
+      "rating2": 4950,
+      "rating_ev": -16,
+      "rank": 56,
       "win_prob": 78.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-03",

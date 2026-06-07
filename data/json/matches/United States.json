@@ -1,13 +1,13 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 822,
+    "matches_played": 823,
     "wins": 366,
     "draws": 171,
-    "losses": 285,
-    "goals_for": 1246,
-    "goals_against": 1072,
-    "goal_difference": 174,
+    "losses": 286,
+    "goals_for": 1247,
+    "goals_against": 1074,
+    "goal_difference": 173,
     "win_percentage": 44.5,
     "avg_points": 1.54,
     "best_rank": 12,
@@ -25,11 +25,11 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 486,
+    "home_matches": 487,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2026-05-31"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5225,
-      "rating2": 5395,
+      "rating2": 5397,
       "rating_ev": 0,
       "rank": 36,
-      "win_prob": 42.4,
+      "win_prob": 42.2,
       "type": "fixture"
     },
     {
@@ -64,10 +64,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5225,
-      "rating2": 5252,
+      "rating2": 5258,
       "rating_ev": 0,
       "rank": 36,
-      "win_prob": 57.9,
+      "win_prob": 57.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Germany",
       "flag1": "usa.png",
       "flag2": "germany.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 2,
       "rating1": 5225,
       "rating2": 5541,
       "rating_ev": 0,
       "rank": 36,
       "win_prob": 28.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-31",

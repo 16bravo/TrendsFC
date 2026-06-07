@@ -1,18 +1,18 @@
 {
   "team": "Bonaire",
   "stats": {
-    "matches_played": 105,
+    "matches_played": 106,
     "wins": 24,
     "draws": 12,
-    "losses": 69,
+    "losses": 70,
     "goals_for": 119,
-    "goals_against": 260,
-    "goal_difference": -141,
-    "win_percentage": 22.9,
-    "avg_points": 0.8,
+    "goals_against": 262,
+    "goal_difference": -143,
+    "win_percentage": 22.6,
+    "avg_points": 0.79,
     "best_rank": 75,
     "worst_rank": 205,
-    "avg_rank": 174.71,
+    "avg_rank": 174.97,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Aruba",
@@ -27,9 +27,9 @@
     },
     "home_matches": 19,
     "away_matches": 52,
-    "neutral_matches": 34,
+    "neutral_matches": 35,
     "first_match_date": "1934-02-04",
-    "last_match_date": "2026-03-29"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "British Virgin Islands",
       "flag1": "bonaire.png",
       "flag2": "gb_virgin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3998,
-      "rating2": 3927,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 3982,
+      "rating2": 3943,
+      "rating_ev": -16,
       "rank": 202,
       "win_prob": 57.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-29",

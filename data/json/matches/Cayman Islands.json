@@ -1,18 +1,18 @@
 {
   "team": "Cayman Islands",
   "stats": {
-    "matches_played": 131,
+    "matches_played": 132,
     "wins": 28,
     "draws": 25,
-    "losses": 78,
-    "goals_for": 130,
-    "goals_against": 311,
-    "goal_difference": -181,
-    "win_percentage": 21.4,
+    "losses": 79,
+    "goals_for": 131,
+    "goals_against": 315,
+    "goal_difference": -184,
+    "win_percentage": 21.2,
     "avg_points": 0.83,
     "best_rank": 166,
     "worst_rank": 206,
-    "avg_rank": 189.23,
+    "avg_rank": 189.36,
     "biggest_win": {
       "score": "5-0",
       "opponent": "British Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "canada.png"
     },
     "home_matches": 62,
-    "away_matches": 39,
+    "away_matches": 40,
     "neutral_matches": 30,
     "first_match_date": "1985-03-03",
-    "last_match_date": "2026-03-29"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Gibraltar",
       "flag1": "cayman.png",
       "flag2": "gibraltar.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3880,
-      "rating2": 4454,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 3879,
+      "rating2": 4455,
+      "rating_ev": -1,
       "rank": 206,
       "win_prob": 5.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-29",

@@ -1,18 +1,18 @@
 {
   "team": "Kazakhstan",
   "stats": {
-    "matches_played": 268,
+    "matches_played": 269,
     "wins": 69,
-    "draws": 57,
+    "draws": 58,
     "losses": 142,
-    "goals_for": 279,
-    "goals_against": 447,
+    "goals_for": 280,
+    "goals_against": 448,
     "goal_difference": -168,
     "win_percentage": 25.7,
     "avg_points": 0.99,
     "best_rank": 72,
     "worst_rank": 116,
-    "avg_rank": 98.68,
+    "avg_rank": 98.64,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Pakistan",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 103,
-    "away_matches": 119,
+    "away_matches": 120,
     "neutral_matches": 46,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4899,
-      "rating2": 4926,
+      "rating2": 4911,
       "rating_ev": 0,
       "rank": 88,
-      "win_prob": 57.9,
+      "win_prob": 59.5,
       "type": "fixture"
     },
     {
@@ -140,10 +140,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4899,
-      "rating2": 4926,
+      "rating2": 4911,
       "rating_ev": 0,
       "rank": 88,
-      "win_prob": 36.4,
+      "win_prob": 38.0,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Armenia",
       "flag1": "kazakhstan.png",
       "flag2": "armenia.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 1,
       "rating1": 4899,
       "rating2": 4789,
       "rating_ev": 0,
       "rank": 88,
       "win_prob": 51.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

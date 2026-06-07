@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 536,
+    "matches_played": 537,
     "wins": 122,
     "draws": 121,
-    "losses": 293,
+    "losses": 294,
     "goals_for": 551,
-    "goals_against": 1052,
-    "goal_difference": -501,
-    "win_percentage": 22.8,
+    "goals_against": 1056,
+    "goal_difference": -505,
+    "win_percentage": 22.7,
     "avg_points": 0.91,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.94,
+    "avg_rank": 50.97,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -27,9 +27,9 @@
     },
     "home_matches": 189,
     "away_matches": 205,
-    "neutral_matches": 142,
+    "neutral_matches": 143,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5056,
+      "rating1": 5036,
       "rating2": 5262,
       "rating_ev": 0,
-      "rank": 66,
-      "win_prob": 28.8,
+      "rank": 67,
+      "win_prob": 27.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Scotland",
       "flag1": "bolivia.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5056,
-      "rating2": 5285,
-      "rating_ev": 0,
-      "rank": 66,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 5036,
+      "rating2": 5305,
+      "rating_ev": -20,
+      "rank": 67,
       "win_prob": 26.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

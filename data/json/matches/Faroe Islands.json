@@ -1,18 +1,18 @@
 {
   "team": "Faroe Islands",
   "stats": {
-    "matches_played": 274,
+    "matches_played": 275,
     "wins": 44,
     "draws": 36,
-    "losses": 194,
+    "losses": 195,
     "goals_for": 192,
-    "goals_against": 634,
-    "goal_difference": -442,
-    "win_percentage": 16.1,
+    "goals_against": 635,
+    "goal_difference": -443,
+    "win_percentage": 16.0,
     "avg_points": 0.61,
     "best_rank": 64,
     "worst_rank": 163,
-    "avg_rank": 129.25,
+    "avg_rank": 129.09,
     "biggest_win": {
       "score": "5-1",
       "opponent": "Liechtenstein",
@@ -26,10 +26,10 @@
       "flag": "iceland.png"
     },
     "home_matches": 116,
-    "away_matches": 138,
+    "away_matches": 139,
     "neutral_matches": 20,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2026-03-28"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4911,
       "rating2": 4687,
       "rating_ev": 0,
       "rank": 86,
-      "win_prob": 81.5,
+      "win_prob": 80.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4911,
       "rating2": 5120,
       "rating_ev": 0,
       "rank": 86,
-      "win_prob": 21.6,
+      "win_prob": 20.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4911,
       "rating2": 4899,
       "rating_ev": 0,
       "rank": 86,
-      "win_prob": 42.1,
+      "win_prob": 40.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4911,
       "rating2": 5120,
       "rating_ev": 0,
       "rank": 86,
-      "win_prob": 39.8,
+      "win_prob": 38.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4911,
       "rating2": 4687,
       "rating_ev": 0,
       "rank": 86,
-      "win_prob": 64.7,
+      "win_prob": 63.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,30 @@
       "flag2": "kazakhstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4926,
+      "rating1": 4911,
       "rating2": 4899,
       "rating_ev": 0,
       "rank": 86,
-      "win_prob": 63.6,
+      "win_prob": 62.0,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-09",
+      "country": "Latvia",
+      "tournament": "Baltic Cup",
+      "team1": "Faroe Islands",
+      "team2": "Latvia",
+      "original_team1": "Faroe Islands",
+      "original_team2": "Latvia",
+      "flag1": "faroe.png",
+      "flag2": "latvia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4911,
+      "rating2": 4799,
+      "rating_ev": 0,
+      "rank": 86,
+      "win_prob": 51.3,
       "type": "fixture"
     },
     {
@@ -156,14 +175,14 @@
       "original_team2": "Estonia",
       "flag1": "faroe.png",
       "flag2": "estonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4926,
-      "rating2": 4814,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4911,
+      "rating2": 4829,
+      "rating_ev": -15,
       "rank": 86,
       "win_prob": 51.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-28",

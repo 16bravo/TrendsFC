@@ -1,14 +1,14 @@
 {
   "team": "England",
   "stats": {
-    "matches_played": 1153,
-    "wins": 675,
+    "matches_played": 1154,
+    "wins": 676,
     "draws": 262,
     "losses": 216,
-    "goals_for": 2682,
+    "goals_for": 2683,
     "goals_against": 1115,
-    "goal_difference": 1567,
-    "win_percentage": 58.5,
+    "goal_difference": 1568,
+    "win_percentage": 58.6,
     "avg_points": 1.98,
     "best_rank": 1,
     "worst_rank": 14,
@@ -27,9 +27,9 @@
     },
     "home_matches": 510,
     "away_matches": 515,
-    "neutral_matches": 128,
+    "neutral_matches": 129,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5679,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 27.8,
+      "win_prob": 27.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5406,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 75.5,
+      "win_prob": 74.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5227,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 86.9,
+      "win_prob": 86.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5406,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 56.1,
+      "win_prob": 55.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5227,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 73.5,
+      "win_prob": 72.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5679,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 48.1,
+      "win_prob": 47.3,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "panama.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5094,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 88.2,
+      "win_prob": 87.9,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5052,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 89.9,
+      "win_prob": 89.6,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 5406,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 66.5,
+      "win_prob": 65.8,
       "type": "fixture"
     },
     {
@@ -215,11 +215,11 @@
       "flag2": "costa_rica.png",
       "score1": "",
       "score2": "",
-      "rating1": 5562,
+      "rating1": 5555,
       "rating2": 4979,
       "rating_ev": 0,
       "rank": 4,
-      "win_prob": 92.2,
+      "win_prob": 92.0,
       "type": "fixture"
     },
     {
@@ -232,14 +232,14 @@
       "original_team2": "New Zealand",
       "flag1": "england.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5562,
-      "rating2": 5075,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5555,
+      "rating2": 5082,
+      "rating_ev": -7,
       "rank": 4,
       "win_prob": 89.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

@@ -1,18 +1,18 @@
 {
   "team": "Australia",
   "stats": {
-    "matches_played": 630,
+    "matches_played": 631,
     "wins": 326,
-    "draws": 130,
+    "draws": 131,
     "losses": 174,
-    "goals_for": 1279,
-    "goals_against": 690,
+    "goals_for": 1280,
+    "goals_against": 691,
     "goal_difference": 589,
     "win_percentage": 51.7,
     "avg_points": 1.76,
     "best_rank": 15,
     "worst_rank": 73,
-    "avg_rank": 37.78,
+    "avg_rank": 37.77,
     "biggest_win": {
       "score": "31-0",
       "opponent": "Eastern Samoa",
@@ -27,9 +27,9 @@
     },
     "home_matches": 263,
     "away_matches": 224,
-    "neutral_matches": 143,
+    "neutral_matches": 144,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2026-05-30"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5258,
       "rating2": 4644,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 92.9,
+      "win_prob": 93.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5258,
       "rating2": 4999,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 75.1,
+      "win_prob": 75.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5258,
       "rating2": 4406,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 96.9,
+      "win_prob": 97.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "paraguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5258,
       "rating2": 5328,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 41.7,
+      "win_prob": 42.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "usa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5258,
       "rating2": 5225,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 42.1,
+      "win_prob": 42.7,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
-      "rating2": 5395,
+      "rating1": 5258,
+      "rating2": 5397,
       "rating_ev": 0,
       "rank": 29,
-      "win_prob": 34.8,
+      "win_prob": 35.2,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Switzerland",
       "flag1": "australia.png",
       "flag2": "switzerland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5252,
-      "rating2": 5448,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5258,
+      "rating2": 5442,
+      "rating_ev": 6,
       "rank": 29,
       "win_prob": 29.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-30",

@@ -1,18 +1,18 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1105,
-    "wins": 607,
+    "matches_played": 1106,
+    "wins": 608,
     "draws": 268,
     "losses": 230,
-    "goals_for": 2096,
+    "goals_for": 2098,
     "goals_against": 1129,
-    "goal_difference": 967,
-    "win_percentage": 54.9,
+    "goal_difference": 969,
+    "win_percentage": 55.0,
     "avg_points": 1.89,
     "best_rank": 1,
     "worst_rank": 27,
-    "avg_rank": 6.4,
+    "avg_rank": 6.39,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Ecuador",
@@ -27,9 +27,9 @@
     },
     "home_matches": 381,
     "away_matches": 416,
-    "neutral_matches": 308,
+    "neutral_matches": 309,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-06"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5598,
+      "rating1": 5594,
       "rating2": 5117,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 88.7,
+      "win_prob": 88.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5598,
+      "rating1": 5594,
       "rating2": 5366,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 73.4,
+      "win_prob": 73.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5598,
+      "rating1": 5594,
       "rating2": 5262,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 81.2,
+      "win_prob": 80.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "iceland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5598,
+      "rating1": 5594,
       "rating2": 5106,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 89.2,
+      "win_prob": 89.0,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Honduras",
       "flag1": "argentina.png",
       "flag2": "honduras.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5598,
-      "rating2": 4958,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5594,
+      "rating2": 4962,
+      "rating_ev": -4,
       "rank": 2,
       "win_prob": 93.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",
