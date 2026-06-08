@@ -1,13 +1,13 @@
 {
   "team": "Denmark",
   "stats": {
-    "matches_played": 904,
-    "wins": 420,
+    "matches_played": 905,
+    "wins": 421,
     "draws": 187,
     "losses": 297,
-    "goals_for": 1658,
-    "goals_against": 1216,
-    "goal_difference": 442,
+    "goals_for": 1660,
+    "goals_against": 1217,
+    "goal_difference": 443,
     "win_percentage": 46.5,
     "avg_points": 1.6,
     "best_rank": 1,
@@ -25,11 +25,11 @@
       "date": "1937-05-16",
       "flag": "germany_1.png"
     },
-    "home_matches": 412,
+    "home_matches": 413,
     "away_matches": 395,
     "neutral_matches": 97,
     "first_match_date": "1908-10-19",
-    "last_match_date": "2026-06-03"
+    "last_match_date": "2026-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5413,
+      "rating1": 5412,
       "rating2": 5537,
       "rating_ev": 0,
       "rank": 15,
-      "win_prob": 47.3,
+      "win_prob": 47.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5413,
+      "rating1": 5412,
       "rating2": 5557,
       "rating_ev": 0,
       "rank": 15,
-      "win_prob": 25.5,
+      "win_prob": 25.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5413,
+      "rating1": 5412,
       "rating2": 5189,
       "rating_ev": 0,
       "rank": 15,
-      "win_prob": 63.2,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5413,
+      "rating1": 5412,
       "rating2": 5557,
       "rating_ev": 0,
       "rank": 15,
-      "win_prob": 45.2,
+      "win_prob": 45.1,
       "type": "fixture"
     },
     {
@@ -120,7 +120,7 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5413,
+      "rating1": 5412,
       "rating2": 5189,
       "rating_ev": 0,
       "rank": 15,
@@ -139,11 +139,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5413,
+      "rating1": 5412,
       "rating2": 5537,
       "rating_ev": 0,
       "rank": 15,
-      "win_prob": 27.2,
+      "win_prob": 27.1,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Ukraine",
       "flag1": "denmark.png",
       "flag2": "ukraine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5413,
-      "rating2": 5240,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5412,
+      "rating2": 5241,
+      "rating_ev": -1,
       "rank": 15,
       "win_prob": 76.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-03",

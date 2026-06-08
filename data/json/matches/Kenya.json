@@ -1,18 +1,18 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 731,
-    "wins": 275,
+    "matches_played": 732,
+    "wins": 276,
     "draws": 180,
     "losses": 276,
-    "goals_for": 1005,
+    "goals_for": 1009,
     "goals_against": 997,
-    "goal_difference": 8,
-    "win_percentage": 37.6,
-    "avg_points": 1.37,
+    "goal_difference": 12,
+    "win_percentage": 37.7,
+    "avg_points": 1.38,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 91.07,
+    "avg_rank": 91.09,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -27,9 +27,9 @@
     },
     "home_matches": 264,
     "away_matches": 256,
-    "neutral_matches": 211,
+    "neutral_matches": 212,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2026-06-04"
+    "last_match_date": "2026-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "eritrea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4824,
       "rating2": 4638,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 57.2,
+      "rank": 107,
+      "win_prob": 59.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4824,
       "rating2": 4953,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 44.6,
+      "rank": 107,
+      "win_prob": 46.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4824,
       "rating2": 4982,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 41.5,
+      "rank": 107,
+      "win_prob": 43.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4824,
       "rating2": 4982,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 22.8,
+      "rank": 107,
+      "win_prob": 24.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4824,
       "rating2": 4953,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 25.1,
+      "rank": 107,
+      "win_prob": 26.8,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "eritrea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4804,
+      "rating1": 4824,
       "rating2": 4638,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 76.3,
+      "rank": 107,
+      "win_prob": 77.8,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Lesotho",
       "flag1": "kenya.png",
       "flag2": "lesotho.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4804,
-      "rating2": 4587,
-      "rating_ev": 0,
-      "rank": 115,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4824,
+      "rating2": 4567,
+      "rating_ev": 20,
+      "rank": 107,
       "win_prob": 72.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-04",

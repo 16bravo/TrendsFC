@@ -1,18 +1,18 @@
 {
   "team": "Lesotho",
   "stats": {
-    "matches_played": 341,
+    "matches_played": 342,
     "wins": 68,
     "draws": 103,
-    "losses": 170,
+    "losses": 171,
     "goals_for": 267,
-    "goals_against": 550,
-    "goal_difference": -283,
+    "goals_against": 554,
+    "goal_difference": -287,
     "win_percentage": 19.9,
     "avg_points": 0.9,
     "best_rank": 112,
     "worst_rank": 167,
-    "avg_rank": 144.98,
+    "avg_rank": 145.02,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Swaziland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 109,
     "away_matches": 138,
-    "neutral_matches": 94,
+    "neutral_matches": 95,
     "first_match_date": "1970-08-08",
-    "last_match_date": "2026-06-04"
+    "last_match_date": "2026-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "niger.png",
       "score1": "",
       "score2": "",
-      "rating1": 4587,
+      "rating1": 4567,
       "rating2": 4892,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 29.1,
+      "rank": 158,
+      "win_prob": 27.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4587,
+      "rating1": 4567,
       "rating2": 5306,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 3.1,
+      "rank": 158,
+      "win_prob": 2.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4587,
+      "rating1": 4567,
       "rating2": 4867,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 16.0,
+      "rank": 158,
+      "win_prob": 14.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "gabon.png",
       "score1": "",
       "score2": "",
-      "rating1": 4587,
+      "rating1": 4567,
       "rating2": 4867,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 31.4,
+      "rank": 158,
+      "win_prob": 29.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 4587,
+      "rating1": 4567,
       "rating2": 5306,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 7.2,
+      "rank": 158,
+      "win_prob": 6.7,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "niger.png",
       "score1": "",
       "score2": "",
-      "rating1": 4587,
+      "rating1": 4567,
       "rating2": 4892,
       "rating_ev": 0,
-      "rank": 156,
-      "win_prob": 14.6,
+      "rank": 158,
+      "win_prob": 13.6,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Kenya",
       "flag1": "lesotho.png",
       "flag2": "kenya.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4587,
-      "rating2": 4804,
-      "rating_ev": 0,
-      "rank": 156,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4567,
+      "rating2": 4824,
+      "rating_ev": -20,
+      "rank": 158,
       "win_prob": 27.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-04",

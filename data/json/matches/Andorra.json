@@ -1,18 +1,18 @@
 {
   "team": "Andorra",
   "stats": {
-    "matches_played": 230,
+    "matches_played": 231,
     "wins": 15,
     "draws": 32,
-    "losses": 183,
+    "losses": 184,
     "goals_for": 77,
-    "goals_against": 540,
-    "goal_difference": -463,
+    "goals_against": 543,
+    "goal_difference": -466,
     "win_percentage": 6.5,
     "avg_points": 0.33,
     "best_rank": 127,
     "worst_rank": 166,
-    "avg_rank": 150.2,
+    "avg_rank": 150.16,
     "biggest_win": {
       "score": "3-0",
       "opponent": "San Marino",
@@ -26,10 +26,10 @@
       "flag": "czechia.png"
     },
     "home_matches": 92,
-    "away_matches": 105,
+    "away_matches": 106,
     "neutral_matches": 33,
     "first_match_date": "1996-11-13",
-    "last_match_date": "2026-06-04"
+    "last_match_date": "2026-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4685,
+      "rating1": 4682,
       "rating2": 4455,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 80.9,
+      "rank": 143,
+      "win_prob": 80.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4685,
+      "rating1": 4682,
       "rating2": 4715,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 36.1,
+      "rank": 143,
+      "win_prob": 35.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4685,
+      "rating1": 4682,
       "rating2": 4455,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 63.8,
+      "rank": 143,
+      "win_prob": 63.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "malta.png",
       "score1": "",
       "score2": "",
-      "rating1": 4685,
+      "rating1": 4682,
       "rating2": 4715,
       "rating_ev": 0,
-      "rank": 142,
-      "win_prob": 57.6,
+      "rank": 143,
+      "win_prob": 57.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Kosovo",
       "flag1": "andorra.png",
       "flag2": "kosovo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4685,
-      "rating2": 5202,
-      "rating_ev": 0,
-      "rank": 142,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4682,
+      "rating2": 5205,
+      "rating_ev": -3,
+      "rank": 143,
       "win_prob": 6.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-04",
