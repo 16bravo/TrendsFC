@@ -1,18 +1,18 @@
 {
   "team": "Vanuatu",
   "stats": {
-    "matches_played": 220,
+    "matches_played": 221,
     "wins": 68,
-    "draws": 30,
+    "draws": 31,
     "losses": 122,
-    "goals_for": 386,
-    "goals_against": 475,
+    "goals_for": 388,
+    "goals_against": 477,
     "goal_difference": -89,
-    "win_percentage": 30.9,
+    "win_percentage": 30.8,
     "avg_points": 1.06,
     "best_rank": 112,
     "worst_rank": 197,
-    "avg_rank": 177.25,
+    "avg_rank": 177.31,
     "biggest_win": {
       "score": "18-0",
       "opponent": "Kiribati",
@@ -25,11 +25,11 @@
       "date": "1951-10-04",
       "flag": "new_zealand.png"
     },
-    "home_matches": 47,
+    "home_matches": 48,
     "away_matches": 51,
     "neutral_matches": 122,
     "first_match_date": "1951-10-04",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Fiji",
       "flag1": "vanuatu.png",
       "flag2": "fiji.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4151,
-      "rating2": 4173,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4149,
+      "rating2": 4175,
+      "rating_ev": -2,
       "rank": 189,
       "win_prob": 58.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",

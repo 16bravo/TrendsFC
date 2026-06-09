@@ -1,18 +1,18 @@
 {
   "team": "Equatorial Guinea",
   "stats": {
-    "matches_played": 193,
+    "matches_played": 194,
     "wins": 56,
     "draws": 44,
-    "losses": 93,
+    "losses": 94,
     "goals_for": 177,
-    "goals_against": 278,
-    "goal_difference": -101,
-    "win_percentage": 29.0,
-    "avg_points": 1.1,
+    "goals_against": 279,
+    "goal_difference": -102,
+    "win_percentage": 28.9,
+    "avg_points": 1.09,
     "best_rank": 69,
     "worst_rank": 168,
-    "avg_rank": 122.66,
+    "avg_rank": 122.59,
     "biggest_win": {
       "score": "4-0",
       "opponent": "South Sudan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 80,
     "away_matches": 62,
-    "neutral_matches": 51,
+    "neutral_matches": 52,
     "first_match_date": "1975-05-23",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4826,
+      "rating1": 4819,
       "rating2": 5110,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 31.0,
+      "rank": 110,
+      "win_prob": 30.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "sierra_leone.png",
       "score1": "",
       "score2": "",
-      "rating1": 4826,
+      "rating1": 4819,
       "rating2": 4813,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 40.6,
+      "rank": 110,
+      "win_prob": 39.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4826,
+      "rating1": 4819,
       "rating2": 4897,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 53.1,
+      "rank": 110,
+      "win_prob": 52.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "zimbabwe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4826,
+      "rating1": 4819,
       "rating2": 4897,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 32.1,
+      "rank": 110,
+      "win_prob": 31.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "sierra_leone.png",
       "score1": "",
       "score2": "",
-      "rating1": 4826,
+      "rating1": 4819,
       "rating2": 4813,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 62.1,
+      "rank": 110,
+      "win_prob": 61.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 4826,
+      "rating1": 4819,
       "rating2": 5110,
       "rating_ev": 0,
-      "rank": 106,
-      "win_prob": 15.7,
+      "rank": 110,
+      "win_prob": 15.3,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Comoros",
       "flag1": "eq_guinea.png",
       "flag2": "comoros.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4826,
-      "rating2": 4837,
-      "rating_ev": 0,
-      "rank": 106,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4819,
+      "rating2": 4844,
+      "rating_ev": -7,
+      "rank": 110,
       "win_prob": 48.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

@@ -1,18 +1,18 @@
 {
   "team": "Spain",
   "stats": {
-    "matches_played": 781,
-    "wins": 461,
+    "matches_played": 782,
+    "wins": 462,
     "draws": 182,
     "losses": 138,
-    "goals_for": 1592,
-    "goals_against": 698,
-    "goal_difference": 894,
-    "win_percentage": 59.0,
-    "avg_points": 2.0,
+    "goals_for": 1595,
+    "goals_against": 699,
+    "goal_difference": 896,
+    "win_percentage": 59.1,
+    "avg_points": 2.01,
     "best_rank": 1,
     "worst_rank": 18,
-    "avg_rank": 6.22,
+    "avg_rank": 6.21,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Bulgaria",
@@ -27,9 +27,9 @@
     },
     "home_matches": 341,
     "away_matches": 302,
-    "neutral_matches": 138,
+    "neutral_matches": 139,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2026-06-04"
+    "last_match_date": "2026-06-08"
   },
   "matches": [
     {
@@ -213,14 +213,14 @@
       "original_team2": "Peru",
       "flag1": "spain.png",
       "flag2": "peru.png",
-      "score1": "",
-      "score2": "",
+      "score1": 3,
+      "score2": 1,
       "rating1": 5679,
       "rating2": 5197,
       "rating_ev": 0,
       "rank": 1,
       "win_prob": 88.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-04",

@@ -1,18 +1,18 @@
 {
   "team": "Peru",
   "stats": {
-    "matches_played": 712,
+    "matches_played": 713,
     "wins": 231,
     "draws": 176,
-    "losses": 305,
-    "goals_for": 865,
-    "goals_against": 993,
-    "goal_difference": -128,
+    "losses": 306,
+    "goals_for": 866,
+    "goals_against": 996,
+    "goal_difference": -130,
     "win_percentage": 32.4,
     "avg_points": 1.22,
     "best_rank": 13,
     "worst_rank": 76,
-    "avg_rank": 32.08,
+    "avg_rank": 32.09,
     "biggest_win": {
       "score": "9-1",
       "opponent": "Ecuador",
@@ -27,9 +27,9 @@
     },
     "home_matches": 269,
     "away_matches": 253,
-    "neutral_matches": 190,
+    "neutral_matches": 191,
     "first_match_date": "1927-11-01",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Spain",
       "flag1": "peru.png",
       "flag2": "spain.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 3,
       "rating1": 5197,
       "rating2": 5679,
       "rating_ev": 0,
       "rank": 41,
       "win_prob": 11.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",
