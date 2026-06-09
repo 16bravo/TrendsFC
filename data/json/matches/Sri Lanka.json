@@ -1,18 +1,18 @@
 {
   "team": "Sri Lanka",
   "stats": {
-    "matches_played": 281,
-    "wins": 54,
+    "matches_played": 282,
+    "wins": 55,
     "draws": 51,
     "losses": 176,
-    "goals_for": 266,
-    "goals_against": 691,
-    "goal_difference": -425,
-    "win_percentage": 19.2,
-    "avg_points": 0.76,
+    "goals_for": 270,
+    "goals_against": 692,
+    "goal_difference": -422,
+    "win_percentage": 19.5,
+    "avg_points": 0.77,
     "best_rank": 111,
     "worst_rank": 205,
-    "avg_rank": 184.61,
+    "avg_rank": 184.65,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Pakistan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 62,
     "away_matches": 88,
-    "neutral_matches": 131,
+    "neutral_matches": 132,
     "first_match_date": "1952-03-09",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Bhutan",
       "flag1": "sri_lanka.png",
       "flag2": "bhutan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4073,
-      "rating2": 3700,
-      "rating_ev": 0,
-      "rank": 196,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 4082,
+      "rating2": 3691,
+      "rating_ev": 9,
+      "rank": 195,
       "win_prob": 83.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",

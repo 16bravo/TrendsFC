@@ -1,18 +1,18 @@
 {
   "team": "Norway",
   "stats": {
-    "matches_played": 883,
+    "matches_played": 884,
     "wins": 333,
-    "draws": 196,
+    "draws": 197,
     "losses": 354,
-    "goals_for": 1368,
-    "goals_against": 1439,
+    "goals_for": 1369,
+    "goals_against": 1440,
     "goal_difference": -71,
     "win_percentage": 37.7,
     "avg_points": 1.35,
     "best_rank": 6,
     "worst_rank": 72,
-    "avg_rank": 31.49,
+    "avg_rank": 31.46,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Finland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 424,
     "away_matches": 407,
-    "neutral_matches": 52,
+    "neutral_matches": 53,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2026-06-01"
+    "last_match_date": "2026-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
+      "rating1": 5530,
       "rating2": 5412,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 52.8,
+      "win_prob": 52.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
+      "rating1": 5530,
       "rating2": 5189,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 87.6,
+      "win_prob": 87.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
+      "rating1": 5530,
       "rating2": 5557,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 37.1,
+      "win_prob": 36.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
+      "rating1": 5530,
       "rating2": 5189,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 74.5,
+      "win_prob": 74.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
+      "rating1": 5530,
       "rating2": 5557,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 58.7,
+      "win_prob": 57.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
+      "rating1": 5530,
       "rating2": 5412,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 72.9,
+      "win_prob": 72.3,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
-      "rating2": 5547,
+      "rating1": 5530,
+      "rating2": 5546,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 48.9,
+      "win_prob": 48.2,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
+      "rating1": 5530,
       "rating2": 5328,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 71.4,
+      "win_prob": 70.8,
       "type": "fixture"
     },
     {
@@ -196,30 +196,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5537,
+      "rating1": 5530,
       "rating2": 4999,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 90.8,
-      "type": "fixture"
-    },
-    {
-      "date": "2026-06-08",
-      "country": "United States",
-      "tournament": "Friendly",
-      "team1": "Norway",
-      "team2": "Scotland",
-      "original_team1": "Norway",
-      "original_team2": "Scotland",
-      "flag1": "norway.png",
-      "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5537,
-      "rating2": 5305,
-      "rating_ev": 0,
-      "rank": 7,
-      "win_prob": 73.4,
+      "win_prob": 90.6,
       "type": "fixture"
     },
     {
@@ -232,14 +213,14 @@
       "original_team2": "Morocco",
       "flag1": "norway.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5537,
-      "rating2": 5306,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5530,
+      "rating2": 5313,
+      "rating_ev": -7,
       "rank": 7,
       "win_prob": 73.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-01",
