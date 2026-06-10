@@ -1,5 +1,4 @@
 date,home_team,away_team,tournament,country,neutral
-2026-06-10,Pakistan,Afghanistan,Diamond Jubilee T,Maldives,True
 2026-06-10,Algeria,Bolivia,Friendly,United States,True
 2026-06-10,Costa Rica,England,Friendly,United States,True
 2026-06-10,Portugal,Nigeria,Friendly,Portugal,False
@@ -8,14 +7,14 @@ date,home_team,away_team,tournament,country,neutral
 2026-06-11,Zanzibar,Uganda,Friendly,Zanzibar,False
 2026-06-12,Canada,Bosnia and Herzegovinaovina,World Cup,Canada,False
 2026-06-12,United States,Paraguay,World Cup,United States,False
-2026-06-13,Haiti,Scotland,World Cup,United States,True
-2026-06-13,Qatar,Switzerland,World Cup,United States,True
 2026-06-13,Australia,Turkey,World Cup,Canada,True
 2026-06-13,Brazil,Morocco,World Cup,United States,True
+2026-06-13,Haiti,Scotland,World Cup,United States,True
+2026-06-13,Qatar,Switzerland,World Cup,United States,True
+2026-06-14,Sweden,Tunisia,World Cup,Mexico,True
+2026-06-14,Japan,Netherlands,World Cup,United States,True
 2026-06-14,Curaçao,Germany,World Cup,United States,True
 2026-06-14,Ecuador,Ivory Coast,World Cup,United States,True
-2026-06-14,Japan,Netherlands,World Cup,United States,True
-2026-06-14,Sweden,Tunisia,World Cup,Mexico,True
 2026-06-15,Belgium,Egypt,World Cup,United States,True
 2026-06-15,Cape Verde,Spain,World Cup,United States,True
 2026-06-15,Iran,New Zealand,World Cup,United States,True
@@ -24,8 +23,8 @@ date,home_team,away_team,tournament,country,neutral
 2026-06-16,Algeria,Argentina,World Cup,United States,True
 2026-06-16,Austria,Jordan,World Cup,United States,True
 2026-06-16,France,Senegal,World Cup,United States,True
-2026-06-17,Ghana,Panama,World Cup,Canada,True
 2026-06-17,DR Congo,Portugal,World Cup,United States,True
+2026-06-17,Ghana,Panama,World Cup,Canada,True
 2026-06-17,Colombia,Uzbekistan,World Cup,Mexico,True
 2026-06-17,Croatia,England,World Cup,United States,True
 2026-06-18,Bosnia and Herzegovinaovina,Switzerland,World Cup,United States,True
@@ -36,9 +35,9 @@ date,home_team,away_team,tournament,country,neutral
 2026-06-19,Morocco,Scotland,World Cup,United States,True
 2026-06-19,Paraguay,Turkey,World Cup,United States,True
 2026-06-19,United States,Australia,World Cup,United States,False
-2026-06-20,Japan,Tunisia,World Cup,Mexico,True
 2026-06-20,Curaçao,Ecuador,World Cup,United States,True
 2026-06-20,Germany,Ivory Coast,World Cup,Canada,True
+2026-06-20,Japan,Tunisia,World Cup,Mexico,True
 2026-06-20,Netherlands,Sweden,World Cup,United States,True
 2026-06-21,Saudi Arabia,Spain,World Cup,United States,True
 2026-06-21,Egypt,New Zealand,World Cup,Canada,True
@@ -48,15 +47,15 @@ date,home_team,away_team,tournament,country,neutral
 2026-06-22,Argentina,Austria,World Cup,United States,True
 2026-06-22,France,Iraq,World Cup,United States,True
 2026-06-22,Norway,Senegal,World Cup,United States,True
-2026-06-23,England,Ghana,World Cup,United States,True
 2026-06-23,Colombia,DR Congo,World Cup,Mexico,True
 2026-06-23,Croatia,Panama,World Cup,Canada,True
+2026-06-23,England,Ghana,World Cup,United States,True
 2026-06-23,Portugal,Uzbekistan,World Cup,United States,True
 2026-06-24,Mexico,Czechia,World Cup,Mexico,False
 2026-06-24,South Africa,South Korea,World Cup,Mexico,True
 2026-06-24,Haiti,Morocco,World Cup,United States,True
-2026-06-24,Bosnia and Herzegovinaovina,Qatar,World Cup,United States,True
 2026-06-24,Brazil,Scotland,World Cup,United States,True
+2026-06-24,Bosnia and Herzegovinaovina,Qatar,World Cup,United States,True
 2026-06-24,Canada,Switzerland,World Cup,Canada,False
 2026-06-25,Australia,Paraguay,World Cup,United States,True
 2026-06-25,Curaçao,Ivory Coast,World Cup,United States,True
@@ -64,20 +63,20 @@ date,home_team,away_team,tournament,country,neutral
 2026-06-25,Japan,Sweden,World Cup,United States,True
 2026-06-25,Netherlands,Tunisia,World Cup,United States,True
 2026-06-25,United States,Turkey,World Cup,United States,False
+2026-06-26,France,Norway,World Cup,United States,True
 2026-06-26,Spain,Uruguay,World Cup,Mexico,True
 2026-06-26,Iraq,Senegal,World Cup,Canada,True
-2026-06-26,France,Norway,World Cup,United States,True
 2026-06-26,Cape Verde,Saudi Arabia,World Cup,United States,True
 2026-06-26,Belgium,New Zealand,World Cup,Canada,True
 2026-06-26,Egypt,Iran,World Cup,United States,True
+2026-06-27,DR Congo,Uzbekistan,World Cup,United States,True
 2026-06-27,Algeria,Austria,World Cup,United States,True
 2026-06-27,Argentina,Jordan,World Cup,United States,True
 2026-06-27,Colombia,Portugal,World Cup,United States,True
 2026-06-27,Croatia,Ghana,World Cup,United States,True
-2026-06-27,DR Congo,Uzbekistan,World Cup,United States,True
 2026-06-27,England,Panama,World Cup,United States,True
-2026-07-24,Cambodia,Singapore,SE Asian Champ,Cambodia,False
 2026-07-24,East Timor,Vietnam,SE Asian Champ,,True
+2026-07-24,Cambodia,Singapore,SE Asian Champ,Cambodia,False
 2026-07-25,Laos,Thailand,SE Asian Champ,Laos,False
 2026-07-25,Myanmar,Malaysia,SE Asian Champ,Myanmar,False
 2026-07-27,Singapore,East Timor,SE Asian Champ,Singapore,False
@@ -92,13 +91,13 @@ date,home_team,away_team,tournament,country,neutral
 2026-08-03,Indonesia,Vietnam,SE Asian Champ,Indonesia,False
 2026-08-04,Myanmar,Laos,SE Asian Champ,Myanmar,False
 2026-08-04,Philippines,Thailand,SE Asian Champ,Philippines,False
-2026-08-07,Vietnam,Cambodia,SE Asian Champ,Vietnam,False
 2026-08-07,Singapore,Indonesia,SE Asian Champ,Singapore,False
+2026-08-07,Vietnam,Cambodia,SE Asian Champ,Vietnam,False
 2026-08-08,Malaysia,Philippines,SE Asian Champ,Malaysia,False
 2026-08-08,Thailand,Myanmar,SE Asian Champ,Thailand,False
+2026-09-10,Rwanda,Liberia,African Cup qualifier,Rwanda,False
 2026-09-10,Senegal,Mozambique,African Cup qualifier,Senegal,False
 2026-09-10,Niger,Lesotho,African Cup qualifier,Niger,False
-2026-09-10,Rwanda,Liberia,African Cup qualifier,Rwanda,False
 2026-09-10,Sierra Leone,Zimbabwe,African Cup qualifier,Sierra Leone,False
 2026-09-10,Namibia,Congo,African Cup qualifier,Namibia,False
 2026-09-10,Sudan,Ethiopia,African Cup qualifier,Sudan,False
