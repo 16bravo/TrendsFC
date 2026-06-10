@@ -1,18 +1,18 @@
 {
   "team": "Kazakhstan",
   "stats": {
-    "matches_played": 269,
+    "matches_played": 270,
     "wins": 69,
     "draws": 58,
-    "losses": 142,
-    "goals_for": 280,
-    "goals_against": 448,
-    "goal_difference": -168,
-    "win_percentage": 25.7,
-    "avg_points": 0.99,
+    "losses": 143,
+    "goals_for": 281,
+    "goals_against": 451,
+    "goal_difference": -170,
+    "win_percentage": 25.6,
+    "avg_points": 0.98,
     "best_rank": 72,
     "worst_rank": 116,
-    "avg_rank": 98.64,
+    "avg_rank": 98.6,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Pakistan",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 103,
-    "away_matches": 120,
+    "away_matches": 121,
     "neutral_matches": 46,
     "first_match_date": "1992-06-01",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4899,
+      "rating1": 4896,
       "rating2": 5120,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 37.1,
+      "rank": 89,
+      "win_prob": 36.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 4899,
-      "rating2": 4687,
+      "rating1": 4896,
+      "rating2": 4693,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 62.0,
+      "rank": 89,
+      "win_prob": 61.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4899,
-      "rating2": 4911,
+      "rating1": 4896,
+      "rating2": 4924,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 59.5,
+      "rank": 89,
+      "win_prob": 57.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "moldova.png",
       "score1": "",
       "score2": "",
-      "rating1": 4899,
-      "rating2": 4687,
+      "rating1": 4896,
+      "rating2": 4693,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 79.7,
+      "rank": 89,
+      "win_prob": 79.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "slovakia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4899,
+      "rating1": 4896,
       "rating2": 5120,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 19.7,
+      "rank": 89,
+      "win_prob": 19.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "faroe.png",
       "score1": "",
       "score2": "",
-      "rating1": 4899,
-      "rating2": 4911,
+      "rating1": 4896,
+      "rating2": 4924,
       "rating_ev": 0,
-      "rank": 88,
-      "win_prob": 38.0,
+      "rank": 89,
+      "win_prob": 36.3,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Hungary",
       "flag1": "kazakhstan.png",
       "flag2": "hungary.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4899,
-      "rating2": 5180,
-      "rating_ev": 0,
-      "rank": 88,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4896,
+      "rating2": 5183,
+      "rating_ev": -3,
+      "rank": 89,
       "win_prob": 15.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",

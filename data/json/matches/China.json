@@ -1,18 +1,18 @@
 {
   "team": "China",
   "stats": {
-    "matches_played": 745,
+    "matches_played": 746,
     "wins": 362,
-    "draws": 158,
+    "draws": 159,
     "losses": 225,
     "goals_for": 1388,
     "goals_against": 825,
     "goal_difference": 563,
-    "win_percentage": 48.6,
+    "win_percentage": 48.5,
     "avg_points": 1.67,
     "best_rank": 24,
     "worst_rank": 128,
-    "avg_rank": 60.88,
+    "avg_rank": 60.95,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "2012-09-10",
       "flag": "brazil.png"
     },
-    "home_matches": 270,
+    "home_matches": 271,
     "away_matches": 248,
     "neutral_matches": 227,
     "first_match_date": "1913-02-04",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kyrgyzstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4822,
-      "rating2": 4686,
+      "rating1": 4817,
+      "rating2": 4689,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 64.5,
+      "rank": 111,
+      "win_prob": 63.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4822,
+      "rating1": 4817,
       "rating2": 4910,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 40.4,
+      "rank": 111,
+      "win_prob": 39.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 4822,
+      "rating1": 4817,
       "rating2": 5242,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 14.0,
+      "rank": 111,
+      "win_prob": 13.8,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Thailand",
       "flag1": "china.png",
       "flag2": "thailand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4822,
-      "rating2": 4738,
-      "rating_ev": 0,
-      "rank": 108,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4817,
+      "rating2": 4743,
+      "rating_ev": -5,
+      "rank": 111,
       "win_prob": 69.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",

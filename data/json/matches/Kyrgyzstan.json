@@ -1,18 +1,18 @@
 {
   "team": "Kyrgyzstan",
   "stats": {
-    "matches_played": 190,
+    "matches_played": 191,
     "wins": 55,
-    "draws": 31,
+    "draws": 32,
     "losses": 104,
     "goals_for": 206,
     "goals_against": 334,
     "goal_difference": -128,
-    "win_percentage": 28.9,
+    "win_percentage": 28.8,
     "avg_points": 1.03,
     "best_rank": 131,
     "worst_rank": 179,
-    "avg_rank": 158.29,
+    "avg_rank": 158.19,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Myanmar",
@@ -25,11 +25,11 @@
       "date": "1997-06-04",
       "flag": "iran.png"
     },
-    "home_matches": 48,
+    "home_matches": 49,
     "away_matches": 73,
     "neutral_matches": 69,
     "first_match_date": "1992-08-23",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 4686,
-      "rating2": 4822,
+      "rating1": 4689,
+      "rating2": 4817,
       "rating_ev": 0,
       "rank": 140,
-      "win_prob": 35.5,
+      "win_prob": 36.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 4686,
+      "rating1": 4689,
       "rating2": 5242,
       "rating_ev": 0,
       "rank": 140,
-      "win_prob": 8.6,
+      "win_prob": 8.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 4686,
+      "rating1": 4689,
       "rating2": 4910,
       "rating_ev": 0,
       "rank": 140,
-      "win_prob": 27.3,
+      "win_prob": 27.5,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Palestine",
       "flag1": "kyrgyzstan.png",
       "flag2": "palestine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4686,
-      "rating2": 4881,
-      "rating_ev": 0,
-      "rank": 140,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4689,
+      "rating2": 4878,
+      "rating_ev": 3,
+      "rank": 139,
       "win_prob": 39.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",

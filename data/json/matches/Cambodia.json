@@ -1,18 +1,18 @@
 {
   "team": "Cambodia",
   "stats": {
-    "matches_played": 309,
-    "wins": 69,
+    "matches_played": 310,
+    "wins": 70,
     "draws": 44,
     "losses": 196,
-    "goals_for": 353,
+    "goals_for": 355,
     "goals_against": 794,
-    "goal_difference": -441,
-    "win_percentage": 22.3,
-    "avg_points": 0.81,
+    "goal_difference": -439,
+    "win_percentage": 22.6,
+    "avg_points": 0.82,
     "best_rank": 102,
     "worst_rank": 206,
-    "avg_rank": 173.16,
+    "avg_rank": 173.18,
     "biggest_win": {
       "score": "8-0",
       "opponent": "North Yemen",
@@ -25,11 +25,11 @@
       "date": "2019-10-10",
       "flag": "iran.png"
     },
-    "home_matches": 77,
+    "home_matches": 78,
     "away_matches": 89,
     "neutral_matches": 143,
     "first_match_date": "1956-03-17",
-    "last_match_date": "2026-06-04"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,30 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 4180,
+      "rating1": 4201,
       "rating2": 4664,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 7.5,
+      "rank": 182,
+      "win_prob": 8.1,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-08-03",
+      "country": "Cambodia",
+      "tournament": "SE Asian Champ",
+      "team1": "Cambodia",
+      "team2": "East Timor",
+      "original_team1": "Cambodia",
+      "original_team2": "East Timor",
+      "flag1": "cambodia.png",
+      "flag2": "timor.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4201,
+      "rating2": 3870,
+      "rating_ev": 0,
+      "rank": 182,
+      "win_prob": 86.7,
       "type": "fixture"
     },
     {
@@ -63,11 +82,11 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4180,
-      "rating2": 4751,
+      "rating1": 4201,
+      "rating2": 4759,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 5.4,
+      "rank": 182,
+      "win_prob": 5.7,
       "type": "fixture"
     },
     {
@@ -82,11 +101,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4180,
+      "rating1": 4201,
       "rating2": 4406,
       "rating_ev": 0,
-      "rank": 186,
-      "win_prob": 36.6,
+      "rank": 182,
+      "win_prob": 38.7,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Hong Kong",
       "flag1": "cambodia.png",
       "flag2": "hong_kong.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4180,
-      "rating2": 4505,
-      "rating_ev": 0,
-      "rank": 186,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4201,
+      "rating2": 4484,
+      "rating_ev": 21,
+      "rank": 182,
       "win_prob": 27.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-04",

@@ -1,18 +1,18 @@
 {
   "team": "Hungary",
   "stats": {
-    "matches_played": 1037,
-    "wins": 490,
+    "matches_played": 1038,
+    "wins": 491,
     "draws": 222,
     "losses": 325,
-    "goals_for": 2088,
-    "goals_against": 1530,
-    "goal_difference": 558,
+    "goals_for": 2091,
+    "goals_against": 1531,
+    "goal_difference": 560,
     "win_percentage": 47.3,
     "avg_points": 1.63,
     "best_rank": 1,
     "worst_rank": 71,
-    "avg_rank": 22.43,
+    "avg_rank": 22.45,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Russia",
@@ -25,11 +25,11 @@
       "date": "1908-06-10",
       "flag": "england.png"
     },
-    "home_matches": 468,
+    "home_matches": 469,
     "away_matches": 495,
     "neutral_matches": 74,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "northern_ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5180,
+      "rating1": 5183,
       "rating2": 5124,
       "rating_ev": 0,
       "rank": 45,
-      "win_prob": 66.5,
+      "win_prob": 66.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "georgia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5180,
+      "rating1": 5183,
       "rating2": 5168,
       "rating_ev": 0,
       "rank": 45,
-      "win_prob": 40.5,
+      "win_prob": 40.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ukraine.png",
       "score1": "",
       "score2": "",
-      "rating1": 5180,
+      "rating1": 5183,
       "rating2": 5241,
       "rating_ev": 0,
       "rank": 45,
-      "win_prob": 43.3,
+      "win_prob": 43.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "georgia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5180,
+      "rating1": 5183,
       "rating2": 5168,
       "rating_ev": 0,
       "rank": 45,
-      "win_prob": 62.0,
+      "win_prob": 62.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "northern_ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5180,
+      "rating1": 5183,
       "rating2": 5124,
       "rating_ev": 0,
       "rank": 45,
-      "win_prob": 45.2,
+      "win_prob": 45.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "ukraine.png",
       "score1": "",
       "score2": "",
-      "rating1": 5180,
+      "rating1": 5183,
       "rating2": 5241,
       "rating_ev": 0,
       "rank": 45,
-      "win_prob": 54.2,
+      "win_prob": 54.6,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Kazakhstan",
       "flag1": "hungary.png",
       "flag2": "kazakhstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5180,
-      "rating2": 4899,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5183,
+      "rating2": 4896,
+      "rating_ev": 3,
       "rank": 45,
       "win_prob": 84.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",

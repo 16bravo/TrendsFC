@@ -1,18 +1,18 @@
 {
   "team": "Chile",
   "stats": {
-    "matches_played": 854,
-    "wins": 319,
+    "matches_played": 855,
+    "wins": 320,
     "draws": 188,
     "losses": 347,
-    "goals_for": 1199,
-    "goals_against": 1219,
-    "goal_difference": -20,
+    "goals_for": 1201,
+    "goals_against": 1220,
+    "goal_difference": -19,
     "win_percentage": 37.4,
     "avg_points": 1.34,
     "best_rank": 2,
     "worst_rank": 52,
-    "avg_rank": 22.96,
+    "avg_rank": 22.98,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Tahiti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 327,
     "away_matches": 310,
-    "neutral_matches": 217,
+    "neutral_matches": 218,
     "first_match_date": "1910-05-27",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "DR Congo",
       "flag1": "chile.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5202,
-      "rating2": 5110,
-      "rating_ev": 0,
-      "rank": 40,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5206,
+      "rating2": 5106,
+      "rating_ev": 4,
+      "rank": 38,
       "win_prob": 60.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",

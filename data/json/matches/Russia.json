@@ -1,18 +1,18 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 776,
-    "wins": 404,
+    "matches_played": 777,
+    "wins": 405,
     "draws": 202,
     "losses": 170,
-    "goals_for": 1389,
+    "goals_for": 1392,
     "goals_against": 755,
-    "goal_difference": 634,
+    "goal_difference": 637,
     "win_percentage": 52.1,
     "avg_points": 1.82,
     "best_rank": 1,
     "worst_rank": 38,
-    "avg_rank": 13.99,
+    "avg_rank": 14.0,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1912-07-01",
       "flag": "germany_1.png"
     },
-    "home_matches": 164,
+    "home_matches": 165,
     "away_matches": 359,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Trinidad and Tobago",
       "flag1": "russia.png",
       "flag2": "trinidad.png",
-      "score1": "",
-      "score2": "",
+      "score1": 3,
+      "score2": 0,
       "rating1": 5328,
       "rating2": 4721,
       "rating_ev": 0,
       "rank": 23,
       "win_prob": 95.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",

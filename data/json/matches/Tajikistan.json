@@ -1,18 +1,18 @@
 {
   "team": "Tajikistan",
   "stats": {
-    "matches_played": 213,
+    "matches_played": 214,
     "wins": 80,
-    "draws": 45,
+    "draws": 46,
     "losses": 88,
-    "goals_for": 304,
-    "goals_against": 309,
+    "goals_for": 305,
+    "goals_against": 310,
     "goal_difference": -5,
-    "win_percentage": 37.6,
+    "win_percentage": 37.4,
     "avg_points": 1.34,
     "best_rank": 83,
     "worst_rank": 165,
-    "avg_rank": 139.88,
+    "avg_rank": 139.93,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Guam",
@@ -25,11 +25,11 @@
       "date": "2005-04-10",
       "flag": "iran.png"
     },
-    "home_matches": 56,
+    "home_matches": 57,
     "away_matches": 84,
     "neutral_matches": 73,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4644,
+      "rating1": 4636,
       "rating2": 5258,
       "rating_ev": 0,
-      "rank": 149,
-      "win_prob": 7.0,
+      "rank": 150,
+      "win_prob": 6.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4644,
+      "rating1": 4636,
       "rating2": 4406,
       "rating_ev": 0,
-      "rank": 149,
-      "win_prob": 73.9,
+      "rank": 150,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 4644,
+      "rating1": 4636,
       "rating2": 4999,
       "rating_ev": 0,
-      "rank": 149,
-      "win_prob": 17.6,
+      "rank": 150,
+      "win_prob": 17.1,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "India",
       "flag1": "tajikistan.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4644,
-      "rating2": 4486,
-      "rating_ev": 0,
-      "rank": 149,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4636,
+      "rating2": 4494,
+      "rating_ev": -8,
+      "rank": 150,
       "win_prob": 75.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",
