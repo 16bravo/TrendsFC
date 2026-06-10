@@ -1,14 +1,14 @@
 {
   "team": "Iceland",
   "stats": {
-    "matches_played": 524,
+    "matches_played": 525,
     "wins": 158,
     "draws": 104,
-    "losses": 262,
+    "losses": 263,
     "goals_for": 630,
-    "goals_against": 881,
-    "goal_difference": -251,
-    "win_percentage": 30.2,
+    "goals_against": 884,
+    "goal_difference": -254,
+    "win_percentage": 30.1,
     "avg_points": 1.1,
     "best_rank": 18,
     "worst_rank": 105,
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 251,
-    "neutral_matches": 58,
+    "neutral_matches": 59,
     "first_match_date": "1930-07-29",
-    "last_match_date": "2026-05-31"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5100,
       "rating2": 4950,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 75.5,
+      "rank": 60,
+      "win_prob": 75.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5100,
       "rating2": 4933,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 58.0,
+      "rank": 60,
+      "win_prob": 57.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5100,
       "rating2": 4836,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 67.7,
+      "rank": 60,
+      "win_prob": 67.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "bulgaria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5100,
       "rating2": 4933,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 76.8,
+      "rank": 60,
+      "win_prob": 76.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "luxembourg.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5100,
       "rating2": 4950,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 56.1,
+      "rank": 60,
+      "win_prob": 55.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "estonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5106,
+      "rating1": 5100,
       "rating2": 4836,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 83.5,
+      "rank": 60,
+      "win_prob": 83.1,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Argentina",
       "flag1": "iceland.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5106,
-      "rating2": 5594,
-      "rating_ev": 0,
-      "rank": 59,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 5100,
+      "rating2": 5600,
+      "rating_ev": -6,
+      "rank": 60,
       "win_prob": 11.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-31",

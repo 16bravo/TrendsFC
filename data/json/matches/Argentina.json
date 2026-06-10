@@ -1,13 +1,13 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1106,
-    "wins": 608,
+    "matches_played": 1107,
+    "wins": 609,
     "draws": 268,
     "losses": 230,
-    "goals_for": 2098,
+    "goals_for": 2101,
     "goals_against": 1129,
-    "goal_difference": 969,
+    "goal_difference": 972,
     "win_percentage": 55.0,
     "avg_points": 1.89,
     "best_rank": 1,
@@ -27,9 +27,9 @@
     },
     "home_matches": 381,
     "away_matches": 416,
-    "neutral_matches": 309,
+    "neutral_matches": 310,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5594,
+      "rating1": 5600,
       "rating2": 5115,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 88.7,
+      "win_prob": 88.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5594,
+      "rating1": 5600,
       "rating2": 5366,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 73.1,
+      "win_prob": 73.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5594,
+      "rating1": 5600,
       "rating2": 5262,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 80.9,
+      "win_prob": 81.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Iceland",
       "flag1": "argentina.png",
       "flag2": "iceland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5594,
-      "rating2": 5106,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5600,
+      "rating2": 5100,
+      "rating_ev": 6,
       "rank": 2,
       "win_prob": 89.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",
