@@ -1,18 +1,18 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 788,
+    "matches_played": 789,
     "wins": 355,
     "draws": 191,
-    "losses": 242,
+    "losses": 243,
     "goals_for": 1365,
-    "goals_against": 920,
-    "goal_difference": 445,
-    "win_percentage": 45.1,
+    "goals_against": 923,
+    "goal_difference": 442,
+    "win_percentage": 45.0,
     "avg_points": 1.59,
     "best_rank": 8,
     "worst_rank": 79,
-    "avg_rank": 47.1,
+    "avg_rank": 47.14,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 259,
     "away_matches": 278,
-    "neutral_matches": 251,
+    "neutral_matches": 252,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-06-01"
+    "last_match_date": "2026-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "England",
       "flag1": "costa_rica.png",
       "flag2": "england.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4979,
-      "rating2": 5555,
-      "rating_ev": 0,
-      "rank": 77,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4975,
+      "rating2": 5559,
+      "rating_ev": -4,
+      "rank": 78,
       "win_prob": 8.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-01",
