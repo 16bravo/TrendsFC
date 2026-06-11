@@ -1,11 +1,16 @@
 {
-  "title": "International football results from 1872 to today",
-  "subtitle": "An automatically updated dataset of almost 50,000 international football results",
+  "title": "Updated International football matches since 1872",
+  "subtitle": "An automatically updated dataset of international football results since 1872",
   "description": "",
   "id": "patateriedata/all-international-football-results",
   "licenses": [
     {
       "name": "CC0-1.0"
     }
+  ],
+  "keywords": [
+    "tabular",
+    "football",
+    "beginner"
   ]
 }
