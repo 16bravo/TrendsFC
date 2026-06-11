@@ -21,7 +21,7 @@ jobs:
       
       - name: Download ChromeDriver
         run: |
-          wget -q "https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.0/linux64/chromedriver-linux64.zip" -O chromedriver.zip
+          wget -q "https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.0/linux64/chromedriver-linux64.zip" -O chromedriver.zip
           unzip chromedriver.zip
           cp chromedriver-linux64/chromedriver /usr/local/bin/
           chmod +x /usr/local/bin/chromedriver
