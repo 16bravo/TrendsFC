@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 599,
-    "wins": 184,
+    "matches_played": 600,
+    "wins": 185,
     "draws": 161,
     "losses": 254,
-    "goals_for": 721,
+    "goals_for": 724,
     "goals_against": 904,
-    "goal_difference": -183,
-    "win_percentage": 30.7,
+    "goal_difference": -180,
+    "win_percentage": 30.8,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.81,
+    "avg_rank": 34.77,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -27,9 +27,9 @@
     },
     "home_matches": 183,
     "away_matches": 211,
-    "neutral_matches": 205,
+    "neutral_matches": 206,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2026-05-30"
+    "last_match_date": "2026-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5416,
+      "rating1": 5421,
       "rating2": 5541,
       "rating_ev": 0,
       "rank": 14,
-      "win_prob": 36.6,
+      "win_prob": 37.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5416,
+      "rating1": 5421,
       "rating2": 4839,
       "rating_ev": 0,
       "rank": 14,
-      "win_prob": 92.0,
+      "win_prob": 92.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5416,
+      "rating1": 5421,
       "rating2": 5191,
       "rating_ev": 0,
       "rank": 14,
-      "win_prob": 72.8,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Guatemala",
       "flag1": "ecuador.png",
       "flag2": "guatemala.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5416,
-      "rating2": 4896,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5421,
+      "rating2": 4891,
+      "rating_ev": 5,
       "rank": 14,
       "win_prob": 90.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-30",

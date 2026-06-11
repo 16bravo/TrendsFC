@@ -1,18 +1,18 @@
 {
   "team": "Belarus",
   "stats": {
-    "matches_played": 302,
+    "matches_played": 303,
     "wins": 91,
-    "draws": 76,
+    "draws": 77,
     "losses": 135,
-    "goals_for": 341,
-    "goals_against": 436,
+    "goals_for": 343,
+    "goals_against": 438,
     "goal_difference": -95,
-    "win_percentage": 30.1,
+    "win_percentage": 30.0,
     "avg_points": 1.16,
     "best_rank": 33,
     "worst_rank": 99,
-    "avg_rank": 66.02,
+    "avg_rank": 66.05,
     "biggest_win": {
       "score": "5-0",
       "opponent": "Lithuania",
@@ -25,11 +25,11 @@
       "date": "2021-03-30",
       "flag": "belgium.png"
     },
-    "home_matches": 101,
+    "home_matches": 102,
     "away_matches": 156,
     "neutral_matches": 45,
     "first_match_date": "1992-10-28",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 4995,
       "rating2": 5115,
       "rating_ev": 0,
       "rank": 75,
-      "win_prob": 37.3,
+      "win_prob": 37.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
-      "rating2": 4247,
+      "rating1": 4995,
+      "rating2": 4256,
       "rating_ev": 0,
       "rank": 75,
-      "win_prob": 93.5,
+      "win_prob": 93.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 4995,
       "rating2": 5030,
       "rating_ev": 0,
       "rank": 75,
-      "win_prob": 46.4,
+      "win_prob": 46.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "san_marino.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
-      "rating2": 4247,
+      "rating1": 4995,
+      "rating2": 4256,
       "rating_ev": 0,
       "rank": 75,
-      "win_prob": 95.7,
+      "win_prob": 95.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "finland.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 4995,
       "rating2": 5030,
       "rating_ev": 0,
       "rank": 75,
-      "win_prob": 35.8,
+      "win_prob": 35.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "albania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 4995,
       "rating2": 5115,
       "rating_ev": 0,
       "rank": 75,
-      "win_prob": 27.7,
+      "win_prob": 27.6,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Burkina Faso",
       "flag1": "belarus.png",
       "flag2": "burkina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4997,
-      "rating2": 5027,
-      "rating_ev": 0,
-      "rank": 75,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 4995,
+      "rating2": 5029,
+      "rating_ev": -2,
+      "rank": 76,
       "win_prob": 57.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",

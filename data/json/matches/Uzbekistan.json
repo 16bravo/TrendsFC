@@ -1,18 +1,18 @@
 {
   "team": "Uzbekistan",
   "stats": {
-    "matches_played": 364,
+    "matches_played": 365,
     "wins": 178,
     "draws": 75,
-    "losses": 111,
-    "goals_for": 632,
-    "goals_against": 399,
-    "goal_difference": 233,
-    "win_percentage": 48.9,
+    "losses": 112,
+    "goals_for": 633,
+    "goals_against": 401,
+    "goal_difference": 232,
+    "win_percentage": 48.8,
     "avg_points": 1.67,
     "best_rank": 38,
     "worst_rank": 98,
-    "avg_rank": 65.78,
+    "avg_rank": 65.75,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Mongolia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 129,
     "away_matches": 129,
-    "neutral_matches": 106,
+    "neutral_matches": 107,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2026-06-01"
+    "last_match_date": "2026-06-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5119,
       "rating2": 4788,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 80.5,
+      "rank": 55,
+      "win_prob": 80.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "north_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
+      "rating1": 5119,
       "rating2": 4773,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 81.5,
+      "rank": 55,
+      "win_prob": 81.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
-      "rating2": 5117,
+      "rating1": 5119,
+      "rating2": 5115,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 49.7,
+      "rank": 55,
+      "win_prob": 50.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
-      "rating2": 5110,
+      "rating1": 5119,
+      "rating2": 5106,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 50.4,
+      "rank": 55,
+      "win_prob": 51.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
-      "rating2": 5557,
+      "rating1": 5119,
+      "rating2": 5552,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 12.9,
+      "rank": 55,
+      "win_prob": 13.4,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5114,
-      "rating2": 5505,
+      "rating1": 5119,
+      "rating2": 5507,
       "rating_ev": 0,
-      "rank": 57,
-      "win_prob": 15.5,
+      "rank": 55,
+      "win_prob": 15.7,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Netherlands",
       "flag1": "uzbekistan.png",
       "flag2": "netherlands.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5114,
-      "rating2": 5520,
-      "rating_ev": 0,
-      "rank": 57,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5119,
+      "rating2": 5515,
+      "rating_ev": 5,
+      "rank": 55,
       "win_prob": 14.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-01",

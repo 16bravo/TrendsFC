@@ -1,18 +1,18 @@
 {
   "team": "Colombia",
   "stats": {
-    "matches_played": 652,
-    "wins": 266,
+    "matches_played": 653,
+    "wins": 267,
     "draws": 179,
     "losses": 207,
-    "goals_for": 848,
+    "goals_for": 850,
     "goals_against": 749,
-    "goal_difference": 99,
-    "win_percentage": 40.8,
+    "goal_difference": 101,
+    "win_percentage": 40.9,
     "avg_points": 1.5,
     "best_rank": 3,
     "worst_rank": 77,
-    "avg_rank": 25.07,
+    "avg_rank": 25.05,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guyana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 185,
     "away_matches": 230,
-    "neutral_matches": 237,
+    "neutral_matches": 238,
     "first_match_date": "1938-02-10",
-    "last_match_date": "2026-06-01"
+    "last_match_date": "2026-06-07"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5505,
-      "rating2": 5557,
+      "rating1": 5507,
+      "rating2": 5552,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 44.3,
+      "win_prob": 45.1,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5505,
-      "rating2": 5110,
+      "rating1": 5507,
+      "rating2": 5106,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 84.7,
+      "win_prob": 85.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5505,
-      "rating2": 5114,
+      "rating1": 5507,
+      "rating2": 5119,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 84.5,
+      "win_prob": 84.3,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Jordan",
       "flag1": "colombia.png",
       "flag2": "jordan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5505,
-      "rating2": 5117,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5507,
+      "rating2": 5115,
+      "rating_ev": 2,
       "rank": 10,
       "win_prob": 84.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-01",

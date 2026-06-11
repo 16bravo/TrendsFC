@@ -1,18 +1,18 @@
 {
   "team": "Lithuania",
   "stats": {
-    "matches_played": 417,
+    "matches_played": 418,
     "wins": 105,
     "draws": 82,
-    "losses": 230,
+    "losses": 231,
     "goals_for": 408,
-    "goals_against": 758,
-    "goal_difference": -350,
-    "win_percentage": 25.2,
+    "goals_against": 759,
+    "goal_difference": -351,
+    "win_percentage": 25.1,
     "avg_points": 0.95,
     "best_rank": 39,
     "worst_rank": 140,
-    "avg_rank": 84.98,
+    "avg_rank": 85.05,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -26,10 +26,10 @@
       "flag": "egypt_2.png"
     },
     "home_matches": 167,
-    "away_matches": 207,
+    "away_matches": 208,
     "neutral_matches": 43,
     "first_match_date": "1923-06-24",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 4815,
+      "rating1": 4808,
       "rating2": 4331,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 92.5,
+      "rank": 114,
+      "win_prob": 92.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4815,
-      "rating2": 4793,
+      "rating1": 4808,
+      "rating2": 4784,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 41.5,
+      "rank": 114,
+      "win_prob": 41.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "azerbaijan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4815,
-      "rating2": 4793,
+      "rating1": 4808,
+      "rating2": 4784,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 63.1,
+      "rank": 114,
+      "win_prob": 63.3,
       "type": "fixture"
     },
     {
@@ -101,16 +101,16 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 4815,
+      "rating1": 4808,
       "rating2": 4331,
       "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 83.7,
+      "rank": 114,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
       "date": "2026-06-09",
-      "country": "Lithuania",
+      "country": "Estonia",
       "tournament": "Baltic Cup",
       "team1": "Lithuania",
       "team2": "Estonia",
@@ -118,14 +118,14 @@
       "original_team2": "Estonia",
       "flag1": "lithuania.png",
       "flag2": "estonia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4815,
-      "rating2": 4829,
-      "rating_ev": 0,
-      "rank": 112,
-      "win_prob": 59.3,
-      "type": "fixture"
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4808,
+      "rating2": 4836,
+      "rating_ev": -7,
+      "rank": 115,
+      "win_prob": 37.7,
+      "type": "past"
     },
     {
       "date": "2026-06-06",

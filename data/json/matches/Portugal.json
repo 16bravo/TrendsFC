@@ -1,18 +1,18 @@
 {
   "team": "Portugal",
   "stats": {
-    "matches_played": 695,
-    "wins": 347,
+    "matches_played": 696,
+    "wins": 348,
     "draws": 159,
     "losses": 189,
-    "goals_for": 1224,
-    "goals_against": 780,
-    "goal_difference": 444,
-    "win_percentage": 49.9,
+    "goals_for": 1226,
+    "goals_against": 781,
+    "goal_difference": 445,
+    "win_percentage": 50.0,
     "avg_points": 1.73,
     "best_rank": 1,
     "worst_rank": 33,
-    "avg_rank": 14.41,
+    "avg_rank": 14.4,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Luxembourg",
@@ -25,11 +25,11 @@
       "date": "1947-05-25",
       "flag": "england.png"
     },
-    "home_matches": 321,
+    "home_matches": 322,
     "away_matches": 262,
     "neutral_matches": 112,
     "first_match_date": "1921-12-18",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-10"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
+      "rating1": 5552,
       "rating2": 5189,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 76.1,
+      "rank": 4,
+      "win_prob": 75.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
+      "rating1": 5552,
       "rating2": 5412,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 74.6,
+      "rank": 4,
+      "win_prob": 74.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
-      "rating2": 5537,
+      "rating1": 5552,
+      "rating2": 5530,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 62.9,
+      "rank": 4,
+      "win_prob": 63.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
+      "rating1": 5552,
       "rating2": 5412,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 54.9,
+      "rank": 4,
+      "win_prob": 54.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
-      "rating2": 5537,
+      "rating1": 5552,
+      "rating2": 5530,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 41.3,
+      "rank": 4,
+      "win_prob": 41.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
+      "rating1": 5552,
       "rating2": 5189,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 88.4,
+      "rank": 4,
+      "win_prob": 88.2,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "colombia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
-      "rating2": 5505,
+      "rating1": 5552,
+      "rating2": 5507,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 55.7,
+      "rank": 4,
+      "win_prob": 54.9,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
-      "rating2": 5114,
+      "rating1": 5552,
+      "rating2": 5119,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 87.1,
+      "rank": 4,
+      "win_prob": 86.6,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "dr_congo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5557,
-      "rating2": 5110,
+      "rating1": 5552,
+      "rating2": 5106,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 87.3,
+      "rank": 4,
+      "win_prob": 87.2,
       "type": "fixture"
     },
     {
@@ -213,14 +213,14 @@
       "original_team2": "Nigeria",
       "flag1": "portugal.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5557,
-      "rating2": 5243,
-      "rating_ev": 0,
-      "rank": 3,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5552,
+      "rating2": 5248,
+      "rating_ev": -5,
+      "rank": 4,
       "win_prob": 85.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",

@@ -1,18 +1,18 @@
 {
   "team": "Trinidad and Tobago",
   "stats": {
-    "matches_played": 869,
+    "matches_played": 870,
     "wins": 376,
     "draws": 192,
-    "losses": 301,
+    "losses": 302,
     "goals_for": 1452,
-    "goals_against": 1112,
-    "goal_difference": 340,
-    "win_percentage": 43.3,
+    "goals_against": 1115,
+    "goal_difference": 337,
+    "win_percentage": 43.2,
     "avg_points": 1.52,
     "best_rank": 14,
     "worst_rank": 142,
-    "avg_rank": 87.66,
+    "avg_rank": 87.71,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 345,
-    "away_matches": 361,
+    "away_matches": 362,
     "neutral_matches": 163,
     "first_match_date": "1905-07-21",
-    "last_match_date": "2026-05-30"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Russia",
       "flag1": "trinidad.png",
       "flag2": "russia.png",
-      "score1": "",
-      "score2": "",
+      "score1": 0,
+      "score2": 3,
       "rating1": 4721,
       "rating2": 5328,
       "rating_ev": 0,
       "rank": 135,
       "win_prob": 4.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-05-30",

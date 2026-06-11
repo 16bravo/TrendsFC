@@ -1,18 +1,18 @@
 {
   "team": "Azerbaijan",
   "stats": {
-    "matches_played": 323,
-    "wins": 66,
+    "matches_played": 324,
+    "wins": 67,
     "draws": 81,
     "losses": 176,
-    "goals_for": 263,
-    "goals_against": 544,
-    "goal_difference": -281,
-    "win_percentage": 20.4,
-    "avg_points": 0.86,
+    "goals_for": 265,
+    "goals_against": 545,
+    "goal_difference": -280,
+    "win_percentage": 20.7,
+    "avg_points": 0.87,
     "best_rank": 36,
     "worst_rank": 131,
-    "avg_rank": 100.22,
+    "avg_rank": 100.28,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Saint Lucia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 116,
     "away_matches": 152,
-    "neutral_matches": 55,
+    "neutral_matches": 56,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 4793,
+      "rating1": 4784,
       "rating2": 4331,
       "rating_ev": 0,
-      "rank": 120,
-      "win_prob": 82.5,
+      "rank": 121,
+      "win_prob": 81.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4793,
-      "rating2": 4815,
+      "rating1": 4784,
+      "rating2": 4808,
       "rating_ev": 0,
-      "rank": 120,
-      "win_prob": 58.5,
+      "rank": 121,
+      "win_prob": 58.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "liechtenstein.png",
       "score1": "",
       "score2": "",
-      "rating1": 4793,
+      "rating1": 4784,
       "rating2": 4331,
       "rating_ev": 0,
-      "rank": 120,
-      "win_prob": 91.9,
+      "rank": 121,
+      "win_prob": 91.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "lithuania.png",
       "score1": "",
       "score2": "",
-      "rating1": 4793,
-      "rating2": 4815,
+      "rating1": 4784,
+      "rating2": 4808,
       "rating_ev": 0,
-      "rank": 120,
-      "win_prob": 36.9,
+      "rank": 121,
+      "win_prob": 36.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "San Marino",
       "flag1": "azerbaijan.png",
       "flag2": "san_marino.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4793,
-      "rating2": 4247,
-      "rating_ev": 0,
-      "rank": 120,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4784,
+      "rating2": 4256,
+      "rating_ev": -9,
+      "rank": 122,
       "win_prob": 91.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",

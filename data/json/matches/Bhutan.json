@@ -1,18 +1,18 @@
 {
   "team": "Bhutan",
   "stats": {
-    "matches_played": 112,
+    "matches_played": 113,
     "wins": 11,
     "draws": 7,
-    "losses": 94,
-    "goals_for": 62,
-    "goals_against": 411,
-    "goal_difference": -349,
-    "win_percentage": 9.8,
-    "avg_points": 0.36,
+    "losses": 95,
+    "goals_for": 63,
+    "goals_against": 415,
+    "goal_difference": -352,
+    "win_percentage": 9.7,
+    "avg_points": 0.35,
     "best_rank": 182,
     "worst_rank": 214,
-    "avg_rank": 207.16,
+    "avg_rank": 207.18,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 18,
     "away_matches": 40,
-    "neutral_matches": 54,
+    "neutral_matches": 55,
     "first_match_date": "1982-04-30",
-    "last_match_date": "2026-06-04"
+    "last_match_date": "2026-06-08"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Sri Lanka",
       "flag1": "bhutan.png",
       "flag2": "sri_lanka.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3700,
-      "rating2": 4073,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 3691,
+      "rating2": 4082,
+      "rating_ev": -9,
       "rank": 209,
       "win_prob": 16.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-04",

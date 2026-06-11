@@ -1,18 +1,18 @@
 {
   "team": "France",
   "stats": {
-    "matches_played": 936,
-    "wins": 471,
+    "matches_played": 937,
+    "wins": 472,
     "draws": 195,
     "losses": 270,
-    "goals_for": 1691,
-    "goals_against": 1281,
-    "goal_difference": 410,
-    "win_percentage": 50.3,
+    "goals_for": 1694,
+    "goals_against": 1282,
+    "goal_difference": 412,
+    "win_percentage": 50.4,
     "avg_points": 1.72,
     "best_rank": 1,
     "worst_rank": 36,
-    "avg_rank": 12.21,
+    "avg_rank": 12.2,
     "biggest_win": {
       "score": "14-0",
       "opponent": "Gibraltar",
@@ -25,11 +25,11 @@
       "date": "1908-10-22",
       "flag": "denmark.png"
     },
-    "home_matches": 472,
+    "home_matches": 473,
     "away_matches": 340,
     "neutral_matches": 124,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2026-06-04"
+    "last_match_date": "2026-06-08"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
+      "rating1": 5546,
       "rating2": 5397,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 75.0,
+      "win_prob": 74.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
-      "rating2": 5376,
+      "rating1": 5546,
+      "rating2": 5384,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 57.7,
+      "win_prob": 56.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
+      "rating1": 5546,
       "rating2": 5495,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 66.1,
+      "win_prob": 66.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
-      "rating2": 5376,
+      "rating1": 5546,
+      "rating2": 5384,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 76.7,
+      "win_prob": 76.0,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
+      "rating1": 5546,
       "rating2": 5495,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 44.8,
+      "win_prob": 44.7,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
+      "rating1": 5546,
       "rating2": 5397,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 55.5,
+      "win_prob": 55.4,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "norway.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
-      "rating2": 5537,
+      "rating1": 5546,
+      "rating2": 5530,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 51.1,
+      "win_prob": 51.8,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
-      "rating2": 4999,
+      "rating1": 5546,
+      "rating2": 4991,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 91.2,
+      "win_prob": 91.4,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5547,
-      "rating2": 5328,
+      "rating1": 5546,
+      "rating2": 5318,
       "rating_ev": 0,
       "rank": 5,
-      "win_prob": 72.3,
+      "win_prob": 73.1,
       "type": "fixture"
     },
     {
@@ -213,14 +213,14 @@
       "original_team2": "Northern Ireland",
       "flag1": "france.png",
       "flag2": "northern_ireland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5547,
-      "rating2": 5123,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5546,
+      "rating2": 5124,
+      "rating_ev": -1,
       "rank": 5,
       "win_prob": 90.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-04",

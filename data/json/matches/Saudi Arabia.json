@@ -1,18 +1,18 @@
 {
   "team": "Saudi Arabia",
   "stats": {
-    "matches_played": 814,
+    "matches_played": 815,
     "wins": 388,
-    "draws": 188,
+    "draws": 189,
     "losses": 238,
     "goals_for": 1259,
     "goals_against": 871,
     "goal_difference": 388,
-    "win_percentage": 47.7,
+    "win_percentage": 47.6,
     "avg_points": 1.66,
     "best_rank": 37,
     "worst_rank": 127,
-    "avg_rank": 66.9,
+    "avg_rank": 66.91,
     "biggest_win": {
       "score": "10-0",
       "opponent": "East Timor",
@@ -27,9 +27,9 @@
     },
     "home_matches": 316,
     "away_matches": 147,
-    "neutral_matches": 351,
+    "neutral_matches": 352,
     "first_match_date": "1957-10-18",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 5007,
       "rating2": 4740,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 82.7,
+      "rank": 74,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 5007,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 75.1,
+      "rank": 74,
+      "win_prob": 75.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "palestine.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
-      "rating2": 4881,
+      "rating1": 5007,
+      "rating2": 4878,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 72.1,
+      "rank": 74,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
-      "rating2": 4999,
+      "rating1": 5007,
+      "rating2": 4991,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 60.6,
+      "rank": 74,
+      "win_prob": 62.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 5007,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 75.1,
+      "rank": 74,
+      "win_prob": 75.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 5007,
       "rating2": 4740,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 82.7,
+      "rank": 74,
+      "win_prob": 83.3,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 5007,
       "rating2": 5018,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 47.7,
+      "rank": 74,
+      "win_prob": 48.8,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 5007,
       "rating2": 5679,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 5.5,
+      "rank": 74,
+      "win_prob": 5.7,
       "type": "fixture"
     },
     {
@@ -196,11 +196,11 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 4997,
+      "rating1": 5007,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 75,
-      "win_prob": 15.8,
+      "rank": 74,
+      "win_prob": 16.3,
       "type": "fixture"
     },
     {
@@ -213,14 +213,14 @@
       "original_team2": "Senegal",
       "flag1": "saudi_arabia.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4997,
-      "rating2": 5328,
-      "rating_ev": 0,
-      "rank": 75,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5007,
+      "rating2": 5318,
+      "rating_ev": 10,
+      "rank": 74,
       "win_prob": 19.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",

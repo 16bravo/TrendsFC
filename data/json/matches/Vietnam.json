@@ -102,10 +102,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4664,
-      "rating2": 4180,
+      "rating2": 4201,
       "rating_ev": 0,
       "rank": 145,
-      "win_prob": 92.5,
+      "win_prob": 91.9,
       "type": "fixture"
     },
     {
@@ -121,10 +121,10 @@
       "score1": "",
       "score2": "",
       "rating1": 4664,
-      "rating2": 4751,
+      "rating2": 4759,
       "rating_ev": 0,
       "rank": 145,
-      "win_prob": 30.5,
+      "win_prob": 29.8,
       "type": "fixture"
     },
     {
@@ -144,6 +144,25 @@
       "rating_ev": 0,
       "rank": 145,
       "win_prob": 82.7,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-07-24",
+      "country": null,
+      "tournament": "SE Asian Champ",
+      "team1": "Vietnam",
+      "team2": "East Timor",
+      "original_team1": "Vietnam",
+      "original_team2": "East Timor",
+      "flag1": "vietnam.png",
+      "flag2": "timor.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4664,
+      "rating2": 3870,
+      "rating_ev": 0,
+      "rank": 145,
+      "win_prob": 96.3,
       "type": "fixture"
     },
     {

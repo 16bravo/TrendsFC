@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 479,
-    "wins": 127,
+    "matches_played": 480,
+    "wins": 128,
     "draws": 106,
     "losses": 246,
-    "goals_for": 518,
+    "goals_for": 520,
     "goals_against": 873,
-    "goal_difference": -355,
-    "win_percentage": 26.5,
+    "goal_difference": -353,
+    "win_percentage": 26.7,
     "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.35,
+    "avg_rank": 63.3,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 176,
     "away_matches": 179,
-    "neutral_matches": 124,
+    "neutral_matches": 125,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Iraq",
       "flag1": "venezuela.png",
       "flag2": "iraq.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5209,
-      "rating2": 4999,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5217,
+      "rating2": 4991,
+      "rating_ev": 8,
       "rank": 37,
       "win_prob": 71.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",

@@ -1,18 +1,18 @@
 {
   "team": "India",
   "stats": {
-    "matches_played": 596,
+    "matches_played": 597,
     "wins": 215,
-    "draws": 124,
+    "draws": 125,
     "losses": 257,
-    "goals_for": 825,
-    "goals_against": 972,
+    "goals_for": 826,
+    "goals_against": 973,
     "goal_difference": -147,
-    "win_percentage": 36.1,
+    "win_percentage": 36.0,
     "avg_points": 1.29,
     "best_rank": 46,
     "worst_rank": 181,
-    "avg_rank": 136.51,
+    "avg_rank": 136.55,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Ceylon",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 171,
-    "away_matches": 162,
+    "away_matches": 163,
     "neutral_matches": 263,
     "first_match_date": "1938-09-03",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-09"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Tajikistan",
       "flag1": "india.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4486,
-      "rating2": 4644,
-      "rating_ev": 0,
-      "rank": 165,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4494,
+      "rating2": 4636,
+      "rating_ev": 8,
+      "rank": 164,
       "win_prob": 24.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",
