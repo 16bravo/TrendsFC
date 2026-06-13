@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 484,
+    "matches_played": 485,
     "wins": 189,
-    "draws": 115,
+    "draws": 116,
     "losses": 180,
-    "goals_for": 623,
-    "goals_against": 608,
+    "goals_for": 624,
+    "goals_against": 609,
     "goal_difference": 15,
     "win_percentage": 39.0,
     "avg_points": 1.41,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 61.27,
+    "avg_rank": 61.22,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -25,11 +25,11 @@
       "date": "1993-07-18",
       "flag": "mexico.png"
     },
-    "home_matches": 150,
+    "home_matches": 151,
     "away_matches": 200,
     "neutral_matches": 134,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5251,
+      "rating1": 5236,
       "rating2": 5442,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 40.2,
+      "rank": 34,
+      "win_prob": 38.6,
       "type": "fixture"
     },
     {
@@ -63,12 +63,31 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5251,
+      "rating1": 5236,
       "rating2": 4807,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 91.3,
+      "rank": 34,
+      "win_prob": 90.8,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-12",
+      "country": "Canada",
+      "tournament": "World Cup",
+      "team1": "Canada",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "Canada",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "canada.png",
+      "flag2": "bosnia.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5236,
+      "rating2": 5105,
+      "rating_ev": -15,
+      "rank": 34,
+      "win_prob": 75.9,
+      "type": "past"
     },
     {
       "date": "2026-06-05",

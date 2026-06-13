@@ -1,18 +1,18 @@
 {
   "team": "Bosnia and Herzegovina",
   "stats": {
-    "matches_played": 280,
+    "matches_played": 281,
     "wins": 103,
-    "draws": 66,
+    "draws": 67,
     "losses": 111,
-    "goals_for": 388,
-    "goals_against": 385,
+    "goals_for": 389,
+    "goals_against": 386,
     "goal_difference": 3,
-    "win_percentage": 36.8,
+    "win_percentage": 36.7,
     "avg_points": 1.34,
     "best_rank": 8,
     "worst_rank": 87,
-    "avg_rank": 50.1,
+    "avg_rank": 50.13,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -26,12 +26,31 @@
       "flag": "germany.png"
     },
     "home_matches": 117,
-    "away_matches": 136,
+    "away_matches": 137,
     "neutral_matches": 27,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-12"
   },
   "matches": [
+    {
+      "date": "2026-06-12",
+      "country": "Canada",
+      "tournament": "World Cup",
+      "team1": "Bosnia and Herzegovina",
+      "team2": "Canada",
+      "original_team1": "Bosnia and Herzegovina",
+      "original_team2": "Canada",
+      "flag1": "bosnia.png",
+      "flag2": "canada.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5105,
+      "rating2": 5236,
+      "rating_ev": 15,
+      "rank": 60,
+      "win_prob": 24.1,
+      "type": "past"
+    },
     {
       "date": "2026-06-06",
       "country": "United States",
