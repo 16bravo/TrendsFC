@@ -1,14 +1,14 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 790,
+    "matches_played": 791,
     "wins": 278,
     "draws": 209,
-    "losses": 303,
-    "goals_for": 1007,
-    "goals_against": 1115,
-    "goal_difference": -108,
-    "win_percentage": 35.2,
+    "losses": 304,
+    "goals_for": 1008,
+    "goals_against": 1119,
+    "goal_difference": -111,
+    "win_percentage": 35.1,
     "avg_points": 1.32,
     "best_rank": 6,
     "worst_rank": 47,
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 215,
-    "away_matches": 366,
+    "away_matches": 367,
     "neutral_matches": 209,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-12"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5328,
-      "rating2": 5258,
+      "rating1": 5287,
+      "rating2": 5294,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 57.6,
+      "rank": 28,
+      "win_prob": 49.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5328,
-      "rating2": 5397,
+      "rating1": 5287,
+      "rating2": 5361,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 42.5,
+      "rank": 28,
+      "win_prob": 41.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "United States",
       "flag1": "paraguay.png",
       "flag2": "usa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5328,
-      "rating2": 5225,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 5287,
+      "rating2": 5266,
+      "rating_ev": -41,
+      "rank": 27,
       "win_prob": 50.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",

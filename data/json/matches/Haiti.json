@@ -1,18 +1,18 @@
 {
   "team": "Haiti",
   "stats": {
-    "matches_played": 561,
+    "matches_played": 562,
     "wins": 246,
     "draws": 118,
-    "losses": 197,
+    "losses": 198,
     "goals_for": 954,
-    "goals_against": 759,
-    "goal_difference": 195,
-    "win_percentage": 43.9,
-    "avg_points": 1.53,
+    "goals_against": 760,
+    "goal_difference": 194,
+    "win_percentage": 43.8,
+    "avg_points": 1.52,
     "best_rank": 53,
     "worst_rank": 144,
-    "avg_rank": 92.35,
+    "avg_rank": 92.31,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Sint Maarten",
@@ -27,9 +27,9 @@
     },
     "home_matches": 181,
     "away_matches": 193,
-    "neutral_matches": 187,
+    "neutral_matches": 188,
     "first_match_date": "1925-03-22",
-    "last_match_date": "2026-06-05"
+    "last_match_date": "2026-06-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "morocco.png",
       "score1": "",
       "score2": "",
-      "rating1": 5012,
-      "rating2": 5313,
+      "rating1": 5015,
+      "rating2": 5325,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 21.2,
+      "rank": 72,
+      "win_prob": 20.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5012,
-      "rating2": 5512,
+      "rating1": 5015,
+      "rating2": 5500,
       "rating_ev": 0,
-      "rank": 73,
-      "win_prob": 10.5,
+      "rank": 72,
+      "win_prob": 11.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Scotland",
       "flag1": "haiti.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5012,
-      "rating2": 5305,
-      "rating_ev": 0,
-      "rank": 73,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5015,
+      "rating2": 5302,
+      "rating_ev": 3,
+      "rank": 72,
       "win_prob": 21.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-05",

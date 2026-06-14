@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 537,
+    "matches_played": 538,
     "wins": 122,
     "draws": 121,
-    "losses": 294,
+    "losses": 295,
     "goals_for": 551,
-    "goals_against": 1056,
-    "goal_difference": -505,
+    "goals_against": 1060,
+    "goal_difference": -509,
     "win_percentage": 22.7,
     "avg_points": 0.91,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 50.97,
+    "avg_rank": 51.0,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -27,9 +27,9 @@
     },
     "home_matches": 189,
     "away_matches": 205,
-    "neutral_matches": 143,
+    "neutral_matches": 144,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-10"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Algeria",
       "flag1": "bolivia.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5036,
-      "rating2": 5262,
-      "rating_ev": 0,
-      "rank": 67,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 5016,
+      "rating2": 5282,
+      "rating_ev": -20,
+      "rank": 71,
       "win_prob": 27.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",
