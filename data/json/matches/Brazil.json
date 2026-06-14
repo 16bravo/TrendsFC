@@ -1,18 +1,18 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1068,
+    "matches_played": 1069,
     "wins": 674,
-    "draws": 222,
+    "draws": 223,
     "losses": 172,
-    "goals_for": 2304,
-    "goals_against": 957,
+    "goals_for": 2305,
+    "goals_against": 958,
     "goal_difference": 1347,
-    "win_percentage": 63.1,
+    "win_percentage": 63.0,
     "avg_points": 2.1,
     "best_rank": 1,
     "worst_rank": 14,
-    "avg_rank": 3.16,
+    "avg_rank": 3.17,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Bolivia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 374,
     "away_matches": 346,
-    "neutral_matches": 348,
+    "neutral_matches": 349,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5512,
-      "rating2": 5305,
+      "rating1": 5500,
+      "rating2": 5302,
       "rating_ev": 0,
-      "rank": 9,
-      "win_prob": 71.2,
+      "rank": 10,
+      "win_prob": 70.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "haiti.png",
       "score1": "",
       "score2": "",
-      "rating1": 5512,
-      "rating2": 5012,
+      "rating1": 5500,
+      "rating2": 5015,
       "rating_ev": 0,
-      "rank": 9,
-      "win_prob": 89.5,
+      "rank": 10,
+      "win_prob": 88.9,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Morocco",
       "flag1": "brazil.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5512,
-      "rating2": 5313,
-      "rating_ev": 0,
-      "rank": 9,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5500,
+      "rating2": 5325,
+      "rating_ev": -12,
+      "rank": 10,
       "win_prob": 70.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",
