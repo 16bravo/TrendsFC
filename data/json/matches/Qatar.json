@@ -1,18 +1,18 @@
 {
   "team": "Qatar",
   "stats": {
-    "matches_played": 685,
+    "matches_played": 686,
     "wins": 283,
-    "draws": 174,
+    "draws": 175,
     "losses": 228,
-    "goals_for": 976,
-    "goals_against": 809,
+    "goals_for": 977,
+    "goals_against": 810,
     "goal_difference": 167,
     "win_percentage": 41.3,
     "avg_points": 1.49,
     "best_rank": 34,
     "worst_rank": 147,
-    "avg_rank": 83.75,
+    "avg_rank": 83.77,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Bhutan",
@@ -27,9 +27,9 @@
     },
     "home_matches": 318,
     "away_matches": 145,
-    "neutral_matches": 222,
+    "neutral_matches": 223,
     "first_match_date": "1970-03-27",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-13"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4843,
       "rating2": 5437,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 6.6,
+      "rank": 102,
+      "win_prob": 7.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4843,
       "rating2": 4759,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 55.3,
+      "rank": 102,
+      "win_prob": 59.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4843,
       "rating2": 4743,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 57.0,
+      "rank": 102,
+      "win_prob": 60.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4843,
       "rating2": 4956,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 34.2,
+      "rank": 102,
+      "win_prob": 37.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4843,
       "rating2": 4615,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 69.9,
+      "rank": 102,
+      "win_prob": 73.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4843,
       "rating2": 4788,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 52.1,
+      "rank": 102,
+      "win_prob": 56.0,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4843,
       "rating2": 5236,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 9.2,
+      "rank": 102,
+      "win_prob": 10.5,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Switzerland",
       "flag1": "qatar.png",
       "flag2": "switzerland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4807,
-      "rating2": 5442,
-      "rating_ev": 0,
-      "rank": 115,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4843,
+      "rating2": 5406,
+      "rating_ev": 36,
+      "rank": 102,
       "win_prob": 6.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",
