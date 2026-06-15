@@ -1,18 +1,18 @@
 {
   "team": "Ivory Coast",
   "stats": {
-    "matches_played": 673,
-    "wins": 343,
+    "matches_played": 674,
+    "wins": 344,
     "draws": 170,
     "losses": 160,
-    "goals_for": 1094,
+    "goals_for": 1095,
     "goals_against": 665,
-    "goal_difference": 429,
+    "goal_difference": 430,
     "win_percentage": 51.0,
     "avg_points": 1.78,
     "best_rank": 11,
     "worst_rank": 80,
-    "avg_rank": 46.9,
+    "avg_rank": 46.88,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Central African Republic",
@@ -27,9 +27,9 @@
     },
     "home_matches": 230,
     "away_matches": 226,
-    "neutral_matches": 217,
+    "neutral_matches": 218,
     "first_match_date": "1954-12-31",
-    "last_match_date": "2026-06-04"
+    "last_match_date": "2026-06-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5191,
+      "rating1": 5219,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 54.3,
+      "rank": 36,
+      "win_prob": 57.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5191,
+      "rating1": 5219,
       "rating2": 4512,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 96.4,
+      "rank": 36,
+      "win_prob": 96.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5191,
+      "rating1": 5219,
       "rating2": 4941,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 65.8,
+      "rank": 36,
+      "win_prob": 68.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5191,
+      "rating1": 5219,
       "rating2": 4941,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 82.2,
+      "rank": 36,
+      "win_prob": 83.9,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5191,
+      "rating1": 5219,
       "rating2": 4512,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 91.7,
+      "rank": 36,
+      "win_prob": 92.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5191,
+      "rating1": 5219,
       "rating2": 5052,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 74.1,
+      "rank": 36,
+      "win_prob": 76.3,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "curacao.png",
       "score1": "",
       "score2": "",
-      "rating1": 5191,
+      "rating1": 5219,
       "rating2": 4772,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 85.9,
+      "rank": 36,
+      "win_prob": 87.3,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5191,
+      "rating1": 5219,
       "rating2": 5608,
       "rating_ev": 0,
-      "rank": 43,
-      "win_prob": 14.2,
+      "rank": 36,
+      "win_prob": 15.7,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Ecuador",
       "flag1": "ivory_coast.png",
       "flag2": "ecuador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5191,
-      "rating2": 5421,
-      "rating_ev": 0,
-      "rank": 43,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5219,
+      "rating2": 5393,
+      "rating_ev": 28,
+      "rank": 36,
       "win_prob": 26.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-04",
