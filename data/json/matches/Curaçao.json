@@ -1,18 +1,18 @@
 {
   "team": "Cura\u00e7ao",
   "stats": {
-    "matches_played": 486,
+    "matches_played": 488,
     "wins": 197,
     "draws": 120,
-    "losses": 169,
-    "goals_for": 860,
-    "goals_against": 747,
-    "goal_difference": 113,
-    "win_percentage": 40.5,
+    "losses": 171,
+    "goals_for": 862,
+    "goals_against": 761,
+    "goal_difference": 101,
+    "win_percentage": 40.4,
     "avg_points": 1.46,
     "best_rank": 37,
     "worst_rank": 182,
-    "avg_rank": 105.76,
+    "avg_rank": 105.81,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Puerto Rico",
@@ -27,9 +27,9 @@
     },
     "home_matches": 112,
     "away_matches": 171,
-    "neutral_matches": 203,
+    "neutral_matches": 205,
     "first_match_date": "1924-04-06",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 4839,
-      "rating2": 5191,
+      "rating1": 4772,
+      "rating2": 5219,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 17.8,
+      "rank": 123,
+      "win_prob": 12.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 4839,
-      "rating2": 5421,
+      "rating1": 4772,
+      "rating2": 5393,
       "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 7.8,
+      "rank": 123,
+      "win_prob": 6.8,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Germany",
       "flag1": "curacao.png",
       "flag2": "germany.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4839,
-      "rating2": 5541,
-      "rating_ev": 0,
-      "rank": 104,
-      "win_prob": 5.1,
-      "type": "fixture"
+      "score1": 1,
+      "score2": 7,
+      "rating1": 4772,
+      "rating2": 5608,
+      "rating_ev": -32,
+      "rank": 123,
+      "win_prob": 4.0,
+      "type": "past"
     },
     {
       "date": "2026-06-06",
@@ -676,6 +676,25 @@
       "rating_ev": -15,
       "rank": 139,
       "win_prob": 75.6,
+      "type": "past"
+    },
+    {
+      "date": "2023-06-14",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Cura\u00e7ao",
+      "team2": "Germany",
+      "original_team1": "Cura\u00e7ao",
+      "original_team2": "Germany",
+      "flag1": "curacao.png",
+      "flag2": "germany.png",
+      "score1": 1,
+      "score2": 7,
+      "rating1": 4804,
+      "rating2": 5576,
+      "rating_ev": -35,
+      "rank": 115,
+      "win_prob": 5.1,
       "type": "past"
     },
     {

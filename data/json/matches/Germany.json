@@ -1,18 +1,18 @@
 {
   "team": "Germany",
   "stats": {
-    "matches_played": 1042,
-    "wins": 601,
+    "matches_played": 1044,
+    "wins": 603,
     "draws": 217,
     "losses": 224,
-    "goals_for": 2337,
-    "goals_against": 1227,
-    "goal_difference": 1110,
-    "win_percentage": 57.7,
+    "goals_for": 2351,
+    "goals_against": 1229,
+    "goal_difference": 1122,
+    "win_percentage": 57.8,
     "avg_points": 1.94,
     "best_rank": 1,
     "worst_rank": 20,
-    "avg_rank": 6.5,
+    "avg_rank": 6.49,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Russia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 311,
     "away_matches": 414,
-    "neutral_matches": 317,
+    "neutral_matches": 319,
     "first_match_date": "1908-04-05",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
-      "rating2": 5515,
+      "rating1": 5608,
+      "rating2": 5510,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 63.5,
+      "rank": 2,
+      "win_prob": 70.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
+      "rating1": 5608,
       "rating2": 5169,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 76.4,
+      "rank": 2,
+      "win_prob": 81.1,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
+      "rating1": 5608,
       "rating2": 5293,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 65.6,
+      "rank": 2,
+      "win_prob": 71.8,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
+      "rating1": 5608,
       "rating2": 5169,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 88.6,
+      "rank": 2,
+      "win_prob": 91.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
+      "rating1": 5608,
       "rating2": 5293,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 82.1,
+      "rank": 2,
+      "win_prob": 85.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "netherlands.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
-      "rating2": 5515,
+      "rating1": 5608,
+      "rating2": 5510,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 42.0,
+      "rank": 2,
+      "win_prob": 49.8,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "ecuador.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
-      "rating2": 5421,
+      "rating1": 5608,
+      "rating2": 5393,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 62.9,
+      "rank": 2,
+      "win_prob": 72.0,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5541,
-      "rating2": 5191,
+      "rating1": 5608,
+      "rating2": 5219,
       "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 82.1,
+      "rank": 2,
+      "win_prob": 84.3,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "germany.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5541,
-      "rating2": 4839,
-      "rating_ev": 0,
-      "rank": 6,
-      "win_prob": 94.9,
-      "type": "fixture"
+      "score1": 7,
+      "score2": 1,
+      "rating1": 5608,
+      "rating2": 4772,
+      "rating_ev": 32,
+      "rank": 2,
+      "win_prob": 96.0,
+      "type": "past"
     },
     {
       "date": "2026-06-06",
@@ -904,6 +904,25 @@
       "rating_ev": -11,
       "rank": 8,
       "win_prob": 63.5,
+      "type": "past"
+    },
+    {
+      "date": "2023-06-14",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Germany",
+      "team2": "Cura\u00e7ao",
+      "original_team1": "Germany",
+      "original_team2": "Cura\u00e7ao",
+      "flag1": "germany.png",
+      "flag2": "curacao.png",
+      "score1": 7,
+      "score2": 1,
+      "rating1": 5576,
+      "rating2": 4804,
+      "rating_ev": 35,
+      "rank": 3,
+      "win_prob": 94.9,
       "type": "past"
     },
     {

@@ -1,14 +1,14 @@
 {
   "team": "Netherlands",
   "stats": {
-    "matches_played": 897,
+    "matches_played": 898,
     "wins": 461,
-    "draws": 196,
+    "draws": 197,
     "losses": 240,
-    "goals_for": 1874,
-    "goals_against": 1136,
+    "goals_for": 1876,
+    "goals_against": 1138,
     "goal_difference": 738,
-    "win_percentage": 51.4,
+    "win_percentage": 51.3,
     "avg_points": 1.76,
     "best_rank": 1,
     "worst_rank": 35,
@@ -27,9 +27,9 @@
     },
     "home_matches": 425,
     "away_matches": 357,
-    "neutral_matches": 115,
+    "neutral_matches": 116,
     "first_match_date": "1905-04-30",
-    "last_match_date": "2026-06-08"
+    "last_match_date": "2026-06-14"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5515,
-      "rating2": 5541,
+      "rating1": 5510,
+      "rating2": 5608,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 36.5,
+      "win_prob": 29.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5515,
+      "rating1": 5510,
       "rating2": 5293,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 80.4,
+      "win_prob": 80.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5515,
+      "rating1": 5510,
       "rating2": 5169,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 87.5,
+      "win_prob": 87.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "greece.png",
       "score1": "",
       "score2": "",
-      "rating1": 5515,
+      "rating1": 5510,
       "rating2": 5293,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 63.0,
+      "win_prob": 62.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "serbia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5515,
+      "rating1": 5510,
       "rating2": 5169,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 74.4,
+      "win_prob": 74.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5515,
-      "rating2": 5541,
+      "rating1": 5510,
+      "rating2": 5608,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 58.0,
+      "win_prob": 50.2,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "tunisia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5515,
-      "rating2": 5099,
+      "rating1": 5510,
+      "rating2": 5055,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 85.8,
+      "win_prob": 87.6,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "sweden.png",
       "score1": "",
       "score2": "",
-      "rating1": 5515,
-      "rating2": 5248,
+      "rating1": 5510,
+      "rating2": 5292,
       "rating_ev": 0,
       "rank": 8,
-      "win_prob": 76.3,
+      "win_prob": 72.2,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Japan",
       "flag1": "netherlands.png",
       "flag2": "japan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5515,
-      "rating2": 5437,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5510,
+      "rating2": 5442,
+      "rating_ev": -5,
       "rank": 8,
       "win_prob": 58.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-08",
