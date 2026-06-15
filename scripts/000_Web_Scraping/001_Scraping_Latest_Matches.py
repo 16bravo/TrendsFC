@@ -106,3 +106,6 @@ history_csv = history_csv.drop_duplicates(subset=history_csv.columns.difference(
 
 # Affichez le DataFrame
 history_csv.to_csv('data/source/match_dataset/all_matches.csv', index=False)
+
+# Supprimez les doublons dans le fichier CSV final
+pd.read_csv('data/source/match_dataset/all_matches.csv').drop_duplicates().to_csv('data/source/match_dataset/all_matches.csv', index=False)
