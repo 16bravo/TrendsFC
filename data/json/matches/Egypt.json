@@ -1,18 +1,18 @@
 {
   "team": "Egypt",
   "stats": {
-    "matches_played": 864,
+    "matches_played": 865,
     "wins": 441,
-    "draws": 210,
+    "draws": 211,
     "losses": 213,
-    "goals_for": 1502,
-    "goals_against": 896,
+    "goals_for": 1503,
+    "goals_against": 897,
     "goal_difference": 606,
     "win_percentage": 51.0,
     "avg_points": 1.77,
     "best_rank": 13,
     "worst_rank": 73,
-    "avg_rank": 42.12,
+    "avg_rank": 42.13,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Laos",
@@ -27,9 +27,9 @@
     },
     "home_matches": 336,
     "away_matches": 272,
-    "neutral_matches": 256,
+    "neutral_matches": 257,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
+      "rating1": 5157,
       "rating2": 5019,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 51.9,
+      "win_prob": 54.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "south_sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
+      "rating1": 5157,
       "rating2": 4566,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 94.6,
+      "win_prob": 95.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "malawi.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
+      "rating1": 5157,
       "rating2": 4692,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 91.3,
+      "win_prob": 92.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "malawi.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
+      "rating1": 5157,
       "rating2": 4692,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 81.4,
+      "win_prob": 82.6,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "south_sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
+      "rating1": 5157,
       "rating2": 4566,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 87.9,
+      "win_prob": 88.7,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
+      "rating1": 5157,
       "rating2": 5019,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 72.2,
+      "win_prob": 74.0,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "iran.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
+      "rating1": 5157,
       "rating2": 5242,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 38.5,
+      "win_prob": 40.8,
       "type": "fixture"
     },
     {
@@ -177,12 +177,31 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
+      "rating1": 5157,
       "rating2": 5082,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 55.9,
+      "win_prob": 58.2,
       "type": "fixture"
+    },
+    {
+      "date": "2026-06-15",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Egypt",
+      "team2": "Belgium",
+      "original_team1": "Egypt",
+      "original_team2": "Belgium",
+      "flag1": "egypt.png",
+      "flag2": "belgium.png",
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5157,
+      "rating2": 5474,
+      "rating_ev": 21,
+      "rank": 51,
+      "win_prob": 17.4,
+      "type": "past"
     },
     {
       "date": "2026-06-15",
@@ -196,11 +215,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5136,
-      "rating2": 5495,
+      "rating1": 5157,
+      "rating2": 5474,
       "rating_ev": 0,
       "rank": 51,
-      "win_prob": 17.4,
+      "win_prob": 20.1,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Cape Verde",
   "stats": {
-    "matches_played": 246,
+    "matches_played": 247,
     "wins": 92,
-    "draws": 59,
+    "draws": 60,
     "losses": 95,
     "goals_for": 267,
     "goals_against": 274,
     "goal_difference": -7,
-    "win_percentage": 37.4,
+    "win_percentage": 37.2,
     "avg_points": 1.36,
-    "best_rank": 66,
+    "best_rank": 65,
     "worst_rank": 132,
-    "avg_rank": 98.89,
+    "avg_rank": 98.76,
     "biggest_win": {
       "score": "7-1",
       "opponent": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -27,9 +27,9 @@
     },
     "home_matches": 76,
     "away_matches": 84,
-    "neutral_matches": 86,
+    "neutral_matches": 87,
     "first_match_date": "1959-12-20",
-    "last_match_date": "2026-06-06"
+    "last_match_date": "2026-06-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5018,
+      "rating1": 5056,
       "rating2": 5110,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 50.8,
+      "rank": 65,
+      "win_prob": 55.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "rwanda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5018,
+      "rating1": 5056,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 57.8,
+      "rank": 65,
+      "win_prob": 61.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "liberia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5018,
+      "rating1": 5056,
       "rating2": 4737,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 84.1,
+      "rank": 65,
+      "win_prob": 86.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "liberia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5018,
+      "rating1": 5056,
       "rating2": 4737,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 68.7,
+      "rank": 65,
+      "win_prob": 72.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "rwanda.png",
       "score1": "",
       "score2": "",
-      "rating1": 5018,
+      "rating1": 5056,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 76.7,
+      "rank": 65,
+      "win_prob": 79.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "mali.png",
       "score1": "",
       "score2": "",
-      "rating1": 5018,
+      "rating1": 5056,
       "rating2": 5110,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 30.1,
+      "rank": 65,
+      "win_prob": 33.7,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5018,
+      "rating1": 5056,
       "rating2": 5007,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 51.2,
+      "rank": 65,
+      "win_prob": 55.4,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "uruguay.png",
       "score1": "",
       "score2": "",
-      "rating1": 5018,
+      "rating1": 5056,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 70,
-      "win_prob": 17.0,
+      "rank": 65,
+      "win_prob": 19.4,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Spain",
       "flag1": "cape_verde.png",
       "flag2": "spain.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5018,
-      "rating2": 5679,
-      "rating_ev": 0,
-      "rank": 70,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5056,
+      "rating2": 5641,
+      "rating_ev": 38,
+      "rank": 65,
       "win_prob": 5.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-06",
