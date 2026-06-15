@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2026-06-13"
+    "2026-06-14"
   ],
   "rankings": [
     {
@@ -16,14 +16,32 @@
       "ranking_off": 1,
       "ranking_def": 8,
       "ranking_change": 0,
-      "points_change": -41,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": -51,
-      "ranking_def_change": -1,
-      "points_def_change": -36
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 2,
+      "flag": "germany.png",
+      "team": "Germany",
+      "reference_team": "Germany",
+      "points": 5608,
+      "points_off": 5372,
+      "points_def": 4905,
+      "confederation": "UEFA",
+      "ranking_off": 2,
+      "ranking_def": 45,
+      "ranking_change": 1,
+      "points_change": 32,
+      "ranking_off_change": 0,
+      "points_off_change": 39,
+      "ranking_def_change": -9,
+      "points_def_change": -18
+    },
+    {
+      "ranking": 3,
       "flag": "argentina.png",
       "team": "Argentina",
       "reference_team": "Argentina",
@@ -33,15 +51,15 @@
       "confederation": "CONMEBOL",
       "ranking_off": 4,
       "ranking_def": 3,
-      "ranking_change": 0,
-      "points_change": -8,
-      "ranking_off_change": 2,
-      "points_off_change": 13,
-      "ranking_def_change": -1,
-      "points_def_change": -18
+      "ranking_change": -1,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 3,
+      "ranking": 4,
       "flag": "england.png",
       "team": "England",
       "reference_team": "England",
@@ -52,14 +70,14 @@
       "ranking_off": 12,
       "ranking_def": 4,
       "ranking_change": 0,
-      "points_change": -26,
-      "ranking_off_change": -2,
-      "points_off_change": -54,
-      "ranking_def_change": 1,
-      "points_def_change": -14
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 4,
+      "ranking": 5,
       "flag": "portugal.png",
       "team": "Portugal",
       "reference_team": "Portugal",
@@ -70,14 +88,14 @@
       "ranking_off": 8,
       "ranking_def": 13,
       "ranking_change": 0,
-      "points_change": -10,
-      "ranking_off_change": -4,
-      "points_off_change": -49,
-      "ranking_def_change": 4,
-      "points_def_change": 14
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 5,
+      "ranking": 6,
       "flag": "france.png",
       "team": "France",
       "reference_team": "France",
@@ -85,32 +103,14 @@
       "points_off": 5273,
       "points_def": 5013,
       "confederation": "UEFA",
-      "ranking_off": 5,
+      "ranking_off": 6,
       "ranking_def": 9,
       "ranking_change": 0,
-      "points_change": -5,
-      "ranking_off_change": 4,
-      "points_off_change": 21,
-      "ranking_def_change": -1,
-      "points_def_change": -23
-    },
-    {
-      "ranking": 6,
-      "flag": "germany.png",
-      "team": "Germany",
-      "reference_team": "Germany",
-      "points": 5541,
-      "points_off": 5292,
-      "points_def": 4941,
-      "confederation": "UEFA",
-      "ranking_off": 3,
-      "ranking_def": 32,
-      "ranking_change": 2,
-      "points_change": 5,
-      "ranking_off_change": 4,
-      "points_off_change": 33,
-      "ranking_def_change": -13,
-      "points_def_change": -20
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 7,
@@ -123,30 +123,30 @@
       "confederation": "UEFA",
       "ranking_off": 9,
       "ranking_def": 20,
-      "ranking_change": -1,
-      "points_change": -14,
-      "ranking_off_change": -6,
-      "points_off_change": -60,
-      "ranking_def_change": 10,
-      "points_def_change": 52
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 8,
       "flag": "netherlands.png",
       "team": "Netherlands",
       "reference_team": "Netherlands",
-      "points": 5515,
-      "points_off": 5273,
-      "points_def": 4945,
+      "points": 5510,
+      "points_off": 5277,
+      "points_def": 4939,
       "confederation": "UEFA",
       "ranking_off": 5,
-      "ranking_def": 29,
-      "ranking_change": -1,
-      "points_change": -26,
-      "ranking_off_change": -3,
-      "points_off_change": -69,
-      "ranking_def_change": -11,
-      "points_def_change": -19
+      "ranking_def": 31,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 9,
@@ -160,11 +160,11 @@
       "ranking_off": 10,
       "ranking_def": 7,
       "ranking_change": 0,
-      "points_change": -26,
-      "ranking_off_change": -5,
-      "points_off_change": -40,
-      "ranking_def_change": -1,
-      "points_def_change": -34
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 10,
@@ -178,11 +178,11 @@
       "ranking_off": 7,
       "ranking_def": 6,
       "ranking_change": 0,
-      "points_change": 3,
-      "ranking_off_change": 5,
-      "points_off_change": 32,
-      "ranking_def_change": -2,
-      "points_def_change": -44
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 11,
@@ -193,32 +193,32 @@
       "points_off": 5304,
       "points_def": 4996,
       "confederation": "UEFA",
-      "ranking_off": 2,
+      "ranking_off": 3,
       "ranking_def": 11,
       "ranking_change": 0,
-      "points_change": 47,
-      "ranking_off_change": 9,
-      "points_off_change": 65,
-      "ranking_def_change": 5,
-      "points_def_change": 27
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 12,
       "flag": "japan.png",
       "team": "Japan",
       "reference_team": "Japan",
-      "points": 5437,
-      "points_off": 5209,
-      "points_def": 5001,
+      "points": 5442,
+      "points_off": 5214,
+      "points_def": 4996,
       "confederation": "AFC",
       "ranking_off": 11,
       "ranking_def": 10,
-      "ranking_change": 2,
-      "points_change": 14,
-      "ranking_off_change": -3,
-      "points_off_change": -44,
-      "ranking_def_change": 19,
-      "points_def_change": 78
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 13,
@@ -231,12 +231,12 @@
       "confederation": "CONMEBOL",
       "ranking_off": 31,
       "ranking_def": 1,
-      "ranking_change": 2,
-      "points_change": 1,
-      "ranking_off_change": 1,
-      "points_off_change": 33,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": -19
+      "points_def_change": 0
     },
     {
       "ranking": 14,
@@ -249,12 +249,12 @@
       "confederation": "UEFA",
       "ranking_off": 13,
       "ranking_def": 26,
-      "ranking_change": 2,
-      "points_change": 8,
-      "ranking_off_change": 2,
-      "points_off_change": -2,
-      "ranking_def_change": -5,
-      "points_def_change": -4
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 15,
@@ -267,12 +267,12 @@
       "confederation": "UEFA",
       "ranking_off": 14,
       "ranking_def": 18,
-      "ranking_change": -3,
-      "points_change": -35,
+      "ranking_change": 0,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": -28,
-      "ranking_def_change": -8,
-      "points_def_change": -32
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 16,
@@ -285,12 +285,12 @@
       "confederation": "UEFA",
       "ranking_off": 17,
       "ranking_def": 28,
-      "ranking_change": -3,
-      "points_change": -21,
-      "ranking_off_change": -1,
-      "points_off_change": -26,
-      "ranking_def_change": -14,
-      "points_def_change": -36
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 17,
@@ -304,11 +304,11 @@
       "ranking_off": 20,
       "ranking_def": 15,
       "ranking_change": 0,
-      "points_change": -2,
-      "ranking_off_change": -3,
-      "points_off_change": -41,
-      "ranking_def_change": 18,
-      "points_def_change": 59
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 17,
@@ -321,12 +321,12 @@
       "confederation": "CONMEBOL",
       "ranking_off": 35,
       "ranking_def": 2,
-      "ranking_change": 1,
-      "points_change": 5,
-      "ranking_off_change": -7,
-      "points_off_change": -7,
-      "ranking_def_change": 1,
-      "points_def_change": 38
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 19,
@@ -339,12 +339,12 @@
       "confederation": "UEFA",
       "ranking_off": 24,
       "ranking_def": 25,
-      "ranking_change": 1,
-      "points_change": 10,
-      "ranking_off_change": -1,
-      "points_off_change": -8,
-      "ranking_def_change": -10,
-      "points_def_change": -17
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 20,
@@ -356,13 +356,13 @@
       "points_def": 4917,
       "confederation": "UEFA",
       "ranking_off": 16,
-      "ranking_def": 39,
-      "ranking_change": -1,
-      "points_change": -16,
-      "ranking_off_change": -3,
-      "points_off_change": -35,
+      "ranking_def": 38,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 1,
-      "points_def_change": 22
+      "points_def_change": 0
     },
     {
       "ranking": 21,
@@ -375,12 +375,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 45,
       "ranking_def": 5,
-      "ranking_change": 7,
-      "points_change": 67,
-      "ranking_off_change": 4,
-      "points_off_change": 15,
-      "ranking_def_change": 18,
-      "points_def_change": 89
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 22,
@@ -392,13 +392,13 @@
       "points_def": 4918,
       "confederation": "UEFA",
       "ranking_off": 22,
-      "ranking_def": 38,
-      "ranking_change": -1,
-      "points_change": -18,
-      "ranking_off_change": -4,
-      "points_off_change": -47,
-      "ranking_def_change": -2,
-      "points_def_change": 12
+      "ranking_def": 37,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 23,
@@ -411,12 +411,12 @@
       "confederation": "CAF",
       "ranking_off": 30,
       "ranking_def": 14,
-      "ranking_change": 2,
-      "points_change": 20,
-      "ranking_off_change": -1,
-      "points_off_change": 16,
-      "ranking_def_change": 25,
-      "points_def_change": 79
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 24,
@@ -428,13 +428,13 @@
       "points_def": 4942,
       "confederation": "CAF",
       "ranking_off": 19,
-      "ranking_def": 31,
+      "ranking_def": 30,
       "ranking_change": 0,
-      "points_change": 11,
-      "ranking_off_change": 1,
-      "points_off_change": -25,
-      "ranking_def_change": -9,
-      "points_def_change": -14
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 25,
@@ -446,13 +446,13 @@
       "points_def": 4934,
       "confederation": "UEFA",
       "ranking_off": 28,
-      "ranking_def": 34,
-      "ranking_change": 1,
-      "points_change": 5,
-      "ranking_off_change": -3,
-      "points_off_change": -16,
-      "ranking_def_change": 11,
-      "points_def_change": 47
+      "ranking_def": 33,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 26,
@@ -465,12 +465,12 @@
       "confederation": "AFC",
       "ranking_off": 37,
       "ranking_def": 12,
-      "ranking_change": 5,
-      "points_change": 60,
-      "ranking_off_change": -6,
-      "points_off_change": 1,
-      "ranking_def_change": 8,
-      "points_def_change": 28
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 27,
@@ -483,12 +483,12 @@
       "confederation": "UEFA",
       "ranking_off": 32,
       "ranking_def": 27,
-      "ranking_change": -4,
-      "points_change": -17,
-      "ranking_off_change": -11,
-      "points_off_change": -69,
-      "ranking_def_change": 5,
-      "points_def_change": 34
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 28,
@@ -501,12 +501,12 @@
       "confederation": "CONMEBOL",
       "ranking_off": 34,
       "ranking_def": 16,
-      "ranking_change": -6,
-      "points_change": -34,
-      "ranking_off_change": -4,
-      "points_off_change": 1,
-      "ranking_def_change": -7,
-      "points_def_change": -35
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 29,
@@ -519,12 +519,12 @@
       "confederation": "CAF",
       "ranking_off": 15,
       "ranking_def": 24,
-      "ranking_change": 3,
-      "points_change": 51,
-      "ranking_off_change": 4,
-      "points_off_change": 2,
-      "ranking_def_change": 34,
-      "points_def_change": 112
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 30,
@@ -538,11 +538,11 @@
       "ranking_off": 33,
       "ranking_def": 75,
       "ranking_change": 0,
-      "points_change": 25,
-      "ranking_off_change": 2,
-      "points_off_change": 22,
-      "ranking_def_change": -14,
-      "points_def_change": -35
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 31,
@@ -554,13 +554,13 @@
       "points_def": 4911,
       "confederation": "CAF",
       "ranking_off": 21,
-      "ranking_def": 42,
-      "ranking_change": 22,
-      "points_change": 126,
-      "ranking_off_change": 13,
-      "points_off_change": 77,
-      "ranking_def_change": 28,
-      "points_def_change": 98
+      "ranking_def": 41,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 31,
@@ -573,12 +573,12 @@
       "confederation": "UEFA",
       "ranking_off": 18,
       "ranking_def": 90,
-      "ranking_change": 7,
-      "points_change": 34,
-      "ranking_off_change": 6,
-      "points_off_change": 29,
-      "ranking_def_change": -9,
-      "points_def_change": -8
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 33,
@@ -590,13 +590,13 @@
       "points_def": 4932,
       "confederation": "AFC",
       "ranking_off": 23,
-      "ranking_def": 35,
-      "ranking_change": 17,
-      "points_change": 112,
-      "ranking_off_change": 19,
-      "points_off_change": 83,
-      "ranking_def_change": 16,
-      "points_def_change": 56
+      "ranking_def": 34,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 34,
@@ -608,13 +608,13 @@
       "points_def": 4935,
       "confederation": "UEFA",
       "ranking_off": 24,
-      "ranking_def": 33,
-      "ranking_change": -5,
-      "points_change": -7,
-      "ranking_off_change": -2,
-      "points_off_change": -22,
-      "ranking_def_change": 4,
-      "points_def_change": 31
+      "ranking_def": 32,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 35,
@@ -626,13 +626,13 @@
       "points_def": 4928,
       "confederation": "CONCACAF",
       "ranking_off": 64,
-      "ranking_def": 36,
-      "ranking_change": -8,
-      "points_change": -49,
-      "ranking_off_change": -24,
-      "points_off_change": -75,
-      "ranking_def_change": -24,
-      "points_def_change": -65
+      "ranking_def": 35,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 36,
@@ -644,13 +644,13 @@
       "points_def": 4916,
       "confederation": "CONMEBOL",
       "ranking_off": 44,
-      "ranking_def": 40,
-      "ranking_change": 6,
-      "points_change": 21,
-      "ranking_off_change": 3,
-      "points_off_change": 5,
-      "ranking_def_change": -9,
-      "points_def_change": 2
+      "ranking_def": 39,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 37,
@@ -664,11 +664,11 @@
       "ranking_off": 36,
       "ranking_def": 59,
       "ranking_change": 0,
-      "points_change": -10,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": 17,
-      "ranking_def_change": -10,
-      "points_def_change": -36
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 38,
@@ -680,13 +680,13 @@
       "points_def": 4907,
       "confederation": "CONMEBOL",
       "ranking_off": 27,
-      "ranking_def": 44,
-      "ranking_change": -5,
-      "points_change": -21,
-      "ranking_off_change": 11,
-      "points_off_change": 55,
-      "ranking_def_change": -18,
-      "points_def_change": -33
+      "ranking_def": 43,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 39,
@@ -699,12 +699,12 @@
       "confederation": "UEFA",
       "ranking_off": 46,
       "ranking_def": 48,
-      "ranking_change": 2,
-      "points_change": 5,
-      "ranking_off_change": 6,
-      "points_off_change": 19,
-      "ranking_def_change": -7,
-      "points_def_change": -14
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 39,
@@ -716,13 +716,13 @@
       "points_def": 4908,
       "confederation": "AFC",
       "ranking_off": 42,
-      "ranking_def": 43,
-      "ranking_change": 1,
-      "points_change": 1,
-      "ranking_off_change": -3,
-      "points_off_change": 1,
-      "ranking_def_change": -1,
-      "points_def_change": 19
+      "ranking_def": 42,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 41,
@@ -735,12 +735,12 @@
       "confederation": "UEFA",
       "ranking_off": 40,
       "ranking_def": 75,
-      "ranking_change": -8,
-      "points_change": -23,
-      "ranking_off_change": -7,
-      "points_off_change": -7,
-      "ranking_def_change": -21,
-      "points_def_change": -55
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 42,
@@ -752,13 +752,13 @@
       "points_def": 4944,
       "confederation": "CONMEBOL",
       "ranking_off": 56,
-      "ranking_def": 30,
-      "ranking_change": -3,
-      "points_change": -16,
-      "ranking_off_change": 6,
-      "points_off_change": 22,
-      "ranking_def_change": -19,
-      "points_def_change": -51
+      "ranking_def": 29,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 43,
@@ -771,12 +771,12 @@
       "confederation": "CAF",
       "ranking_off": 38,
       "ranking_def": 22,
-      "ranking_change": 14,
-      "points_change": 80,
-      "ranking_off_change": 26,
-      "points_off_change": 90,
-      "ranking_def_change": 13,
-      "points_def_change": 59
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 44,
@@ -789,12 +789,12 @@
       "confederation": "UEFA",
       "ranking_off": 66,
       "ranking_def": 64,
-      "ranking_change": -9,
-      "points_change": -33,
-      "ranking_off_change": -11,
-      "points_off_change": -53,
-      "ranking_def_change": -12,
-      "points_def_change": -37
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 45,
@@ -807,12 +807,12 @@
       "confederation": "UEFA",
       "ranking_off": 56,
       "ranking_def": 58,
-      "ranking_change": -1,
-      "points_change": 8,
-      "ranking_off_change": -2,
-      "points_off_change": -21,
-      "ranking_def_change": -3,
-      "points_def_change": -13
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 46,
@@ -825,12 +825,12 @@
       "confederation": "UEFA",
       "ranking_off": 67,
       "ranking_def": 46,
-      "ranking_change": -1,
-      "points_change": 8,
-      "ranking_off_change": 5,
-      "points_off_change": 24,
-      "ranking_def_change": 4,
-      "points_def_change": 12
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 47,
@@ -843,12 +843,12 @@
       "confederation": "UEFA",
       "ranking_off": 73,
       "ranking_def": 21,
-      "ranking_change": -4,
-      "points_change": -13,
-      "ranking_off_change": 4,
-      "points_off_change": 17,
-      "ranking_def_change": -8,
-      "points_def_change": -25
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 48,
@@ -861,12 +861,12 @@
       "confederation": "UEFA",
       "ranking_off": 48,
       "ranking_def": 51,
-      "ranking_change": -13,
-      "points_change": -53,
-      "ranking_off_change": 2,
-      "points_off_change": -6,
-      "ranking_def_change": -27,
-      "points_def_change": -85
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 49,
@@ -879,12 +879,12 @@
       "confederation": "UEFA",
       "ranking_off": 50,
       "ranking_def": 69,
-      "ranking_change": -3,
-      "points_change": -1,
-      "ranking_off_change": -4,
-      "points_off_change": -25,
-      "ranking_def_change": 5,
-      "points_def_change": 15
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 50,
@@ -897,12 +897,12 @@
       "confederation": "UEFA",
       "ranking_off": 58,
       "ranking_def": 72,
-      "ranking_change": -3,
-      "points_change": 2,
-      "ranking_off_change": -2,
-      "points_off_change": -20,
-      "ranking_def_change": 22,
-      "points_def_change": 46
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 51,
@@ -915,12 +915,12 @@
       "confederation": "CAF",
       "ranking_off": 70,
       "ranking_def": 18,
-      "ranking_change": 19,
-      "points_change": 110,
-      "ranking_off_change": 28,
-      "points_off_change": 88,
-      "ranking_def_change": 38,
-      "points_def_change": 110
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 51,
@@ -933,12 +933,12 @@
       "confederation": "UEFA",
       "ranking_off": 26,
       "ranking_def": 78,
-      "ranking_change": 2,
-      "points_change": 14,
+      "ranking_change": 0,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": 5,
-      "ranking_def_change": 15,
-      "points_def_change": 32
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 53,
@@ -950,13 +950,13 @@
       "points_def": 4912,
       "confederation": "UEFA",
       "ranking_off": 55,
-      "ranking_def": 41,
-      "ranking_change": 2,
-      "points_change": 3,
-      "ranking_off_change": 6,
-      "points_off_change": 25,
-      "ranking_def_change": 7,
-      "points_def_change": 28
+      "ranking_def": 40,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 54,
@@ -969,12 +969,12 @@
       "confederation": "UEFA",
       "ranking_off": 67,
       "ranking_def": 63,
-      "ranking_change": -5,
-      "points_change": -22,
-      "ranking_off_change": 1,
-      "points_off_change": 5,
-      "ranking_def_change": -25,
-      "points_def_change": -68
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 55,
@@ -987,12 +987,12 @@
       "confederation": "AFC",
       "ranking_off": 74,
       "ranking_def": 47,
-      "ranking_change": -4,
-      "points_change": -4,
-      "ranking_off_change": 8,
-      "points_off_change": 18,
-      "ranking_def_change": -13,
-      "points_def_change": -29
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 56,
@@ -1004,13 +1004,13 @@
       "points_def": 4920,
       "confederation": "UEFA",
       "ranking_off": 94,
-      "ranking_def": 37,
-      "ranking_change": -8,
-      "points_change": -35,
-      "ranking_off_change": -19,
-      "points_off_change": -58,
-      "ranking_def_change": -9,
-      "points_def_change": -7
+      "ranking_def": 36,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 56,
@@ -1023,12 +1023,12 @@
       "confederation": "AFC",
       "ranking_off": 39,
       "ranking_def": 84,
-      "ranking_change": -5,
-      "points_change": -8,
-      "ranking_off_change": 12,
-      "points_off_change": 36,
-      "ranking_def_change": -22,
-      "points_def_change": -46
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 58,
@@ -1039,14 +1039,14 @@
       "points_off": 4895,
       "points_def": 4965,
       "confederation": "CAF",
-      "ranking_off": 86,
+      "ranking_off": 87,
       "ranking_def": 22,
-      "ranking_change": -2,
-      "points_change": -5,
-      "ranking_off_change": -7,
-      "points_off_change": -28,
-      "ranking_def_change": 5,
-      "points_def_change": 37
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 59,
@@ -1059,12 +1059,12 @@
       "confederation": "CAF",
       "ranking_off": 76,
       "ranking_def": 16,
-      "ranking_change": -2,
-      "points_change": -5,
-      "ranking_off_change": -16,
-      "points_off_change": -53,
-      "ranking_def_change": 9,
-      "points_def_change": 26
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 60,
@@ -1077,12 +1077,12 @@
       "confederation": "UEFA",
       "ranking_off": 61,
       "ranking_def": 65,
-      "ranking_change": 5,
-      "points_change": 38,
-      "ranking_off_change": -3,
-      "points_off_change": -18,
-      "ranking_def_change": 31,
-      "points_def_change": 64
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 61,
@@ -1095,12 +1095,12 @@
       "confederation": "UEFA",
       "ranking_off": 29,
       "ranking_def": 91,
-      "ranking_change": -2,
-      "points_change": -10,
-      "ranking_off_change": -2,
-      "points_off_change": -8,
-      "ranking_def_change": -1,
-      "points_def_change": 8
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 62,
@@ -1114,11 +1114,11 @@
       "ranking_off": 60,
       "ranking_def": 52,
       "ranking_change": 0,
-      "points_change": 10,
-      "ranking_off_change": -3,
-      "points_off_change": -18,
-      "ranking_def_change": 20,
-      "points_def_change": 49
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 63,
@@ -1131,12 +1131,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 43,
       "ranking_def": 77,
-      "ranking_change": -3,
-      "points_change": -8,
-      "ranking_off_change": 2,
-      "points_off_change": 7,
-      "ranking_def_change": -11,
-      "points_def_change": -10
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 64,
@@ -1149,12 +1149,12 @@
       "confederation": "OFC",
       "ranking_off": 50,
       "ranking_def": 57,
-      "ranking_change": -3,
-      "points_change": -16,
-      "ranking_off_change": -7,
-      "points_off_change": -26,
-      "ranking_def_change": -10,
-      "points_def_change": -36
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 65,
@@ -1166,13 +1166,13 @@
       "points_def": 4907,
       "confederation": "CAF",
       "ranking_off": 65,
-      "ranking_def": 44,
-      "ranking_change": 3,
-      "points_change": 20,
-      "ranking_off_change": 4,
-      "points_off_change": 16,
-      "ranking_def_change": 0,
-      "points_def_change": 19
+      "ranking_def": 43,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 66,
@@ -1185,12 +1185,12 @@
       "confederation": "CAF",
       "ranking_off": 54,
       "ranking_def": 56,
-      "ranking_change": 1,
+      "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 9,
-      "points_off_change": 32,
-      "ranking_def_change": 1,
-      "points_def_change": -4
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 67,
@@ -1201,14 +1201,14 @@
       "points_off": 5006,
       "points_def": 4759,
       "confederation": "UEFA",
-      "ranking_off": 53,
+      "ranking_off": 52,
       "ranking_def": 100,
-      "ranking_change": 7,
-      "points_change": 27,
-      "ranking_off_change": 13,
-      "points_off_change": 36,
-      "ranking_def_change": 12,
-      "points_def_change": 26
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 68,
@@ -1221,12 +1221,12 @@
       "confederation": "CAF",
       "ranking_off": 47,
       "ranking_def": 89,
-      "ranking_change": -2,
-      "points_change": -36,
-      "ranking_off_change": -10,
-      "points_off_change": -18,
-      "ranking_def_change": -30,
-      "points_def_change": -59
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 69,
@@ -1239,12 +1239,12 @@
       "confederation": "CAF",
       "ranking_off": 62,
       "ranking_def": 68,
-      "ranking_change": 2,
-      "points_change": 4,
-      "ranking_off_change": 5,
-      "points_off_change": 8,
-      "ranking_def_change": -4,
-      "points_def_change": 3
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 70,
@@ -1257,12 +1257,12 @@
       "confederation": "CAF",
       "ranking_off": 62,
       "ranking_def": 49,
-      "ranking_change": 5,
-      "points_change": 18,
-      "ranking_off_change": 8,
-      "points_off_change": 32,
-      "ranking_def_change": 4,
-      "points_def_change": 3
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 71,
@@ -1275,12 +1275,12 @@
       "confederation": "CONMEBOL",
       "ranking_off": 72,
       "ranking_def": 102,
-      "ranking_change": -7,
-      "points_change": -58,
-      "ranking_off_change": -19,
-      "points_off_change": -74,
-      "ranking_def_change": -23,
-      "points_def_change": -54
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 72,
@@ -1293,12 +1293,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 52,
       "ranking_def": 54,
-      "ranking_change": 4,
-      "points_change": 31,
-      "ranking_off_change": -8,
-      "points_off_change": -37,
-      "ranking_def_change": 28,
-      "points_def_change": 57
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 73,
@@ -1311,12 +1311,12 @@
       "confederation": "UEFA",
       "ranking_off": 78,
       "ranking_def": 70,
-      "ranking_change": -4,
-      "points_change": -26,
-      "ranking_off_change": 2,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 1,
-      "points_def_change": 8
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 74,
@@ -1327,14 +1327,14 @@
       "points_off": 4886,
       "points_def": 4867,
       "confederation": "AFC",
-      "ranking_off": 90,
+      "ranking_off": 91,
       "ranking_def": 50,
-      "ranking_change": -2,
-      "points_change": -4,
-      "ranking_off_change": 12,
-      "points_off_change": 28,
-      "ranking_def_change": -7,
-      "points_def_change": -22
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 75,
@@ -1347,12 +1347,12 @@
       "confederation": "UEFA",
       "ranking_off": 69,
       "ranking_def": 73,
-      "ranking_change": 3,
-      "points_change": 23,
-      "ranking_off_change": 7,
-      "points_off_change": 28,
-      "ranking_def_change": -5,
-      "points_def_change": 3
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 76,
@@ -1364,13 +1364,13 @@
       "points_def": 4852,
       "confederation": "AFC",
       "ranking_off": 94,
-      "ranking_def": 55,
-      "ranking_change": 3,
-      "points_change": 34,
-      "ranking_off_change": 9,
-      "points_off_change": 21,
-      "ranking_def_change": 10,
-      "points_def_change": 31
+      "ranking_def": 54,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 77,
@@ -1383,12 +1383,12 @@
       "confederation": "CAF",
       "ranking_off": 100,
       "ranking_def": 92,
-      "ranking_change": -4,
-      "points_change": -29,
-      "ranking_off_change": -26,
-      "points_off_change": -70,
-      "ranking_def_change": 3,
-      "points_def_change": 14
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 78,
@@ -1401,12 +1401,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 49,
       "ranking_def": 109,
-      "ranking_change": -15,
-      "points_change": -110,
-      "ranking_off_change": -1,
-      "points_off_change": -11,
-      "ranking_def_change": -46,
-      "points_def_change": -101
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 79,
@@ -1417,14 +1417,14 @@
       "points_off": 4908,
       "points_def": 4841,
       "confederation": "CONCACAF",
-      "ranking_off": 82,
+      "ranking_off": 83,
       "ranking_def": 62,
-      "ranking_change": 2,
-      "points_change": 12,
-      "ranking_off_change": 14,
-      "points_off_change": 28,
-      "ranking_def_change": -2,
-      "points_def_change": -6
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": -1,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 80,
@@ -1435,13 +1435,13 @@
       "points_off": 4880,
       "points_def": 4777,
       "confederation": "AFC",
-      "ranking_off": 92,
+      "ranking_off": 93,
       "ranking_def": 94,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 3,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -2,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -1453,14 +1453,14 @@
       "points_off": 4914,
       "points_def": 4844,
       "confederation": "CAF",
-      "ranking_off": 79,
+      "ranking_off": 80,
       "ranking_def": 59,
-      "ranking_change": -4,
-      "points_change": -28,
-      "ranking_off_change": -6,
-      "points_off_change": -25,
-      "ranking_def_change": -13,
-      "points_def_change": -43
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": -1,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 82,
@@ -1473,12 +1473,12 @@
       "confederation": "UEFA",
       "ranking_off": 118,
       "ranking_def": 71,
-      "ranking_change": 10,
-      "points_change": 66,
-      "ranking_off_change": 16,
-      "points_off_change": 30,
-      "ranking_def_change": 28,
-      "points_def_change": 62
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 83,
@@ -1491,12 +1491,12 @@
       "confederation": "CAF",
       "ranking_off": 40,
       "ranking_def": 112,
-      "ranking_change": -1,
-      "points_change": -6,
-      "ranking_off_change": 1,
-      "points_off_change": 8,
-      "ranking_def_change": -4,
-      "points_def_change": -24
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 84,
@@ -1507,14 +1507,14 @@
       "points_off": 4905,
       "points_def": 4704,
       "confederation": "UEFA",
-      "ranking_off": 83,
+      "ranking_off": 84,
       "ranking_def": 118,
-      "ranking_change": 6,
-      "points_change": 43,
-      "ranking_off_change": 9,
-      "points_off_change": 16,
-      "ranking_def_change": -2,
-      "points_def_change": -7
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": -1,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 85,
@@ -1526,13 +1526,13 @@
       "points_def": 4683,
       "confederation": "UEFA",
       "ranking_off": 74,
-      "ranking_def": 125,
-      "ranking_change": 2,
-      "points_change": 23,
-      "ranking_off_change": 13,
-      "points_off_change": 37,
-      "ranking_def_change": 6,
-      "points_def_change": 10
+      "ranking_def": 124,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 86,
@@ -1545,12 +1545,12 @@
       "confederation": "UEFA",
       "ranking_off": 120,
       "ranking_def": 66,
-      "ranking_change": -3,
-      "points_change": -12,
+      "ranking_change": 0,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": -9,
-      "ranking_def_change": 1,
-      "points_def_change": 14
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 87,
@@ -1563,12 +1563,12 @@
       "confederation": "AFC",
       "ranking_off": 71,
       "ranking_def": 107,
-      "ranking_change": -1,
-      "points_change": 3,
-      "ranking_off_change": 17,
-      "points_off_change": 51,
-      "ranking_def_change": -19,
-      "points_def_change": -48
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 88,
@@ -1579,14 +1579,14 @@
       "points_off": 4885,
       "points_def": 4826,
       "confederation": "CAF",
-      "ranking_off": 91,
+      "ranking_off": 92,
       "ranking_def": 67,
-      "ranking_change": 14,
-      "points_change": 57,
-      "ranking_off_change": 22,
-      "points_off_change": 43,
-      "ranking_def_change": 20,
-      "points_def_change": 42
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 89,
@@ -1599,12 +1599,12 @@
       "confederation": "UEFA",
       "ranking_off": 104,
       "ranking_def": 110,
-      "ranking_change": 7,
-      "points_change": 17,
-      "ranking_off_change": 6,
-      "points_off_change": 2,
-      "ranking_def_change": 19,
-      "points_def_change": 40
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 90,
@@ -1617,12 +1617,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 119,
       "ranking_def": 74,
-      "ranking_change": -5,
-      "points_change": -33,
-      "ranking_off_change": -20,
-      "points_off_change": -45,
-      "ranking_def_change": 9,
-      "points_def_change": 18
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 91,
@@ -1633,14 +1633,14 @@
       "points_off": 4913,
       "points_def": 4700,
       "confederation": "CONCACAF",
-      "ranking_off": 80,
+      "ranking_off": 81,
       "ranking_def": 122,
-      "ranking_change": -7,
-      "points_change": -40,
-      "ranking_off_change": -9,
-      "points_off_change": -27,
-      "ranking_def_change": -25,
-      "points_def_change": -65
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": -1,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 92,
@@ -1651,14 +1651,14 @@
       "points_off": 4911,
       "points_def": 4797,
       "confederation": "CAF",
-      "ranking_off": 81,
+      "ranking_off": 82,
       "ranking_def": 81,
-      "ranking_change": -4,
-      "points_change": -21,
-      "ranking_off_change": -22,
-      "points_off_change": -81,
-      "ranking_def_change": 5,
-      "points_def_change": 12
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": -1,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 93,
@@ -1671,12 +1671,12 @@
       "confederation": "CAF",
       "ranking_off": 112,
       "ranking_def": 80,
-      "ranking_change": 1,
-      "points_change": -4,
+      "ranking_change": 0,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": -9,
-      "ranking_def_change": -3,
-      "points_def_change": -4
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 94,
@@ -1689,12 +1689,12 @@
       "confederation": "AFC",
       "ranking_off": 122,
       "ranking_def": 53,
-      "ranking_change": -2,
-      "points_change": -6,
-      "ranking_off_change": -18,
-      "points_off_change": -46,
-      "ranking_def_change": 20,
-      "points_def_change": 44
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 95,
@@ -1706,13 +1706,13 @@
       "points_def": 4676,
       "confederation": "CAF",
       "ranking_off": 59,
-      "ranking_def": 127,
-      "ranking_change": -1,
-      "points_change": -16,
-      "ranking_off_change": 6,
-      "points_off_change": 14,
-      "ranking_def_change": -8,
-      "points_def_change": -27
+      "ranking_def": 126,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 96,
@@ -1723,14 +1723,14 @@
       "points_off": 4887,
       "points_def": 4769,
       "confederation": "CONCACAF",
-      "ranking_off": 89,
+      "ranking_off": 90,
       "ranking_def": 97,
-      "ranking_change": 2,
-      "points_change": -1,
-      "ranking_off_change": 1,
-      "points_off_change": -6,
-      "ranking_def_change": -6,
-      "points_def_change": -9
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 97,
@@ -1743,12 +1743,12 @@
       "confederation": "CAF",
       "ranking_off": 96,
       "ranking_def": 85,
-      "ranking_change": -6,
-      "points_change": -34,
-      "ranking_off_change": -15,
-      "points_off_change": -38,
-      "ranking_def_change": -16,
-      "points_def_change": -21
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 98,
@@ -1761,12 +1761,12 @@
       "confederation": "CAF",
       "ranking_off": 101,
       "ranking_def": 95,
-      "ranking_change": 11,
-      "points_change": 39,
-      "ranking_off_change": 24,
-      "points_off_change": 56,
-      "ranking_def_change": 12,
-      "points_def_change": 32
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 99,
@@ -1779,12 +1779,12 @@
       "confederation": "AFC",
       "ranking_off": 135,
       "ranking_def": 99,
-      "ranking_change": -2,
-      "points_change": -27,
-      "ranking_off_change": -6,
-      "points_off_change": -8,
-      "ranking_def_change": -23,
-      "points_def_change": -44
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 99,
@@ -1797,11 +1797,11 @@
       "confederation": "CAF",
       "ranking_off": 128,
       "ranking_def": 85,
-      "ranking_change": 15,
-      "points_change": 46,
-      "ranking_off_change": 15,
-      "points_off_change": 28,
-      "ranking_def_change": -1,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -1815,12 +1815,12 @@
       "confederation": "CAF",
       "ranking_off": 103,
       "ranking_def": 79,
-      "ranking_change": -2,
-      "points_change": -4,
-      "ranking_off_change": -19,
-      "points_off_change": -50,
-      "ranking_def_change": 25,
-      "points_def_change": 53
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 102,
@@ -1832,13 +1832,13 @@
       "points_def": 4659,
       "confederation": "AFC",
       "ranking_off": 133,
-      "ranking_def": 135,
-      "ranking_change": 10,
-      "points_change": 39,
+      "ranking_def": 134,
+      "ranking_change": 0,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": -4,
-      "ranking_def_change": 20,
-      "points_def_change": 71
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 103,
@@ -1851,33 +1851,15 @@
       "confederation": "CAF",
       "ranking_off": 104,
       "ranking_def": 104,
-      "ranking_change": -3,
+      "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 3,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 7,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
       "ranking": 104,
-      "flag": "curacao.png",
-      "team": "Cura\u00e7ao",
-      "reference_team": "Cura\u00e7ao",
-      "points": 4839,
-      "points_off": 4880,
-      "points_def": 4688,
-      "confederation": "CONCACAF",
-      "ranking_off": 92,
-      "ranking_def": 123,
-      "ranking_change": -15,
-      "points_change": -57,
-      "ranking_off_change": 17,
-      "points_off_change": 31,
-      "ranking_def_change": -25,
-      "points_def_change": -74
-    },
-    {
-      "ranking": 105,
       "flag": "estonia.png",
       "team": "Estonia",
       "reference_team": "Estonia",
@@ -1886,16 +1868,16 @@
       "points_def": 4667,
       "confederation": "UEFA",
       "ranking_off": 125,
-      "ranking_def": 130,
-      "ranking_change": -3,
-      "points_change": -4,
-      "ranking_off_change": -10,
-      "points_off_change": -35,
-      "ranking_def_change": 7,
-      "points_def_change": 28
+      "ranking_def": 129,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 106,
+      "ranking": 105,
       "flag": "zambia.png",
       "team": "Zambia",
       "reference_team": "Zambia",
@@ -1903,17 +1885,17 @@
       "points_off": 4901,
       "points_def": 4702,
       "confederation": "CAF",
-      "ranking_off": 84,
+      "ranking_off": 85,
       "ranking_def": 119,
-      "ranking_change": -6,
-      "points_change": -9,
-      "ranking_off_change": 1,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": -1,
       "points_off_change": 0,
-      "ranking_def_change": -6,
-      "points_def_change": -28
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 107,
+      "ranking": 106,
       "flag": "madagascar.png",
       "team": "Madagascar",
       "reference_team": "Madagascar",
@@ -1924,14 +1906,14 @@
       "ranking_off": 77,
       "ranking_def": 116,
       "ranking_change": 0,
-      "points_change": 7,
-      "ranking_off_change": 9,
-      "points_off_change": 26,
-      "ranking_def_change": -10,
-      "points_def_change": -33
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 108,
+      "ranking": 107,
       "flag": "kenya.png",
       "team": "Kenya",
       "reference_team": "Kenya",
@@ -1939,17 +1921,17 @@
       "points_off": 4901,
       "points_def": 4723,
       "confederation": "CAF",
-      "ranking_off": 84,
+      "ranking_off": 85,
       "ranking_def": 110,
-      "ranking_change": 9,
-      "points_change": 31,
-      "ranking_off_change": 10,
-      "points_off_change": 18,
-      "ranking_def_change": 16,
-      "points_def_change": 34
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": -1,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 108,
+      "ranking": 107,
       "flag": "tanzania.png",
       "team": "Tanzania",
       "reference_team": "Tanzania",
@@ -1959,15 +1941,15 @@
       "confederation": "CAF",
       "ranking_off": 133,
       "ranking_def": 83,
-      "ranking_change": -4,
-      "points_change": -9,
-      "ranking_off_change": 3,
-      "points_off_change": 3,
-      "ranking_def_change": 2,
-      "points_def_change": 4
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 110,
+      "ranking": 109,
       "flag": "burundi.png",
       "team": "Burundi",
       "reference_team": "Burundi",
@@ -1977,15 +1959,15 @@
       "confederation": "CAF",
       "ranking_off": 109,
       "ranking_def": 108,
-      "ranking_change": 18,
-      "points_change": 64,
-      "ranking_off_change": 30,
-      "points_off_change": 63,
-      "ranking_def_change": 1,
-      "points_def_change": -10
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 110,
+      "ranking": 109,
       "flag": "eq_guinea.png",
       "team": "Equatorial Guinea",
       "reference_team": "Equatorial Guinea",
@@ -1995,15 +1977,15 @@
       "confederation": "CAF",
       "ranking_off": 137,
       "ranking_def": 87,
-      "ranking_change": -4,
-      "points_change": -4,
-      "ranking_off_change": -16,
-      "points_off_change": -38,
-      "ranking_def_change": 13,
-      "points_def_change": 36
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 112,
+      "ranking": 111,
       "flag": "china.png",
       "team": "China",
       "reference_team": "China",
@@ -2013,15 +1995,15 @@
       "confederation": "AFC",
       "ranking_off": 144,
       "ranking_def": 115,
-      "ranking_change": 3,
-      "points_change": 20,
-      "ranking_off_change": 8,
-      "points_off_change": 18,
-      "ranking_def_change": 7,
-      "points_def_change": 14
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 113,
+      "ranking": 112,
       "flag": "cyprus.png",
       "team": "Cyprus",
       "reference_team": "Cyprus",
@@ -2029,17 +2011,17 @@
       "points_off": 4892,
       "points_def": 4629,
       "confederation": "UEFA",
-      "ranking_off": 87,
-      "ranking_def": 141,
+      "ranking_off": 88,
+      "ranking_def": 140,
       "ranking_change": 0,
-      "points_change": 13,
-      "ranking_off_change": 4,
-      "points_off_change": 2,
-      "ranking_def_change": 13,
-      "points_def_change": 41
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
-      "ranking": 114,
+      "ranking": 113,
       "flag": "mauritania.png",
       "team": "Mauritania",
       "reference_team": "Mauritania",
@@ -2049,15 +2031,15 @@
       "confederation": "CAF",
       "ranking_off": 127,
       "ranking_def": 59,
-      "ranking_change": 8,
-      "points_change": 36,
-      "ranking_off_change": 22,
-      "points_off_change": 52,
-      "ranking_def_change": 21,
-      "points_def_change": 48
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 115,
+      "ranking": 114,
       "flag": "lithuania.png",
       "team": "Lithuania",
       "reference_team": "Lithuania",
@@ -2067,15 +2049,15 @@
       "confederation": "UEFA",
       "ranking_off": 152,
       "ranking_def": 121,
-      "ranking_change": -7,
-      "points_change": -8,
-      "ranking_off_change": -8,
-      "points_off_change": -18,
-      "ranking_def_change": 6,
-      "points_def_change": 13
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 116,
+      "ranking": 115,
       "flag": "sierra_leone.png",
       "team": "Sierra Leone",
       "reference_team": "Sierra Leone",
@@ -2085,15 +2067,15 @@
       "confederation": "CAF",
       "ranking_off": 116,
       "ranking_def": 104,
-      "ranking_change": -5,
-      "points_change": -6,
-      "ranking_off_change": -5,
-      "points_off_change": -25,
-      "ranking_def_change": -1,
-      "points_def_change": -11
+      "ranking_change": 1,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 117,
+      "ranking": 116,
       "flag": "zanzibar.png",
       "team": "Zanzibar",
       "reference_team": "Zanzibar",
@@ -2103,15 +2085,15 @@
       "confederation": "CAF",
       "ranking_off": 110,
       "ranking_def": 93,
-      "ranking_change": -1,
+      "ranking_change": 1,
       "points_change": 0,
-      "ranking_off_change": 6,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -4,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
-      "ranking": 118,
+      "ranking": 117,
       "flag": "sudan.png",
       "team": "Sudan",
       "reference_team": "Sudan",
@@ -2121,15 +2103,15 @@
       "confederation": "CAF",
       "ranking_off": 124,
       "ranking_def": 87,
-      "ranking_change": 2,
-      "points_change": 2,
-      "ranking_off_change": 11,
-      "points_off_change": 18,
-      "ranking_def_change": -12,
-      "points_def_change": -17
+      "ranking_change": 1,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 119,
+      "ranking": 118,
       "flag": "bahrain.png",
       "team": "Bahrain",
       "reference_team": "Bahrain",
@@ -2139,15 +2121,15 @@
       "confederation": "AFC",
       "ranking_off": 125,
       "ranking_def": 116,
-      "ranking_change": 2,
+      "ranking_change": 1,
       "points_change": 0,
-      "ranking_off_change": 1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 2,
-      "points_def_change": 8
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 120,
+      "ranking": 119,
       "flag": "latvia.png",
       "team": "Latvia",
       "reference_team": "Latvia",
@@ -2157,15 +2139,15 @@
       "confederation": "UEFA",
       "ranking_off": 155,
       "ranking_def": 114,
-      "ranking_change": -11,
-      "points_change": -23,
-      "ranking_off_change": -17,
-      "points_off_change": -42,
-      "ranking_def_change": 3,
-      "points_def_change": 12
+      "ranking_change": 1,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 121,
+      "ranking": 120,
       "flag": "azerbaijan.png",
       "team": "Azerbaijan",
       "reference_team": "Azerbaijan",
@@ -2174,16 +2156,16 @@
       "points_def": 4609,
       "confederation": "UEFA",
       "ranking_off": 129,
-      "ranking_def": 146,
-      "ranking_change": -4,
-      "points_change": -9,
-      "ranking_off_change": -6,
-      "points_off_change": -19,
-      "ranking_def_change": -11,
-      "points_def_change": -43
+      "ranking_def": 145,
+      "ranking_change": 1,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
-      "ranking": 122,
+      "ranking": 121,
       "flag": "armenia.png",
       "team": "Armenia",
       "reference_team": "Armenia",
@@ -2193,15 +2175,15 @@
       "confederation": "UEFA",
       "ranking_off": 99,
       "ranking_def": 150,
-      "ranking_change": -5,
-      "points_change": -10,
-      "ranking_off_change": -21,
-      "points_off_change": -54,
-      "ranking_def_change": 3,
-      "points_def_change": 3
+      "ranking_change": 1,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
-      "ranking": 123,
+      "ranking": 122,
       "flag": "north_korea.png",
       "team": "North Korea",
       "reference_team": "North Korea",
@@ -2211,12 +2193,30 @@
       "confederation": "AFC",
       "ranking_off": 96,
       "ranking_def": 119,
-      "ranking_change": 0,
+      "ranking_change": 1,
       "points_change": 0,
-      "ranking_off_change": 1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 0,
       "points_def_change": 0
+    },
+    {
+      "ranking": 123,
+      "flag": "curacao.png",
+      "team": "Cura\u00e7ao",
+      "reference_team": "Cura\u00e7ao",
+      "points": 4772,
+      "points_off": 4915,
+      "points_def": 4607,
+      "confederation": "CONCACAF",
+      "ranking_off": 79,
+      "ranking_def": 146,
+      "ranking_change": -8,
+      "points_change": -32,
+      "ranking_off_change": 7,
+      "points_off_change": 18,
+      "ranking_def_change": -8,
+      "points_def_change": -39
     },
     {
       "ranking": 124,
@@ -2228,13 +2228,13 @@
       "points_def": 4665,
       "confederation": "AFC",
       "ranking_off": 138,
-      "ranking_def": 132,
-      "ranking_change": 21,
-      "points_change": 83,
-      "ranking_off_change": 9,
-      "points_off_change": 23,
-      "ranking_def_change": 20,
-      "points_def_change": 73
+      "ranking_def": 131,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 125,
@@ -2247,12 +2247,12 @@
       "confederation": "CAF",
       "ranking_off": 120,
       "ranking_def": 98,
-      "ranking_change": -1,
-      "points_change": -9,
-      "ranking_off_change": -15,
-      "points_off_change": -42,
-      "ranking_def_change": 4,
-      "points_def_change": 17
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 126,
@@ -2265,11 +2265,11 @@
       "confederation": "CAF",
       "ranking_off": 143,
       "ranking_def": 103,
-      "ranking_change": 3,
+      "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": -1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 7,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -2282,13 +2282,13 @@
       "points_def": 4648,
       "confederation": "CAF",
       "ranking_off": 104,
-      "ranking_def": 138,
-      "ranking_change": -22,
-      "points_change": -84,
-      "ranking_off_change": -21,
-      "points_off_change": -53,
-      "ranking_def_change": -14,
-      "points_def_change": -46
+      "ranking_def": 137,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 128,
@@ -2301,12 +2301,12 @@
       "confederation": "AFC",
       "ranking_off": 113,
       "ranking_def": 159,
-      "ranking_change": 3,
-      "points_change": -1,
-      "ranking_off_change": 1,
-      "points_off_change": -11,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": 25
+      "points_def_change": 0
     },
     {
       "ranking": 129,
@@ -2318,13 +2318,13 @@
       "points_def": 4657,
       "confederation": "CAF",
       "ranking_off": 110,
-      "ranking_def": 136,
-      "ranking_change": 3,
-      "points_change": -1,
-      "ranking_off_change": -9,
-      "points_off_change": -25,
-      "ranking_def_change": -6,
-      "points_def_change": -18
+      "ranking_def": 135,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 129,
@@ -2337,12 +2337,12 @@
       "confederation": "AFC",
       "ranking_off": 114,
       "ranking_def": 149,
-      "ranking_change": 4,
-      "points_change": 3,
-      "ranking_off_change": 10,
-      "points_off_change": 10,
-      "ranking_def_change": 1,
-      "points_def_change": 2
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 131,
@@ -2355,12 +2355,12 @@
       "confederation": "CAF",
       "ranking_off": 107,
       "ranking_def": 123,
-      "ranking_change": 4,
-      "points_change": 14,
-      "ranking_off_change": 15,
-      "points_off_change": 32,
-      "ranking_def_change": 10,
-      "points_def_change": 20
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 132,
@@ -2373,12 +2373,12 @@
       "confederation": "CAF",
       "ranking_off": 161,
       "ranking_def": 106,
-      "ranking_change": -2,
-      "points_change": -9,
-      "ranking_off_change": 2,
-      "points_off_change": 18,
-      "ranking_def_change": -1,
-      "points_def_change": -10
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 133,
@@ -2391,12 +2391,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 108,
       "ranking_def": 151,
-      "ranking_change": -7,
-      "points_change": -27,
-      "ranking_off_change": 9,
-      "points_off_change": 15,
-      "ranking_def_change": -12,
-      "points_def_change": -47
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 134,
@@ -2408,13 +2408,13 @@
       "points_def": 4676,
       "confederation": "CONCACAF",
       "ranking_off": 132,
-      "ranking_def": 127,
-      "ranking_change": 2,
-      "points_change": 11,
-      "ranking_off_change": 9,
-      "points_off_change": 18,
-      "ranking_def_change": 5,
-      "points_def_change": 7
+      "ranking_def": 126,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 135,
@@ -2427,12 +2427,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 98,
       "ranking_def": 153,
-      "ranking_change": -8,
-      "points_change": -35,
-      "ranking_off_change": 2,
-      "points_off_change": 8,
-      "ranking_def_change": -17,
-      "points_def_change": -63
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 136,
@@ -2444,13 +2444,13 @@
       "points_def": 4612,
       "confederation": "UEFA",
       "ranking_off": 144,
-      "ranking_def": 145,
-      "ranking_change": -2,
-      "points_change": -21,
-      "ranking_off_change": 2,
-      "points_off_change": 7,
-      "ranking_def_change": 2,
-      "points_def_change": 6
+      "ranking_def": 144,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 137,
@@ -2462,13 +2462,13 @@
       "points_def": 4666,
       "confederation": "CAF",
       "ranking_off": 139,
-      "ranking_def": 131,
-      "ranking_change": -13,
-      "points_change": -63,
-      "ranking_off_change": -31,
-      "points_off_change": -70,
-      "ranking_def_change": -17,
-      "points_def_change": -62
+      "ranking_def": 130,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 138,
@@ -2481,12 +2481,12 @@
       "confederation": "UEFA",
       "ranking_off": 136,
       "ranking_def": 152,
-      "ranking_change": 2,
-      "points_change": -3,
-      "ranking_off_change": -6,
-      "points_off_change": -8,
-      "ranking_def_change": -3,
-      "points_def_change": -18
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 139,
@@ -2499,12 +2499,12 @@
       "confederation": "CAF",
       "ranking_off": 149,
       "ranking_def": 81,
-      "ranking_change": -2,
-      "points_change": -15,
-      "ranking_off_change": 7,
-      "points_off_change": 17,
-      "ranking_def_change": 20,
-      "points_def_change": 46
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 140,
@@ -2516,13 +2516,13 @@
       "points_def": 4616,
       "confederation": "AFC",
       "ranking_off": 141,
-      "ranking_def": 144,
-      "ranking_change": -2,
-      "points_change": -14,
-      "ranking_off_change": -23,
-      "points_off_change": -52,
-      "ranking_def_change": 7,
-      "points_def_change": 21
+      "ranking_def": 143,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 141,
@@ -2535,12 +2535,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 166,
       "ranking_def": 101,
-      "ranking_change": 8,
-      "points_change": 40,
-      "ranking_off_change": -1,
-      "points_off_change": 1,
-      "ranking_def_change": 20,
-      "points_def_change": 52
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 141,
@@ -2552,12 +2552,12 @@
       "points_def": 4627,
       "confederation": "CONCACAF",
       "ranking_off": 114,
-      "ranking_def": 142,
+      "ranking_def": 141,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 5,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -2,
+      "ranking_def_change": 1,
       "points_def_change": 0
     },
     {
@@ -2570,13 +2570,13 @@
       "points_def": 4679,
       "confederation": "UEFA",
       "ranking_off": 181,
-      "ranking_def": 126,
-      "ranking_change": -4,
-      "points_change": -15,
-      "ranking_off_change": -4,
-      "points_off_change": -26,
-      "ranking_def_change": 8,
-      "points_def_change": 22
+      "ranking_def": 125,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 144,
@@ -2588,13 +2588,13 @@
       "points_def": 4617,
       "confederation": "CAF",
       "ranking_off": 102,
-      "ranking_def": 143,
+      "ranking_def": 142,
       "ranking_change": 0,
-      "points_change": -7,
-      "ranking_off_change": -9,
-      "points_off_change": -31,
-      "ranking_def_change": 0,
-      "points_def_change": -7
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 145,
@@ -2607,12 +2607,12 @@
       "confederation": "AFC",
       "ranking_off": 153,
       "ranking_def": 157,
-      "ranking_change": 5,
-      "points_change": 25,
-      "ranking_off_change": 9,
-      "points_off_change": 30,
-      "ranking_def_change": 1,
-      "points_def_change": 4
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 146,
@@ -2625,9 +2625,9 @@
       "confederation": "CAF",
       "ranking_off": 130,
       "ranking_def": 148,
-      "ranking_change": 1,
+      "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
@@ -2642,13 +2642,13 @@
       "points_def": 4665,
       "confederation": "CONCACAF",
       "ranking_off": 164,
-      "ranking_def": 132,
-      "ranking_change": -5,
-      "points_change": -29,
-      "ranking_off_change": -5,
-      "points_off_change": -27,
-      "ranking_def_change": -7,
-      "points_def_change": -26
+      "ranking_def": 131,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 148,
@@ -2661,12 +2661,12 @@
       "confederation": "AFC",
       "ranking_off": 156,
       "ranking_def": 96,
-      "ranking_change": -5,
-      "points_change": -34,
-      "ranking_off_change": -11,
-      "points_off_change": -27,
-      "ranking_def_change": -18,
-      "points_def_change": -29
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 149,
@@ -2678,13 +2678,13 @@
       "points_def": 4664,
       "confederation": "CAF",
       "ranking_off": 141,
-      "ranking_def": 134,
-      "ranking_change": 8,
-      "points_change": 54,
-      "ranking_off_change": 17,
-      "points_off_change": 44,
-      "ranking_def_change": 11,
-      "points_def_change": 43
+      "ranking_def": 133,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 150,
@@ -2697,12 +2697,12 @@
       "confederation": "AFC",
       "ranking_off": 159,
       "ranking_def": 155,
-      "ranking_change": -2,
-      "points_change": -17,
-      "ranking_off_change": -8,
-      "points_off_change": -22,
-      "ranking_def_change": -11,
-      "points_def_change": -54
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 151,
@@ -2713,14 +2713,14 @@
       "points_off": 4891,
       "points_def": 4502,
       "confederation": "CONCACAF",
-      "ranking_off": 88,
+      "ranking_off": 89,
       "ranking_def": 163,
-      "ranking_change": 1,
-      "points_change": 6,
-      "ranking_off_change": 1,
-      "points_off_change": -4,
-      "ranking_def_change": 1,
-      "points_def_change": 7
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 152,
@@ -2732,13 +2732,13 @@
       "points_def": 4641,
       "confederation": "CAF",
       "ranking_off": 122,
-      "ranking_def": 139,
-      "ranking_change": -6,
-      "points_change": -54,
-      "ranking_off_change": -16,
-      "points_off_change": -42,
-      "ranking_def_change": -11,
-      "points_def_change": -44
+      "ranking_def": 138,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 1,
+      "points_def_change": 0
     },
     {
       "ranking": 153,
@@ -2750,13 +2750,13 @@
       "points_def": 4631,
       "confederation": "CONCACAF",
       "ranking_off": 151,
-      "ranking_def": 140,
-      "ranking_change": 2,
-      "points_change": 18,
-      "ranking_off_change": 6,
-      "points_off_change": 12,
+      "ranking_def": 139,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 1,
-      "points_def_change": 5
+      "points_def_change": 0
     },
     {
       "ranking": 153,
@@ -2769,12 +2769,12 @@
       "confederation": "AFC",
       "ranking_off": 117,
       "ranking_def": 160,
-      "ranking_change": 5,
-      "points_change": 34,
-      "ranking_off_change": 11,
-      "points_off_change": 28,
-      "ranking_def_change": 3,
-      "points_def_change": 26
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 155,
@@ -2787,12 +2787,12 @@
       "confederation": "CAF",
       "ranking_off": 174,
       "ranking_def": 112,
-      "ranking_change": -2,
-      "points_change": -19,
-      "ranking_off_change": -5,
-      "points_off_change": -44,
-      "ranking_def_change": 11,
-      "points_def_change": 20
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 156,
@@ -2805,12 +2805,12 @@
       "confederation": "AFC",
       "ranking_off": 162,
       "ranking_def": 164,
-      "ranking_change": -2,
-      "points_change": -19,
-      "ranking_off_change": -1,
-      "points_off_change": -3,
-      "ranking_def_change": -3,
-      "points_def_change": -17
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 157,
@@ -2823,7 +2823,7 @@
       "confederation": "CONCACAF",
       "ranking_off": 150,
       "ranking_def": 156,
-      "ranking_change": 2,
+      "ranking_change": 0,
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
@@ -2840,13 +2840,13 @@
       "points_def": 4674,
       "confederation": "CAF",
       "ranking_off": 158,
-      "ranking_def": 129,
-      "ranking_change": -7,
-      "points_change": -58,
-      "ranking_off_change": -31,
-      "points_off_change": -75,
-      "ranking_def_change": -14,
-      "points_def_change": -40
+      "ranking_def": 128,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 159,
@@ -2859,12 +2859,12 @@
       "confederation": "CAF",
       "ranking_off": 157,
       "ranking_def": 147,
-      "ranking_change": 1,
-      "points_change": -7,
-      "ranking_off_change": -4,
-      "points_off_change": -13,
-      "ranking_def_change": -5,
-      "points_def_change": -18
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 160,
@@ -2877,12 +2877,12 @@
       "confederation": "AFC",
       "ranking_off": 160,
       "ranking_def": 161,
-      "ranking_change": 1,
-      "points_change": 3,
+      "ranking_change": 0,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": -6,
-      "ranking_def_change": -1,
-      "points_def_change": 9
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 161,
@@ -2895,12 +2895,12 @@
       "confederation": "AFC",
       "ranking_off": 147,
       "ranking_def": 168,
-      "ranking_change": 3,
-      "points_change": 50,
-      "ranking_off_change": 17,
-      "points_off_change": 64,
-      "ranking_def_change": 2,
-      "points_def_change": -15
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 162,
@@ -2912,13 +2912,13 @@
       "points_def": 4652,
       "confederation": "CAF",
       "ranking_off": 162,
-      "ranking_def": 137,
-      "ranking_change": 1,
-      "points_change": 19,
-      "ranking_off_change": -8,
-      "points_off_change": -21,
-      "ranking_def_change": 9,
-      "points_def_change": 44
+      "ranking_def": 136,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 163,
@@ -2931,12 +2931,12 @@
       "confederation": "CAF",
       "ranking_off": 146,
       "ranking_def": 154,
-      "ranking_change": -7,
-      "points_change": -81,
-      "ranking_off_change": -9,
-      "points_off_change": -25,
-      "ranking_def_change": -16,
-      "points_def_change": -63
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 164,
@@ -2949,12 +2949,12 @@
       "confederation": "AFC",
       "ranking_off": 174,
       "ranking_def": 158,
-      "ranking_change": 1,
-      "points_change": 20,
-      "ranking_off_change": 4,
-      "points_off_change": 39,
-      "ranking_def_change": -1,
-      "points_def_change": -4
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 165,
@@ -2967,12 +2967,12 @@
       "confederation": "AFC",
       "ranking_off": 178,
       "ranking_def": 166,
-      "ranking_change": -3,
-      "points_change": -37,
-      "ranking_off_change": -5,
-      "points_off_change": -21,
-      "ranking_def_change": 3,
-      "points_def_change": -12
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 166,
@@ -2985,12 +2985,12 @@
       "confederation": "OFC",
       "ranking_off": 167,
       "ranking_def": 162,
-      "ranking_change": 2,
-      "points_change": 13,
-      "ranking_off_change": 1,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 3,
-      "points_def_change": 19
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 167,
@@ -3003,12 +3003,12 @@
       "confederation": "UEFA",
       "ranking_off": 173,
       "ranking_def": 169,
-      "ranking_change": 3,
-      "points_change": 27,
-      "ranking_off_change": 2,
-      "points_off_change": 23,
-      "ranking_def_change": 3,
-      "points_def_change": 19
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 168,
@@ -3021,12 +3021,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 168,
       "ranking_def": 166,
-      "ranking_change": -2,
-      "points_change": -29,
-      "ranking_off_change": -2,
-      "points_off_change": -25,
-      "ranking_def_change": 2,
-      "points_def_change": -15
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 169,
@@ -3041,9 +3041,9 @@
       "ranking_def": 172,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 2,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -1,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -3057,12 +3057,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 154,
       "ranking_def": 165,
-      "ranking_change": -3,
-      "points_change": -57,
-      "ranking_off_change": -6,
-      "points_off_change": -11,
-      "ranking_def_change": -3,
-      "points_def_change": -40
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 171,
@@ -3076,11 +3076,11 @@
       "ranking_off": 170,
       "ranking_def": 175,
       "ranking_change": 0,
-      "points_change": 14,
-      "ranking_off_change": 1,
-      "points_off_change": -3,
-      "ranking_def_change": -1,
-      "points_def_change": -5
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 172,
@@ -3093,12 +3093,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 140,
       "ranking_def": 182,
-      "ranking_change": 2,
-      "points_change": 5,
+      "ranking_change": 0,
+      "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 2,
-      "points_def_change": 18
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 173,
@@ -3112,11 +3112,11 @@
       "ranking_off": 169,
       "ranking_def": 184,
       "ranking_change": 0,
-      "points_change": -41,
-      "ranking_off_change": 1,
+      "points_change": 0,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -9,
-      "points_def_change": -46
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 174,
@@ -3129,12 +3129,12 @@
       "confederation": "UEFA",
       "ranking_off": 186,
       "ranking_def": 177,
-      "ranking_change": 1,
-      "points_change": -12,
-      "ranking_off_change": -3,
-      "points_off_change": -16,
-      "ranking_def_change": 2,
-      "points_def_change": 4
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 175,
@@ -3147,12 +3147,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 177,
       "ranking_def": 169,
-      "ranking_change": -3,
-      "points_change": -47,
-      "ranking_off_change": -3,
-      "points_off_change": -14,
-      "ranking_def_change": -2,
-      "points_def_change": -42
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 176,
@@ -3165,12 +3165,12 @@
       "confederation": "CAF",
       "ranking_off": 148,
       "ranking_def": 178,
-      "ranking_change": 1,
-      "points_change": 7,
-      "ranking_off_change": 7,
-      "points_off_change": 18,
-      "ranking_def_change": 4,
-      "points_def_change": 13
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 177,
@@ -3183,12 +3183,12 @@
       "confederation": "UEFA",
       "ranking_off": 184,
       "ranking_def": 191,
-      "ranking_change": 2,
-      "points_change": 18,
-      "ranking_off_change": -3,
-      "points_off_change": -2,
-      "ranking_def_change": 4,
-      "points_def_change": 15
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 178,
@@ -3201,12 +3201,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 171,
       "ranking_def": 178,
-      "ranking_change": 5,
-      "points_change": 54,
-      "ranking_off_change": 8,
-      "points_off_change": 54,
-      "ranking_def_change": -2,
-      "points_def_change": -25
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 179,
@@ -3219,12 +3219,12 @@
       "confederation": "AFC",
       "ranking_off": 199,
       "ranking_def": 171,
-      "ranking_change": -1,
-      "points_change": 6,
-      "ranking_off_change": 2,
-      "points_off_change": 28,
-      "ranking_def_change": 2,
-      "points_def_change": 22
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 180,
@@ -3237,12 +3237,12 @@
       "confederation": "AFC",
       "ranking_off": 189,
       "ranking_def": 173,
-      "ranking_change": -4,
-      "points_change": -104,
-      "ranking_off_change": -7,
-      "points_off_change": -56,
-      "ranking_def_change": -7,
-      "points_def_change": -78
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 181,
@@ -3257,7 +3257,7 @@
       "ranking_def": 181,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
@@ -3273,12 +3273,12 @@
       "confederation": "AFC",
       "ranking_off": 185,
       "ranking_def": 189,
-      "ranking_change": 5,
-      "points_change": 31,
+      "ranking_change": 0,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": 17,
-      "ranking_def_change": 4,
-      "points_def_change": 25
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 182,
@@ -3295,7 +3295,7 @@
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 2,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -3311,9 +3311,9 @@
       "ranking_def": 190,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -3327,12 +3327,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 188,
       "ranking_def": 184,
-      "ranking_change": 7,
-      "points_change": 65,
-      "ranking_off_change": 5,
-      "points_off_change": 47,
-      "ranking_def_change": 5,
-      "points_def_change": 43
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 186,
@@ -3346,11 +3346,11 @@
       "ranking_off": 190,
       "ranking_def": 187,
       "ranking_change": 0,
-      "points_change": -3,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": 5,
-      "ranking_def_change": -2,
-      "points_def_change": -10
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 187,
@@ -3363,12 +3363,12 @@
       "confederation": "AFC",
       "ranking_off": 196,
       "ranking_def": 176,
-      "ranking_change": 10,
-      "points_change": 111,
-      "ranking_off_change": 8,
-      "points_off_change": 75,
-      "ranking_def_change": 11,
-      "points_def_change": 64
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 188,
@@ -3381,12 +3381,12 @@
       "confederation": "AFC",
       "ranking_off": 176,
       "ranking_def": 204,
-      "ranking_change": 3,
-      "points_change": 48,
-      "ranking_off_change": 11,
-      "points_off_change": 76,
-      "ranking_def_change": -2,
-      "points_def_change": -17
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 189,
@@ -3399,12 +3399,12 @@
       "confederation": "AFC",
       "ranking_off": 200,
       "ranking_def": 174,
-      "ranking_change": -4,
-      "points_change": -24,
-      "ranking_off_change": -4,
-      "points_off_change": -26,
-      "ranking_def_change": 4,
-      "points_def_change": 9
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 190,
@@ -3417,12 +3417,12 @@
       "confederation": "OFC",
       "ranking_off": 193,
       "ranking_def": 196,
-      "ranking_change": -1,
-      "points_change": 3,
-      "ranking_off_change": 2,
-      "points_off_change": 8,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": -7
+      "points_def_change": 0
     },
     {
       "ranking": 191,
@@ -3435,12 +3435,12 @@
       "confederation": "CAF",
       "ranking_off": 165,
       "ranking_def": 197,
-      "ranking_change": 3,
-      "points_change": 45,
-      "ranking_off_change": 2,
-      "points_off_change": 18,
-      "ranking_def_change": 6,
-      "points_def_change": 49
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 192,
@@ -3453,12 +3453,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 183,
       "ranking_def": 192,
-      "ranking_change": -4,
-      "points_change": -23,
-      "ranking_off_change": 1,
-      "points_off_change": 18,
-      "ranking_def_change": -6,
-      "points_def_change": -36
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 192,
@@ -3471,12 +3471,12 @@
       "confederation": "OFC",
       "ranking_off": 187,
       "ranking_def": 195,
-      "ranking_change": -12,
-      "points_change": -90,
-      "ranking_off_change": 1,
-      "points_off_change": 30,
-      "ranking_def_change": -12,
-      "points_def_change": -81
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 194,
@@ -3489,12 +3489,12 @@
       "confederation": "AFC",
       "ranking_off": 180,
       "ranking_def": 203,
-      "ranking_change": -4,
-      "points_change": -39,
-      "ranking_off_change": -4,
-      "points_off_change": -20,
-      "ranking_def_change": -2,
-      "points_def_change": -35
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 195,
@@ -3508,11 +3508,11 @@
       "ranking_off": 207,
       "ranking_def": 183,
       "ranking_change": 0,
-      "points_change": 5,
-      "ranking_off_change": 1,
-      "points_off_change": 30,
-      "ranking_def_change": -6,
-      "points_def_change": -29
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 196,
@@ -3525,12 +3525,12 @@
       "confederation": "AFC",
       "ranking_off": 195,
       "ranking_def": 194,
-      "ranking_change": -3,
-      "points_change": -31,
-      "ranking_off_change": -6,
-      "points_off_change": -41,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": -12
+      "points_def_change": 0
     },
     {
       "ranking": 197,
@@ -3543,12 +3543,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 181,
       "ranking_def": 202,
-      "ranking_change": 2,
-      "points_change": 23,
-      "ranking_off_change": 5,
-      "points_off_change": 30,
-      "ranking_def_change": -3,
-      "points_def_change": -17
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 198,
@@ -3561,12 +3561,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 179,
       "ranking_def": 201,
-      "ranking_change": -3,
-      "points_change": -18,
-      "ranking_off_change": 1,
-      "points_off_change": -2,
-      "ranking_def_change": -4,
-      "points_def_change": -30
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 199,
@@ -3579,7 +3579,7 @@
       "confederation": "CONCACAF",
       "ranking_off": 203,
       "ranking_def": 188,
-      "ranking_change": -1,
+      "ranking_change": 0,
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
@@ -3598,11 +3598,11 @@
       "ranking_off": 192,
       "ranking_def": 200,
       "ranking_change": 0,
-      "points_change": 33,
-      "ranking_off_change": 2,
-      "points_off_change": 3,
-      "ranking_def_change": 4,
-      "points_def_change": 35
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 201,
@@ -3616,11 +3616,11 @@
       "ranking_off": 194,
       "ranking_def": 186,
       "ranking_change": 0,
-      "points_change": 8,
-      "ranking_off_change": -3,
-      "points_off_change": -28,
-      "ranking_def_change": 4,
-      "points_def_change": 41
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 202,
@@ -3634,11 +3634,11 @@
       "ranking_off": 201,
       "ranking_def": 199,
       "ranking_change": 0,
-      "points_change": -6,
-      "ranking_off_change": -4,
-      "points_off_change": -26,
-      "ranking_def_change": -1,
-      "points_def_change": -17
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 203,
@@ -3652,11 +3652,11 @@
       "ranking_off": 209,
       "ranking_def": 193,
       "ranking_change": 0,
-      "points_change": -7,
+      "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": -1,
-      "points_def_change": -12
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 204,
@@ -3670,11 +3670,11 @@
       "ranking_off": 204,
       "ranking_def": 206,
       "ranking_change": 0,
-      "points_change": 24,
-      "ranking_off_change": -2,
-      "points_off_change": -10,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": 26
+      "points_def_change": 0
     },
     {
       "ranking": 205,
@@ -3687,12 +3687,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 202,
       "ranking_def": 198,
-      "ranking_change": 1,
-      "points_change": 50,
-      "ranking_off_change": 3,
-      "points_off_change": 35,
-      "ranking_def_change": 2,
-      "points_def_change": 14
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 206,
@@ -3705,12 +3705,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 208,
       "ranking_def": 205,
-      "ranking_change": -1,
-      "points_change": -19,
-      "ranking_off_change": -1,
-      "points_off_change": -25,
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": 8
+      "points_def_change": 0
     },
     {
       "ranking": 207,
@@ -3724,11 +3724,11 @@
       "ranking_off": 197,
       "ranking_def": 207,
       "ranking_change": 0,
-      "points_change": 61,
-      "ranking_off_change": 2,
-      "points_off_change": 45,
-      "ranking_def_change": 2,
-      "points_def_change": 51
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 208,
@@ -3742,11 +3742,11 @@
       "ranking_off": 210,
       "ranking_def": 211,
       "ranking_change": 0,
-      "points_change": -47,
-      "ranking_off_change": 2,
-      "points_off_change": 37,
-      "ranking_def_change": -1,
-      "points_def_change": -62
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 209,
@@ -3760,11 +3760,11 @@
       "ranking_off": 206,
       "ranking_def": 214,
       "ranking_change": 0,
-      "points_change": -7,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": 14,
-      "ranking_def_change": -1,
-      "points_def_change": -23
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 210,
@@ -3778,11 +3778,11 @@
       "ranking_off": 213,
       "ranking_def": 209,
       "ranking_change": 0,
-      "points_change": -25,
-      "ranking_off_change": 1,
-      "points_off_change": 18,
-      "ranking_def_change": -2,
-      "points_def_change": -57
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 211,
@@ -3795,12 +3795,12 @@
       "confederation": "AFC",
       "ranking_off": 212,
       "ranking_def": 212,
-      "ranking_change": -1,
-      "points_change": -61,
-      "ranking_off_change": -2,
-      "points_off_change": -53,
-      "ranking_def_change": -1,
-      "points_def_change": -25
+      "ranking_change": 0,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 212,
@@ -3814,11 +3814,11 @@
       "ranking_off": 211,
       "ranking_def": 208,
       "ranking_change": 0,
-      "points_change": -11,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": 17,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": -12
+      "points_def_change": 0
     },
     {
       "ranking": 213,
@@ -3832,11 +3832,11 @@
       "ranking_off": 205,
       "ranking_def": 215,
       "ranking_change": 0,
-      "points_change": -14,
-      "ranking_off_change": -5,
-      "points_off_change": -40,
+      "points_change": 0,
+      "ranking_off_change": 0,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": 11
+      "points_def_change": 0
     },
     {
       "ranking": 214,
@@ -3850,11 +3850,11 @@
       "ranking_off": 215,
       "ranking_def": 210,
       "ranking_change": 0,
-      "points_change": 9,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": -27,
-      "ranking_def_change": 2,
-      "points_def_change": 15
+      "points_off_change": 0,
+      "ranking_def_change": 0,
+      "points_def_change": 0
     },
     {
       "ranking": 215,
@@ -3869,9 +3869,9 @@
       "ranking_def": 213,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": -1,
+      "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -3976,11 +3976,11 @@
       "ranking_off": 221,
       "ranking_def": 221,
       "ranking_change": 0,
-      "points_change": 14,
+      "points_change": 0,
       "ranking_off_change": 0,
-      "points_off_change": 28,
+      "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": 10
+      "points_def_change": 0
     },
     {
       "ranking": 222,
