@@ -1,18 +1,18 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1011,
+    "matches_played": 1012,
     "wins": 444,
-    "draws": 250,
+    "draws": 251,
     "losses": 317,
-    "goals_for": 1592,
-    "goals_against": 1232,
+    "goals_for": 1593,
+    "goals_against": 1233,
     "goal_difference": 360,
     "win_percentage": 43.9,
     "avg_points": 1.56,
     "best_rank": 1,
     "worst_rank": 39,
-    "avg_rank": 13.49,
+    "avg_rank": 13.5,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Bolivia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 332,
     "away_matches": 428,
-    "neutral_matches": 251,
+    "neutral_matches": 252,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-06-15"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5384,
+      "rating1": 5362,
       "rating2": 5641,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 24.5,
+      "rank": 19,
+      "win_prob": 22.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 5384,
+      "rating1": 5362,
       "rating2": 5056,
       "rating_ev": 0,
-      "rank": 17,
-      "win_prob": 80.6,
+      "rank": 19,
+      "win_prob": 79.1,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Saudi Arabia",
       "flag1": "uruguay.png",
       "flag2": "saudi_arabia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5384,
-      "rating2": 5007,
-      "rating_ev": 0,
-      "rank": 17,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5362,
+      "rating2": 5029,
+      "rating_ev": -22,
+      "rank": 19,
       "win_prob": 83.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-03-31",
