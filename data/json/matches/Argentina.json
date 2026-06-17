@@ -1,14 +1,14 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1107,
-    "wins": 609,
+    "matches_played": 1108,
+    "wins": 610,
     "draws": 268,
     "losses": 230,
-    "goals_for": 2101,
+    "goals_for": 2104,
     "goals_against": 1129,
-    "goal_difference": 972,
-    "win_percentage": 55.0,
+    "goal_difference": 975,
+    "win_percentage": 55.1,
     "avg_points": 1.89,
     "best_rank": 1,
     "worst_rank": 27,
@@ -27,9 +27,9 @@
     },
     "home_matches": 381,
     "away_matches": 416,
-    "neutral_matches": 310,
+    "neutral_matches": 311,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-06-09"
+    "last_match_date": "2026-06-16"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5600,
-      "rating2": 5115,
+      "rating1": 5622,
+      "rating2": 5102,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 88.9,
+      "rank": 2,
+      "win_prob": 90.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5600,
-      "rating2": 5366,
+      "rating1": 5622,
+      "rating2": 5379,
       "rating_ev": 0,
-      "rank": 3,
-      "win_prob": 73.6,
+      "rank": 2,
+      "win_prob": 74.3,
       "type": "fixture"
     },
     {
@@ -80,14 +80,14 @@
       "original_team2": "Algeria",
       "flag1": "argentina.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5600,
-      "rating2": 5282,
-      "rating_ev": 0,
-      "rank": 3,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5622,
+      "rating2": 5260,
+      "rating_ev": 22,
+      "rank": 2,
       "win_prob": 80.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-09",

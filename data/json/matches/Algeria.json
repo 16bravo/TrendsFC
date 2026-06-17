@@ -1,18 +1,18 @@
 {
   "team": "Algeria",
   "stats": {
-    "matches_played": 681,
+    "matches_played": 682,
     "wins": 313,
     "draws": 178,
-    "losses": 190,
+    "losses": 191,
     "goals_for": 1055,
-    "goals_against": 687,
-    "goal_difference": 368,
-    "win_percentage": 46.0,
+    "goals_against": 690,
+    "goal_difference": 365,
+    "win_percentage": 45.9,
     "avg_points": 1.64,
     "best_rank": 16,
     "worst_rank": 106,
-    "avg_rank": 53.23,
+    "avg_rank": 53.2,
     "biggest_win": {
       "score": "15-1",
       "opponent": "South Yemen",
@@ -27,9 +27,9 @@
     },
     "home_matches": 254,
     "away_matches": 230,
-    "neutral_matches": 197,
+    "neutral_matches": 198,
     "first_match_date": "1958-05-03",
-    "last_match_date": "2026-06-10"
+    "last_match_date": "2026-06-16"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "burundi.png",
       "score1": "",
       "score2": "",
-      "rating1": 5282,
+      "rating1": 5260,
       "rating2": 4819,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 91.9,
+      "rank": 31,
+      "win_prob": 91.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5282,
+      "rating1": 5260,
       "rating2": 4832,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 81.7,
+      "rank": 31,
+      "win_prob": 80.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "togo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5282,
+      "rating1": 5260,
       "rating2": 4848,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 91.0,
+      "rank": 31,
+      "win_prob": 90.2,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "togo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5282,
+      "rating1": 5260,
       "rating2": 4848,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 80.7,
+      "rank": 31,
+      "win_prob": 79.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "burundi.png",
       "score1": "",
       "score2": "",
-      "rating1": 5282,
+      "rating1": 5260,
       "rating2": 4819,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 82.5,
+      "rank": 31,
+      "win_prob": 81.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "zambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5282,
+      "rating1": 5260,
       "rating2": 4832,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 91.5,
+      "rank": 31,
+      "win_prob": 90.8,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "austria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5282,
-      "rating2": 5366,
+      "rating1": 5260,
+      "rating2": 5379,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 40.9,
+      "rank": 31,
+      "win_prob": 37.2,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5282,
-      "rating2": 5115,
+      "rating1": 5260,
+      "rating2": 5102,
       "rating_ev": 0,
-      "rank": 30,
-      "win_prob": 67.6,
+      "rank": 31,
+      "win_prob": 66.7,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Argentina",
       "flag1": "algeria.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5282,
-      "rating2": 5600,
-      "rating_ev": 0,
-      "rank": 30,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 5260,
+      "rating2": 5622,
+      "rating_ev": -22,
+      "rank": 31,
       "win_prob": 20.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-10",
