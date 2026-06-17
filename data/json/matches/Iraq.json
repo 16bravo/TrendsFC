@@ -1,18 +1,18 @@
 {
   "team": "Iraq",
   "stats": {
-    "matches_played": 756,
+    "matches_played": 757,
     "wins": 357,
     "draws": 212,
-    "losses": 187,
-    "goals_for": 1194,
-    "goals_against": 702,
-    "goal_difference": 492,
+    "losses": 188,
+    "goals_for": 1195,
+    "goals_against": 706,
+    "goal_difference": 489,
     "win_percentage": 47.2,
-    "avg_points": 1.7,
+    "avg_points": 1.69,
     "best_rank": 34,
     "worst_rank": 101,
-    "avg_rank": 62.9,
+    "avg_rank": 62.91,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Ethiopia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 138,
     "away_matches": 231,
-    "neutral_matches": 387,
+    "neutral_matches": 388,
     "first_match_date": "1944-03-05",
-    "last_match_date": "2026-06-09"
+    "last_match_date": "2026-06-16"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "singapore.png",
       "score1": "",
       "score2": "",
-      "rating1": 4991,
+      "rating1": 4981,
       "rating2": 4406,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 92.3,
+      "win_prob": 92.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4991,
+      "rating1": 4981,
       "rating2": 5294,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 21.1,
+      "win_prob": 20.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4991,
+      "rating1": 4981,
       "rating2": 4636,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 82.4,
+      "win_prob": 81.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "saudi_arabia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4991,
+      "rating1": 4981,
       "rating2": 5029,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 35.3,
+      "win_prob": 34.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 4991,
+      "rating1": 4981,
       "rating2": 4740,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 75.0,
+      "win_prob": 74.2,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 4991,
+      "rating1": 4981,
       "rating2": 4846,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 65.4,
+      "win_prob": 64.4,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "senegal.png",
       "score1": "",
       "score2": "",
-      "rating1": 4991,
-      "rating2": 5318,
+      "rating1": 4981,
+      "rating2": 5304,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 19.4,
+      "win_prob": 19.7,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 4991,
-      "rating2": 5546,
+      "rating1": 4981,
+      "rating2": 5560,
       "rating_ev": 0,
       "rank": 76,
-      "win_prob": 8.6,
+      "win_prob": 7.9,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Norway",
       "flag1": "iraq.png",
       "flag2": "norway.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4991,
-      "rating2": 5530,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 4981,
+      "rating2": 5540,
+      "rating_ev": -10,
       "rank": 76,
       "win_prob": 9.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-09",
