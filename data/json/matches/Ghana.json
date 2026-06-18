@@ -1,18 +1,18 @@
 {
   "team": "Ghana",
   "stats": {
-    "matches_played": 760,
-    "wins": 363,
+    "matches_played": 761,
+    "wins": 364,
     "draws": 189,
     "losses": 208,
-    "goals_for": 1211,
+    "goals_for": 1212,
     "goals_against": 793,
-    "goal_difference": 418,
+    "goal_difference": 419,
     "win_percentage": 47.8,
     "avg_points": 1.68,
     "best_rank": 14,
     "worst_rank": 89,
-    "avg_rank": 49.81,
+    "avg_rank": 49.83,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Nyasaland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 234,
     "away_matches": 284,
-    "neutral_matches": 242,
+    "neutral_matches": 243,
     "first_match_date": "1950-05-28",
-    "last_match_date": "2026-06-02"
+    "last_match_date": "2026-06-17"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5068,
       "rating2": 4941,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 51.2,
+      "rank": 65,
+      "win_prob": 53.0,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5068,
       "rating2": 5219,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 42.7,
+      "rank": 65,
+      "win_prob": 44.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5068,
       "rating2": 4512,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 93.9,
+      "rank": 65,
+      "win_prob": 94.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5068,
       "rating2": 4512,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 86.6,
+      "rank": 65,
+      "win_prob": 87.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5068,
       "rating2": 4941,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 71.6,
+      "rank": 65,
+      "win_prob": 73.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5068,
       "rating2": 5219,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 23.7,
+      "rank": 65,
+      "win_prob": 24.9,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5068,
       "rating2": 5385,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 19.0,
+      "rank": 65,
+      "win_prob": 20.1,
       "type": "fixture"
     },
     {
@@ -177,11 +177,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5052,
+      "rating1": 5068,
       "rating2": 5577,
       "rating_ev": 0,
-      "rank": 67,
-      "win_prob": 9.6,
+      "rank": 65,
+      "win_prob": 10.2,
       "type": "fixture"
     },
     {
@@ -194,14 +194,14 @@
       "original_team2": "Panama",
       "flag1": "ghana.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5052,
-      "rating2": 5094,
-      "rating_ev": 0,
-      "rank": 67,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5068,
+      "rating2": 5078,
+      "rating_ev": 16,
+      "rank": 65,
       "win_prob": 45.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-02",
