@@ -1,14 +1,14 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1028,
-    "wins": 533,
+    "matches_played": 1029,
+    "wins": 534,
     "draws": 237,
     "losses": 258,
-    "goals_for": 1826,
+    "goals_for": 1827,
     "goals_against": 1054,
-    "goal_difference": 772,
-    "win_percentage": 51.8,
+    "goal_difference": 773,
+    "win_percentage": 51.9,
     "avg_points": 1.79,
     "best_rank": 2,
     "worst_rank": 41,
@@ -25,11 +25,11 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 299,
+    "home_matches": 300,
     "away_matches": 271,
     "neutral_matches": 458,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2026-06-11"
+    "last_match_date": "2026-06-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5335,
+      "rating1": 5336,
       "rating2": 5197,
       "rating_ev": 0,
       "rank": 21,
-      "win_prob": 74.0,
+      "win_prob": 74.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "South Korea",
       "flag1": "mexico.png",
       "flag2": "south_korea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5335,
-      "rating2": 5205,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5336,
+      "rating2": 5204,
+      "rating_ev": 1,
       "rank": 21,
       "win_prob": 73.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-11",

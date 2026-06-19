@@ -1,14 +1,14 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1053,
+    "matches_played": 1054,
     "wins": 577,
     "draws": 257,
-    "losses": 219,
+    "losses": 220,
     "goals_for": 1917,
-    "goals_against": 959,
-    "goal_difference": 958,
-    "win_percentage": 54.8,
+    "goals_against": 960,
+    "goal_difference": 957,
+    "win_percentage": 54.7,
     "avg_points": 1.89,
     "best_rank": 19,
     "worst_rank": 100,
@@ -26,10 +26,10 @@
       "flag": "sweden.png"
     },
     "home_matches": 353,
-    "away_matches": 250,
+    "away_matches": 251,
     "neutral_matches": 450,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2026-06-11"
+    "last_match_date": "2026-06-18"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5205,
+      "rating1": 5204,
       "rating2": 4956,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 74.8,
+      "rank": 40,
+      "win_prob": 74.7,
       "type": "fixture"
     },
     {
@@ -63,10 +63,10 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 5205,
+      "rating1": 5204,
       "rating2": 4664,
       "rating_ev": 0,
-      "rank": 39,
+      "rank": 40,
       "win_prob": 90.9,
       "type": "fixture"
     },
@@ -82,10 +82,10 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 5205,
+      "rating1": 5204,
       "rating2": 4615,
       "rating_ev": 0,
-      "rank": 39,
+      "rank": 40,
       "win_prob": 92.4,
       "type": "fixture"
     },
@@ -101,11 +101,11 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 5205,
+      "rating1": 5204,
       "rating2": 4992,
       "rating_ev": 0,
-      "rank": 39,
-      "win_prob": 71.8,
+      "rank": 40,
+      "win_prob": 71.7,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Mexico",
       "flag1": "south_korea.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5205,
-      "rating2": 5335,
-      "rating_ev": 0,
-      "rank": 39,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5204,
+      "rating2": 5336,
+      "rating_ev": -1,
+      "rank": 40,
       "win_prob": 26.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-11",
