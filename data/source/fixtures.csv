@@ -1,5 +1,4 @@
 date,home_team,away_team,tournament,country,neutral
-2026-06-18,Mexico,South Korea,World Cup,Mexico,False
 2026-06-19,Brazil,Haiti,World Cup,United States,True
 2026-06-19,Morocco,Scotland,World Cup,United States,True
 2026-06-19,Paraguay,Turkey,World Cup,United States,True
@@ -102,13 +101,13 @@ date,home_team,away_team,tournament,country,neutral
 2026-09-24,Bahrain,Qatar,Gulf Cup,Saudi Arabia,True
 2026-09-24,United Arab Emirates,Yemen,Gulf Cup,Saudi Arabia,True
 2026-09-25,Sweden,Romania,European League B,Sweden,False
-2026-09-25,Montenegro,Cyprus,European League C,Montenegro,False
-2026-09-25,Poland,Bosnia and Herzegovinaovina,European League B,Poland,False
 2026-09-25,Armenia,Latvia,European League C,Armenia,False
+2026-09-25,Poland,Bosnia and Herzegovinaovina,European League B,Poland,False
+2026-09-25,Montenegro,Cyprus,European League C,Montenegro,False
 2026-09-25,Georgia,Northern Ireland,European League B,Georgia,False
 2026-09-25,Turkey,France,European League A,Turkey,False
-2026-09-25,Hungary,Ukraine,European League B,Hungary,False
 2026-09-25,Italy,Belgium,European League A,Italy,False
+2026-09-25,Hungary,Ukraine,European League B,Hungary,False
 2026-09-26,Saudi Arabia,Oman,Gulf Cup,Saudi Arabia,False
 2026-09-26,Iraq,Kuwait,Gulf Cup,Saudi Arabia,True
 2026-09-26,Slovakia,Moldova,European League C,Slovakia,False
@@ -217,9 +216,9 @@ date,home_team,away_team,tournament,country,neutral
 2026-10-19,Lesotho,Morocco,African Cup qualifier,Lesotho,False
 2026-10-19,Guinea,Kenya,African Cup qualifier,Guinea,False
 2026-10-19,Ghana,Gambia,African Cup qualifier,Ghana,False
-2026-10-19,Angola,Malawi,African Cup qualifier,Angola,False
-2026-10-19,Ethiopia,Senegal,African Cup qualifier,Ethiopia,False
 2026-10-19,Benin,Mauritania,African Cup qualifier,Benin,False
+2026-10-19,Ethiopia,Senegal,African Cup qualifier,Ethiopia,False
+2026-10-19,Angola,Malawi,African Cup qualifier,Angola,False
 2026-10-19,Burundi,Algeria,African Cup qualifier,Burundi,False
 2026-10-19,Cape Verde,Rwanda,African Cup qualifier,Cape Verde,False
 2026-10-19,Central African Republic,Burkina Faso,African Cup qualifier,Central African Republic,False
