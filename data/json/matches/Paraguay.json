@@ -1,14 +1,14 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 791,
-    "wins": 278,
+    "matches_played": 792,
+    "wins": 279,
     "draws": 209,
     "losses": 304,
-    "goals_for": 1008,
+    "goals_for": 1009,
     "goals_against": 1119,
-    "goal_difference": -111,
-    "win_percentage": 35.1,
+    "goal_difference": -110,
+    "win_percentage": 35.2,
     "avg_points": 1.32,
     "best_rank": 6,
     "worst_rank": 47,
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 367,
-    "neutral_matches": 209,
+    "neutral_matches": 210,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2026-06-12"
+    "last_match_date": "2026-06-19"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5287,
+      "rating1": 5305,
       "rating2": 5270,
       "rating_ev": 0,
-      "rank": 29,
-      "win_prob": 51.9,
+      "rank": 24,
+      "win_prob": 53.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Turkey",
       "flag1": "paraguay.png",
       "flag2": "turkey.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5287,
-      "rating2": 5361,
-      "rating_ev": 0,
-      "rank": 29,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5305,
+      "rating2": 5343,
+      "rating_ev": 18,
+      "rank": 24,
       "win_prob": 41.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-12",

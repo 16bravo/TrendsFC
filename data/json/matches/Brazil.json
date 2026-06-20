@@ -1,14 +1,14 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1069,
-    "wins": 674,
+    "matches_played": 1070,
+    "wins": 675,
     "draws": 223,
     "losses": 172,
-    "goals_for": 2305,
+    "goals_for": 2308,
     "goals_against": 958,
-    "goal_difference": 1347,
-    "win_percentage": 63.0,
+    "goal_difference": 1350,
+    "win_percentage": 63.1,
     "avg_points": 2.1,
     "best_rank": 1,
     "worst_rank": 14,
@@ -27,9 +27,9 @@
     },
     "home_matches": 374,
     "away_matches": 346,
-    "neutral_matches": 349,
+    "neutral_matches": 350,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2026-06-13"
+    "last_match_date": "2026-06-19"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5500,
+      "rating1": 5513,
       "rating2": 5289,
       "rating_ev": 0,
-      "rank": 10,
-      "win_prob": 71.6,
+      "rank": 8,
+      "win_prob": 72.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Haiti",
       "flag1": "brazil.png",
       "flag2": "haiti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5500,
-      "rating2": 5015,
-      "rating_ev": 0,
-      "rank": 10,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5513,
+      "rating2": 5002,
+      "rating_ev": 13,
+      "rank": 8,
       "win_prob": 88.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-13",
