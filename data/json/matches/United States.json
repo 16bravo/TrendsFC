@@ -1,18 +1,18 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 824,
-    "wins": 367,
+    "matches_played": 825,
+    "wins": 368,
     "draws": 171,
     "losses": 286,
-    "goals_for": 1251,
+    "goals_for": 1253,
     "goals_against": 1075,
-    "goal_difference": 176,
-    "win_percentage": 44.5,
-    "avg_points": 1.54,
+    "goal_difference": 178,
+    "win_percentage": 44.6,
+    "avg_points": 1.55,
     "best_rank": 12,
     "worst_rank": 94,
-    "avg_rank": 37.98,
+    "avg_rank": 37.97,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Barbados",
@@ -25,11 +25,11 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 488,
+    "home_matches": 489,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2026-06-12"
+    "last_match_date": "2026-06-19"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5266,
+      "rating1": 5290,
       "rating2": 5361,
       "rating_ev": 0,
-      "rank": 31,
-      "win_prob": 50.5,
+      "rank": 27,
+      "win_prob": 53.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Australia",
       "flag1": "usa.png",
       "flag2": "australia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5266,
-      "rating2": 5294,
-      "rating_ev": 0,
-      "rank": 31,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5290,
+      "rating2": 5270,
+      "rating_ev": 24,
+      "rank": 28,
       "win_prob": 57.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-12",

@@ -1,18 +1,18 @@
 {
   "team": "Scotland",
   "stats": {
-    "matches_played": 868,
+    "matches_played": 869,
     "wins": 413,
     "draws": 187,
-    "losses": 268,
+    "losses": 269,
     "goals_for": 1491,
-    "goals_against": 1068,
-    "goal_difference": 423,
-    "win_percentage": 47.6,
+    "goals_against": 1069,
+    "goal_difference": 422,
+    "win_percentage": 47.5,
     "avg_points": 1.64,
     "best_rank": 1,
     "worst_rank": 62,
-    "avg_rank": 19.17,
+    "avg_rank": 19.18,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Ireland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 403,
     "away_matches": 412,
-    "neutral_matches": 53,
+    "neutral_matches": 54,
     "first_match_date": "1872-11-30",
-    "last_match_date": "2026-06-13"
+    "last_match_date": "2026-06-19"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5289,
       "rating2": 5429,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 27.0,
+      "rank": 28,
+      "win_prob": 25.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5289,
       "rating2": 5014,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 84.5,
+      "rank": 28,
+      "win_prob": 83.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5289,
       "rating2": 5170,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 73.5,
+      "rank": 28,
+      "win_prob": 72.4,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "macedonia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5289,
       "rating2": 5014,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 69.4,
+      "rank": 28,
+      "win_prob": 68.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5289,
       "rating2": 5429,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 47.0,
+      "rank": 28,
+      "win_prob": 45.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "slovenia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5289,
       "rating2": 5170,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 53.5,
+      "rank": 28,
+      "win_prob": 52.1,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "brazil.png",
       "score1": "",
       "score2": "",
-      "rating1": 5302,
+      "rating1": 5289,
       "rating2": 5500,
       "rating_ev": 0,
-      "rank": 25,
-      "win_prob": 29.6,
+      "rank": 28,
+      "win_prob": 28.4,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Morocco",
       "flag1": "scotland.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5302,
-      "rating2": 5325,
-      "rating_ev": 0,
-      "rank": 25,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5289,
+      "rating2": 5338,
+      "rating_ev": -13,
+      "rank": 28,
       "win_prob": 47.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-13",
