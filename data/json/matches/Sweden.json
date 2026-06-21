@@ -1,18 +1,18 @@
 {
   "team": "Sweden",
   "stats": {
-    "matches_played": 1123,
+    "matches_played": 1124,
     "wins": 552,
     "draws": 236,
-    "losses": 335,
-    "goals_for": 2238,
-    "goals_against": 1484,
-    "goal_difference": 754,
-    "win_percentage": 49.2,
+    "losses": 336,
+    "goals_for": 2239,
+    "goals_against": 1489,
+    "goal_difference": 750,
+    "win_percentage": 49.1,
     "avg_points": 1.68,
     "best_rank": 3,
     "worst_rank": 37,
-    "avg_rank": 16.81,
+    "avg_rank": 16.83,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Latvia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 489,
     "away_matches": 502,
-    "neutral_matches": 132,
+    "neutral_matches": 133,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2026-06-14"
+    "last_match_date": "2026-06-20"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5292,
+      "rating1": 5252,
       "rating2": 5204,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 48.7,
+      "rank": 32,
+      "win_prob": 44.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5292,
+      "rating1": 5252,
       "rating2": 5158,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 53.8,
+      "rank": 32,
+      "win_prob": 49.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5292,
+      "rating1": 5252,
       "rating2": 5204,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 69.5,
+      "rank": 32,
+      "win_prob": 65.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5292,
+      "rating1": 5252,
       "rating2": 5158,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 73.6,
+      "rank": 32,
+      "win_prob": 70.1,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5292,
+      "rating1": 5252,
       "rating2": 5442,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 34.1,
+      "rank": 32,
+      "win_prob": 30.3,
       "type": "fixture"
     },
     {
@@ -137,14 +137,14 @@
       "original_team2": "Netherlands",
       "flag1": "sweden.png",
       "flag2": "netherlands.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5292,
-      "rating2": 5510,
-      "rating_ev": 0,
-      "rank": 27,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 5252,
+      "rating2": 5550,
+      "rating_ev": -40,
+      "rank": 32,
       "win_prob": 27.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-14",
