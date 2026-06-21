@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 601,
+    "matches_played": 602,
     "wins": 185,
-    "draws": 161,
+    "draws": 162,
     "losses": 255,
     "goals_for": 724,
     "goals_against": 905,
     "goal_difference": -181,
-    "win_percentage": 30.8,
+    "win_percentage": 30.7,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.74,
+    "avg_rank": 34.71,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -27,9 +27,9 @@
     },
     "home_matches": 183,
     "away_matches": 211,
-    "neutral_matches": 207,
+    "neutral_matches": 208,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2026-06-14"
+    "last_match_date": "2026-06-20"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "germany.png",
       "score1": "",
       "score2": "",
-      "rating1": 5393,
+      "rating1": 5357,
       "rating2": 5599,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 28.8,
+      "rank": 19,
+      "win_prob": 25.8,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cura\u00e7ao",
       "flag1": "ecuador.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5393,
-      "rating2": 4772,
-      "rating_ev": 0,
-      "rank": 15,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5357,
+      "rating2": 4808,
+      "rating_ev": -36,
+      "rank": 19,
       "win_prob": 93.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-14",
