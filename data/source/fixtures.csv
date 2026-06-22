@@ -1,45 +1,44 @@
 date,home_team,away_team,tournament,country,neutral
 2026-06-22,Algeria,Jordan,World Cup,United States,True
-2026-06-22,Argentina,Austria,World Cup,United States,True
 2026-06-22,France,Iraq,World Cup,United States,True
 2026-06-22,Norway,Senegal,World Cup,United States,True
 2026-06-23,Colombia,DR Congo,World Cup,Mexico,True
 2026-06-23,Croatia,Panama,World Cup,Canada,True
 2026-06-23,England,Ghana,World Cup,United States,True
 2026-06-23,Portugal,Uzbekistan,World Cup,United States,True
-2026-06-24,South Africa,South Korea,World Cup,Mexico,True
-2026-06-24,Mexico,Czechia,World Cup,Mexico,False
-2026-06-24,Haiti,Morocco,World Cup,United States,True
-2026-06-24,Canada,Switzerland,World Cup,Canada,False
-2026-06-24,Brazil,Scotland,World Cup,United States,True
 2026-06-24,Bosnia and Herzegovinaovina,Qatar,World Cup,United States,True
+2026-06-24,Brazil,Scotland,World Cup,United States,True
+2026-06-24,Canada,Switzerland,World Cup,Canada,False
+2026-06-24,Haiti,Morocco,World Cup,United States,True
+2026-06-24,Mexico,Czechia,World Cup,Mexico,False
+2026-06-24,South Africa,South Korea,World Cup,Mexico,True
+2026-06-25,United States,Turkey,World Cup,United States,False
+2026-06-25,Netherlands,Tunisia,World Cup,United States,True
+2026-06-25,Japan,Sweden,World Cup,United States,True
 2026-06-25,Australia,Paraguay,World Cup,United States,True
 2026-06-25,Curaçao,Ivory Coast,World Cup,United States,True
 2026-06-25,Ecuador,Germany,World Cup,United States,True
-2026-06-25,Japan,Sweden,World Cup,United States,True
-2026-06-25,Netherlands,Tunisia,World Cup,United States,True
-2026-06-25,United States,Turkey,World Cup,United States,False
-2026-06-26,Iraq,Senegal,World Cup,Canada,True
-2026-06-26,France,Norway,World Cup,United States,True
-2026-06-26,Spain,Uruguay,World Cup,Mexico,True
-2026-06-26,Cape Verde,Saudi Arabia,World Cup,United States,True
 2026-06-26,Belgium,New Zealand,World Cup,Canada,True
+2026-06-26,Cape Verde,Saudi Arabia,World Cup,United States,True
 2026-06-26,Egypt,Iran,World Cup,United States,True
+2026-06-26,France,Norway,World Cup,United States,True
+2026-06-26,Iraq,Senegal,World Cup,Canada,True
+2026-06-26,Spain,Uruguay,World Cup,Mexico,True
+2026-06-27,DR Congo,Uzbekistan,World Cup,United States,True
+2026-06-27,England,Panama,World Cup,United States,True
+2026-06-27,Croatia,Ghana,World Cup,United States,True
 2026-06-27,Algeria,Austria,World Cup,United States,True
 2026-06-27,Argentina,Jordan,World Cup,United States,True
 2026-06-27,Colombia,Portugal,World Cup,United States,True
-2026-06-27,Croatia,Ghana,World Cup,United States,True
-2026-06-27,DR Congo,Uzbekistan,World Cup,United States,True
-2026-06-27,England,Panama,World Cup,United States,True
 2026-07-18,Vietnam,Myanmar,Friendly,Vietnam,False
 2026-07-24,Cambodia,Singapore,SE Asian Champ,Cambodia,False
 2026-07-24,East Timor,Vietnam,SE Asian Champ,,True
 2026-07-25,Laos,Thailand,SE Asian Champ,Laos,False
 2026-07-25,Myanmar,Malaysia,SE Asian Champ,Myanmar,False
-2026-07-27,Singapore,East Timor,SE Asian Champ,Singapore,False
 2026-07-27,Indonesia,Cambodia,SE Asian Champ,Indonesia,False
-2026-07-28,Malaysia,Laos,SE Asian Champ,Malaysia,False
+2026-07-27,Singapore,East Timor,SE Asian Champ,Singapore,False
 2026-07-28,Philippines,Myanmar,SE Asian Champ,Philippines,False
+2026-07-28,Malaysia,Laos,SE Asian Champ,Malaysia,False
 2026-07-31,East Timor,Indonesia,SE Asian Champ,,True
 2026-07-31,Vietnam,Singapore,SE Asian Champ,Vietnam,False
 2026-08-01,Laos,Philippines,SE Asian Champ,Laos,False
@@ -48,8 +47,8 @@ date,home_team,away_team,tournament,country,neutral
 2026-08-03,Indonesia,Vietnam,SE Asian Champ,Indonesia,False
 2026-08-04,Myanmar,Laos,SE Asian Champ,Myanmar,False
 2026-08-04,Philippines,Thailand,SE Asian Champ,Philippines,False
-2026-08-07,Singapore,Indonesia,SE Asian Champ,Singapore,False
 2026-08-07,Vietnam,Cambodia,SE Asian Champ,Vietnam,False
+2026-08-07,Singapore,Indonesia,SE Asian Champ,Singapore,False
 2026-08-08,Thailand,Myanmar,SE Asian Champ,Thailand,False
 2026-08-08,Malaysia,Philippines,SE Asian Champ,Malaysia,False
 2026-09-22,Algeria,Zambia,African Cup qualifier,Algeria,False
