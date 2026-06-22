@@ -1,14 +1,14 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1012,
+    "matches_played": 1013,
     "wins": 444,
-    "draws": 251,
+    "draws": 252,
     "losses": 317,
-    "goals_for": 1593,
-    "goals_against": 1233,
+    "goals_for": 1595,
+    "goals_against": 1235,
     "goal_difference": 360,
-    "win_percentage": 43.9,
+    "win_percentage": 43.8,
     "avg_points": 1.56,
     "best_rank": 1,
     "worst_rank": 39,
@@ -27,9 +27,9 @@
     },
     "home_matches": 332,
     "away_matches": 428,
-    "neutral_matches": 252,
+    "neutral_matches": 253,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-06-15"
+    "last_match_date": "2026-06-21"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5362,
-      "rating2": 5641,
+      "rating1": 5344,
+      "rating2": 5659,
       "rating_ev": 0,
-      "rank": 18,
-      "win_prob": 22.8,
+      "rank": 19,
+      "win_prob": 20.2,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Cape Verde",
       "flag1": "uruguay.png",
       "flag2": "cape_verde.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5362,
-      "rating2": 5056,
-      "rating_ev": 0,
-      "rank": 18,
+      "score1": 2,
+      "score2": 2,
+      "rating1": 5344,
+      "rating2": 5074,
+      "rating_ev": -18,
+      "rank": 19,
       "win_prob": 79.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-15",

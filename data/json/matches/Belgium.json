@@ -1,18 +1,18 @@
 {
   "team": "Belgium",
   "stats": {
-    "matches_played": 879,
+    "matches_played": 880,
     "wins": 392,
-    "draws": 185,
+    "draws": 186,
     "losses": 302,
     "goals_for": 1607,
     "goals_against": 1360,
     "goal_difference": 247,
-    "win_percentage": 44.6,
+    "win_percentage": 44.5,
     "avg_points": 1.55,
     "best_rank": 1,
     "worst_rank": 73,
-    "avg_rank": 20.09,
+    "avg_rank": 20.08,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Zambia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 416,
     "away_matches": 376,
-    "neutral_matches": 87,
+    "neutral_matches": 88,
     "first_match_date": "1904-05-01",
-    "last_match_date": "2026-06-15"
+    "last_match_date": "2026-06-21"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
+      "rating1": 5460,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 69.7,
+      "rank": 12,
+      "win_prob": 68.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
+      "rating1": 5460,
       "rating2": 5343,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 53.4,
+      "rank": 12,
+      "win_prob": 51.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
+      "rating1": 5460,
       "rating2": 5560,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 30.6,
+      "rank": 12,
+      "win_prob": 29.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "turkey.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
+      "rating1": 5460,
       "rating2": 5343,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 73.4,
+      "rank": 12,
+      "win_prob": 72.2,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
+      "rating1": 5460,
       "rating2": 5560,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 51.5,
+      "rank": 12,
+      "win_prob": 50.0,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
+      "rating1": 5460,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 48.9,
+      "rank": 12,
+      "win_prob": 47.4,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5474,
+      "rating1": 5460,
       "rating2": 5092,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 84.0,
+      "rank": 12,
+      "win_prob": 83.1,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Iran",
       "flag1": "belgium.png",
       "flag2": "iran.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5474,
-      "rating2": 5232,
-      "rating_ev": 0,
-      "rank": 11,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5460,
+      "rating2": 5246,
+      "rating_ev": -14,
+      "rank": 12,
       "win_prob": 74.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-15",
