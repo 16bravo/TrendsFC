@@ -1,18 +1,18 @@
 {
   "team": "New Zealand",
   "stats": {
-    "matches_played": 442,
+    "matches_played": 443,
     "wins": 181,
     "draws": 80,
-    "losses": 181,
-    "goals_for": 769,
-    "goals_against": 652,
-    "goal_difference": 117,
-    "win_percentage": 41.0,
+    "losses": 182,
+    "goals_for": 770,
+    "goals_against": 655,
+    "goal_difference": 115,
+    "win_percentage": 40.9,
     "avg_points": 1.41,
     "best_rank": 38,
     "worst_rank": 117,
-    "avg_rank": 81.81,
+    "avg_rank": 81.77,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Fiji",
@@ -27,9 +27,9 @@
     },
     "home_matches": 135,
     "away_matches": 189,
-    "neutral_matches": 118,
+    "neutral_matches": 119,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2026-06-15"
+    "last_match_date": "2026-06-21"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5092,
+      "rating1": 5068,
       "rating2": 5460,
       "rating_ev": 0,
-      "rank": 61,
-      "win_prob": 16.9,
+      "rank": 65,
+      "win_prob": 15.5,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Egypt",
       "flag1": "new_zealand.png",
       "flag2": "egypt.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5092,
-      "rating2": 5157,
-      "rating_ev": 0,
-      "rank": 61,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 5068,
+      "rating2": 5181,
+      "rating_ev": -24,
+      "rank": 65,
       "win_prob": 42.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-15",
