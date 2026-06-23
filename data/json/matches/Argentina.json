@@ -1,18 +1,18 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1108,
-    "wins": 610,
+    "matches_played": 1109,
+    "wins": 611,
     "draws": 268,
     "losses": 230,
-    "goals_for": 2104,
+    "goals_for": 2106,
     "goals_against": 1129,
-    "goal_difference": 975,
+    "goal_difference": 977,
     "win_percentage": 55.1,
     "avg_points": 1.89,
     "best_rank": 1,
     "worst_rank": 27,
-    "avg_rank": 6.39,
+    "avg_rank": 6.38,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Ecuador",
@@ -27,9 +27,9 @@
     },
     "home_matches": 381,
     "away_matches": 416,
-    "neutral_matches": 311,
+    "neutral_matches": 312,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-06-16"
+    "last_match_date": "2026-06-22"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5622,
+      "rating1": 5635,
       "rating2": 5102,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 90.2,
+      "win_prob": 90.7,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Austria",
       "flag1": "argentina.png",
       "flag2": "austria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5622,
-      "rating2": 5379,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5635,
+      "rating2": 5366,
+      "rating_ev": 13,
       "rank": 2,
       "win_prob": 74.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-16",

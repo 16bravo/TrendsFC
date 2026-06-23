@@ -1,18 +1,18 @@
 {
   "team": "Austria",
   "stats": {
-    "matches_played": 865,
+    "matches_played": 866,
     "wins": 372,
     "draws": 183,
-    "losses": 310,
+    "losses": 311,
     "goals_for": 1559,
-    "goals_against": 1317,
-    "goal_difference": 242,
+    "goals_against": 1319,
+    "goal_difference": 240,
     "win_percentage": 43.0,
     "avg_points": 1.5,
     "best_rank": 3,
     "worst_rank": 63,
-    "avg_rank": 21.59,
+    "avg_rank": 21.58,
     "biggest_win": {
       "score": "10-0",
       "opponent": "San Marino",
@@ -27,9 +27,9 @@
     },
     "home_matches": 431,
     "away_matches": 382,
-    "neutral_matches": 52,
+    "neutral_matches": 53,
     "first_match_date": "1902-10-12",
-    "last_match_date": "2026-06-16"
+    "last_match_date": "2026-06-22"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "israel.png",
       "score1": "",
       "score2": "",
-      "rating1": 5379,
+      "rating1": 5366,
       "rating2": 5136,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 74.3,
+      "win_prob": 73.2,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5379,
+      "rating1": 5366,
       "rating2": 5178,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 78.9,
+      "win_prob": 78.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "kosovo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5379,
+      "rating1": 5366,
       "rating2": 5205,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 58.1,
+      "win_prob": 56.7,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "ireland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5379,
+      "rating1": 5366,
       "rating2": 5178,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 60.9,
+      "win_prob": 59.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "kosovo.png",
       "score1": "",
       "score2": "",
-      "rating1": 5379,
+      "rating1": 5366,
       "rating2": 5205,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 76.9,
+      "win_prob": 75.9,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "israel.png",
       "score1": "",
       "score2": "",
-      "rating1": 5379,
+      "rating1": 5366,
       "rating2": 5136,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 81.8,
+      "win_prob": 80.9,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "algeria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5379,
+      "rating1": 5366,
       "rating2": 5260,
       "rating_ev": 0,
       "rank": 17,
-      "win_prob": 62.8,
+      "win_prob": 61.5,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Argentina",
       "flag1": "austria.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5379,
-      "rating2": 5622,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5366,
+      "rating2": 5635,
+      "rating_ev": -13,
       "rank": 17,
       "win_prob": 25.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-16",
