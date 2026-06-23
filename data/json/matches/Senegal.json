@@ -1,18 +1,18 @@
 {
   "team": "Senegal",
   "stats": {
-    "matches_played": 690,
+    "matches_played": 691,
     "wins": 314,
     "draws": 191,
-    "losses": 185,
-    "goals_for": 954,
-    "goals_against": 649,
-    "goal_difference": 305,
-    "win_percentage": 45.5,
+    "losses": 186,
+    "goals_for": 956,
+    "goals_against": 652,
+    "goal_difference": 304,
+    "win_percentage": 45.4,
     "avg_points": 1.64,
     "best_rank": 21,
     "worst_rank": 97,
-    "avg_rank": 58.2,
+    "avg_rank": 58.15,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Mauritania",
@@ -27,9 +27,9 @@
     },
     "home_matches": 216,
     "away_matches": 236,
-    "neutral_matches": 238,
+    "neutral_matches": 239,
     "first_match_date": "1959-12-31",
-    "last_match_date": "2026-06-16"
+    "last_match_date": "2026-06-22"
   },
   "matches": [
     {
@@ -159,10 +159,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5304,
-      "rating2": 4981,
+      "rating2": 4974,
       "rating_ev": 0,
       "rank": 25,
-      "win_prob": 80.3,
+      "win_prob": 80.8,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Norway",
       "flag1": "senegal.png",
       "flag2": "norway.png",
-      "score1": "",
-      "score2": "",
+      "score1": 2,
+      "score2": 3,
       "rating1": 5304,
       "rating2": 5540,
       "rating_ev": 0,
       "rank": 25,
       "win_prob": 26.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-16",

@@ -1,18 +1,18 @@
 {
   "team": "Jordan",
   "stats": {
-    "matches_played": 564,
+    "matches_played": 565,
     "wins": 199,
     "draws": 154,
-    "losses": 211,
-    "goals_for": 704,
-    "goals_against": 684,
-    "goal_difference": 20,
-    "win_percentage": 35.3,
+    "losses": 212,
+    "goals_for": 705,
+    "goals_against": 686,
+    "goal_difference": 19,
+    "win_percentage": 35.2,
     "avg_points": 1.33,
     "best_rank": 52,
     "worst_rank": 141,
-    "avg_rank": 91.05,
+    "avg_rank": 91.0,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Nepal",
@@ -27,9 +27,9 @@
     },
     "home_matches": 194,
     "away_matches": 178,
-    "neutral_matches": 192,
+    "neutral_matches": 193,
     "first_match_date": "1953-08-01",
-    "last_match_date": "2026-06-16"
+    "last_match_date": "2026-06-22"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "north_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5102,
+      "rating1": 5097,
       "rating2": 4773,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 80.7,
+      "rank": 60,
+      "win_prob": 80.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5102,
+      "rating1": 5097,
       "rating2": 4788,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 79.7,
+      "rank": 60,
+      "win_prob": 79.4,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5102,
+      "rating1": 5097,
       "rating2": 5114,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 48.7,
+      "rank": 60,
+      "win_prob": 48.1,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "argentina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5102,
+      "rating1": 5097,
       "rating2": 5635,
       "rating_ev": 0,
-      "rank": 59,
-      "win_prob": 9.3,
+      "rank": 60,
+      "win_prob": 9.2,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Algeria",
       "flag1": "jordan.png",
       "flag2": "algeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5102,
-      "rating2": 5260,
-      "rating_ev": 0,
-      "rank": 59,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5097,
+      "rating2": 5265,
+      "rating_ev": -5,
+      "rank": 60,
       "win_prob": 33.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-16",

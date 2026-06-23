@@ -1,18 +1,18 @@
 {
   "team": "Norway",
   "stats": {
-    "matches_played": 885,
-    "wins": 334,
+    "matches_played": 886,
+    "wins": 335,
     "draws": 197,
     "losses": 354,
-    "goals_for": 1373,
-    "goals_against": 1441,
-    "goal_difference": -68,
-    "win_percentage": 37.7,
-    "avg_points": 1.35,
+    "goals_for": 1376,
+    "goals_against": 1443,
+    "goal_difference": -67,
+    "win_percentage": 37.8,
+    "avg_points": 1.36,
     "best_rank": 6,
     "worst_rank": 72,
-    "avg_rank": 31.43,
+    "avg_rank": 31.41,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Finland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 424,
     "away_matches": 407,
-    "neutral_matches": 54,
+    "neutral_matches": 55,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2026-06-16"
+    "last_match_date": "2026-06-22"
   },
   "matches": [
     {
@@ -159,10 +159,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5540,
-      "rating2": 5560,
+      "rating2": 5567,
       "rating_ev": 0,
       "rank": 7,
-      "win_prob": 47.8,
+      "win_prob": 47.0,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Senegal",
       "flag1": "norway.png",
       "flag2": "senegal.png",
-      "score1": "",
-      "score2": "",
+      "score1": 3,
+      "score2": 2,
       "rating1": 5540,
       "rating2": 5304,
       "rating_ev": 0,
       "rank": 7,
       "win_prob": 73.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-16",
