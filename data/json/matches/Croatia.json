@@ -1,14 +1,14 @@
 {
   "team": "Croatia",
   "stats": {
-    "matches_played": 401,
-    "wins": 210,
+    "matches_played": 402,
+    "wins": 211,
     "draws": 106,
     "losses": 85,
-    "goals_for": 698,
+    "goals_for": 699,
     "goals_against": 408,
-    "goal_difference": 290,
-    "win_percentage": 52.4,
+    "goal_difference": 291,
+    "win_percentage": 52.5,
     "avg_points": 1.84,
     "best_rank": 5,
     "worst_rank": 31,
@@ -27,9 +27,9 @@
     },
     "home_matches": 158,
     "away_matches": 167,
-    "neutral_matches": 76,
+    "neutral_matches": 77,
     "first_match_date": "1940-04-02",
-    "last_match_date": "2026-06-17"
+    "last_match_date": "2026-06-23"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5385,
+      "rating1": 5381,
       "rating2": 5197,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 78.0,
+      "rank": 16,
+      "win_prob": 77.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5385,
-      "rating2": 5577,
+      "rating1": 5381,
+      "rating2": 5547,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 21.7,
+      "rank": 16,
+      "win_prob": 23.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5385,
+      "rating1": 5381,
       "rating2": 5659,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 31.9,
+      "rank": 16,
+      "win_prob": 31.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5385,
-      "rating2": 5577,
+      "rating1": 5381,
+      "rating2": 5547,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 40.0,
+      "rank": 16,
+      "win_prob": 42.8,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "spain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5385,
+      "rating1": 5381,
       "rating2": 5659,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 16.3,
+      "rank": 16,
+      "win_prob": 16.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5385,
+      "rating1": 5381,
       "rating2": 5197,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 59.5,
+      "rank": 16,
+      "win_prob": 59.1,
       "type": "fixture"
     },
     {
@@ -158,11 +158,11 @@
       "flag2": "ghana.png",
       "score1": "",
       "score2": "",
-      "rating1": 5385,
-      "rating2": 5068,
+      "rating1": 5381,
+      "rating2": 5098,
       "rating_ev": 0,
-      "rank": 15,
-      "win_prob": 79.9,
+      "rank": 16,
+      "win_prob": 77.5,
       "type": "fixture"
     },
     {
@@ -175,14 +175,14 @@
       "original_team2": "Panama",
       "flag1": "croatia.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5385,
-      "rating2": 5078,
-      "rating_ev": 0,
-      "rank": 15,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5381,
+      "rating2": 5082,
+      "rating_ev": -4,
+      "rank": 16,
       "win_prob": 79.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-17",
