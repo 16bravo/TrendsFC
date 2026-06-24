@@ -1,18 +1,18 @@
 {
   "team": "Colombia",
   "stats": {
-    "matches_played": 654,
-    "wins": 268,
+    "matches_played": 655,
+    "wins": 269,
     "draws": 179,
     "losses": 207,
-    "goals_for": 853,
+    "goals_for": 854,
     "goals_against": 750,
-    "goal_difference": 103,
-    "win_percentage": 41.0,
-    "avg_points": 1.5,
+    "goal_difference": 104,
+    "win_percentage": 41.1,
+    "avg_points": 1.51,
     "best_rank": 3,
     "worst_rank": 77,
-    "avg_rank": 25.02,
+    "avg_rank": 25.0,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guyana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 185,
     "away_matches": 230,
-    "neutral_matches": 239,
+    "neutral_matches": 240,
     "first_match_date": "1938-02-10",
-    "last_match_date": "2026-06-17"
+    "last_match_date": "2026-06-23"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5512,
+      "rating1": 5504,
       "rating2": 5567,
       "rating_ev": 0,
       "rank": 10,
-      "win_prob": 44.0,
+      "win_prob": 43.1,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "DR Congo",
       "flag1": "colombia.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5512,
-      "rating2": 5132,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5504,
+      "rating2": 5140,
+      "rating_ev": -8,
       "rank": 10,
       "win_prob": 83.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-17",
