@@ -1,13 +1,13 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1029,
-    "wins": 534,
+    "matches_played": 1030,
+    "wins": 535,
     "draws": 237,
     "losses": 258,
-    "goals_for": 1827,
+    "goals_for": 1830,
     "goals_against": 1054,
-    "goal_difference": 773,
+    "goal_difference": 776,
     "win_percentage": 51.9,
     "avg_points": 1.79,
     "best_rank": 2,
@@ -25,11 +25,11 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 300,
+    "home_matches": 301,
     "away_matches": 271,
     "neutral_matches": 458,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2026-06-18"
+    "last_match_date": "2026-06-24"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Czechia",
       "flag1": "mexico.png",
       "flag2": "czechia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5336,
-      "rating2": 5197,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5363,
+      "rating2": 5170,
+      "rating_ev": 27,
+      "rank": 18,
       "win_prob": 74.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-18",

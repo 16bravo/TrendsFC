@@ -1,18 +1,18 @@
 {
   "team": "South Africa",
   "stats": {
-    "matches_played": 523,
-    "wins": 230,
+    "matches_played": 524,
+    "wins": 231,
     "draws": 155,
     "losses": 138,
-    "goals_for": 712,
+    "goals_for": 713,
     "goals_against": 533,
-    "goal_difference": 179,
-    "win_percentage": 44.0,
+    "goal_difference": 180,
+    "win_percentage": 44.1,
     "avg_points": 1.62,
     "best_rank": 13,
     "worst_rank": 98,
-    "avg_rank": 63.22,
+    "avg_rank": 63.24,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Australia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 272,
     "away_matches": 159,
-    "neutral_matches": 92,
+    "neutral_matches": 93,
     "first_match_date": "1906-07-09",
-    "last_match_date": "2026-06-18"
+    "last_match_date": "2026-06-24"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
+      "rating1": 5019,
       "rating2": 4953,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 43.4,
+      "rank": 70,
+      "win_prob": 46.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "eritrea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
+      "rating1": 5019,
       "rating2": 4638,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 87.8,
+      "rank": 70,
+      "win_prob": 89.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "kenya.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
+      "rating1": 5019,
       "rating2": 4824,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 57.4,
+      "rank": 70,
+      "win_prob": 60.3,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "kenya.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
+      "rating1": 5019,
       "rating2": 4824,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 76.4,
+      "rank": 70,
+      "win_prob": 78.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "eritrea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
+      "rating1": 5019,
       "rating2": 4638,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 75.0,
+      "rank": 70,
+      "win_prob": 77.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,30 @@
       "flag2": "guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4992,
+      "rating1": 5019,
       "rating2": 4953,
       "rating_ev": 0,
-      "rank": 76,
-      "win_prob": 64.8,
+      "rank": 70,
+      "win_prob": 67.5,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-28",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "South Africa",
+      "team2": "Canada",
+      "original_team1": "South Africa",
+      "original_team2": "Canada",
+      "flag1": "south_africa.png",
+      "flag2": "canada.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5019,
+      "rating2": 5271,
+      "rating_ev": 0,
+      "rank": 70,
+      "win_prob": 24.9,
       "type": "fixture"
     },
     {
@@ -156,14 +175,14 @@
       "original_team2": "South Korea",
       "flag1": "south_africa.png",
       "flag2": "south_korea.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4992,
-      "rating2": 5204,
-      "rating_ev": 0,
-      "rank": 76,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5019,
+      "rating2": 5177,
+      "rating_ev": 27,
+      "rank": 70,
       "win_prob": 28.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-18",

@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-06-28",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Canada",
+      "team2": "South Africa",
+      "original_team1": "Canada",
+      "original_team2": "South Africa",
+      "flag1": "canada.png",
+      "flag2": "south_africa.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5271,
+      "rating2": 5019,
+      "rating_ev": 0,
+      "rank": 28,
+      "win_prob": 75.1,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-24",
       "country": "Canada",
       "tournament": "World Cup",

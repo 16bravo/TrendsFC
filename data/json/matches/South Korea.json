@@ -1,15 +1,15 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1054,
+    "matches_played": 1055,
     "wins": 577,
     "draws": 257,
-    "losses": 220,
+    "losses": 221,
     "goals_for": 1917,
-    "goals_against": 960,
-    "goal_difference": 957,
+    "goals_against": 961,
+    "goal_difference": 956,
     "win_percentage": 54.7,
-    "avg_points": 1.89,
+    "avg_points": 1.88,
     "best_rank": 19,
     "worst_rank": 100,
     "avg_rank": 47.18,
@@ -27,9 +27,9 @@
     },
     "home_matches": 353,
     "away_matches": 251,
-    "neutral_matches": 450,
+    "neutral_matches": 451,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2026-06-18"
+    "last_match_date": "2026-06-24"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "uae.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
+      "rating1": 5177,
       "rating2": 4956,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 74.7,
+      "rank": 46,
+      "win_prob": 72.5,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "vietnam.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
+      "rating1": 5177,
       "rating2": 4664,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 90.9,
+      "rank": 46,
+      "win_prob": 90.0,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 5204,
+      "rating1": 5177,
       "rating2": 4615,
       "rating_ev": 0,
-      "rank": 40,
-      "win_prob": 92.4,
+      "rank": 46,
+      "win_prob": 91.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "South Africa",
       "flag1": "south_korea.png",
       "flag2": "south_africa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5204,
-      "rating2": 4992,
-      "rating_ev": 0,
-      "rank": 40,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5177,
+      "rating2": 5019,
+      "rating_ev": -27,
+      "rank": 47,
       "win_prob": 71.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-18",
