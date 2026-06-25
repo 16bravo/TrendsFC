@@ -1,18 +1,18 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1070,
-    "wins": 675,
+    "matches_played": 1071,
+    "wins": 676,
     "draws": 223,
     "losses": 172,
-    "goals_for": 2308,
+    "goals_for": 2311,
     "goals_against": 958,
-    "goal_difference": 1350,
+    "goal_difference": 1353,
     "win_percentage": 63.1,
     "avg_points": 2.1,
     "best_rank": 1,
     "worst_rank": 14,
-    "avg_rank": 3.17,
+    "avg_rank": 3.18,
     "biggest_win": {
       "score": "10-1",
       "opponent": "Bolivia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 374,
     "away_matches": 346,
-    "neutral_matches": 350,
+    "neutral_matches": 351,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2026-06-19"
+    "last_match_date": "2026-06-24"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Scotland",
       "flag1": "brazil.png",
       "flag2": "scotland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5513,
-      "rating2": 5289,
-      "rating_ev": 0,
-      "rank": 9,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5540,
+      "rating2": 5262,
+      "rating_ev": 27,
+      "rank": 8,
       "win_prob": 72.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-19",

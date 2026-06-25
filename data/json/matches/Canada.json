@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 486,
+    "matches_played": 487,
     "wins": 190,
     "draws": 116,
-    "losses": 180,
-    "goals_for": 630,
-    "goals_against": 609,
-    "goal_difference": 21,
-    "win_percentage": 39.1,
+    "losses": 181,
+    "goals_for": 631,
+    "goals_against": 611,
+    "goal_difference": 20,
+    "win_percentage": 39.0,
     "avg_points": 1.41,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 61.15,
+    "avg_rank": 61.09,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -25,11 +25,11 @@
       "date": "1993-07-18",
       "flag": "mexico.png"
     },
-    "home_matches": 152,
+    "home_matches": 153,
     "away_matches": 200,
     "neutral_matches": 134,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2026-06-18"
+    "last_match_date": "2026-06-24"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Switzerland",
       "flag1": "canada.png",
       "flag2": "switzerland.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5282,
-      "rating2": 5429,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5271,
+      "rating2": 5440,
+      "rating_ev": -11,
       "rank": 29,
       "win_prob": 44.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-18",
