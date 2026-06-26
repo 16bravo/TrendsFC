@@ -463,6 +463,60 @@ function computeH2HStats(matches, team1) {
     };
 }
 
+// Calcul du score prédit (TrendsFC Prediction)
+function computePredictedScore(team1, team2) {
+    const rank1_off = rankingsMap[team1]?.ranking_off ?? 999;
+    const rank1_def = rankingsMap[team1]?.ranking_def ?? 999;
+    const rank2_off = rankingsMap[team2]?.ranking_off ?? 999;
+    const rank2_def = rankingsMap[team2]?.ranking_def ?? 999;
+
+    // Formule: TRUNC((classement def adversaire - classement off équipe) / 10) + 1
+    let goals1 = Math.trunc((rank2_def - rank1_off) / 10) + 1;
+    let goals2 = Math.trunc((rank1_def - rank2_off) / 10) + 1;
+
+    // Si négatif, on met 0
+    goals1 = Math.max(0, goals1);
+    goals2 = Math.max(0, goals2);
+
+    // Bonus si classement off dans top 5
+    if (rank1_off <= 5) goals1 += 1;
+    if (rank2_off <= 5) goals2 += 1;
+
+    // Transformation polynomiale: y = 0.0049*x^3 - 0.147*x^2 + 1.48*x - 0.39
+    const transformGoals = (x) => {
+        return 0.0049 * Math.pow(x, 3) - 0.147 * Math.pow(x, 2) + 1.48 * x - 0.39;
+    };
+
+    goals1 = Math.round(transformGoals(goals1));
+    goals2 = Math.round(transformGoals(goals2));
+
+    return { goals1, goals2 };
+}
+
+// Affichage du score prédit
+function renderPredictedScore(team1, team2, goals1, goals2, colors) {
+    const { color1, color2, textColor1, textColor2 } = colors ?? { color1: '#FF4560', color2: '#008FFB', textColor1: '#FFFFFF', textColor2: '#FFFFFF' };
+    
+    return `
+        <div class="prediction-container mb-4" style="background: linear-gradient(135deg, ${color1}20 0%, ${color2}20 100%); padding: 20px; border-radius: 8px; border: 2px solid #ddd;">
+            <div style="text-align: center; margin-bottom: 12px;">
+                <h6 style="color: #666; margin: 0; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">TrendsFC Prediction</h6>
+            </div>
+            <div style="display: flex; align-items: center; justify-content: space-around;">
+                <div style="text-align: center;">
+                    <div style="font-size: 0.9em; color: #888; margin-bottom: 4px;">${team1}</div>
+                    <div style="font-size: 2.5em; font-weight: bold; color: ${color1}; line-height: 1;">${goals1}</div>
+                </div>
+                <div style="font-size: 1.2em; color: #999; font-weight: bold;">-</div>
+                <div style="text-align: center;">
+                    <div style="font-size: 0.9em; color: #888; margin-bottom: 4px;">${team2}</div>
+                    <div style="font-size: 2.5em; font-weight: bold; color: ${color2}; line-height: 1;">${goals2}</div>
+                </div>
+            </div>
+        </div>
+    `;
+}
+
 // Rafraîchit toute la page
 async function refreshAll() {
     const team1 = document.getElementById('team1Select').value;
@@ -497,8 +551,18 @@ async function refreshAll() {
     document.getElementById('team1Panel').innerHTML = renderTeamPanel(data1, 'left');
     document.getElementById('team2Panel').innerHTML = renderTeamPanel(data2, 'right');
 
-    // Affichage donut/historique cumulé
+    // Affichage donut/historique cumulé et prédiction
     const colors = getTeamColors(team1, team2);
+    
+    // Calcul du score prédit
+    const predictedScore = computePredictedScore(team1, team2);
+    
+    // Affichage de la prédiction
+    const predictionContainer = document.getElementById('predictionContainer');
+    if (predictionContainer) {
+        predictionContainer.innerHTML = renderPredictedScore(team1, team2, predictedScore.goals1, predictedScore.goals2, colors);
+    }
+    
     renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2, colors);
 
     // Affiche ou masque le switch "Neutral ground" selon le mode
