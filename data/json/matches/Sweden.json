@@ -1,18 +1,18 @@
 {
   "team": "Sweden",
   "stats": {
-    "matches_played": 1124,
+    "matches_played": 1125,
     "wins": 552,
-    "draws": 236,
+    "draws": 237,
     "losses": 336,
-    "goals_for": 2239,
-    "goals_against": 1489,
+    "goals_for": 2240,
+    "goals_against": 1490,
     "goal_difference": 750,
     "win_percentage": 49.1,
     "avg_points": 1.68,
     "best_rank": 3,
     "worst_rank": 37,
-    "avg_rank": 16.83,
+    "avg_rank": 16.84,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Latvia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 489,
     "away_matches": 502,
-    "neutral_matches": 133,
+    "neutral_matches": 134,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2026-06-20"
+    "last_match_date": "2026-06-25"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5265,
       "rating2": 5204,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 44.3,
+      "rank": 30,
+      "win_prob": 45.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5265,
       "rating2": 5158,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 49.4,
+      "rank": 30,
+      "win_prob": 50.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "poland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5265,
       "rating2": 5204,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 65.7,
+      "rank": 30,
+      "win_prob": 67.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "romania.png",
       "score1": "",
       "score2": "",
-      "rating1": 5252,
+      "rating1": 5265,
       "rating2": 5158,
       "rating_ev": 0,
-      "rank": 32,
-      "win_prob": 70.1,
+      "rank": 30,
+      "win_prob": 71.3,
       "type": "fixture"
     },
     {
@@ -118,14 +118,14 @@
       "original_team2": "Japan",
       "flag1": "sweden.png",
       "flag2": "japan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5252,
-      "rating2": 5472,
-      "rating_ev": 0,
-      "rank": 32,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5265,
+      "rating2": 5459,
+      "rating_ev": 13,
+      "rank": 30,
       "win_prob": 27.6,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-20",

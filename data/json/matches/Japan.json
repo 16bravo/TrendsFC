@@ -1,18 +1,18 @@
 {
   "team": "Japan",
   "stats": {
-    "matches_played": 832,
+    "matches_played": 833,
     "wins": 409,
-    "draws": 169,
+    "draws": 170,
     "losses": 254,
-    "goals_for": 1511,
-    "goals_against": 975,
+    "goals_for": 1512,
+    "goals_against": 976,
     "goal_difference": 536,
-    "win_percentage": 49.2,
+    "win_percentage": 49.1,
     "avg_points": 1.68,
     "best_rank": 10,
     "worst_rank": 122,
-    "avg_rank": 50.62,
+    "avg_rank": 50.57,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Philippines",
@@ -27,9 +27,9 @@
     },
     "home_matches": 331,
     "away_matches": 201,
-    "neutral_matches": 300,
+    "neutral_matches": 301,
     "first_match_date": "1917-05-09",
-    "last_match_date": "2026-06-20"
+    "last_match_date": "2026-06-25"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "qatar.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
+      "rating1": 5459,
       "rating2": 4786,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 94.6,
+      "rank": 12,
+      "win_prob": 94.4,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "thailand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
+      "rating1": 5459,
       "rating2": 4743,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 95.4,
+      "rank": 12,
+      "win_prob": 95.2,
       "type": "fixture"
     },
     {
@@ -82,11 +82,30 @@
       "flag2": "indonesia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5472,
+      "rating1": 5459,
       "rating2": 4759,
       "rating_ev": 0,
-      "rank": 11,
-      "win_prob": 95.1,
+      "rank": 12,
+      "win_prob": 94.9,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-29",
+      "country": "Mexico",
+      "tournament": "World Cup",
+      "team1": "Japan",
+      "team2": "Brazil",
+      "original_team1": "Japan",
+      "original_team2": "Brazil",
+      "flag1": "japan.png",
+      "flag2": "brazil.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5459,
+      "rating2": 5540,
+      "rating_ev": 0,
+      "rank": 12,
+      "win_prob": 41.2,
       "type": "fixture"
     },
     {
@@ -99,14 +118,14 @@
       "original_team2": "Sweden",
       "flag1": "japan.png",
       "flag2": "sweden.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5472,
-      "rating2": 5252,
-      "rating_ev": 0,
-      "rank": 11,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5459,
+      "rating2": 5265,
+      "rating_ev": -13,
+      "rank": 12,
       "win_prob": 72.4,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-20",

@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 602,
-    "wins": 185,
+    "matches_played": 603,
+    "wins": 186,
     "draws": 162,
     "losses": 255,
-    "goals_for": 724,
-    "goals_against": 905,
-    "goal_difference": -181,
-    "win_percentage": 30.7,
+    "goals_for": 726,
+    "goals_against": 906,
+    "goal_difference": -180,
+    "win_percentage": 30.8,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.71,
+    "avg_rank": 34.68,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -27,9 +27,9 @@
     },
     "home_matches": 183,
     "away_matches": 211,
-    "neutral_matches": 208,
+    "neutral_matches": 209,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2026-06-20"
+    "last_match_date": "2026-06-25"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Germany",
       "flag1": "ecuador.png",
       "flag2": "germany.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5357,
-      "rating2": 5599,
-      "rating_ev": 0,
-      "rank": 19,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5385,
+      "rating2": 5571,
+      "rating_ev": 28,
+      "rank": 15,
       "win_prob": 25.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-20",
