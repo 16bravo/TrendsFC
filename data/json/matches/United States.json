@@ -1,18 +1,18 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 825,
+    "matches_played": 826,
     "wins": 368,
     "draws": 171,
-    "losses": 286,
-    "goals_for": 1253,
-    "goals_against": 1075,
-    "goal_difference": 178,
+    "losses": 287,
+    "goals_for": 1255,
+    "goals_against": 1078,
+    "goal_difference": 177,
     "win_percentage": 44.6,
-    "avg_points": 1.55,
+    "avg_points": 1.54,
     "best_rank": 12,
     "worst_rank": 94,
-    "avg_rank": 37.97,
+    "avg_rank": 37.95,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Barbados",
@@ -25,11 +25,11 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 489,
+    "home_matches": 490,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2026-06-19"
+    "last_match_date": "2026-06-25"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Turkey",
       "flag1": "usa.png",
       "flag2": "turkey.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5290,
-      "rating2": 5343,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5274,
+      "rating2": 5359,
+      "rating_ev": -16,
       "rank": 27,
       "win_prob": 55.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-19",

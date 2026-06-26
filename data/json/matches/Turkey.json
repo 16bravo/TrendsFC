@@ -1,18 +1,18 @@
 {
   "team": "Turkey",
   "stats": {
-    "matches_played": 665,
-    "wins": 263,
+    "matches_played": 666,
+    "wins": 264,
     "draws": 154,
     "losses": 248,
-    "goals_for": 935,
-    "goals_against": 960,
-    "goal_difference": -25,
-    "win_percentage": 39.5,
+    "goals_for": 938,
+    "goals_against": 962,
+    "goal_difference": -24,
+    "win_percentage": 39.6,
     "avg_points": 1.42,
     "best_rank": 10,
     "worst_rank": 63,
-    "avg_rank": 32.29,
+    "avg_rank": 32.27,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Syria",
@@ -26,10 +26,10 @@
       "flag": "poland.png"
     },
     "home_matches": 288,
-    "away_matches": 296,
+    "away_matches": 297,
     "neutral_matches": 81,
     "first_match_date": "1923-10-26",
-    "last_match_date": "2026-06-19"
+    "last_match_date": "2026-06-25"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5343,
+      "rating1": 5359,
       "rating2": 5567,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 19.5,
+      "rank": 20,
+      "win_prob": 20.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5343,
+      "rating1": 5359,
       "rating2": 5460,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 48.1,
+      "rank": 20,
+      "win_prob": 49.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5343,
+      "rating1": 5359,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 35.0,
+      "rank": 20,
+      "win_prob": 36.6,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "belgium.png",
       "score1": "",
       "score2": "",
-      "rating1": 5343,
+      "rating1": 5359,
       "rating2": 5460,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 27.8,
+      "rank": 20,
+      "win_prob": 29.3,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "italy.png",
       "score1": "",
       "score2": "",
-      "rating1": 5343,
+      "rating1": 5359,
       "rating2": 5384,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 56.4,
+      "rank": 20,
+      "win_prob": 58.1,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "france.png",
       "score1": "",
       "score2": "",
-      "rating1": 5343,
+      "rating1": 5359,
       "rating2": 5567,
       "rating_ev": 0,
-      "rank": 22,
-      "win_prob": 36.8,
+      "rank": 20,
+      "win_prob": 38.4,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "United States",
       "flag1": "turkey.png",
       "flag2": "usa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5343,
-      "rating2": 5290,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 5359,
+      "rating2": 5274,
+      "rating_ev": 16,
+      "rank": 20,
       "win_prob": 44.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-19",
