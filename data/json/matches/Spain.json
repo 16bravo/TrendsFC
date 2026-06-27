@@ -1,18 +1,18 @@
 {
   "team": "Spain",
   "stats": {
-    "matches_played": 784,
-    "wins": 463,
+    "matches_played": 785,
+    "wins": 464,
     "draws": 183,
     "losses": 138,
-    "goals_for": 1599,
+    "goals_for": 1600,
     "goals_against": 699,
-    "goal_difference": 900,
+    "goal_difference": 901,
     "win_percentage": 59.1,
     "avg_points": 2.01,
     "best_rank": 1,
     "worst_rank": 18,
-    "avg_rank": 6.2,
+    "avg_rank": 6.19,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Bulgaria",
@@ -27,9 +27,9 @@
     },
     "home_matches": 341,
     "away_matches": 302,
-    "neutral_matches": 141,
+    "neutral_matches": 142,
     "first_match_date": "1920-08-28",
-    "last_match_date": "2026-06-21"
+    "last_match_date": "2026-06-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5659,
+      "rating1": 5654,
       "rating2": 5547,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 71.7,
+      "win_prob": 71.3,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5659,
+      "rating1": 5654,
       "rating2": 5170,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 84.0,
+      "win_prob": 83.7,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5659,
+      "rating1": 5654,
       "rating2": 5381,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 68.5,
+      "win_prob": 68.0,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "czechia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5659,
+      "rating1": 5654,
       "rating2": 5170,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 92.7,
+      "win_prob": 92.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "croatia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5659,
+      "rating1": 5654,
       "rating2": 5381,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 83.9,
+      "win_prob": 83.6,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "england.png",
       "score1": "",
       "score2": "",
-      "rating1": 5659,
+      "rating1": 5654,
       "rating2": 5547,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 51.3,
+      "win_prob": 50.8,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Uruguay",
       "flag1": "spain.png",
       "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5659,
-      "rating2": 5344,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5654,
+      "rating2": 5349,
+      "rating_ev": -5,
       "rank": 1,
       "win_prob": 79.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-21",

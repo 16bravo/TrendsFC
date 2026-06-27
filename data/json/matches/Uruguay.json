@@ -1,18 +1,18 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1013,
+    "matches_played": 1014,
     "wins": 444,
     "draws": 252,
-    "losses": 317,
+    "losses": 318,
     "goals_for": 1595,
-    "goals_against": 1235,
-    "goal_difference": 360,
+    "goals_against": 1236,
+    "goal_difference": 359,
     "win_percentage": 43.8,
     "avg_points": 1.56,
     "best_rank": 1,
     "worst_rank": 39,
-    "avg_rank": 13.5,
+    "avg_rank": 13.51,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Bolivia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 332,
     "away_matches": 428,
-    "neutral_matches": 253,
+    "neutral_matches": 254,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-06-21"
+    "last_match_date": "2026-06-26"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Spain",
       "flag1": "uruguay.png",
       "flag2": "spain.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5344,
-      "rating2": 5659,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5349,
+      "rating2": 5654,
+      "rating_ev": 5,
+      "rank": 21,
       "win_prob": 20.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-21",

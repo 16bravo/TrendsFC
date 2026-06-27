@@ -1,18 +1,18 @@
 {
   "team": "Norway",
   "stats": {
-    "matches_played": 886,
+    "matches_played": 887,
     "wins": 335,
     "draws": 197,
-    "losses": 354,
-    "goals_for": 1376,
-    "goals_against": 1443,
-    "goal_difference": -67,
+    "losses": 355,
+    "goals_for": 1377,
+    "goals_against": 1447,
+    "goal_difference": -70,
     "win_percentage": 37.8,
     "avg_points": 1.36,
     "best_rank": 6,
     "worst_rank": 72,
-    "avg_rank": 31.41,
+    "avg_rank": 31.38,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Finland",
@@ -27,9 +27,9 @@
     },
     "home_matches": 424,
     "away_matches": 407,
-    "neutral_matches": 55,
+    "neutral_matches": 56,
     "first_match_date": "1908-07-12",
-    "last_match_date": "2026-06-22"
+    "last_match_date": "2026-06-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5540,
+      "rating1": 5501,
       "rating2": 5412,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 53.1,
+      "rank": 10,
+      "win_prob": 48.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5540,
+      "rating1": 5501,
       "rating2": 5189,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 87.7,
+      "rank": 10,
+      "win_prob": 85.8,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5540,
+      "rating1": 5501,
       "rating2": 5567,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 36.4,
+      "rank": 10,
+      "win_prob": 32.5,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "wales.png",
       "score1": "",
       "score2": "",
-      "rating1": 5540,
+      "rating1": 5501,
       "rating2": 5189,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 74.8,
+      "rank": 10,
+      "win_prob": 71.5,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "portugal.png",
       "score1": "",
       "score2": "",
-      "rating1": 5540,
+      "rating1": 5501,
       "rating2": 5567,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 57.9,
+      "rank": 10,
+      "win_prob": 53.7,
       "type": "fixture"
     },
     {
@@ -139,11 +139,30 @@
       "flag2": "denmark.png",
       "score1": "",
       "score2": "",
-      "rating1": 5540,
+      "rating1": 5501,
       "rating2": 5412,
       "rating_ev": 0,
-      "rank": 8,
-      "win_prob": 73.1,
+      "rank": 10,
+      "win_prob": 69.6,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-30",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Norway",
+      "team2": "Ivory Coast",
+      "original_team1": "Norway",
+      "original_team2": "Ivory Coast",
+      "flag1": "norway.png",
+      "flag2": "ivory_coast.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5501,
+      "rating2": 5231,
+      "rating_ev": 0,
+      "rank": 10,
+      "win_prob": 76.5,
       "type": "fixture"
     },
     {
@@ -156,14 +175,14 @@
       "original_team2": "France",
       "flag1": "norway.png",
       "flag2": "france.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5540,
-      "rating2": 5567,
-      "rating_ev": 0,
-      "rank": 8,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 5501,
+      "rating2": 5606,
+      "rating_ev": -39,
+      "rank": 10,
       "win_prob": 47.0,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-22",

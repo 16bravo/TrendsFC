@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-07-03",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Argentina",
+      "team2": "Cape Verde",
+      "original_team1": "Argentina",
+      "original_team2": "Cape Verde",
+      "flag1": "argentina.png",
+      "flag2": "cape_verde.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5635,
+      "rating2": 5070,
+      "rating_ev": 0,
+      "rank": 2,
+      "win_prob": 91.7,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-27",
       "country": "United States",
       "tournament": "World Cup",

@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-26",
+      "date": "2027-03-27",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -52,7 +52,7 @@
       "type": "fixture"
     },
     {
-      "date": "2027-03-26",
+      "date": "2027-03-27",
       "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -71,7 +71,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "country": "Gambia",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -90,7 +90,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -109,7 +109,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "country": "Somalia",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -128,7 +128,7 @@
       "type": "fixture"
     },
     {
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -144,6 +144,25 @@
       "rating_ev": 0,
       "rank": 36,
       "win_prob": 73.6,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-30",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Ivory Coast",
+      "team2": "Norway",
+      "original_team1": "Ivory Coast",
+      "original_team2": "Norway",
+      "flag1": "ivory_coast.png",
+      "flag2": "norway.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5231,
+      "rating2": 5501,
+      "rating_ev": 0,
+      "rank": 36,
+      "win_prob": 23.5,
       "type": "fixture"
     },
     {

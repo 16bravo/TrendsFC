@@ -1,14 +1,14 @@
 {
   "team": "Saudi Arabia",
   "stats": {
-    "matches_played": 817,
+    "matches_played": 818,
     "wins": 388,
-    "draws": 190,
+    "draws": 191,
     "losses": 239,
     "goals_for": 1260,
     "goals_against": 876,
     "goal_difference": 384,
-    "win_percentage": 47.5,
+    "win_percentage": 47.4,
     "avg_points": 1.66,
     "best_rank": 37,
     "worst_rank": 127,
@@ -27,9 +27,9 @@
     },
     "home_matches": 316,
     "away_matches": 147,
-    "neutral_matches": 354,
+    "neutral_matches": 355,
     "first_match_date": "1957-10-18",
-    "last_match_date": "2026-06-21"
+    "last_match_date": "2026-06-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
+      "rating1": 5015,
       "rating2": 4740,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 83.5,
+      "rank": 73,
+      "win_prob": 83.7,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
+      "rating1": 5015,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 76.2,
+      "rank": 73,
+      "win_prob": 76.5,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "palestine.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
+      "rating1": 5015,
       "rating2": 4878,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 73.6,
+      "rank": 73,
+      "win_prob": 73.9,
       "type": "fixture"
     },
     {
@@ -101,11 +101,11 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
-      "rating2": 4974,
+      "rating1": 5015,
+      "rating2": 4929,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 64.6,
+      "rank": 73,
+      "win_prob": 69.4,
       "type": "fixture"
     },
     {
@@ -120,11 +120,11 @@
       "flag2": "oman.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
+      "rating1": 5015,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 76.2,
+      "rank": 73,
+      "win_prob": 76.5,
       "type": "fixture"
     },
     {
@@ -139,11 +139,11 @@
       "flag2": "kuwait.png",
       "score1": "",
       "score2": "",
-      "rating1": 5011,
+      "rating1": 5015,
       "rating2": 4740,
       "rating_ev": 0,
-      "rank": 74,
-      "win_prob": 83.5,
+      "rank": 73,
+      "win_prob": 83.7,
       "type": "fixture"
     },
     {
@@ -156,14 +156,14 @@
       "original_team2": "Cape Verde",
       "flag1": "saudi_arabia.png",
       "flag2": "cape_verde.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5011,
-      "rating2": 5074,
-      "rating_ev": 0,
-      "rank": 74,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5015,
+      "rating2": 5070,
+      "rating_ev": 4,
+      "rank": 73,
       "win_prob": 43.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-21",
