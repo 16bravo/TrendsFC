@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5606,
-      "rating2": 5460,
+      "rating2": 5490,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 74.7,
+      "win_prob": 72.1,
       "type": "fixture"
     },
     {
@@ -121,10 +121,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5606,
-      "rating2": 5460,
+      "rating2": 5490,
       "rating_ev": 0,
       "rank": 3,
-      "win_prob": 55.1,
+      "win_prob": 51.8,
       "type": "fixture"
     },
     {
@@ -144,6 +144,25 @@
       "rating_ev": 0,
       "rank": 3,
       "win_prob": 65.5,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-06-30",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "France",
+      "team2": "Sweden",
+      "original_team1": "France",
+      "original_team2": "Sweden",
+      "flag1": "france.png",
+      "flag2": "sweden.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5606,
+      "rating2": 5265,
+      "rating_ev": 0,
+      "rank": 3,
+      "win_prob": 81.5,
       "type": "fixture"
     },
     {

@@ -1,18 +1,18 @@
 {
   "team": "Iran",
   "stats": {
-    "matches_played": 683,
+    "matches_played": 684,
     "wins": 388,
-    "draws": 160,
+    "draws": 161,
     "losses": 135,
-    "goals_for": 1298,
-    "goals_against": 535,
+    "goals_for": 1299,
+    "goals_against": 536,
     "goal_difference": 763,
-    "win_percentage": 56.8,
+    "win_percentage": 56.7,
     "avg_points": 1.94,
     "best_rank": 12,
     "worst_rank": 104,
-    "avg_rank": 42.4,
+    "avg_rank": 42.38,
     "biggest_win": {
       "score": "19-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 225,
     "away_matches": 194,
-    "neutral_matches": 264,
+    "neutral_matches": 265,
     "first_match_date": "1941-08-23",
-    "last_match_date": "2026-06-21"
+    "last_match_date": "2026-06-26"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "syria.png",
       "score1": "",
       "score2": "",
-      "rating1": 5246,
+      "rating1": 5242,
       "rating2": 4910,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 81.2,
+      "win_prob": 80.9,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "kyrgyzstan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5246,
+      "rating1": 5242,
       "rating2": 4689,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 91.4,
+      "win_prob": 91.3,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "china.png",
       "score1": "",
       "score2": "",
-      "rating1": 5246,
+      "rating1": 5242,
       "rating2": 4817,
       "rating_ev": 0,
       "rank": 34,
-      "win_prob": 86.4,
+      "win_prob": 86.2,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Egypt",
       "flag1": "iran.png",
       "flag2": "egypt.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5246,
-      "rating2": 5181,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5242,
+      "rating2": 5185,
+      "rating_ev": -4,
       "rank": 34,
       "win_prob": 57.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-21",

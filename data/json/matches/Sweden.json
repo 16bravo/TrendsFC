@@ -109,6 +109,25 @@
       "type": "fixture"
     },
     {
+      "date": "2026-06-30",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Sweden",
+      "team2": "France",
+      "original_team1": "Sweden",
+      "original_team2": "France",
+      "flag1": "sweden.png",
+      "flag2": "france.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5265,
+      "rating2": 5606,
+      "rating_ev": 0,
+      "rank": 30,
+      "win_prob": 18.5,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-25",
       "country": "United States",
       "tournament": "World Cup",

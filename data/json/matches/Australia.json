@@ -90,6 +90,25 @@
       "type": "fixture"
     },
     {
+      "date": "2026-07-03",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Australia",
+      "team2": "Egypt",
+      "original_team1": "Australia",
+      "original_team2": "Egypt",
+      "flag1": "australia.png",
+      "flag2": "egypt.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5272,
+      "rating2": 5185,
+      "rating_ev": 0,
+      "rank": 28,
+      "win_prob": 59.5,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-25",
       "country": "United States",
       "tournament": "World Cup",

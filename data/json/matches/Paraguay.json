@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-06-29",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Paraguay",
+      "team2": "Germany",
+      "original_team1": "Paraguay",
+      "original_team2": "Germany",
+      "flag1": "paraguay.png",
+      "flag2": "germany.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5303,
+      "rating2": 5571,
+      "rating_ev": 0,
+      "rank": 25,
+      "win_prob": 23.7,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-25",
       "country": "United States",
       "tournament": "World Cup",

@@ -1,18 +1,18 @@
 {
   "team": "New Zealand",
   "stats": {
-    "matches_played": 443,
+    "matches_played": 444,
     "wins": 181,
     "draws": 80,
-    "losses": 182,
-    "goals_for": 770,
-    "goals_against": 655,
-    "goal_difference": 115,
-    "win_percentage": 40.9,
-    "avg_points": 1.41,
+    "losses": 183,
+    "goals_for": 771,
+    "goals_against": 660,
+    "goal_difference": 111,
+    "win_percentage": 40.8,
+    "avg_points": 1.4,
     "best_rank": 38,
     "worst_rank": 117,
-    "avg_rank": 81.77,
+    "avg_rank": 81.74,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Fiji",
@@ -27,9 +27,9 @@
     },
     "home_matches": 135,
     "away_matches": 189,
-    "neutral_matches": 119,
+    "neutral_matches": 120,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2026-06-21"
+    "last_match_date": "2026-06-26"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "Belgium",
       "flag1": "new_zealand.png",
       "flag2": "belgium.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5068,
-      "rating2": 5460,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 5038,
+      "rating2": 5490,
+      "rating_ev": -30,
       "rank": 66,
       "win_prob": 15.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-21",
