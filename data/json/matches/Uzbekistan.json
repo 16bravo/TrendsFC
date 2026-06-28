@@ -1,15 +1,15 @@
 {
   "team": "Uzbekistan",
   "stats": {
-    "matches_played": 367,
+    "matches_played": 368,
     "wins": 178,
     "draws": 75,
-    "losses": 114,
-    "goals_for": 634,
-    "goals_against": 409,
-    "goal_difference": 225,
-    "win_percentage": 48.5,
-    "avg_points": 1.66,
+    "losses": 115,
+    "goals_for": 635,
+    "goals_against": 412,
+    "goal_difference": 223,
+    "win_percentage": 48.4,
+    "avg_points": 1.65,
     "best_rank": 38,
     "worst_rank": 98,
     "avg_rank": 65.72,
@@ -27,9 +27,9 @@
     },
     "home_matches": 129,
     "away_matches": 129,
-    "neutral_matches": 109,
+    "neutral_matches": 110,
     "first_match_date": "1992-06-17",
-    "last_match_date": "2026-06-23"
+    "last_match_date": "2026-06-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5073,
+      "rating1": 5049,
       "rating2": 4788,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 77.6,
+      "rank": 65,
+      "win_prob": 75.8,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "north_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5073,
+      "rating1": 5049,
       "rating2": 4773,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 78.7,
+      "rank": 65,
+      "win_prob": 76.9,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "jordan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5073,
-      "rating2": 5097,
+      "rating1": 5049,
+      "rating2": 5100,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 47.4,
+      "rank": 65,
+      "win_prob": 44.4,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "DR Congo",
       "flag1": "uzbekistan.png",
       "flag2": "dr_congo.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5073,
-      "rating2": 5140,
-      "rating_ev": 0,
-      "rank": 63,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 5049,
+      "rating2": 5164,
+      "rating_ev": -24,
+      "rank": 65,
       "win_prob": 42.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-23",

@@ -1,15 +1,15 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1109,
-    "wins": 611,
+    "matches_played": 1110,
+    "wins": 612,
     "draws": 268,
     "losses": 230,
-    "goals_for": 2106,
-    "goals_against": 1129,
-    "goal_difference": 977,
+    "goals_for": 2109,
+    "goals_against": 1130,
+    "goal_difference": 979,
     "win_percentage": 55.1,
-    "avg_points": 1.89,
+    "avg_points": 1.9,
     "best_rank": 1,
     "worst_rank": 27,
     "avg_rank": 6.38,
@@ -27,9 +27,9 @@
     },
     "home_matches": 381,
     "away_matches": 416,
-    "neutral_matches": 312,
+    "neutral_matches": 313,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-06-22"
+    "last_match_date": "2026-06-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "cape_verde.png",
       "score1": "",
       "score2": "",
-      "rating1": 5635,
+      "rating1": 5632,
       "rating2": 5070,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 91.7,
+      "win_prob": 91.6,
       "type": "fixture"
     },
     {
@@ -61,14 +61,14 @@
       "original_team2": "Jordan",
       "flag1": "argentina.png",
       "flag2": "jordan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5635,
-      "rating2": 5097,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 5632,
+      "rating2": 5100,
+      "rating_ev": -3,
       "rank": 2,
       "win_prob": 90.8,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-22",

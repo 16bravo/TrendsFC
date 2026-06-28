@@ -33,6 +33,25 @@
   },
   "matches": [
     {
+      "date": "2026-06-30",
+      "country": "Mexico",
+      "tournament": "World Cup",
+      "team1": "Ecuador",
+      "team2": "Mexico",
+      "original_team1": "Ecuador",
+      "original_team2": "Mexico",
+      "flag1": "ecuador.png",
+      "flag2": "mexico.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5385,
+      "rating2": 5363,
+      "rating_ev": 0,
+      "rank": 15,
+      "win_prob": 41.5,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-25",
       "country": "United States",
       "tournament": "World Cup",

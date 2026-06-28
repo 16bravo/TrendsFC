@@ -1,18 +1,18 @@
 {
   "team": "Jordan",
   "stats": {
-    "matches_played": 565,
+    "matches_played": 566,
     "wins": 199,
     "draws": 154,
-    "losses": 212,
-    "goals_for": 705,
-    "goals_against": 686,
-    "goal_difference": 19,
+    "losses": 213,
+    "goals_for": 706,
+    "goals_against": 689,
+    "goal_difference": 17,
     "win_percentage": 35.2,
     "avg_points": 1.33,
     "best_rank": 52,
     "worst_rank": 141,
-    "avg_rank": 91.0,
+    "avg_rank": 90.94,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Nepal",
@@ -27,9 +27,9 @@
     },
     "home_matches": 194,
     "away_matches": 178,
-    "neutral_matches": 193,
+    "neutral_matches": 194,
     "first_match_date": "1953-08-01",
-    "last_match_date": "2026-06-22"
+    "last_match_date": "2026-06-27"
   },
   "matches": [
     {
@@ -44,11 +44,11 @@
       "flag2": "north_korea.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
+      "rating1": 5100,
       "rating2": 4773,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 80.4,
+      "rank": 59,
+      "win_prob": 80.6,
       "type": "fixture"
     },
     {
@@ -63,11 +63,11 @@
       "flag2": "bahrain.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
+      "rating1": 5100,
       "rating2": 4788,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 79.4,
+      "rank": 59,
+      "win_prob": 79.6,
       "type": "fixture"
     },
     {
@@ -82,11 +82,11 @@
       "flag2": "uzbekistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5097,
-      "rating2": 5073,
+      "rating1": 5100,
+      "rating2": 5049,
       "rating_ev": 0,
-      "rank": 60,
-      "win_prob": 52.6,
+      "rank": 59,
+      "win_prob": 55.6,
       "type": "fixture"
     },
     {
@@ -99,14 +99,14 @@
       "original_team2": "Argentina",
       "flag1": "jordan.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5097,
-      "rating2": 5635,
-      "rating_ev": 0,
-      "rank": 60,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 5100,
+      "rating2": 5632,
+      "rating_ev": 3,
+      "rank": 59,
       "win_prob": 9.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-22",

@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 601,
+    "matches_played": 602,
     "wins": 200,
     "draws": 146,
-    "losses": 255,
+    "losses": 256,
     "goals_for": 751,
-    "goals_against": 921,
-    "goal_difference": -170,
-    "win_percentage": 33.3,
+    "goals_against": 923,
+    "goal_difference": -172,
+    "win_percentage": 33.2,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 84.89,
+    "avg_rank": 84.85,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 203,
     "away_matches": 231,
-    "neutral_matches": 167,
+    "neutral_matches": 168,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-06-23"
+    "last_match_date": "2026-06-27"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "England",
       "flag1": "panama.png",
       "flag2": "england.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5082,
-      "rating2": 5547,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5081,
+      "rating2": 5548,
+      "rating_ev": -1,
       "rank": 62,
       "win_prob": 11.9,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-23",

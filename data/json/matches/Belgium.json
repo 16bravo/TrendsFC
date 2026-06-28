@@ -147,6 +147,25 @@
       "type": "fixture"
     },
     {
+      "date": "2026-07-01",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Belgium",
+      "team2": "Senegal",
+      "original_team1": "Belgium",
+      "original_team2": "Senegal",
+      "flag1": "belgium.png",
+      "flag2": "senegal.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5490,
+      "rating2": 5349,
+      "rating_ev": 0,
+      "rank": 11,
+      "win_prob": 65.0,
+      "type": "fixture"
+    },
+    {
       "date": "2026-06-26",
       "country": "Canada",
       "tournament": "World Cup",

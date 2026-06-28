@@ -45,10 +45,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5654,
-      "rating2": 5547,
+      "rating2": 5548,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 71.3,
+      "win_prob": 71.2,
       "type": "fixture"
     },
     {
@@ -83,10 +83,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5654,
-      "rating2": 5381,
+      "rating2": 5378,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 68.0,
+      "win_prob": 68.3,
       "type": "fixture"
     },
     {
@@ -121,10 +121,10 @@
       "score1": "",
       "score2": "",
       "rating1": 5654,
-      "rating2": 5381,
+      "rating2": 5378,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 83.6,
+      "win_prob": 83.8,
       "type": "fixture"
     },
     {
@@ -140,10 +140,29 @@
       "score1": "",
       "score2": "",
       "rating1": 5654,
-      "rating2": 5547,
+      "rating2": 5548,
       "rating_ev": 0,
       "rank": 1,
-      "win_prob": 50.8,
+      "win_prob": 50.7,
+      "type": "fixture"
+    },
+    {
+      "date": "2026-07-02",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Spain",
+      "team2": "Austria",
+      "original_team1": "Spain",
+      "original_team2": "Austria",
+      "flag1": "spain.png",
+      "flag2": "austria.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5654,
+      "rating2": 5360,
+      "rating_ev": 0,
+      "rank": 1,
+      "win_prob": 78.3,
       "type": "fixture"
     },
     {
