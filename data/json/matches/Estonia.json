@@ -49,7 +49,11 @@
       "rating_ev": 0,
       "rank": 103,
       "win_prob": 50.3,
-      "type": "fixture"
+      "type": "fixture",
+      "points_off": 4805,
+      "points_def": 4667,
+      "ranking_off": 126,
+      "ranking_def": 129
     },
     {
       "date": "2026-11-13",
@@ -68,7 +72,11 @@
       "rating_ev": 0,
       "rank": 103,
       "win_prob": 28.1,
-      "type": "fixture"
+      "type": "fixture",
+      "points_off": 4805,
+      "points_def": 4667,
+      "ranking_off": 126,
+      "ranking_def": 129
     },
     {
       "date": "2026-10-06",
@@ -87,7 +95,11 @@
       "rating_ev": 0,
       "rank": 103,
       "win_prob": 32.8,
-      "type": "fixture"
+      "type": "fixture",
+      "points_off": 4805,
+      "points_def": 4667,
+      "ranking_off": 126,
+      "ranking_def": 129
     },
     {
       "date": "2026-10-03",
@@ -106,7 +118,11 @@
       "rating_ev": 0,
       "rank": 103,
       "win_prob": 48.4,
-      "type": "fixture"
+      "type": "fixture",
+      "points_off": 4805,
+      "points_def": 4667,
+      "ranking_off": 126,
+      "ranking_def": 129
     },
     {
       "date": "2026-09-29",
@@ -125,7 +141,11 @@
       "rating_ev": 0,
       "rank": 103,
       "win_prob": 29.6,
-      "type": "fixture"
+      "type": "fixture",
+      "points_off": 4805,
+      "points_def": 4667,
+      "ranking_off": 126,
+      "ranking_def": 129
     },
     {
       "date": "2026-09-26",
@@ -144,7 +164,11 @@
       "rating_ev": 0,
       "rank": 103,
       "win_prob": 16.9,
-      "type": "fixture"
+      "type": "fixture",
+      "points_off": 4805,
+      "points_def": 4667,
+      "ranking_off": 126,
+      "ranking_def": 129
     },
     {
       "date": "2026-06-09",
@@ -163,7 +187,11 @@
       "rating_ev": 7,
       "rank": 103,
       "win_prob": 62.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4805.168981098863,
+      "points_def": 4667,
+      "ranking_off": 124,
+      "ranking_def": 131
     },
     {
       "date": "2026-06-06",
@@ -182,7 +210,11 @@
       "rating_ev": 15,
       "rank": 103,
       "win_prob": 48.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.676113580936,
+      "points_def": 4667.912865005957,
+      "ranking_off": 121,
+      "ranking_def": 131
     },
     {
       "date": "2026-03-30",
@@ -201,7 +233,11 @@
       "rating_ev": -23,
       "rank": 109,
       "win_prob": 40.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4831.180389027903,
+      "points_def": 4648.528019139128,
+      "ranking_off": 113,
+      "ranking_def": 135
     },
     {
       "date": "2026-03-27",
@@ -220,7 +256,11 @@
       "rating_ev": -3,
       "rank": 104,
       "win_prob": 55.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4831.180389027903,
+      "points_def": 4653.028446456238,
+      "ranking_off": 115,
+      "ranking_def": 135
     },
     {
       "date": "2025-11-18",
@@ -239,7 +279,11 @@
       "rating_ev": 16,
       "rank": 103,
       "win_prob": 39.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4840.582023022856,
+      "points_def": 4639.273252007383,
+      "ranking_off": 115,
+      "ranking_def": 137
     },
     {
       "date": "2025-11-13",
@@ -258,7 +302,11 @@
       "rating_ev": 4,
       "rank": 108,
       "win_prob": 3.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4806.13210893123,
+      "points_def": 4635.449682682984,
+      "ranking_off": 125,
+      "ranking_def": 139
     },
     {
       "date": "2025-10-14",
@@ -277,7 +325,11 @@
       "rating_ev": -14,
       "rank": 110,
       "win_prob": 73.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4788.183390982512,
+      "points_def": 4645.675785580173,
+      "ranking_off": 134,
+      "ranking_def": 137
     },
     {
       "date": "2025-10-11",
@@ -296,7 +348,11 @@
       "rating_ev": 0,
       "rank": 104,
       "win_prob": 11.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4806.070122953985,
+      "points_def": 4663.624503528891,
+      "ranking_off": 124,
+      "ranking_def": 134
     },
     {
       "date": "2025-09-09",
@@ -315,7 +371,11 @@
       "rating_ev": -7,
       "rank": 107,
       "win_prob": 75.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4809.099374827932,
+      "points_def": 4679.8937543003685,
+      "ranking_off": 124,
+      "ranking_def": 129
     },
     {
       "date": "2025-09-05",
@@ -334,7 +394,11 @@
       "rating_ev": -29,
       "rank": 104,
       "win_prob": 6.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4836.328505048293,
+      "points_def": 4679.8937543003685,
+      "ranking_off": 114,
+      "ranking_def": 130
     },
     {
       "date": "2025-06-09",
@@ -353,7 +417,11 @@
       "rating_ev": 14,
       "rank": 96,
       "win_prob": 11.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4836.328505048293,
+      "points_def": 4710.738719006231,
+      "ranking_off": 116,
+      "ranking_def": 126
     },
     {
       "date": "2025-06-06",
@@ -372,7 +440,11 @@
       "rating_ev": -20,
       "rank": 100,
       "win_prob": 37.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4857.871717054974,
+      "points_def": 4688.783937439378,
+      "ranking_off": 109,
+      "ranking_def": 128
     },
     {
       "date": "2025-03-25",
@@ -391,7 +463,11 @@
       "rating_ev": 15,
       "rank": 96,
       "win_prob": 46.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4872.726554805453,
+      "points_def": 4710.793969483892,
+      "ranking_off": 100,
+      "ranking_def": 120
     },
     {
       "date": "2025-03-22",
@@ -410,7 +486,11 @@
       "rating_ev": 0,
       "rank": 103,
       "win_prob": 25.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4845.795872508239,
+      "points_def": 4720.642115064461,
+      "ranking_off": 108,
+      "ranking_def": 118
     },
     {
       "date": "2024-11-19",
@@ -429,7 +509,11 @@
       "rating_ev": 14,
       "rank": 100,
       "win_prob": 11.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4852.492455847176,
+      "points_def": 4720.219930924687,
+      "ranking_off": 105,
+      "ranking_def": 117
     },
     {
       "date": "2024-11-16",
@@ -448,7 +532,11 @@
       "rating_ev": 8,
       "rank": 102,
       "win_prob": 35.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4852.492455847176,
+      "points_def": 4696.607623863609,
+      "ranking_off": 105,
+      "ranking_def": 125
     },
     {
       "date": "2024-10-14",
@@ -467,7 +555,11 @@
       "rating_ev": -24,
       "rank": 102,
       "win_prob": 22.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4872.551948699516,
+      "points_def": 4667.676005725031,
+      "ranking_off": 97,
+      "ranking_def": 137
     },
     {
       "date": "2024-10-11",
@@ -486,7 +578,11 @@
       "rating_ev": 27,
       "rank": 99,
       "win_prob": 52.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4897.554391931775,
+      "points_def": 4687.153017363385,
+      "ranking_off": 90,
+      "ranking_def": 130
     },
     {
       "date": "2024-09-08",
@@ -505,7 +601,11 @@
       "rating_ev": -12,
       "rank": 106,
       "win_prob": 10.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4876.811586341159,
+      "points_def": 4681.01553121704,
+      "ranking_off": 97,
+      "ranking_def": 135
     },
     {
       "date": "2024-09-05",
@@ -524,7 +624,11 @@
       "rating_ev": 2,
       "rank": 101,
       "win_prob": 24.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4876.811586341159,
+      "points_def": 4687.500552434191,
+      "ranking_off": 94,
+      "ranking_def": 133
     },
     {
       "date": "2024-06-11",
@@ -543,7 +647,11 @@
       "rating_ev": 5,
       "rank": 101,
       "win_prob": 39.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4899.052811045399,
+      "points_def": 4673.938133520214,
+      "ranking_off": 88,
+      "ranking_def": 133
     },
     {
       "date": "2024-06-08",
@@ -562,7 +670,11 @@
       "rating_ev": 36,
       "rank": 103,
       "win_prob": 59.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4881.104093096681,
+      "points_def": 4659.447942061889,
+      "ranking_off": 89,
+      "ranking_def": 140
     },
     {
       "date": "2024-06-04",
@@ -581,7 +693,11 @@
       "rating_ev": -10,
       "rank": 119,
       "win_prob": 7.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4850.319843852572,
+      "points_def": 4677.396660010607,
+      "ranking_off": 109,
+      "ranking_def": 135
     },
     {
       "date": "2024-03-26",
@@ -600,7 +716,11 @@
       "rating_ev": 5,
       "rank": 115,
       "win_prob": 14.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4850.319843852572,
+      "points_def": 4700.019988435173,
+      "ranking_off": 110,
+      "ranking_def": 127
     },
     {
       "date": "2024-03-21",
@@ -619,7 +739,11 @@
       "rating_ev": -26,
       "rank": 115,
       "win_prob": 11.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4832.371125903855,
+      "points_def": 4692.074352771873,
+      "ranking_off": 119,
+      "ranking_def": 131
     },
     {
       "date": "2024-01-12",
@@ -638,7 +762,11 @@
       "rating_ev": 5,
       "rank": 106,
       "win_prob": 13.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4814.422407955137,
+      "points_def": 4726.668165077216,
+      "ranking_off": 129,
+      "ranking_def": 115
     },
     {
       "date": "2023-11-19",
@@ -657,7 +785,11 @@
       "rating_ev": 3,
       "rank": 111,
       "win_prob": 9.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4796.473690006419,
+      "points_def": 4723.693996441163,
+      "ranking_off": 138,
+      "ranking_def": 116
     },
     {
       "date": "2023-11-16",
@@ -676,7 +808,11 @@
       "rating_ev": -4,
       "rank": 110,
       "win_prob": 15.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4796.473690006419,
+      "points_def": 4710.423209162641,
+      "ranking_off": 136,
+      "ranking_def": 122
     },
     {
       "date": "2023-10-17",
@@ -695,7 +831,11 @@
       "rating_ev": -6,
       "rank": 108,
       "win_prob": 72.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4816.077728271347,
+      "points_def": 4714.489485827563,
+      "ranking_off": 127,
+      "ranking_def": 121
     },
     {
       "date": "2023-10-13",
@@ -714,7 +854,11 @@
       "rating_ev": -30,
       "rank": 107,
       "win_prob": 54.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4837.269750675094,
+      "points_def": 4732.438203776281,
+      "ranking_off": 117,
+      "ranking_def": 115
     },
     {
       "date": "2023-09-12",
@@ -733,7 +877,11 @@
       "rating_ev": -22,
       "rank": 100,
       "win_prob": 4.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4862.322488908069,
+      "points_def": 4748.8796207330615,
+      "ranking_off": 105,
+      "ranking_def": 106
     },
     {
       "date": "2023-09-09",
@@ -752,7 +900,11 @@
       "rating_ev": -50,
       "rank": 95,
       "win_prob": 26.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4862.322488908069,
+      "points_def": 4778.656283769208,
+      "ranking_off": 105,
+      "ranking_def": 91
     },
     {
       "date": "2023-06-20",
@@ -771,7 +923,11 @@
       "rating_ev": -13,
       "rank": 84,
       "win_prob": 11.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4884.75930589773,
+      "points_def": 4817.178195340892,
+      "ranking_off": 91,
+      "ranking_def": 71
     },
     {
       "date": "2023-06-17",
@@ -790,7 +946,11 @@
       "rating_ev": 3,
       "rank": 82,
       "win_prob": 44.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4903.939782244122,
+      "points_def": 4838.230844586839,
+      "ranking_off": 81,
+      "ranking_def": 64
     },
     {
       "date": "2023-03-27",
@@ -809,7 +969,11 @@
       "rating_ev": 12,
       "rank": 81,
       "win_prob": 12.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4906.285533476034,
+      "points_def": 4825.727921009791,
+      "ranking_off": 83,
+      "ranking_def": 71
     },
     {
       "date": "2023-03-23",
@@ -828,7 +992,11 @@
       "rating_ev": 7,
       "rank": 86,
       "win_prob": 10.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4888.3368155273165,
+      "points_def": 4818.18770659654,
+      "ranking_off": 88,
+      "ranking_def": 76
     },
     {
       "date": "2023-01-12",
@@ -847,7 +1015,11 @@
       "rating_ev": 15,
       "rank": 87,
       "win_prob": 23.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4888.3368155273165,
+      "points_def": 4798.815896610445,
+      "ranking_off": 86,
+      "ranking_def": 87
     },
     {
       "date": "2023-01-08",
@@ -866,7 +1038,11 @@
       "rating_ev": 3,
       "rank": 88,
       "win_prob": 40.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4870.388097578599,
+      "points_def": 4773.182786763131,
+      "ranking_off": 96,
+      "ranking_def": 96
     },
     {
       "date": "2022-11-19",
@@ -885,7 +1061,11 @@
       "rating_ev": 12,
       "rank": 89,
       "win_prob": 76.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4874.492060032035,
+      "points_def": 4763.614492267308,
+      "ranking_off": 92,
+      "ranking_def": 99
     },
     {
       "date": "2022-11-16",
@@ -904,7 +1084,11 @@
       "rating_ev": 4,
       "rank": 92,
       "win_prob": 41.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4874.2485153126845,
+      "points_def": 4763.614492267308,
+      "ranking_off": 91,
+      "ranking_def": 98
     },
     {
       "date": "2022-09-26",
@@ -923,7 +1107,11 @@
       "rating_ev": 20,
       "rank": 92,
       "win_prob": 92.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4856.299797363967,
+      "points_def": 4751.719853525241,
+      "ranking_off": 105,
+      "ranking_def": 107
     },
     {
       "date": "2022-09-23",
@@ -942,7 +1130,11 @@
       "rating_ev": -5,
       "rank": 98,
       "win_prob": 80.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4830.537773753148,
+      "points_def": 4751.719853525241,
+      "ranking_off": 117,
+      "ranking_def": 108
     },
     {
       "date": "2022-06-13",
@@ -961,7 +1153,11 @@
       "rating_ev": 7,
       "rank": 97,
       "win_prob": 24.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4831.779531535876,
+      "points_def": 4769.668571473959,
+      "ranking_off": 121,
+      "ranking_def": 95
     },
     {
       "date": "2022-06-09",
@@ -980,7 +1176,11 @@
       "rating_ev": 9,
       "rank": 100,
       "win_prob": 57.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4831.779531535876,
+      "points_def": 4742.661747582358,
+      "ranking_off": 119,
+      "ranking_def": 109
     },
     {
       "date": "2022-06-05",
@@ -999,7 +1199,11 @@
       "rating_ev": -11,
       "rank": 98,
       "win_prob": 4.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4816.840144684156,
+      "points_def": 4732.274020676112,
+      "ranking_off": 129,
+      "ranking_def": 111
     },
     {
       "date": "2022-06-02",
@@ -1018,7 +1222,11 @@
       "rating_ev": -21,
       "rank": 97,
       "win_prob": 97.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4816.840144684156,
+      "points_def": 4764.918602807723,
+      "ranking_off": 132,
+      "ranking_def": 94
     },
     {
       "date": "2022-03-29",
@@ -1037,7 +1245,11 @@
       "rating_ev": -30,
       "rank": 93,
       "win_prob": 54.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4844.253549622821,
+      "points_def": 4764.918602807723,
+      "ranking_off": 114,
+      "ranking_def": 99
     },
     {
       "date": "2022-03-24",
@@ -1056,7 +1268,11 @@
       "rating_ev": -16,
       "rank": 87,
       "win_prob": 76.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4864.899644376941,
+      "points_def": 4775.84408582704,
+      "ranking_off": 103,
+      "ranking_def": 92
     },
     {
       "date": "2021-11-16",
@@ -1075,7 +1291,11 @@
       "rating_ev": 2,
       "rank": 82,
       "win_prob": 9.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4894.673082813315,
+      "points_def": 4775.84408582704,
+      "ranking_off": 85,
+      "ranking_def": 89
     },
     {
       "date": "2021-11-13",
@@ -1094,7 +1314,11 @@
       "rating_ev": 19,
       "rank": 83,
       "win_prob": 3.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4894.673082813315,
+      "points_def": 4766.031380095871,
+      "ranking_off": 85,
+      "ranking_def": 95
     },
     {
       "date": "2021-10-11",
@@ -1113,7 +1337,11 @@
       "rating_ev": 1,
       "rank": 85,
       "win_prob": 25.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4876.724364864597,
+      "points_def": 4756.558724356089,
+      "ranking_off": 95,
+      "ranking_def": 106
     },
     {
       "date": "2021-10-08",
@@ -1132,7 +1360,11 @@
       "rating_ev": 28,
       "rank": 88,
       "win_prob": 50.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4876.724364864597,
+      "points_def": 4749.62197132203,
+      "ranking_off": 95,
+      "ranking_def": 107
     },
     {
       "date": "2021-09-08",
@@ -1151,7 +1383,11 @@
       "rating_ev": 31,
       "rank": 96,
       "win_prob": 9.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4871.554871648633,
+      "points_def": 4727.264311636016,
+      "ranking_off": 98,
+      "ranking_def": 120
     },
     {
       "date": "2021-09-05",
@@ -1170,7 +1406,11 @@
       "rating_ev": -2,
       "rank": 101,
       "win_prob": 32.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4871.554871648633,
+      "points_def": 4696.517308330613,
+      "ranking_off": 99,
+      "ranking_def": 127
     },
     {
       "date": "2021-09-02",
@@ -1189,7 +1429,11 @@
       "rating_ev": 0,
       "rank": 101,
       "win_prob": 4.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4893.6269146980685,
+      "points_def": 4686.545941789258,
+      "ranking_off": 87,
+      "ranking_def": 127
     },
     {
       "date": "2021-06-10",
@@ -1208,7 +1452,11 @@
       "rating_ev": 8,
       "rank": 104,
       "win_prob": 61.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4865.05548612664,
+      "points_def": 4718.419364386771,
+      "ranking_off": 104,
+      "ranking_def": 120
     },
     {
       "date": "2021-06-04",
@@ -1227,7 +1475,11 @@
       "rating_ev": 20,
       "rank": 104,
       "win_prob": 12.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4864.3129762620965,
+      "points_def": 4736.368082335489,
+      "ranking_off": 104,
+      "ranking_def": 116
     },
     {
       "date": "2021-06-01",
@@ -1246,7 +1498,11 @@
       "rating_ev": 22,
       "rank": 110,
       "win_prob": 35.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4846.364258313379,
+      "points_def": 4702.792713235451,
+      "ranking_off": 113,
+      "ranking_def": 127
     },
     {
       "date": "2021-03-31",
@@ -1265,7 +1521,11 @@
       "rating_ev": 11,
       "rank": 116,
       "win_prob": 6.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4849.20036587993,
+      "points_def": 4674.144686712977,
+      "ranking_off": 109,
+      "ranking_def": 136
     },
     {
       "date": "2021-03-27",
@@ -1284,7 +1544,11 @@
       "rating_ev": -12,
       "rank": 119,
       "win_prob": 23.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4849.20036587993,
+      "points_def": 4647.518886286217,
+      "ranking_off": 107,
+      "ranking_def": 139
     },
     {
       "date": "2021-03-24",
@@ -1303,7 +1567,11 @@
       "rating_ev": -28,
       "rank": 114,
       "win_prob": 13.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.628937308502,
+      "points_def": 4674.463958576342,
+      "ranking_off": 118,
+      "ranking_def": 136
     },
     {
       "date": "2020-11-18",
@@ -1322,7 +1590,11 @@
       "rating_ev": 18,
       "rank": 105,
       "win_prob": 21.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4792.0575087370735,
+      "points_def": 4715.159488287497,
+      "ranking_off": 133,
+      "ranking_def": 123
     },
     {
       "date": "2020-11-15",
@@ -1341,7 +1613,11 @@
       "rating_ev": 8,
       "rank": 110,
       "win_prob": 16.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4792.0575087370735,
+      "points_def": 4686.333508110441,
+      "ranking_off": 136,
+      "ranking_def": 131
     },
     {
       "date": "2020-11-11",
@@ -1360,7 +1636,11 @@
       "rating_ev": -3,
       "rank": 113,
       "win_prob": 3.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4774.108790788356,
+      "points_def": 4680.2395379019445,
+      "ranking_off": 139,
+      "ranking_def": 135
     },
     {
       "date": "2020-10-14",
@@ -1379,7 +1659,11 @@
       "rating_ev": 1,
       "rank": 111,
       "win_prob": 49.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4774.108790788356,
+      "points_def": 4697.518777397237,
+      "ranking_off": 139,
+      "ranking_def": 130
     },
     {
       "date": "2020-10-11",
@@ -1398,7 +1682,11 @@
       "rating_ev": 11,
       "rank": 112,
       "win_prob": 31.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4789.303301500325,
+      "points_def": 4686.099717835997,
+      "ranking_off": 136,
+      "ranking_def": 132
     },
     {
       "date": "2020-10-07",
@@ -1417,7 +1705,11 @@
       "rating_ev": -18,
       "rank": 112,
       "win_prob": 65.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4762.473197380569,
+      "points_def": 4711.862111513394,
+      "ranking_off": 142,
+      "ranking_def": 124
     },
     {
       "date": "2020-09-08",
@@ -1436,7 +1728,11 @@
       "rating_ev": -19,
       "rank": 109,
       "win_prob": 34.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4777.598684980164,
+      "points_def": 4747.455331852377,
+      "ranking_off": 139,
+      "ranking_def": 107
     },
     {
       "date": "2020-09-05",
@@ -1455,7 +1751,11 @@
       "rating_ev": -6,
       "rank": 105,
       "win_prob": 36.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4797.412717991108,
+      "points_def": 4743.133159056764,
+      "ranking_off": 132,
+      "ranking_def": 112
     },
     {
       "date": "2019-11-19",
@@ -1474,7 +1774,11 @@
       "rating_ev": -20,
       "rank": 105,
       "win_prob": 3.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.074743477827,
+      "points_def": 4736.8971272618655,
+      "ranking_off": 123,
+      "ranking_def": 114
     },
     {
       "date": "2019-11-14",
@@ -1493,7 +1797,11 @@
       "rating_ev": 10,
       "rank": 101,
       "win_prob": 7.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.074743477827,
+      "points_def": 4763.86492483386,
+      "ranking_off": 120,
+      "ranking_def": 100
     },
     {
       "date": "2019-10-13",
@@ -1512,7 +1820,11 @@
       "rating_ev": -9,
       "rank": 101,
       "win_prob": 8.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.074743477827,
+      "points_def": 4740.772992188024,
+      "ranking_off": 121,
+      "ranking_def": 114
     },
     {
       "date": "2019-10-10",
@@ -1531,7 +1843,11 @@
       "rating_ev": 14,
       "rank": 101,
       "win_prob": 26.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.074743477827,
+      "points_def": 4756.984281107333,
+      "ranking_off": 120,
+      "ranking_def": 106
     },
     {
       "date": "2019-09-09",
@@ -1550,7 +1866,11 @@
       "rating_ev": -20,
       "rank": 106,
       "win_prob": 8.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.074743477827,
+      "points_def": 4730.233842055093,
+      "ranking_off": 123,
+      "ranking_def": 122
     },
     {
       "date": "2019-09-06",
@@ -1569,7 +1889,11 @@
       "rating_ev": -15,
       "rank": 101,
       "win_prob": 51.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.074743477827,
+      "points_def": 4757.016507649687,
+      "ranking_off": 123,
+      "ranking_def": 110
     },
     {
       "date": "2019-06-11",
@@ -1588,7 +1912,11 @@
       "rating_ev": -55,
       "rank": 93,
       "win_prob": 5.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4828.2901525267325,
+      "points_def": 4785.587936221115,
+      "ranking_off": 117,
+      "ranking_def": 91
     },
     {
       "date": "2019-06-08",
@@ -1607,7 +1935,11 @@
       "rating_ev": -7,
       "rank": 82,
       "win_prob": 37.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4828.2901525267325,
+      "points_def": 4831.146118869238,
+      "ranking_off": 117,
+      "ranking_def": 72
     },
     {
       "date": "2019-03-26",
@@ -1626,7 +1958,11 @@
       "rating_ev": -8,
       "rank": 81,
       "win_prob": 89.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4832.014200700396,
+      "points_def": 4859.717547440667,
+      "ranking_off": 112,
+      "ranking_def": 63
     },
     {
       "date": "2019-03-21",
@@ -1645,7 +1981,11 @@
       "rating_ev": -11,
       "rank": 82,
       "win_prob": 22.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4854.995954162948,
+      "points_def": 4840.150355899687,
+      "ranking_off": 103,
+      "ranking_def": 65
     },
     {
       "date": "2019-01-15",
@@ -1664,7 +2004,11 @@
       "rating_ev": 6,
       "rank": 82,
       "win_prob": 29.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4854.995954162948,
+      "points_def": 4848.444851733708,
+      "ranking_off": 104,
+      "ranking_def": 64
     },
     {
       "date": "2019-01-11",
@@ -1683,7 +2027,11 @@
       "rating_ev": 13,
       "rank": 82,
       "win_prob": 30.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4875.645897966637,
+      "points_def": 4822.011487524997,
+      "ranking_off": 92,
+      "ranking_def": 74
     },
     {
       "date": "2018-11-18",
@@ -1702,7 +2050,11 @@
       "rating_ev": 32,
       "rank": 83,
       "win_prob": 20.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4847.074469395208,
+      "points_def": 4812.583683902888,
+      "ranking_off": 104,
+      "ranking_def": 78
     },
     {
       "date": "2018-11-15",
@@ -1721,7 +2073,11 @@
       "rating_ev": -15,
       "rank": 89,
       "win_prob": 27.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4829.1257514464905,
+      "points_def": 4786.154473580497,
+      "ranking_off": 112,
+      "ranking_def": 93
     },
     {
       "date": "2018-10-15",
@@ -1740,7 +2096,11 @@
       "rating_ev": 1,
       "rank": 85,
       "win_prob": 47.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4829.1257514464905,
+      "points_def": 4788.338663907806,
+      "ranking_off": 114,
+      "ranking_def": 86
     },
     {
       "date": "2018-10-12",
@@ -1759,7 +2119,11 @@
       "rating_ev": -8,
       "rank": 86,
       "win_prob": 40.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4804.541192154139,
+      "points_def": 4823.931884246789,
+      "ranking_off": 126,
+      "ranking_def": 73
     },
     {
       "date": "2018-09-11",
@@ -1778,7 +2142,11 @@
       "rating_ev": 4,
       "rank": 83,
       "win_prob": 21.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4825.816589543225,
+      "points_def": 4841.880602195507,
+      "ranking_off": 114,
+      "ranking_def": 67
     },
     {
       "date": "2018-09-08",
@@ -1797,7 +2165,11 @@
       "rating_ev": -8,
       "rank": 84,
       "win_prob": 39.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4825.816589543225,
+      "points_def": 4827.487484943767,
+      "ranking_off": 117,
+      "ranking_def": 72
     },
     {
       "date": "2018-06-09",
@@ -1816,7 +2188,11 @@
       "rating_ev": -8,
       "rank": 83,
       "win_prob": 29.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4845.376354529234,
+      "points_def": 4845.436202892484,
+      "ranking_off": 110,
+      "ranking_def": 65
     },
     {
       "date": "2018-06-02",
@@ -1835,7 +2211,11 @@
       "rating_ev": -15,
       "rank": 83,
       "win_prob": 50.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4827.427636580516,
+      "points_def": 4872.964620099075,
+      "ranking_off": 118,
+      "ranking_def": 55
     },
     {
       "date": "2018-05-30",
@@ -1854,7 +2234,11 @@
       "rating_ev": 18,
       "rank": 82,
       "win_prob": 67.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4846.654915361078,
+      "points_def": 4866.287323014796,
+      "ranking_off": 112,
+      "ranking_def": 60
     },
     {
       "date": "2018-03-27",
@@ -1873,7 +2257,11 @@
       "rating_ev": -7,
       "rank": 83,
       "win_prob": 27.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4839.928752243187,
+      "points_def": 4866.287323014796,
+      "ranking_off": 110,
+      "ranking_def": 58
     },
     {
       "date": "2018-03-24",
@@ -1892,7 +2280,11 @@
       "rating_ev": 4,
       "rank": 84,
       "win_prob": 35.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4839.928752243187,
+      "points_def": 4871.569873073485,
+      "ranking_off": 114,
+      "ranking_def": 59
     },
     {
       "date": "2018-01-07",
@@ -1911,7 +2303,11 @@
       "rating_ev": 14,
       "rank": 84,
       "win_prob": 11.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4859.998388863847,
+      "points_def": 4842.7066821173175,
+      "ranking_off": 109,
+      "ranking_def": 65
     },
     {
       "date": "2017-11-26",
@@ -1930,7 +2326,11 @@
       "rating_ev": -9,
       "rank": 87,
       "win_prob": 78.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4842.049670915129,
+      "points_def": 4825.240268997613,
+      "ranking_off": 117,
+      "ranking_def": 74
     },
     {
       "date": "2017-11-23",
@@ -1949,7 +2349,11 @@
       "rating_ev": -11,
       "rank": 86,
       "win_prob": 93.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4855.60973604964,
+      "points_def": 4843.188986946331,
+      "ranking_off": 113,
+      "ranking_def": 65
     },
     {
       "date": "2017-11-19",
@@ -1968,7 +2372,11 @@
       "rating_ev": -1,
       "rank": 85,
       "win_prob": 89.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4876.745706566955,
+      "points_def": 4843.188986946331,
+      "ranking_off": 99,
+      "ranking_def": 65
     },
     {
       "date": "2017-11-12",
@@ -1987,7 +2395,11 @@
       "rating_ev": 18,
       "rank": 85,
       "win_prob": 58.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4875.783829136624,
+      "points_def": 4843.188986946331,
+      "ranking_off": 98,
+      "ranking_def": 65
     },
     {
       "date": "2017-11-09",
@@ -2006,7 +2418,11 @@
       "rating_ev": -13,
       "rank": 86,
       "win_prob": 25.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4848.64794746958,
+      "points_def": 4820.896886002294,
+      "ranking_off": 114,
+      "ranking_def": 74
     },
     {
       "date": "2017-10-10",
@@ -2025,7 +2441,11 @@
       "rating_ev": -2,
       "rank": 85,
       "win_prob": 29.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4848.64794746958,
+      "points_def": 4843.742668582026,
+      "ranking_off": 115,
+      "ranking_def": 66
     },
     {
       "date": "2017-10-07",
@@ -2044,7 +2464,11 @@
       "rating_ev": 38,
       "rank": 86,
       "win_prob": 94.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4856.73829134575,
+      "points_def": 4854.463175338556,
+      "ranking_off": 112,
+      "ranking_def": 64
     },
     {
       "date": "2017-09-03",
@@ -2063,7 +2487,11 @@
       "rating_ev": 11,
       "rank": 92,
       "win_prob": 56.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4821.736000063032,
+      "points_def": 4854.463175338556,
+      "ranking_off": 123,
+      "ranking_def": 64
     },
     {
       "date": "2017-08-31",
@@ -2082,7 +2510,11 @@
       "rating_ev": 24,
       "rank": 94,
       "win_prob": 14.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4835.250875614455,
+      "points_def": 4854.463175338556,
+      "ranking_off": 121,
+      "ranking_def": 61
     },
     {
       "date": "2017-06-12",
@@ -2101,7 +2533,11 @@
       "rating_ev": 11,
       "rank": 98,
       "win_prob": 35.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4835.250875614455,
+      "points_def": 4827.224388815221,
+      "ranking_off": 120,
+      "ranking_def": 71
     },
     {
       "date": "2017-06-09",
@@ -2120,7 +2556,11 @@
       "rating_ev": 2,
       "rank": 100,
       "win_prob": 10.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4806.679447043027,
+      "points_def": 4815.853695297534,
+      "ranking_off": 131,
+      "ranking_def": 76
     },
     {
       "date": "2017-03-28",
@@ -2139,7 +2579,11 @@
       "rating_ev": 35,
       "rank": 100,
       "win_prob": 10.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4826.647826624451,
+      "points_def": 4817.89925339871,
+      "ranking_off": 126,
+      "ranking_def": 75
     },
     {
       "date": "2017-03-25",
@@ -2158,7 +2602,11 @@
       "rating_ev": 14,
       "rank": 112,
       "win_prob": 25.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4791.054606285468,
+      "points_def": 4792.935691587417,
+      "ranking_off": 138,
+      "ranking_def": 87
     },
     {
       "date": "2016-11-22",
@@ -2177,7 +2625,11 @@
       "rating_ev": 1,
       "rank": 114,
       "win_prob": 68.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4791.054606285468,
+      "points_def": 4766.690817012976,
+      "ranking_off": 138,
+      "ranking_def": 104
     },
     {
       "date": "2016-11-19",
@@ -2196,7 +2648,11 @@
       "rating_ev": -5,
       "rank": 114,
       "win_prob": 66.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4799.047721409023,
+      "points_def": 4746.060070415953,
+      "ranking_off": 132,
+      "ranking_def": 111
     },
     {
       "date": "2016-11-13",
@@ -2215,7 +2671,11 @@
       "rating_ev": -44,
       "rank": 113,
       "win_prob": 4.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4801.16078739851,
+      "points_def": 4740.537010814604,
+      "ranking_off": 132,
+      "ranking_def": 111
     },
     {
       "date": "2016-10-10",
@@ -2234,7 +2694,11 @@
       "rating_ev": -18,
       "rank": 103,
       "win_prob": 33.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4783.212069449793,
+      "points_def": 4785.375384087769,
+      "ranking_off": 143,
+      "ranking_def": 89
     },
     {
       "date": "2016-10-07",
@@ -2253,7 +2717,11 @@
       "rating_ev": 14,
       "rank": 99,
       "win_prob": 94.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4783.212069449793,
+      "points_def": 4800.5257697807365,
+      "ranking_off": 143,
+      "ranking_def": 87
     },
     {
       "date": "2016-09-06",
@@ -2272,7 +2740,11 @@
       "rating_ev": -36,
       "rank": 103,
       "win_prob": 10.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4770.468171762766,
+      "points_def": 4800.5257697807365,
+      "ranking_off": 144,
+      "ranking_def": 87
     },
     {
       "date": "2016-08-31",
@@ -2291,7 +2763,11 @@
       "rating_ev": -7,
       "rank": 98,
       "win_prob": 73.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4770.468171762766,
+      "points_def": 4833.654378852158,
+      "ranking_off": 144,
+      "ranking_def": 74
     },
     {
       "date": "2016-06-08",
@@ -2310,7 +2786,11 @@
       "rating_ev": -27,
       "rank": 97,
       "win_prob": 8.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4783.618170065365,
+      "points_def": 4851.603096800875,
+      "ranking_off": 141,
+      "ranking_def": 68
     },
     {
       "date": "2016-06-04",
@@ -2329,7 +2809,11 @@
       "rating_ev": -2,
       "rank": 91,
       "win_prob": 53.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4783.618170065365,
+      "points_def": 4895.886552031666,
+      "ranking_off": 142,
+      "ranking_def": 47
     },
     {
       "date": "2016-06-01",
@@ -2348,7 +2832,11 @@
       "rating_ev": -2,
       "rank": 91,
       "win_prob": 91.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4805.966200329923,
+      "points_def": 4895.886552031666,
+      "ranking_off": 130,
+      "ranking_def": 48
     },
     {
       "date": "2016-05-29",
@@ -2367,7 +2855,11 @@
       "rating_ev": -27,
       "rank": 90,
       "win_prob": 48.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4815.311827053339,
+      "points_def": 4895.886552031666,
+      "ranking_off": 126,
+      "ranking_def": 47
     },
     {
       "date": "2016-03-29",
@@ -2386,7 +2878,11 @@
       "rating_ev": -1,
       "rank": 84,
       "win_prob": 29.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4815.311827053339,
+      "points_def": 4911.055755986427,
+      "ranking_off": 126,
+      "ranking_def": 47
     },
     {
       "date": "2016-03-24",
@@ -2405,7 +2901,11 @@
       "rating_ev": 2,
       "rank": 86,
       "win_prob": 44.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4815.311827053339,
+      "points_def": 4906.2808126698565,
+      "ranking_off": 126,
+      "ranking_def": 45
     },
     {
       "date": "2016-01-06",
@@ -2424,7 +2924,11 @@
       "rating_ev": 9,
       "rank": 87,
       "win_prob": 20.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4836.832409615446,
+      "points_def": 4906.2808126698565,
+      "ranking_off": 117,
+      "ranking_def": 41
     },
     {
       "date": "2015-11-17",
@@ -2443,7 +2947,11 @@
       "rating_ev": 5,
       "rank": 88,
       "win_prob": 90.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4818.883691666728,
+      "points_def": 4895.372219584867,
+      "ranking_off": 127,
+      "ranking_def": 48
     },
     {
       "date": "2015-11-11",
@@ -2462,7 +2970,11 @@
       "rating_ev": 21,
       "rank": 87,
       "win_prob": 48.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4801.514118479159,
+      "points_def": 4895.372219584867,
+      "ranking_off": 135,
+      "ranking_def": 48
     },
     {
       "date": "2015-10-12",
@@ -2481,7 +2993,11 @@
       "rating_ev": 4,
       "rank": 93,
       "win_prob": 21.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4774.185983403868,
+      "points_def": 4895.372219584867,
+      "ranking_off": 142,
+      "ranking_def": 48
     },
     {
       "date": "2015-10-09",
@@ -2500,7 +3016,11 @@
       "rating_ev": 11,
       "rank": 94,
       "win_prob": 5.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4774.185983403868,
+      "points_def": 4886.733499287258,
+      "ranking_off": 142,
+      "ranking_def": 56
     },
     {
       "date": "2015-09-08",
@@ -2519,7 +3039,11 @@
       "rating_ev": 8,
       "rank": 98,
       "win_prob": 16.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4774.185983403868,
+      "points_def": 4879.114671283651,
+      "ranking_off": 143,
+      "ranking_def": 60
     },
     {
       "date": "2015-09-05",
@@ -2538,7 +3062,11 @@
       "rating_ev": 9,
       "rank": 100,
       "win_prob": 60.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4774.185983403868,
+      "points_def": 4862.185408594936,
+      "ranking_off": 144,
+      "ranking_def": 64
     },
     {
       "date": "2015-06-14",
@@ -2557,7 +3085,11 @@
       "rating_ev": -20,
       "rank": 98,
       "win_prob": 97.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4782.990449851006,
+      "points_def": 4862.185408594936,
+      "ranking_off": 141,
+      "ranking_def": 63
     },
     {
       "date": "2015-06-09",
@@ -2576,7 +3108,11 @@
       "rating_ev": 23,
       "rank": 94,
       "win_prob": 19.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4809.922555453354,
+      "points_def": 4862.185408594936,
+      "ranking_off": 135,
+      "ranking_def": 64
     },
     {
       "date": "2015-03-31",
@@ -2595,7 +3131,11 @@
       "rating_ev": 7,
       "rank": 101,
       "win_prob": 26.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4781.351126881926,
+      "points_def": 4834.45774713046,
+      "ranking_off": 142,
+      "ranking_def": 73
     },
     {
       "date": "2015-03-27",
@@ -2614,7 +3154,11 @@
       "rating_ev": -10,
       "rank": 102,
       "win_prob": 9.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4785.583277780873,
+      "points_def": 4825.411514345793,
+      "ranking_off": 139,
+      "ranking_def": 79
     },
     {
       "date": "2014-12-27",
@@ -2633,7 +3177,11 @@
       "rating_ev": -13,
       "rank": 100,
       "win_prob": 24.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4785.583277780873,
+      "points_def": 4840.793432365341,
+      "ranking_off": 138,
+      "ranking_def": 69
     },
     {
       "date": "2014-11-18",
@@ -2652,7 +3200,11 @@
       "rating_ev": 6,
       "rank": 100,
       "win_prob": 52.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4785.583277780873,
+      "points_def": 4864.272424492695,
+      "ranking_off": 138,
+      "ranking_def": 62
     },
     {
       "date": "2014-11-15",
@@ -2671,7 +3223,11 @@
       "rating_ev": -40,
       "rank": 101,
       "win_prob": 94.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4794.451009257988,
+      "points_def": 4864.272424492695,
+      "ranking_off": 135,
+      "ranking_def": 60
     },
     {
       "date": "2014-11-12",
@@ -2690,7 +3246,11 @@
       "rating_ev": 16,
       "rank": 92,
       "win_prob": 20.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4830.0404791253295,
+      "points_def": 4864.272424492695,
+      "ranking_off": 124,
+      "ranking_def": 58
     },
     {
       "date": "2014-10-12",
@@ -2709,7 +3269,11 @@
       "rating_ev": 11,
       "rank": 97,
       "win_prob": 14.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4812.091761176612,
+      "points_def": 4837.961307434086,
+      "ranking_off": 131,
+      "ranking_def": 72
     },
     {
       "date": "2014-10-09",
@@ -2728,7 +3292,11 @@
       "rating_ev": -5,
       "rank": 99,
       "win_prob": 32.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4812.091761176612,
+      "points_def": 4829.029745487791,
+      "ranking_off": 128,
+      "ranking_def": 77
     },
     {
       "date": "2014-09-08",
@@ -2747,7 +3315,11 @@
       "rating_ev": 25,
       "rank": 96,
       "win_prob": 31.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4812.091761176612,
+      "points_def": 4817.837850599592,
+      "ranking_off": 128,
+      "ranking_def": 80
     },
     {
       "date": "2014-09-04",
@@ -2766,7 +3338,11 @@
       "rating_ev": 0,
       "rank": 101,
       "win_prob": 10.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4816.852627689865,
+      "points_def": 4796.764964927304,
+      "ranking_off": 126,
+      "ranking_def": 88
     },
     {
       "date": "2014-06-07",
@@ -2785,7 +3361,11 @@
       "rating_ev": -7,
       "rank": 101,
       "win_prob": 89.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4816.852627689865,
+      "points_def": 4791.705644250486,
+      "ranking_off": 126,
+      "ranking_def": 93
     },
     {
       "date": "2014-06-04",
@@ -2804,7 +3384,11 @@
       "rating_ev": 1,
       "rank": 101,
       "win_prob": 23.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4822.855290951419,
+      "points_def": 4809.654362199204,
+      "ranking_off": 126,
+      "ranking_def": 82
     },
     {
       "date": "2014-05-31",
@@ -2823,7 +3407,11 @@
       "rating_ev": -14,
       "rank": 101,
       "win_prob": 26.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4822.855290951419,
+      "points_def": 4791.298883319677,
+      "ranking_off": 124,
+      "ranking_def": 95
     },
     {
       "date": "2014-05-29",
@@ -2842,7 +3430,11 @@
       "rating_ev": 9,
       "rank": 100,
       "win_prob": 34.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4822.855290951419,
+      "points_def": 4797.797883178563,
+      "ranking_off": 123,
+      "ranking_def": 88
     },
     {
       "date": "2014-05-26",
@@ -2861,7 +3453,11 @@
       "rating_ev": -18,
       "rank": 100,
       "win_prob": 93.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4822.855290951419,
+      "points_def": 4769.26071478174,
+      "ranking_off": 122,
+      "ranking_def": 105
     },
     {
       "date": "2014-03-05",
@@ -2880,7 +3476,11 @@
       "rating_ev": 2,
       "rank": 94,
       "win_prob": 85.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4851.994046844355,
+      "points_def": 4787.209432730458,
+      "ranking_off": 117,
+      "ranking_def": 91
     },
     {
       "date": "2013-11-19",
@@ -2899,7 +3499,11 @@
       "rating_ev": 18,
       "rank": 95,
       "win_prob": 57.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4855.127693938195,
+      "points_def": 4766.333005835898,
+      "ranking_off": 114,
+      "ranking_def": 99
     },
     {
       "date": "2013-11-15",
@@ -2918,7 +3522,11 @@
       "rating_ev": 7,
       "rank": 101,
       "win_prob": 51.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4828.147774572134,
+      "points_def": 4742.033649494631,
+      "ranking_off": 123,
+      "ranking_def": 112
     },
     {
       "date": "2013-10-15",
@@ -2937,7 +3545,11 @@
       "rating_ev": -1,
       "rank": 100,
       "win_prob": 12.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4814.3836094289545,
+      "points_def": 4739.941228505317,
+      "ranking_off": 131,
+      "ranking_def": 110
     },
     {
       "date": "2013-10-11",
@@ -2956,7 +3568,11 @@
       "rating_ev": -15,
       "rank": 99,
       "win_prob": 28.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4814.3836094289545,
+      "points_def": 4725.328695335433,
+      "ranking_off": 129,
+      "ranking_def": 117
     },
     {
       "date": "2013-09-10",
@@ -2975,7 +3591,11 @@
       "rating_ev": -34,
       "rank": 98,
       "win_prob": 19.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4835.733773627508,
+      "points_def": 4734.913379019416,
+      "ranking_off": 124,
+      "ranking_def": 112
     },
     {
       "date": "2013-09-06",
@@ -2994,7 +3614,11 @@
       "rating_ev": 30,
       "rank": 91,
       "win_prob": 9.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4817.78505567879,
+      "points_def": 4769.588177984644,
+      "ranking_off": 126,
+      "ranking_def": 95
     },
     {
       "date": "2013-08-14",
@@ -3013,7 +3637,11 @@
       "rating_ev": -1,
       "rank": 96,
       "win_prob": 54.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4789.213627107361,
+      "points_def": 4770.202365018615,
+      "ranking_off": 138,
+      "ranking_def": 97
     },
     {
       "date": "2013-06-11",
@@ -3032,7 +3660,11 @@
       "rating_ev": -19,
       "rank": 99,
       "win_prob": 94.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4800.306115686875,
+      "points_def": 4766.210498462935,
+      "ranking_off": 133,
+      "ranking_def": 104
     },
     {
       "date": "2013-06-07",
@@ -3051,7 +3683,11 @@
       "rating_ev": 0,
       "rank": 95,
       "win_prob": 74.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4825.1879280267885,
+      "points_def": 4784.159216411653,
+      "ranking_off": 122,
+      "ranking_def": 102
     },
     {
       "date": "2013-06-03",
@@ -3070,7 +3706,11 @@
       "rating_ev": -12,
       "rank": 95,
       "win_prob": 42.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4839.757779757392,
+      "points_def": 4784.159216411653,
+      "ranking_off": 117,
+      "ranking_def": 99
     },
     {
       "date": "2013-03-26",
@@ -3089,7 +3729,11 @@
       "rating_ev": -2,
       "rank": 90,
       "win_prob": 90.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4860.846967346741,
+      "points_def": 4799.629274159798,
+      "ranking_off": 109,
+      "ranking_def": 91
     },
     {
       "date": "2013-03-22",
@@ -3108,7 +3752,11 @@
       "rating_ev": -3,
       "rank": 91,
       "win_prob": 5.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4873.065853499195,
+      "points_def": 4799.629274159798,
+      "ranking_off": 103,
+      "ranking_def": 89
     },
     {
       "date": "2013-02-06",
@@ -3127,7 +3775,11 @@
       "rating_ev": 2,
       "rank": 90,
       "win_prob": 21.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4873.065853499195,
+      "points_def": 4807.257353840859,
+      "ranking_off": 103,
+      "ranking_def": 89
     },
     {
       "date": "2012-11-14",
@@ -3146,7 +3798,11 @@
       "rating_ev": -3,
       "rank": 91,
       "win_prob": 36.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4873.065853499195,
+      "points_def": 4787.060426838615,
+      "ranking_off": 106,
+      "ranking_def": 95
     },
     {
       "date": "2012-11-08",
@@ -3165,7 +3821,11 @@
       "rating_ev": 11,
       "rank": 91,
       "win_prob": 35.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4875.208714745259,
+      "points_def": 4784.329182389373,
+      "ranking_off": 106,
+      "ranking_def": 95
     },
     {
       "date": "2012-10-16",
@@ -3184,7 +3844,11 @@
       "rating_ev": -5,
       "rank": 92,
       "win_prob": 79.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4846.637286173831,
+      "points_def": 4770.592711559179,
+      "ranking_off": 121,
+      "ranking_def": 99
     },
     {
       "date": "2012-10-12",
@@ -3203,7 +3867,11 @@
       "rating_ev": -5,
       "rank": 92,
       "win_prob": 34.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4861.133078267684,
+      "points_def": 4747.544269958674,
+      "ranking_off": 111,
+      "ranking_def": 109
     },
     {
       "date": "2012-09-11",
@@ -3222,7 +3890,11 @@
       "rating_ev": -20,
       "rank": 91,
       "win_prob": 17.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4884.397389265952,
+      "points_def": 4735.579517210012,
+      "ranking_off": 99,
+      "ranking_def": 111
     },
     {
       "date": "2012-09-07",
@@ -3241,7 +3913,11 @@
       "rating_ev": -19,
       "rank": 85,
       "win_prob": 35.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4884.397389265952,
+      "points_def": 4748.639853471789,
+      "ranking_off": 98,
+      "ranking_def": 109
     },
     {
       "date": "2012-08-15",
@@ -3260,7 +3936,11 @@
       "rating_ev": 12,
       "rank": 83,
       "win_prob": 34.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4905.196406144252,
+      "points_def": 4757.52119814898,
+      "ranking_off": 88,
+      "ranking_def": 107
     },
     {
       "date": "2012-06-05",
@@ -3279,7 +3959,11 @@
       "rating_ev": -13,
       "rank": 86,
       "win_prob": 11.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4911.605909883578,
+      "points_def": 4735.874641155573,
+      "ranking_off": 86,
+      "ranking_def": 111
     },
     {
       "date": "2012-06-03",
@@ -3298,7 +3982,11 @@
       "rating_ev": 8,
       "rank": 84,
       "win_prob": 61.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4911.605909883578,
+      "points_def": 4760.995887887247,
+      "ranking_off": 86,
+      "ranking_def": 107
     },
     {
       "date": "2012-06-01",
@@ -3317,7 +4005,11 @@
       "rating_ev": -13,
       "rank": 85,
       "win_prob": 48.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4923.388873059833,
+      "points_def": 4741.766175634886,
+      "ranking_off": 84,
+      "ranking_def": 110
     },
     {
       "date": "2012-05-28",
@@ -3336,7 +4028,11 @@
       "rating_ev": -18,
       "rank": 83,
       "win_prob": 22.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4935.779824076028,
+      "points_def": 4752.534781469348,
+      "ranking_off": 82,
+      "ranking_def": 109
     },
     {
       "date": "2012-05-25",
@@ -3355,7 +4051,11 @@
       "rating_ev": -1,
       "rank": 80,
       "win_prob": 13.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4957.64093734593,
+      "points_def": 4780.566253675847,
+      "ranking_off": 78,
+      "ranking_def": 99
     },
     {
       "date": "2012-02-29",
@@ -3374,7 +4074,11 @@
       "rating_ev": 13,
       "rank": 80,
       "win_prob": 51.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4939.692219397212,
+      "points_def": 4792.843951938936,
+      "ranking_off": 79,
+      "ranking_def": 96
     },
     {
       "date": "2011-11-15",
@@ -3393,7 +4097,11 @@
       "rating_ev": 27,
       "rank": 78,
       "win_prob": 11.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4927.985951202624,
+      "points_def": 4766.164360857982,
+      "ranking_off": 82,
+      "ranking_def": 106
     },
     {
       "date": "2011-11-11",
@@ -3412,7 +4120,11 @@
       "rating_ev": -42,
       "rank": 85,
       "win_prob": 31.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4910.037233253906,
+      "points_def": 4743.020370581302,
+      "ranking_off": 87,
+      "ranking_def": 111
     },
     {
       "date": "2011-10-11",
@@ -3431,7 +4143,11 @@
       "rating_ev": -9,
       "rank": 78,
       "win_prob": 34.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4931.735316293787,
+      "points_def": 4776.011738319927,
+      "ranking_off": 80,
+      "ranking_def": 101
     },
     {
       "date": "2011-10-07",
@@ -3450,7 +4166,11 @@
       "rating_ev": 19,
       "rank": 76,
       "win_prob": 39.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4957.189459256844,
+      "points_def": 4786.028686748383,
+      "ranking_off": 76,
+      "ranking_def": 94
     },
     {
       "date": "2011-09-06",
@@ -3469,7 +4189,11 @@
       "rating_ev": 39,
       "rank": 77,
       "win_prob": 53.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4928.618030685416,
+      "points_def": 4771.543314949548,
+      "ranking_off": 83,
+      "ranking_def": 101
     },
     {
       "date": "2011-09-02",
@@ -3488,7 +4212,11 @@
       "rating_ev": 37,
       "rank": 88,
       "win_prob": 15.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4895.991111070457,
+      "points_def": 4789.492032898266,
+      "ranking_off": 96,
+      "ranking_def": 93
     },
     {
       "date": "2011-08-10",
@@ -3507,7 +4235,11 @@
       "rating_ev": -7,
       "rank": 94,
       "win_prob": 12.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.419682499029,
+      "points_def": 4770.312736027016,
+      "ranking_off": 107,
+      "ranking_def": 105
     },
     {
       "date": "2011-06-23",
@@ -3526,7 +4258,11 @@
       "rating_ev": -7,
       "rank": 94,
       "win_prob": 7.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.419682499029,
+      "points_def": 4783.5625650751945,
+      "ranking_off": 106,
+      "ranking_def": 99
     },
     {
       "date": "2011-06-19",
@@ -3545,7 +4281,11 @@
       "rating_ev": -12,
       "rank": 94,
       "win_prob": 9.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.419682499029,
+      "points_def": 4788.220394977462,
+      "ranking_off": 106,
+      "ranking_def": 98
     },
     {
       "date": "2011-06-07",
@@ -3564,7 +4304,11 @@
       "rating_ev": -40,
       "rank": 91,
       "win_prob": 71.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.419682499029,
+      "points_def": 4812.699577947986,
+      "ranking_off": 106,
+      "ranking_def": 88
     },
     {
       "date": "2011-06-03",
@@ -3583,7 +4327,11 @@
       "rating_ev": -14,
       "rank": 83,
       "win_prob": 12.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4893.222501316944,
+      "points_def": 4822.717471314725,
+      "ranking_off": 97,
+      "ranking_def": 86
     },
     {
       "date": "2011-03-29",
@@ -3602,7 +4350,11 @@
       "rating_ev": 12,
       "rank": 82,
       "win_prob": 29.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4893.222501316944,
+      "points_def": 4837.112674962015,
+      "ranking_off": 100,
+      "ranking_def": 82
     },
     {
       "date": "2011-03-25",
@@ -3621,7 +4373,11 @@
       "rating_ev": 25,
       "rank": 82,
       "win_prob": 16.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4897.621441236847,
+      "points_def": 4828.146495145231,
+      "ranking_off": 94,
+      "ranking_def": 84
     },
     {
       "date": "2010-12-22",
@@ -3640,7 +4396,11 @@
       "rating_ev": -11,
       "rank": 90,
       "win_prob": 40.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4881.373525495066,
+      "points_def": 4800.132186197448,
+      "ranking_off": 105,
+      "ranking_def": 93
     },
     {
       "date": "2010-12-18",
@@ -3659,7 +4419,11 @@
       "rating_ev": -16,
       "rank": 88,
       "win_prob": 32.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4881.373525495066,
+      "points_def": 4807.568729858828,
+      "ranking_off": 105,
+      "ranking_def": 92
     },
     {
       "date": "2010-11-17",
@@ -3678,7 +4442,11 @@
       "rating_ev": -12,
       "rank": 82,
       "win_prob": 85.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4881.373525495066,
+      "points_def": 4829.479607035185,
+      "ranking_off": 107,
+      "ranking_def": 86
     },
     {
       "date": "2010-10-12",
@@ -3697,7 +4465,11 @@
       "rating_ev": -6,
       "rank": 78,
       "win_prob": 35.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4904.777963695115,
+      "points_def": 4847.428324983903,
+      "ranking_off": 98,
+      "ranking_def": 78
     },
     {
       "date": "2010-10-08",
@@ -3716,7 +4488,11 @@
       "rating_ev": 55,
       "rank": 78,
       "win_prob": 11.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4927.037076356644,
+      "points_def": 4840.844669546938,
+      "ranking_off": 92,
+      "ranking_def": 78
     },
     {
       "date": "2010-09-07",
@@ -3735,7 +4511,11 @@
       "rating_ev": -2,
       "rank": 92,
       "win_prob": 56.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4891.443856017661,
+      "points_def": 4820.225887378069,
+      "ranking_off": 104,
+      "ranking_def": 86
     },
     {
       "date": "2010-09-03",
@@ -3754,7 +4534,11 @@
       "rating_ev": 1,
       "rank": 91,
       "win_prob": 25.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.9394193285625,
+      "points_def": 4855.819107717052,
+      "ranking_off": 110,
+      "ranking_def": 74
     },
     {
       "date": "2010-08-11",
@@ -3773,7 +4557,11 @@
       "rating_ev": -4,
       "rank": 91,
       "win_prob": 79.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4870.614547546077,
+      "points_def": 4871.586219123951,
+      "ranking_off": 107,
+      "ranking_def": 69
     },
     {
       "date": "2010-06-20",
@@ -3792,7 +4580,11 @@
       "rating_ev": -16,
       "rank": 89,
       "win_prob": 29.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4875.886170400049,
+      "points_def": 4889.534937072669,
+      "ranking_off": 109,
+      "ranking_def": 62
     },
     {
       "date": "2010-06-19",
@@ -3811,7 +4603,11 @@
       "rating_ev": 8,
       "rank": 87,
       "win_prob": 36.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4875.886170400049,
+      "points_def": 4899.156114469738,
+      "ranking_off": 109,
+      "ranking_def": 50
     },
     {
       "date": "2010-05-26",
@@ -3830,7 +4626,11 @@
       "rating_ev": 8,
       "rank": 87,
       "win_prob": 23.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4875.886170400049,
+      "points_def": 4876.374261322785,
+      "ranking_off": 110,
+      "ranking_def": 64
     },
     {
       "date": "2010-05-21",
@@ -3849,7 +4649,11 @@
       "rating_ev": 16,
       "rank": 89,
       "win_prob": 41.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4875.886170400049,
+      "points_def": 4852.314246877666,
+      "ranking_off": 108,
+      "ranking_def": 75
     },
     {
       "date": "2010-03-03",
@@ -3868,7 +4672,11 @@
       "rating_ev": -4,
       "rank": 92,
       "win_prob": 39.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4862.245999585558,
+      "points_def": 4832.489461675369,
+      "ranking_off": 113,
+      "ranking_def": 82
     },
     {
       "date": "2009-12-30",
@@ -3887,7 +4695,11 @@
       "rating_ev": 7,
       "rank": 89,
       "win_prob": 51.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4844.29728163684,
+      "points_def": 4836.740566031487,
+      "ranking_off": 115,
+      "ranking_def": 81
     },
     {
       "date": "2009-11-14",
@@ -3906,7 +4718,11 @@
       "rating_ev": 0,
       "rank": 89,
       "win_prob": 52.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4826.348563688122,
+      "points_def": 4816.861220087108,
+      "ranking_off": 124,
+      "ranking_def": 84
     },
     {
       "date": "2009-10-14",
@@ -3925,7 +4741,11 @@
       "rating_ev": 31,
       "rank": 91,
       "win_prob": 44.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4850.433103024749,
+      "points_def": 4816.861220087108,
+      "ranking_off": 116,
+      "ranking_def": 84
     },
     {
       "date": "2009-10-10",
@@ -3944,7 +4764,11 @@
       "rating_ev": -17,
       "rank": 94,
       "win_prob": 32.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4841.197476511223,
+      "points_def": 4794.514341827819,
+      "ranking_off": 116,
+      "ranking_def": 92
     },
     {
       "date": "2009-09-09",
@@ -3963,7 +4787,11 @@
       "rating_ev": 1,
       "rank": 94,
       "win_prob": 4.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4865.713663522271,
+      "points_def": 4804.093026404551,
+      "ranking_off": 108,
+      "ranking_def": 91
     },
     {
       "date": "2009-09-05",
@@ -3982,7 +4810,11 @@
       "rating_ev": 2,
       "rank": 94,
       "win_prob": 10.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4865.713663522271,
+      "points_def": 4801.108109602917,
+      "ranking_off": 110,
+      "ranking_def": 90
     },
     {
       "date": "2009-08-12",
@@ -4001,7 +4833,11 @@
       "rating_ev": 10,
       "rank": 95,
       "win_prob": 7.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4837.142234950843,
+      "points_def": 4826.796503978076,
+      "ranking_off": 124,
+      "ranking_def": 79
     },
     {
       "date": "2009-06-10",
@@ -4020,7 +4856,11 @@
       "rating_ev": 9,
       "rank": 97,
       "win_prob": 20.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4837.142234950843,
+      "points_def": 4804.954867101716,
+      "ranking_off": 121,
+      "ranking_def": 91
     },
     {
       "date": "2009-06-06",
@@ -4039,7 +4879,11 @@
       "rating_ev": 10,
       "rank": 99,
       "win_prob": 82.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4857.134891262788,
+      "points_def": 4779.672535781087,
+      "ranking_off": 115,
+      "ranking_def": 99
     },
     {
       "date": "2009-05-29",
@@ -4058,7 +4902,11 @@
       "rating_ev": 3,
       "rank": 103,
       "win_prob": 19.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4837.714539168296,
+      "points_def": 4779.672535781087,
+      "ranking_off": 122,
+      "ranking_def": 100
     },
     {
       "date": "2009-04-01",
@@ -4077,7 +4925,11 @@
       "rating_ev": 10,
       "rank": 102,
       "win_prob": 57.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4837.714539168296,
+      "points_def": 4763.6575176469405,
+      "ranking_off": 122,
+      "ranking_def": 105
     },
     {
       "date": "2009-03-28",
@@ -4096,7 +4948,11 @@
       "rating_ev": 9,
       "rank": 104,
       "win_prob": 34.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4846.528506174752,
+      "points_def": 4763.6575176469405,
+      "ranking_off": 118,
+      "ranking_def": 104
     },
     {
       "date": "2009-02-11",
@@ -4115,7 +4971,11 @@
       "rating_ev": -15,
       "rank": 106,
       "win_prob": 52.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4817.957077603323,
+      "points_def": 4772.44220297477,
+      "ranking_off": 129,
+      "ranking_def": 103
     },
     {
       "date": "2008-11-22",
@@ -4134,7 +4994,11 @@
       "rating_ev": 9,
       "rank": 102,
       "win_prob": 34.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4841.636408105709,
+      "points_def": 4786.002097534596,
+      "ranking_off": 119,
+      "ranking_def": 99
     },
     {
       "date": "2008-11-18",
@@ -4153,7 +5017,11 @@
       "rating_ev": 14,
       "rank": 102,
       "win_prob": 51.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4848.415722520597,
+      "points_def": 4780.070520588014,
+      "ranking_off": 118,
+      "ranking_def": 98
     },
     {
       "date": "2008-11-12",
@@ -4172,7 +5040,11 @@
       "rating_ev": 3,
       "rank": 109,
       "win_prob": 38.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4858.903830939861,
+      "points_def": 4780.070520588014,
+      "ranking_off": 116,
+      "ranking_def": 98
     },
     {
       "date": "2008-10-15",
@@ -4191,7 +5063,11 @@
       "rating_ev": 22,
       "rank": 109,
       "win_prob": 16.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.782727058675,
+      "points_def": 4773.54623109548,
+      "ranking_off": 112,
+      "ranking_def": 100
     },
     {
       "date": "2008-10-11",
@@ -4210,7 +5086,11 @@
       "rating_ev": -7,
       "rank": 112,
       "win_prob": 7.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4889.171577821852,
+      "points_def": 4748.1074679602,
+      "ranking_off": 104,
+      "ranking_def": 108
     },
     {
       "date": "2008-09-10",
@@ -4229,7 +5109,11 @@
       "rating_ev": -72,
       "rank": 111,
       "win_prob": 27.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4889.171577821852,
+      "points_def": 4768.063081854971,
+      "ranking_off": 103,
+      "ranking_def": 101
     },
     {
       "date": "2008-09-06",
@@ -4248,7 +5132,11 @@
       "rating_ev": 4,
       "rank": 93,
       "win_prob": 21.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4889.171577821852,
+      "points_def": 4812.577672888906,
+      "ranking_off": 101,
+      "ranking_def": 89
     },
     {
       "date": "2008-08-20",
@@ -4267,7 +5155,11 @@
       "rating_ev": -1,
       "rank": 94,
       "win_prob": 76.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4860.600149250424,
+      "points_def": 4829.966818351696,
+      "ranking_off": 110,
+      "ranking_def": 85
     },
     {
       "date": "2008-06-04",
@@ -4286,7 +5178,11 @@
       "rating_ev": -4,
       "rank": 94,
       "win_prob": 84.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.2931436782765,
+      "points_def": 4847.915536300414,
+      "ranking_off": 110,
+      "ranking_def": 67
     },
     {
       "date": "2008-05-31",
@@ -4305,7 +5201,11 @@
       "rating_ev": -3,
       "rank": 93,
       "win_prob": 31.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4843.658632065211,
+      "points_def": 4883.508756639397,
+      "ranking_off": 115,
+      "ranking_def": 61
     },
     {
       "date": "2008-05-30",
@@ -4324,7 +5224,11 @@
       "rating_ev": -1,
       "rank": 92,
       "win_prob": 26.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4843.658632065211,
+      "points_def": 4878.106822849324,
+      "ranking_off": 116,
+      "ranking_def": 61
     },
     {
       "date": "2008-05-27",
@@ -4343,7 +5247,11 @@
       "rating_ev": 1,
       "rank": 92,
       "win_prob": 48.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4843.658632065211,
+      "points_def": 4862.53667702414,
+      "ranking_off": 115,
+      "ranking_def": 64
     },
     {
       "date": "2008-03-26",
@@ -4362,7 +5270,11 @@
       "rating_ev": 16,
       "rank": 92,
       "win_prob": 41.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4854.3046358173815,
+      "points_def": 4880.485394972858,
+      "ranking_off": 110,
+      "ranking_def": 63
     },
     {
       "date": "2008-02-27",
@@ -4381,7 +5293,11 @@
       "rating_ev": 2,
       "rank": 94,
       "win_prob": 8.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4838.499206480072,
+      "points_def": 4860.822786897749,
+      "ranking_off": 117,
+      "ranking_def": 68
     },
     {
       "date": "2007-11-21",
@@ -4400,7 +5316,11 @@
       "rating_ev": 9,
       "rank": 96,
       "win_prob": 19.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4838.499206480072,
+      "points_def": 4852.480198404646,
+      "ranking_off": 118,
+      "ranking_def": 73
     },
     {
       "date": "2007-11-17",
@@ -4419,7 +5339,11 @@
       "rating_ev": 14,
       "rank": 96,
       "win_prob": 72.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4838.499206480072,
+      "points_def": 4823.532406188012,
+      "ranking_off": 115,
+      "ranking_def": 84
     },
     {
       "date": "2007-11-09",
@@ -4438,7 +5362,11 @@
       "rating_ev": -2,
       "rank": 100,
       "win_prob": 14.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4831.284502402117,
+      "points_def": 4800.867578522992,
+      "ranking_off": 121,
+      "ranking_def": 87
     },
     {
       "date": "2007-10-17",
@@ -4457,7 +5385,11 @@
       "rating_ev": -5,
       "rank": 99,
       "win_prob": 43.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4831.284502402117,
+      "points_def": 4799.596606947711,
+      "ranking_off": 122,
+      "ranking_def": 89
     },
     {
       "date": "2007-10-13",
@@ -4476,7 +5408,11 @@
       "rating_ev": -1,
       "rank": 97,
       "win_prob": 5.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4855.740085639364,
+      "points_def": 4796.040683251562,
+      "ranking_off": 108,
+      "ranking_def": 89
     },
     {
       "date": "2007-09-12",
@@ -4495,7 +5431,11 @@
       "rating_ev": 17,
       "rank": 98,
       "win_prob": 21.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4855.740085639364,
+      "points_def": 4804.485997971805,
+      "ranking_off": 112,
+      "ranking_def": 88
     },
     {
       "date": "2007-09-08",
@@ -4514,7 +5454,11 @@
       "rating_ev": 10,
       "rank": 102,
       "win_prob": 5.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4837.791367690646,
+      "points_def": 4788.146262943091,
+      "ranking_off": 116,
+      "ranking_def": 96
     },
     {
       "date": "2007-08-22",
@@ -4533,7 +5477,11 @@
       "rating_ev": -8,
       "rank": 104,
       "win_prob": 83.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4837.791367690646,
+      "points_def": 4773.7713069208,
+      "ranking_off": 115,
+      "ranking_def": 100
     },
     {
       "date": "2007-06-06",
@@ -4552,7 +5500,11 @@
       "rating_ev": -15,
       "rank": 102,
       "win_prob": 13.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4847.698958052471,
+      "points_def": 4791.720024869518,
+      "ranking_off": 109,
+      "ranking_def": 95
     },
     {
       "date": "2007-06-02",
@@ -4571,7 +5523,11 @@
       "rating_ev": 12,
       "rank": 99,
       "win_prob": 12.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4847.698958052471,
+      "points_def": 4814.721811893665,
+      "ranking_off": 110,
+      "ranking_def": 87
     },
     {
       "date": "2007-03-28",
@@ -4590,7 +5546,11 @@
       "rating_ev": -28,
       "rank": 104,
       "win_prob": 13.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4847.698958052471,
+      "points_def": 4799.710865645209,
+      "ranking_off": 112,
+      "ranking_def": 94
     },
     {
       "date": "2007-03-24",
@@ -4609,7 +5569,11 @@
       "rating_ev": -12,
       "rank": 98,
       "win_prob": 24.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4847.698958052471,
+      "points_def": 4826.733214933929,
+      "ranking_off": 111,
+      "ranking_def": 80
     },
     {
       "date": "2007-02-07",
@@ -4628,7 +5592,11 @@
       "rating_ev": 0,
       "rank": 94,
       "win_prob": 26.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.464762237991,
+      "points_def": 4839.860266652325,
+      "ranking_off": 103,
+      "ranking_def": 76
     },
     {
       "date": "2007-02-03",
@@ -4647,7 +5615,11 @@
       "rating_ev": -16,
       "rank": 95,
       "win_prob": 16.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.464762237991,
+      "points_def": 4824.465787942294,
+      "ranking_off": 101,
+      "ranking_def": 82
     },
     {
       "date": "2006-11-15",
@@ -4666,7 +5638,11 @@
       "rating_ev": 9,
       "rank": 92,
       "win_prob": 43.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4867.464762237991,
+      "points_def": 4855.028924665408,
+      "ranking_off": 104,
+      "ranking_def": 69
     },
     {
       "date": "2006-10-11",
@@ -4685,7 +5661,11 @@
       "rating_ev": -3,
       "rank": 97,
       "win_prob": 13.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4859.795024950495,
+      "points_def": 4848.976336540379,
+      "ranking_off": 104,
+      "ranking_def": 71
     },
     {
       "date": "2006-09-02",
@@ -4704,7 +5684,11 @@
       "rating_ev": -2,
       "rank": 93,
       "win_prob": 30.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4859.795024950495,
+      "points_def": 4850.773372914275,
+      "ranking_off": 111,
+      "ranking_def": 69
     },
     {
       "date": "2006-08-16",
@@ -4723,7 +5707,11 @@
       "rating_ev": -14,
       "rank": 93,
       "win_prob": 51.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4882.012584661219,
+      "points_def": 4844.411546575922,
+      "ranking_off": 103,
+      "ranking_def": 74
     },
     {
       "date": "2006-05-31",
@@ -4742,7 +5730,11 @@
       "rating_ev": -3,
       "rank": 90,
       "win_prob": 60.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4906.088991112867,
+      "points_def": 4842.277238106588,
+      "ranking_off": 90,
+      "ranking_def": 72
     },
     {
       "date": "2006-05-28",
@@ -4761,7 +5753,11 @@
       "rating_ev": 12,
       "rank": 90,
       "win_prob": 14.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4924.030473725133,
+      "points_def": 4840.150548851986,
+      "ranking_off": 88,
+      "ranking_def": 74
     },
     {
       "date": "2006-03-01",
@@ -4780,7 +5776,11 @@
       "rating_ev": -2,
       "rank": 92,
       "win_prob": 30.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4906.081755776415,
+      "points_def": 4821.42991094804,
+      "ranking_off": 92,
+      "ranking_def": 81
     },
     {
       "date": "2005-11-16",
@@ -4799,7 +5799,11 @@
       "rating_ev": 2,
       "rank": 92,
       "win_prob": 8.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4906.081755776415,
+      "points_def": 4807.555918601391,
+      "ranking_off": 96,
+      "ranking_def": 82
     },
     {
       "date": "2005-11-12",
@@ -4818,7 +5822,11 @@
       "rating_ev": 11,
       "rank": 92,
       "win_prob": 15.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4888.133037827697,
+      "points_def": 4813.733368664598,
+      "ranking_off": 102,
+      "ranking_def": 80
     },
     {
       "date": "2005-10-12",
@@ -4837,7 +5845,11 @@
       "rating_ev": 6,
       "rank": 94,
       "win_prob": 82.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4859.561609256269,
+      "points_def": 4808.408993830987,
+      "ranking_off": 109,
+      "ranking_def": 81
     },
     {
       "date": "2005-10-08",
@@ -4856,7 +5868,11 @@
       "rating_ev": 11,
       "rank": 94,
       "win_prob": 13.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4865.259287844227,
+      "points_def": 4785.937257273924,
+      "ranking_off": 107,
+      "ranking_def": 88
     },
     {
       "date": "2005-09-03",
@@ -4875,7 +5891,11 @@
       "rating_ev": 14,
       "rank": 97,
       "win_prob": 49.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4865.259287844227,
+      "points_def": 4763.960300460491,
+      "ranking_off": 109,
+      "ranking_def": 101
     },
     {
       "date": "2005-08-17",
@@ -4894,7 +5914,11 @@
       "rating_ev": 11,
       "rank": 99,
       "win_prob": 37.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4856.419304321042,
+      "points_def": 4760.0152274510565,
+      "ranking_off": 113,
+      "ranking_def": 100
     },
     {
       "date": "2005-06-08",
@@ -4913,7 +5937,11 @@
       "rating_ev": 17,
       "rank": 101,
       "win_prob": 9.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4863.341646914416,
+      "points_def": 4738.033829322444,
+      "ranking_off": 110,
+      "ranking_def": 106
     },
     {
       "date": "2005-06-04",
@@ -4932,7 +5960,11 @@
       "rating_ev": 8,
       "rank": 101,
       "win_prob": 81.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4883.815931097604,
+      "points_def": 4718.037207155871,
+      "ranking_off": 103,
+      "ranking_def": 110
     },
     {
       "date": "2005-04-20",
@@ -4951,7 +5983,11 @@
       "rating_ev": 3,
       "rank": 101,
       "win_prob": 18.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4895.259409717306,
+      "points_def": 4718.037207155871,
+      "ranking_off": 99,
+      "ranking_def": 110
     },
     {
       "date": "2005-03-30",
@@ -4970,7 +6006,11 @@
       "rating_ev": 20,
       "rank": 102,
       "win_prob": 19.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4877.310691768588,
+      "points_def": 4727.311072060703,
+      "ranking_off": 107,
+      "ranking_def": 107
     },
     {
       "date": "2005-03-26",
@@ -4989,7 +6029,11 @@
       "rating_ev": 4,
       "rank": 104,
       "win_prob": 21.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4885.527802049106,
+      "points_def": 4710.641938511681,
+      "ranking_off": 103,
+      "ranking_def": 109
     },
     {
       "date": "2005-02-09",
@@ -5008,7 +6052,11 @@
       "rating_ev": -8,
       "rank": 107,
       "win_prob": 14.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4892.225581240915,
+      "points_def": 4716.931124449012,
+      "ranking_off": 97,
+      "ranking_def": 109
     },
     {
       "date": "2004-12-02",
@@ -5027,7 +6075,11 @@
       "rating_ev": -52,
       "rank": 105,
       "win_prob": 27.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4892.225581240915,
+      "points_def": 4725.699662348348,
+      "ranking_off": 104,
+      "ranking_def": 108
     },
     {
       "date": "2004-11-30",
@@ -5046,7 +6098,11 @@
       "rating_ev": -1,
       "rank": 96,
       "win_prob": 50.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4914.105460417227,
+      "points_def": 4761.620117686963,
+      "ranking_off": 92,
+      "ranking_def": 99
     },
     {
       "date": "2004-11-17",
@@ -5065,7 +6121,11 @@
       "rating_ev": -27,
       "rank": 96,
       "win_prob": 12.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4939.143654071236,
+      "points_def": 4735.774394399497,
+      "ranking_off": 83,
+      "ranking_def": 105
     },
     {
       "date": "2004-10-13",
@@ -5084,7 +6144,11 @@
       "rating_ev": 12,
       "rank": 91,
       "win_prob": 29.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4939.143654071236,
+      "points_def": 4758.493456500786,
+      "ranking_off": 82,
+      "ranking_def": 98
     },
     {
       "date": "2004-09-08",
@@ -5103,7 +6167,11 @@
       "rating_ev": -16,
       "rank": 94,
       "win_prob": 5.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4922.542337773028,
+      "points_def": 4759.624232753759,
+      "ranking_off": 96,
+      "ranking_def": 99
     },
     {
       "date": "2004-09-04",
@@ -5122,7 +6190,11 @@
       "rating_ev": 34,
       "rank": 91,
       "win_prob": 80.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4922.542337773028,
+      "points_def": 4781.896433975097,
+      "ranking_off": 94,
+      "ranking_def": 91
     },
     {
       "date": "2004-08-18",
@@ -5141,7 +6213,11 @@
       "rating_ev": -2,
       "rank": 97,
       "win_prob": 75.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4899.409032225622,
+      "points_def": 4781.896433975097,
+      "ranking_off": 100,
+      "ranking_def": 93
     },
     {
       "date": "2004-06-11",
@@ -5160,7 +6236,11 @@
       "rating_ev": -12,
       "rank": 98,
       "win_prob": 44.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4893.387483015264,
+      "points_def": 4778.125753991209,
+      "ranking_off": 96,
+      "ranking_def": 95
     },
     {
       "date": "2004-06-06",
@@ -5179,7 +6259,11 @@
       "rating_ev": 8,
       "rank": 94,
       "win_prob": 3.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4882.081946421416,
+      "points_def": 4813.13531409397,
+      "ranking_off": 100,
+      "ranking_def": 80
     },
     {
       "date": "2004-05-30",
@@ -5198,7 +6282,11 @@
       "rating_ev": 11,
       "rank": 96,
       "win_prob": 16.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4882.081946421416,
+      "points_def": 4790.311458718387,
+      "ranking_off": 103,
+      "ranking_def": 88
     },
     {
       "date": "2004-05-27",
@@ -5217,7 +6305,11 @@
       "rating_ev": -3,
       "rank": 98,
       "win_prob": 37.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4853.510517849988,
+      "points_def": 4798.985538621556,
+      "ranking_off": 115,
+      "ranking_def": 82
     },
     {
       "date": "2004-04-28",
@@ -5236,7 +6328,11 @@
       "rating_ev": 3,
       "rank": 97,
       "win_prob": 38.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4876.954269374116,
+      "points_def": 4816.934256570274,
+      "ranking_off": 104,
+      "ranking_def": 78
     },
     {
       "date": "2004-03-31",
@@ -5255,7 +6351,11 @@
       "rating_ev": -6,
       "rank": 99,
       "win_prob": 48.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4887.729035738835,
+      "points_def": 4810.324001012861,
+      "ranking_off": 100,
+      "ranking_def": 82
     },
     {
       "date": "2004-02-18",
@@ -5274,7 +6374,11 @@
       "rating_ev": 15,
       "rank": 96,
       "win_prob": 48.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4911.584915831374,
+      "points_def": 4828.272718961579,
+      "ranking_off": 92,
+      "ranking_def": 75
     },
     {
       "date": "2004-02-16",
@@ -5293,7 +6397,11 @@
       "rating_ev": -46,
       "rank": 102,
       "win_prob": 58.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4917.549106781713,
+      "points_def": 4807.163195067842,
+      "ranking_off": 94,
+      "ranking_def": 85
     },
     {
       "date": "2003-12-20",
@@ -5312,7 +6420,11 @@
       "rating_ev": -7,
       "rank": 92,
       "win_prob": 26.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4907.676761148955,
+      "points_def": 4846.919764625638,
+      "ranking_off": 94,
+      "ranking_def": 69
     },
     {
       "date": "2003-12-17",
@@ -5331,7 +6443,11 @@
       "rating_ev": 10,
       "rank": 89,
       "win_prob": 18.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4889.728043200237,
+      "points_def": 4868.129980614494,
+      "ranking_off": 103,
+      "ranking_def": 63
     },
     {
       "date": "2003-11-19",
@@ -5350,7 +6466,11 @@
       "rating_ev": 16,
       "rank": 92,
       "win_prob": 19.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4871.779325251519,
+      "points_def": 4852.886516271377,
+      "ranking_off": 109,
+      "ranking_def": 69
     },
     {
       "date": "2003-11-15",
@@ -5369,7 +6489,11 @@
       "rating_ev": -6,
       "rank": 96,
       "win_prob": 24.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4853.830607302802,
+      "points_def": 4824.24929543441,
+      "ranking_off": 114,
+      "ranking_def": 78
     },
     {
       "date": "2003-10-11",
@@ -5388,7 +6512,11 @@
       "rating_ev": 1,
       "rank": 96,
       "win_prob": 10.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4853.830607302802,
+      "points_def": 4824.2026198624735,
+      "ranking_off": 116,
+      "ranking_def": 79
     },
     {
       "date": "2003-09-06",
@@ -5407,7 +6535,11 @@
       "rating_ev": -3,
       "rank": 92,
       "win_prob": 13.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4853.830607302802,
+      "points_def": 4815.997186329101,
+      "ranking_off": 118,
+      "ranking_def": 82
     },
     {
       "date": "2003-08-20",
@@ -5426,7 +6558,11 @@
       "rating_ev": -1,
       "rank": 92,
       "win_prob": 30.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4853.830607302802,
+      "points_def": 4811.294724431975,
+      "ranking_off": 118,
+      "ranking_def": 83
     },
     {
       "date": "2003-07-05",
@@ -5445,7 +6581,11 @@
       "rating_ev": -1,
       "rank": 93,
       "win_prob": 51.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4860.818236258693,
+      "points_def": 4825.3092041101545,
+      "ranking_off": 111,
+      "ranking_def": 79
     },
     {
       "date": "2003-07-03",
@@ -5464,7 +6604,11 @@
       "rating_ev": -64,
       "rank": 94,
       "win_prob": 69.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4885.420349808016,
+      "points_def": 4825.3092041101545,
+      "ranking_off": 105,
+      "ranking_def": 77
     },
     {
       "date": "2003-06-11",
@@ -5483,7 +6627,11 @@
       "rating_ev": 0,
       "rank": 75,
       "win_prob": 27.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4902.546021827122,
+      "points_def": 4869.613001578509,
+      "ranking_off": 94,
+      "ranking_def": 59
     },
     {
       "date": "2003-06-07",
@@ -5502,7 +6650,11 @@
       "rating_ev": 4,
       "rank": 75,
       "win_prob": 85.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4922.078800947054,
+      "points_def": 4865.544911520977,
+      "ranking_off": 90,
+      "ranking_def": 59
     },
     {
       "date": "2003-04-30",
@@ -5521,7 +6673,11 @@
       "rating_ev": 17,
       "rank": 77,
       "win_prob": 68.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4931.66175342543,
+      "points_def": 4865.544911520977,
+      "ranking_off": 83,
+      "ranking_def": 61
     },
     {
       "date": "2003-04-02",
@@ -5540,7 +6696,11 @@
       "rating_ev": 11,
       "rank": 80,
       "win_prob": 30.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4922.515929756471,
+      "points_def": 4843.25461787764,
+      "ranking_off": 88,
+      "ranking_def": 67
     },
     {
       "date": "2003-03-29",
@@ -5559,7 +6719,11 @@
       "rating_ev": 7,
       "rank": 83,
       "win_prob": 49.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4943.997631288476,
+      "points_def": 4820.543282261964,
+      "ranking_off": 79,
+      "ranking_def": 76
     },
     {
       "date": "2003-02-16",
@@ -5578,7 +6742,11 @@
       "rating_ev": 1,
       "rank": 85,
       "win_prob": 22.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4934.36049700657,
+      "points_def": 4838.492000210682,
+      "ranking_off": 79,
+      "ranking_def": 72
     },
     {
       "date": "2003-02-12",
@@ -5597,7 +6765,11 @@
       "rating_ev": 5,
       "rank": 85,
       "win_prob": 14.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4934.36049700657,
+      "points_def": 4822.775213137732,
+      "ranking_off": 80,
+      "ranking_def": 77
     },
     {
       "date": "2003-02-09",
@@ -5616,7 +6788,11 @@
       "rating_ev": 6,
       "rank": 86,
       "win_prob": 13.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4916.411779057852,
+      "points_def": 4822.825369792788,
+      "ranking_off": 86,
+      "ranking_def": 77
     },
     {
       "date": "2002-11-20",
@@ -5635,7 +6811,11 @@
       "rating_ev": 16,
       "rank": 88,
       "win_prob": 42.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4916.411779057852,
+      "points_def": 4803.317475874636,
+      "ranking_off": 86,
+      "ranking_def": 84
     },
     {
       "date": "2002-10-16",
@@ -5654,7 +6834,11 @@
       "rating_ev": 4,
       "rank": 90,
       "win_prob": 21.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4908.479263755606,
+      "points_def": 4782.199784876793,
+      "ranking_off": 89,
+      "ranking_def": 93
     },
     {
       "date": "2002-10-13",
@@ -5673,7 +6857,11 @@
       "rating_ev": 8,
       "rank": 90,
       "win_prob": 45.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4930.485497446154,
+      "points_def": 4771.467956602887,
+      "ranking_off": 83,
+      "ranking_def": 100
     },
     {
       "date": "2002-09-07",
@@ -5692,7 +6880,11 @@
       "rating_ev": 33,
       "rank": 93,
       "win_prob": 7.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4910.204763835853,
+      "points_def": 4787.079881280538,
+      "ranking_off": 92,
+      "ranking_def": 89
     },
     {
       "date": "2002-08-21",
@@ -5711,7 +6903,11 @@
       "rating_ev": 3,
       "rank": 105,
       "win_prob": 63.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4910.204763835853,
+      "points_def": 4756.487328923725,
+      "ranking_off": 91,
+      "ranking_def": 106
     },
     {
       "date": "2002-07-07",
@@ -5730,7 +6926,11 @@
       "rating_ev": 3,
       "rank": 104,
       "win_prob": 37.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4926.79122049222,
+      "points_def": 4756.487328923725,
+      "ranking_off": 82,
+      "ranking_def": 103
     },
     {
       "date": "2002-07-03",
@@ -5749,7 +6949,11 @@
       "rating_ev": -4,
       "rank": 104,
       "win_prob": 66.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4908.842502543503,
+      "points_def": 4739.55046697275,
+      "ranking_off": 92,
+      "ranking_def": 108
     },
     {
       "date": "2002-05-21",
@@ -5768,7 +6972,11 @@
       "rating_ev": -8,
       "rank": 104,
       "win_prob": 89.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4936.357863821601,
+      "points_def": 4739.55046697275,
+      "ranking_off": 74,
+      "ranking_def": 107
     },
     {
       "date": "2002-05-18",
@@ -5787,7 +6995,11 @@
       "rating_ev": 8,
       "rank": 104,
       "win_prob": 10.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4965.94582532595,
+      "points_def": 4717.553615961612,
+      "ranking_off": 70,
+      "ranking_def": 113
     },
     {
       "date": "2002-03-27",
@@ -5806,7 +7018,11 @@
       "rating_ev": 19,
       "rank": 104,
       "win_prob": 14.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4965.94582532595,
+      "points_def": 4692.483317365222,
+      "ranking_off": 69,
+      "ranking_def": 118
     },
     {
       "date": "2002-03-14",
@@ -5825,7 +7041,11 @@
       "rating_ev": 25,
       "rank": 105,
       "win_prob": 16.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4953.321039429708,
+      "points_def": 4674.73403354387,
+      "ranking_off": 71,
+      "ranking_def": 125
     },
     {
       "date": "2001-11-14",
@@ -5844,7 +7064,11 @@
       "rating_ev": -1,
       "rank": 111,
       "win_prob": 54.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4940.005484709028,
+      "points_def": 4646.159644949931,
+      "ranking_off": 79,
+      "ranking_def": 131
     },
     {
       "date": "2001-11-10",
@@ -5863,7 +7087,11 @@
       "rating_ev": 1,
       "rank": 111,
       "win_prob": 10.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4968.675397798645,
+      "points_def": 4622.302565464305,
+      "ranking_off": 71,
+      "ranking_def": 138
     },
     {
       "date": "2001-10-06",
@@ -5882,7 +7110,11 @@
       "rating_ev": -18,
       "rank": 111,
       "win_prob": 3.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4940.103969227216,
+      "points_def": 4640.986889998505,
+      "ranking_off": 81,
+      "ranking_def": 132
     },
     {
       "date": "2001-09-05",
@@ -5901,7 +7133,11 @@
       "rating_ev": -18,
       "rank": 108,
       "win_prob": 3.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4940.103969227216,
+      "points_def": 4664.108440799223,
+      "ranking_off": 79,
+      "ranking_def": 122
     },
     {
       "date": "2001-08-15",
@@ -5920,7 +7156,11 @@
       "rating_ev": -1,
       "rank": 103,
       "win_prob": 52.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4940.103969227216,
+      "points_def": 4687.597348378026,
+      "ranking_off": 80,
+      "ranking_def": 115
     },
     {
       "date": "2001-07-04",
@@ -5939,7 +7179,11 @@
       "rating_ev": -41,
       "rank": 102,
       "win_prob": 50.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4950.465717472991,
+      "points_def": 4696.72511759698,
+      "ranking_off": 80,
+      "ranking_def": 114
     },
     {
       "date": "2001-07-03",
@@ -5958,7 +7202,11 @@
       "rating_ev": -23,
       "rank": 88,
       "win_prob": 41.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4943.181780983956,
+      "points_def": 4735.280107635404,
+      "ranking_off": 81,
+      "ranking_def": 102
     },
     {
       "date": "2001-06-06",
@@ -5977,7 +7225,11 @@
       "rating_ev": -6,
       "rank": 85,
       "win_prob": 17.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4946.442624605501,
+      "points_def": 4757.597860982412,
+      "ranking_off": 82,
+      "ranking_def": 97
     },
     {
       "date": "2001-06-02",
@@ -5996,7 +7248,11 @@
       "rating_ev": 6,
       "rank": 84,
       "win_prob": 8.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4967.740810984157,
+      "points_def": 4763.5773263123165,
+      "ranking_off": 71,
+      "ranking_def": 95
     },
     {
       "date": "2001-05-09",
@@ -6015,7 +7271,11 @@
       "rating_ev": 5,
       "rank": 85,
       "win_prob": 33.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4951.742008936516,
+      "points_def": 4791.244094766355,
+      "ranking_off": 80,
+      "ranking_def": 82
     },
     {
       "date": "2001-04-25",
@@ -6034,7 +7294,11 @@
       "rating_ev": 3,
       "rank": 86,
       "win_prob": 39.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4959.207416063436,
+      "points_def": 4782.111901334347,
+      "ranking_off": 76,
+      "ranking_def": 85
     },
     {
       "date": "2001-03-28",
@@ -6053,7 +7317,11 @@
       "rating_ev": 12,
       "rank": 85,
       "win_prob": 29.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4959.207416063436,
+      "points_def": 4756.472799390669,
+      "ranking_off": 75,
+      "ranking_def": 94
     },
     {
       "date": "2001-03-19",
@@ -6072,7 +7340,11 @@
       "rating_ev": 12,
       "rank": 90,
       "win_prob": 15.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4949.043543765365,
+      "points_def": 4751.223872605207,
+      "ranking_off": 76,
+      "ranking_def": 96
     },
     {
       "date": "2000-12-10",
@@ -6091,7 +7363,11 @@
       "rating_ev": 0,
       "rank": 96,
       "win_prob": 72.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4913.450323426382,
+      "points_def": 4769.298727453741,
+      "ranking_off": 87,
+      "ranking_def": 92
     },
     {
       "date": "2000-11-15",
@@ -6110,7 +7386,11 @@
       "rating_ev": -8,
       "rank": 95,
       "win_prob": 89.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4904.566836456394,
+      "points_def": 4763.243078155082,
+      "ranking_off": 93,
+      "ranking_def": 93
     },
     {
       "date": "2000-10-11",
@@ -6129,7 +7409,11 @@
       "rating_ev": 6,
       "rank": 94,
       "win_prob": 7.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4931.824356261717,
+      "points_def": 4763.243078155082,
+      "ranking_off": 81,
+      "ranking_def": 94
     },
     {
       "date": "2000-10-07",
@@ -6148,7 +7432,11 @@
       "rating_ev": 4,
       "rank": 97,
       "win_prob": 67.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4931.824356261717,
+      "points_def": 4750.670634000327,
+      "ranking_off": 80,
+      "ranking_def": 100
     },
     {
       "date": "2000-09-03",
@@ -6167,7 +7455,11 @@
       "rating_ev": 5,
       "rank": 97,
       "win_prob": 8.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4925.287748642583,
+      "points_def": 4739.592305971269,
+      "ranking_off": 81,
+      "ranking_def": 101
     },
     {
       "date": "2000-08-16",
@@ -6186,7 +7478,11 @@
       "rating_ev": -8,
       "rank": 97,
       "win_prob": 84.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4907.339030693865,
+      "points_def": 4756.242548444529,
+      "ranking_off": 94,
+      "ranking_def": 97
     },
     {
       "date": "2000-06-11",
@@ -6205,7 +7501,11 @@
       "rating_ev": 11,
       "rank": 93,
       "win_prob": 36.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4932.350454135189,
+      "points_def": 4756.242548444529,
+      "ranking_off": 82,
+      "ranking_def": 100
     },
     {
       "date": "2000-06-04",
@@ -6224,7 +7524,11 @@
       "rating_ev": 15,
       "rank": 95,
       "win_prob": 45.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4942.433823505337,
+      "points_def": 4733.418703768102,
+      "ranking_off": 80,
+      "ranking_def": 103
     },
     {
       "date": "2000-04-26",
@@ -6243,7 +7547,11 @@
       "rating_ev": 0,
       "rank": 101,
       "win_prob": 50.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4935.404778194134,
+      "points_def": 4710.76706021656,
+      "ranking_off": 83,
+      "ranking_def": 113
     },
     {
       "date": "2000-02-25",
@@ -6262,7 +7570,11 @@
       "rating_ev": -7,
       "rank": 100,
       "win_prob": 36.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4948.452967557639,
+      "points_def": 4695.8143254422685,
+      "ranking_off": 77,
+      "ranking_def": 113
     },
     {
       "date": "2000-02-23",
@@ -6281,7 +7593,11 @@
       "rating_ev": -13,
       "rank": 100,
       "win_prob": 25.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4958.507341059672,
+      "points_def": 4698.831508804588,
+      "ranking_off": 74,
+      "ranking_def": 113
     },
     {
       "date": "1999-12-18",
@@ -6300,7 +7616,11 @@
       "rating_ev": 16,
       "rank": 95,
       "win_prob": 8.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4929.935912488244,
+      "points_def": 4728.636982522201,
+      "ranking_off": 82,
+      "ranking_def": 103
     },
     {
       "date": "1999-11-03",
@@ -6319,7 +7639,11 @@
       "rating_ev": -4,
       "rank": 103,
       "win_prob": 58.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4901.364483916816,
+      "points_def": 4718.7416174638765,
+      "ranking_off": 97,
+      "ranking_def": 103
     },
     {
       "date": "1999-11-01",
@@ -6338,7 +7662,11 @@
       "rating_ev": 12,
       "rank": 103,
       "win_prob": 28.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4916.263186573157,
+      "points_def": 4707.317637417434,
+      "ranking_off": 86,
+      "ranking_def": 108
     },
     {
       "date": "1999-10-30",
@@ -6357,7 +7685,11 @@
       "rating_ev": 15,
       "rank": 104,
       "win_prob": 25.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4887.691758001729,
+      "points_def": 4705.283605264571,
+      "ranking_off": 99,
+      "ranking_def": 109
     },
     {
       "date": "1999-10-09",
@@ -6376,7 +7708,11 @@
       "rating_ev": -40,
       "rank": 107,
       "win_prob": 49.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4893.160145885475,
+      "points_def": 4683.021569178821,
+      "ranking_off": 98,
+      "ranking_def": 119
     },
     {
       "date": "1999-09-08",
@@ -6395,7 +7731,11 @@
       "rating_ev": 15,
       "rank": 96,
       "win_prob": 25.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4906.133971304519,
+      "points_def": 4716.481518995382,
+      "ranking_off": 95,
+      "ranking_def": 106
     },
     {
       "date": "1999-09-04",
@@ -6414,7 +7754,11 @@
       "rating_ev": 28,
       "rank": 103,
       "win_prob": 49.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4927.3025185708775,
+      "points_def": 4690.907305218671,
+      "ranking_off": 82,
+      "ranking_def": 115
     },
     {
       "date": "1999-08-18",
@@ -6433,7 +7777,11 @@
       "rating_ev": 13,
       "rank": 106,
       "win_prob": 55.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4916.027374768457,
+      "points_def": 4662.452468978145,
+      "ranking_off": 89,
+      "ranking_def": 128
     },
     {
       "date": "1999-06-09",
@@ -6452,7 +7800,11 @@
       "rating_ev": -12,
       "rank": 107,
       "win_prob": 47.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4914.567629911437,
+      "points_def": 4641.554503251595,
+      "ranking_off": 88,
+      "ranking_def": 131
     },
     {
       "date": "1999-06-05",
@@ -6471,7 +7823,11 @@
       "rating_ev": 0,
       "rank": 104,
       "win_prob": 11.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4928.776964121084,
+      "points_def": 4656.741571184308,
+      "ranking_off": 83,
+      "ranking_def": 125
     },
     {
       "date": "1999-03-31",
@@ -6490,7 +7846,11 @@
       "rating_ev": 32,
       "rank": 104,
       "win_prob": 20.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4948.015813283396,
+      "points_def": 4652.787576785561,
+      "ranking_off": 77,
+      "ranking_def": 123
     },
     {
       "date": "1999-03-16",
@@ -6509,7 +7869,11 @@
       "rating_ev": 17,
       "rank": 112,
       "win_prob": 17.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4919.444384711967,
+      "points_def": 4633.95196757118,
+      "ranking_off": 87,
+      "ranking_def": 133
     },
     {
       "date": "1999-03-06",
@@ -6528,7 +7892,11 @@
       "rating_ev": -2,
       "rank": 115,
       "win_prob": 55.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4890.872956140539,
+      "points_def": 4609.648401471087,
+      "ranking_off": 100,
+      "ranking_def": 138
     },
     {
       "date": "1999-03-03",
@@ -6547,7 +7915,11 @@
       "rating_ev": 9,
       "rank": 114,
       "win_prob": 3.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4879.674151815574,
+      "points_def": 4620.559897654297,
+      "ranking_off": 103,
+      "ranking_def": 137
     },
     {
       "date": "1999-01-22",
@@ -6566,7 +7938,11 @@
       "rating_ev": 38,
       "rank": 118,
       "win_prob": 5.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4879.674151815574,
+      "points_def": 4596.4710674869,
+      "ranking_off": 104,
+      "ranking_def": 140
     },
     {
       "date": "1999-01-18",
@@ -6585,7 +7961,11 @@
       "rating_ev": -50,
       "rank": 122,
       "win_prob": 6.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4844.080931476591,
+      "points_def": 4599.815252734008,
+      "ranking_off": 120,
+      "ranking_def": 138
     },
     {
       "date": "1998-11-28",
@@ -6604,7 +7984,11 @@
       "rating_ev": -6,
       "rank": 114,
       "win_prob": 46.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4844.080931476591,
+      "points_def": 4640.245413009824,
+      "ranking_off": 119,
+      "ranking_def": 132
     },
     {
       "date": "1998-11-21",
@@ -6623,7 +8007,11 @@
       "rating_ev": -2,
       "rank": 113,
       "win_prob": 33.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4826.132213527873,
+      "points_def": 4645.635300323431,
+      "ranking_off": 124,
+      "ranking_def": 132
     },
     {
       "date": "1998-11-18",
@@ -6642,7 +8030,11 @@
       "rating_ev": -1,
       "rank": 112,
       "win_prob": 13.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4808.183495579156,
+      "points_def": 4644.670976861622,
+      "ranking_off": 132,
+      "ranking_def": 132
     },
     {
       "date": "1998-10-14",
@@ -6661,7 +8053,11 @@
       "rating_ev": 1,
       "rank": 112,
       "win_prob": 4.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4790.234777630438,
+      "points_def": 4653.208486582716,
+      "ranking_off": 141,
+      "ranking_def": 125
     },
     {
       "date": "1998-10-10",
@@ -6680,7 +8076,11 @@
       "rating_ev": 19,
       "rank": 113,
       "win_prob": 7.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4772.28605968172,
+      "points_def": 4671.930231392828,
+      "ranking_off": 144,
+      "ranking_def": 122
     },
     {
       "date": "1998-09-23",
@@ -6699,7 +8099,11 @@
       "rating_ev": 11,
       "rank": 116,
       "win_prob": 17.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4743.714631110292,
+      "points_def": 4683.31683654211,
+      "ranking_off": 155,
+      "ranking_def": 120
     },
     {
       "date": "1998-09-05",
@@ -6718,7 +8122,11 @@
       "rating_ev": 25,
       "rank": 117,
       "win_prob": 13.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4715.143202538863,
+      "points_def": 4693.113307433205,
+      "ranking_off": 162,
+      "ranking_def": 117
     },
     {
       "date": "1998-08-20",
@@ -6737,7 +8145,11 @@
       "rating_ev": -7,
       "rank": 123,
       "win_prob": 49.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4697.194484590145,
+      "points_def": 4670.313840910907,
+      "ranking_off": 163,
+      "ranking_def": 124
     },
     {
       "date": "1998-06-28",
@@ -6756,7 +8168,11 @@
       "rating_ev": 12,
       "rank": 122,
       "win_prob": 30.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4720.943356267926,
+      "points_def": 4660.427838105611,
+      "ranking_off": 159,
+      "ranking_def": 126
     },
     {
       "date": "1998-06-25",
@@ -6775,7 +8191,11 @@
       "rating_ev": -24,
       "rank": 124,
       "win_prob": 44.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4740.067777095085,
+      "points_def": 4637.065583450854,
+      "ranking_off": 152,
+      "ranking_def": 132
     },
     {
       "date": "1998-06-22",
@@ -6794,7 +8214,11 @@
       "rating_ev": -4,
       "rank": 121,
       "win_prob": 82.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4763.531214137558,
+      "points_def": 4650.250827414055,
+      "ranking_off": 147,
+      "ranking_def": 129
     },
     {
       "date": "1998-06-04",
@@ -6813,7 +8237,11 @@
       "rating_ev": 57,
       "rank": 121,
       "win_prob": 64.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4774.7458777466245,
+      "points_def": 4668.199545362772,
+      "ranking_off": 145,
+      "ranking_def": 126
     },
     {
       "date": "1998-05-16",
@@ -6832,7 +8260,11 @@
       "rating_ev": 0,
       "rank": 128,
       "win_prob": 51.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4739.409195888197,
+      "points_def": 4645.2829978909895,
+      "ranking_off": 153,
+      "ranking_def": 132
     },
     {
       "date": "1998-05-09",
@@ -6851,7 +8283,11 @@
       "rating_ev": -19,
       "rank": 128,
       "win_prob": 6.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4762.601616657577,
+      "points_def": 4623.7421818087405,
+      "ranking_off": 147,
+      "ranking_def": 134
     },
     {
       "date": "1998-03-31",
@@ -6870,7 +8306,11 @@
       "rating_ev": -16,
       "rank": 126,
       "win_prob": 16.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4762.601616657577,
+      "points_def": 4661.656993246347,
+      "ranking_off": 147,
+      "ranking_def": 128
     },
     {
       "date": "1997-11-27",
@@ -6889,7 +8329,11 @@
       "rating_ev": -18,
       "rank": 123,
       "win_prob": 97.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4762.601616657577,
+      "points_def": 4688.696767508217,
+      "ranking_off": 148,
+      "ranking_def": 118
     },
     {
       "date": "1997-10-11",
@@ -6908,7 +8352,11 @@
       "rating_ev": 25,
       "rank": 122,
       "win_prob": 5.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4792.820271825777,
+      "points_def": 4688.696767508217,
+      "ranking_off": 140,
+      "ranking_def": 118
     },
     {
       "date": "1997-09-06",
@@ -6927,7 +8375,11 @@
       "rating_ev": 5,
       "rank": 124,
       "win_prob": 19.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4792.820271825777,
+      "points_def": 4662.009912637903,
+      "ranking_off": 138,
+      "ranking_def": 128
     },
     {
       "date": "1997-08-20",
@@ -6946,7 +8398,11 @@
       "rating_ev": -15,
       "rank": 125,
       "win_prob": 13.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4792.820271825777,
+      "points_def": 4642.067533445241,
+      "ranking_off": 138,
+      "ranking_def": 132
     },
     {
       "date": "1997-08-06",
@@ -6965,7 +8421,11 @@
       "rating_ev": -22,
       "rank": 123,
       "win_prob": 77.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4813.404667488552,
+      "points_def": 4659.341115240489,
+      "ranking_off": 129,
+      "ranking_def": 129
     },
     {
       "date": "1997-07-10",
@@ -6984,7 +8444,11 @@
       "rating_ev": -2,
       "rank": 123,
       "win_prob": 28.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4847.354288480318,
+      "points_def": 4673.605096075457,
+      "ranking_off": 117,
+      "ranking_def": 128
     },
     {
       "date": "1997-07-09",
@@ -7003,7 +8467,11 @@
       "rating_ev": 5,
       "rank": 123,
       "win_prob": 18.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4851.793387904569,
+      "points_def": 4680.310915531544,
+      "ranking_off": 115,
+      "ranking_def": 122
     },
     {
       "date": "1997-06-22",
@@ -7022,7 +8490,11 @@
       "rating_ev": 10,
       "rank": 122,
       "win_prob": 82.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4833.844669955851,
+      "points_def": 4676.511050108462,
+      "ranking_off": 122,
+      "ranking_def": 125
     },
     {
       "date": "1997-06-08",
@@ -7041,7 +8513,11 @@
       "rating_ev": 17,
       "rank": 121,
       "win_prob": 9.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4811.38946308179,
+      "points_def": 4694.45976805718,
+      "ranking_off": 125,
+      "ranking_def": 119
     },
     {
       "date": "1997-06-04",
@@ -7060,7 +8536,11 @@
       "rating_ev": 7,
       "rank": 123,
       "win_prob": 50.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4782.818034510362,
+      "points_def": 4714.44029722663,
+      "ranking_off": 138,
+      "ranking_def": 111
     },
     {
       "date": "1997-05-18",
@@ -7079,7 +8559,11 @@
       "rating_ev": -20,
       "rank": 125,
       "win_prob": 37.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4794.458162060852,
+      "points_def": 4694.625470032979,
+      "ranking_off": 134,
+      "ranking_def": 115
     },
     {
       "date": "1997-04-30",
@@ -7098,7 +8582,11 @@
       "rating_ev": 9,
       "rank": 121,
       "win_prob": 6.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4801.418954708662,
+      "points_def": 4721.976653914674,
+      "ranking_off": 130,
+      "ranking_def": 108
     },
     {
       "date": "1997-03-29",
@@ -7117,7 +8605,11 @@
       "rating_ev": 11,
       "rank": 125,
       "win_prob": 5.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4801.418954708662,
+      "points_def": 4707.2012881295,
+      "ranking_off": 131,
+      "ranking_def": 117
     },
     {
       "date": "1997-03-01",
@@ -7136,7 +8628,11 @@
       "rating_ev": 18,
       "rank": 128,
       "win_prob": 35.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4801.418954708662,
+      "points_def": 4700.106436964682,
+      "ranking_off": 131,
+      "ranking_def": 119
     },
     {
       "date": "1997-02-11",
@@ -7155,7 +8651,11 @@
       "rating_ev": 37,
       "rank": 128,
       "win_prob": 6.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4785.963348998906,
+      "points_def": 4674.816117807285,
+      "ranking_off": 137,
+      "ranking_def": 126
     },
     {
       "date": "1997-01-26",
@@ -7174,7 +8674,11 @@
       "rating_ev": -8,
       "rank": 132,
       "win_prob": 30.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4785.963348998906,
+      "points_def": 4644.93259793654,
+      "ranking_off": 137,
+      "ranking_def": 129
     },
     {
       "date": "1996-11-16",
@@ -7193,7 +8697,11 @@
       "rating_ev": 21,
       "rank": 131,
       "win_prob": 48.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4804.958444622291,
+      "points_def": 4640.006271188493,
+      "ranking_off": 130,
+      "ranking_def": 128
     },
     {
       "date": "1996-11-13",
@@ -7212,7 +8720,11 @@
       "rating_ev": 32,
       "rank": 133,
       "win_prob": 48.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4782.916320797247,
+      "points_def": 4615.999992341505,
+      "ranking_off": 137,
+      "ranking_def": 136
     },
     {
       "date": "1996-10-30",
@@ -7231,7 +8743,11 @@
       "rating_ev": 14,
       "rank": 139,
       "win_prob": 10.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4740.121280947798,
+      "points_def": 4601.590986926623,
+      "ranking_off": 147,
+      "ranking_def": 139
     },
     {
       "date": "1996-10-05",
@@ -7250,7 +8766,11 @@
       "rating_ev": 32,
       "rank": 141,
       "win_prob": 21.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4711.54985237637,
+      "points_def": 4591.028399441583,
+      "ranking_off": 155,
+      "ranking_def": 142
     },
     {
       "date": "1996-08-31",
@@ -7269,7 +8789,11 @@
       "rating_ev": 17,
       "rank": 146,
       "win_prob": 8.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4715.10966778512,
+      "points_def": 4564.865763227812,
+      "ranking_off": 156,
+      "ranking_def": 145
     },
     {
       "date": "1996-07-09",
@@ -7288,7 +8812,11 @@
       "rating_ev": 22,
       "rank": 146,
       "win_prob": 16.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4715.10966778512,
+      "points_def": 4538.113996452416,
+      "ranking_off": 157,
+      "ranking_def": 153
     },
     {
       "date": "1996-07-07",
@@ -7307,7 +8835,11 @@
       "rating_ev": 19,
       "rank": 147,
       "win_prob": 20.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4722.414846151092,
+      "points_def": 4519.1053351183145,
+      "ranking_off": 156,
+      "ranking_def": 157
     },
     {
       "date": "1996-05-29",
@@ -7326,7 +8858,11 @@
       "rating_ev": 19,
       "rank": 152,
       "win_prob": 6.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4727.661841311608,
+      "points_def": 4506.527845308523,
+      "ranking_off": 154,
+      "ranking_def": 160
     },
     {
       "date": "1996-04-24",
@@ -7345,7 +8881,11 @@
       "rating_ev": -7,
       "rank": 153,
       "win_prob": 11.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4727.661841311608,
+      "points_def": 4473.678515383747,
+      "ranking_off": 152,
+      "ranking_def": 161
     },
     {
       "date": "1996-02-24",
@@ -7364,7 +8904,11 @@
       "rating_ev": -3,
       "rank": 151,
       "win_prob": 60.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4727.661841311608,
+      "points_def": 4491.034926701972,
+      "ranking_off": 152,
+      "ranking_def": 161
     },
     {
       "date": "1996-02-20",
@@ -7383,7 +8927,11 @@
       "rating_ev": 8,
       "rank": 151,
       "win_prob": 9.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4739.382617740395,
+      "points_def": 4500.090613282636,
+      "ranking_off": 146,
+      "ranking_def": 159
     },
     {
       "date": "1996-02-16",
@@ -7402,7 +8950,11 @@
       "rating_ev": 11,
       "rank": 152,
       "win_prob": 16.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4739.382617740395,
+      "points_def": 4472.128420680945,
+      "ranking_off": 146,
+      "ranking_def": 161
     },
     {
       "date": "1995-10-11",
@@ -7421,7 +8973,11 @@
       "rating_ev": -31,
       "rank": 154,
       "win_prob": 7.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4759.0191729151575,
+      "points_def": 4438.8433153788665,
+      "ranking_off": 146,
+      "ranking_def": 167
     },
     {
       "date": "1995-09-03",
@@ -7440,7 +8996,11 @@
       "rating_ev": -20,
       "rank": 152,
       "win_prob": 1.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4759.0191729151575,
+      "points_def": 4467.640732129854,
+      "ranking_off": 146,
+      "ranking_def": 163
     },
     {
       "date": "1995-08-16",
@@ -7459,7 +9019,11 @@
       "rating_ev": 10,
       "rank": 148,
       "win_prob": 14.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4741.07045496644,
+      "points_def": 4503.324854006868,
+      "ranking_off": 151,
+      "ranking_def": 157
     },
     {
       "date": "1995-06-11",
@@ -7478,7 +9042,11 @@
       "rating_ev": -1,
       "rank": 149,
       "win_prob": 12.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4762.736667213436,
+      "points_def": 4484.343283576086,
+      "ranking_off": 145,
+      "ranking_def": 163
     },
     {
       "date": "1995-05-20",
@@ -7497,7 +9065,11 @@
       "rating_ev": -60,
       "rank": 149,
       "win_prob": 13.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4744.787949264718,
+      "points_def": 4503.304490897672,
+      "ranking_off": 151,
+      "ranking_def": 159
     },
     {
       "date": "1995-05-19",
@@ -7516,7 +9088,11 @@
       "rating_ev": -9,
       "rank": 139,
       "win_prob": 20.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4744.787949264718,
+      "points_def": 4546.70565886489,
+      "ranking_off": 151,
+      "ranking_def": 145
     },
     {
       "date": "1995-04-26",
@@ -7535,7 +9111,11 @@
       "rating_ev": 7,
       "rank": 138,
       "win_prob": 17.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4744.787949264718,
+      "points_def": 4542.479067935639,
+      "ranking_off": 150,
+      "ranking_def": 145
     },
     {
       "date": "1995-03-29",
@@ -7554,7 +9134,11 @@
       "rating_ev": -6,
       "rank": 138,
       "win_prob": 7.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4744.787949264718,
+      "points_def": 4525.515947141447,
+      "ranking_off": 150,
+      "ranking_def": 150
     },
     {
       "date": "1995-03-25",
@@ -7573,7 +9157,11 @@
       "rating_ev": 14,
       "rank": 138,
       "win_prob": 1.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4744.787949264718,
+      "points_def": 4531.654624323198,
+      "ranking_off": 150,
+      "ranking_def": 150
     },
     {
       "date": "1995-02-15",
@@ -7592,7 +9180,11 @@
       "rating_ev": -1,
       "rank": 138,
       "win_prob": 13.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4726.839231316,
+      "points_def": 4542.173800308829,
+      "ranking_off": 157,
+      "ranking_def": 147
     },
     {
       "date": "1995-02-06",
@@ -7611,7 +9203,11 @@
       "rating_ev": -19,
       "rank": 138,
       "win_prob": 3.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4708.890513367282,
+      "points_def": 4549.777254245131,
+      "ranking_off": 162,
+      "ranking_def": 147
     },
     {
       "date": "1995-01-04",
@@ -7630,7 +9226,11 @@
       "rating_ev": -23,
       "rank": 135,
       "win_prob": 66.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4708.890513367282,
+      "points_def": 4591.833106060311,
+      "ranking_off": 162,
+      "ranking_def": 135
     },
     {
       "date": "1994-11-13",
@@ -7649,7 +9249,11 @@
       "rating_ev": -10,
       "rank": 136,
       "win_prob": 9.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4583.465076282028,
+      "ranking_off": 155,
+      "ranking_def": 137
     },
     {
       "date": "1994-11-06",
@@ -7668,7 +9272,11 @@
       "rating_ev": 10,
       "rank": 134,
       "win_prob": 18.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4591.025006832023,
+      "ranking_off": 155,
+      "ranking_def": 137
     },
     {
       "date": "1994-10-26",
@@ -7687,7 +9295,11 @@
       "rating_ev": -34,
       "rank": 137,
       "win_prob": 23.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4560.046265986604,
+      "ranking_off": 155,
+      "ranking_def": 145
     },
     {
       "date": "1994-10-08",
@@ -7706,7 +9318,11 @@
       "rating_ev": 14,
       "rank": 131,
       "win_prob": 4.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4605.394806451157,
+      "ranking_off": 155,
+      "ranking_def": 134
     },
     {
       "date": "1994-09-04",
@@ -7725,7 +9341,11 @@
       "rating_ev": 14,
       "rank": 131,
       "win_prob": 4.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4598.935550345028,
+      "ranking_off": 155,
+      "ranking_def": 137
     },
     {
       "date": "1994-08-16",
@@ -7744,7 +9364,11 @@
       "rating_ev": -8,
       "rank": 135,
       "win_prob": 6.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4584.467981484741,
+      "ranking_off": 155,
+      "ranking_def": 139
     },
     {
       "date": "1994-07-30",
@@ -7763,7 +9387,11 @@
       "rating_ev": -14,
       "rank": 132,
       "win_prob": 26.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4607.015286789558,
+      "ranking_off": 154,
+      "ranking_def": 136
     },
     {
       "date": "1994-07-29",
@@ -7782,7 +9410,11 @@
       "rating_ev": -24,
       "rank": 131,
       "win_prob": 22.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4614.755527448733,
+      "ranking_off": 154,
+      "ranking_def": 134
     },
     {
       "date": "1994-06-01",
@@ -7801,7 +9433,11 @@
       "rating_ev": 2,
       "rank": 130,
       "win_prob": 8.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4630.9926775372005,
+      "ranking_off": 154,
+      "ranking_def": 128
     },
     {
       "date": "1994-05-23",
@@ -7820,7 +9456,11 @@
       "rating_ev": 8,
       "rank": 130,
       "win_prob": 9.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.514876929436,
+      "points_def": 4615.732978853179,
+      "ranking_off": 154,
+      "ranking_def": 135
     },
     {
       "date": "1994-05-07",
@@ -7839,7 +9479,11 @@
       "rating_ev": -12,
       "rank": 131,
       "win_prob": 9.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4713.566158980718,
+      "points_def": 4613.631788892025,
+      "ranking_off": 156,
+      "ranking_def": 135
     },
     {
       "date": "1994-03-09",
@@ -7858,7 +9502,11 @@
       "rating_ev": -3,
       "rank": 128,
       "win_prob": 16.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4713.566158980718,
+      "points_def": 4639.739543649986,
+      "ranking_off": 158,
+      "ranking_def": 126
     },
     {
       "date": "1993-11-17",
@@ -7877,7 +9525,11 @@
       "rating_ev": -5,
       "rank": 127,
       "win_prob": 2.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4713.566158980718,
+      "points_def": 4632.011217834513,
+      "ranking_off": 159,
+      "ranking_def": 127
     },
     {
       "date": "1993-11-10",
@@ -7896,7 +9548,11 @@
       "rating_ev": 6,
       "rank": 126,
       "win_prob": 3.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4713.566158980718,
+      "points_def": 4643.413962115011,
+      "ranking_off": 159,
+      "ranking_def": 123
     },
     {
       "date": "1993-10-26",
@@ -7915,7 +9571,11 @@
       "rating_ev": 8,
       "rank": 127,
       "win_prob": 70.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4713.566158980718,
+      "points_def": 4646.999054902023,
+      "ranking_off": 159,
+      "ranking_def": 122
     },
     {
       "date": "1993-09-22",
@@ -7934,7 +9594,11 @@
       "rating_ev": 0,
       "rank": 126,
       "win_prob": 4.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4711.809140282854,
+      "points_def": 4622.477391984158,
+      "ranking_off": 159,
+      "ranking_def": 129
     },
     {
       "date": "1993-09-05",
@@ -7953,7 +9617,11 @@
       "rating_ev": 9,
       "rank": 125,
       "win_prob": 6.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4711.809140282854,
+      "points_def": 4636.866262315923,
+      "ranking_off": 159,
+      "ranking_def": 123
     },
     {
       "date": "1993-07-04",
@@ -7972,7 +9640,11 @@
       "rating_ev": 22,
       "rank": 126,
       "win_prob": 36.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4711.809140282854,
+      "points_def": 4637.035972670416,
+      "ranking_off": 159,
+      "ranking_def": 125
     },
     {
       "date": "1993-07-02",
@@ -7991,7 +9663,11 @@
       "rating_ev": -22,
       "rank": 127,
       "win_prob": 39.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4696.967407014211,
+      "points_def": 4630.706226551261,
+      "ranking_off": 163,
+      "ranking_def": 127
     },
     {
       "date": "1993-06-02",
@@ -8010,7 +9686,11 @@
       "rating_ev": 15,
       "rank": 126,
       "win_prob": 4.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4718.398879429566,
+      "points_def": 4645.48892978498,
+      "ranking_off": 156,
+      "ranking_def": 123
     },
     {
       "date": "1993-05-19",
@@ -8029,7 +9709,11 @@
       "rating_ev": -11,
       "rank": 127,
       "win_prob": 10.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4700.450161480848,
+      "points_def": 4650.228634918897,
+      "ranking_off": 162,
+      "ranking_def": 124
     },
     {
       "date": "1993-05-12",
@@ -8048,7 +9732,11 @@
       "rating_ev": -7,
       "rank": 126,
       "win_prob": 38.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4700.450161480848,
+      "points_def": 4671.185555898624,
+      "ranking_off": 162,
+      "ranking_def": 118
     },
     {
       "date": "1993-04-14",
@@ -8067,7 +9755,11 @@
       "rating_ev": 28,
       "rank": 124,
       "win_prob": 1.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4723.607896172433,
+      "points_def": 4665.444632206034,
+      "ranking_off": 153,
+      "ranking_def": 120
     },
     {
       "date": "1993-04-07",
@@ -8086,7 +9778,11 @@
       "rating_ev": 2,
       "rank": 126,
       "win_prob": 8.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4723.607896172433,
+      "points_def": 4642.924223077577,
+      "ranking_off": 152,
+      "ranking_def": 124
     },
     {
       "date": "1993-02-21",
@@ -8105,7 +9801,11 @@
       "rating_ev": -17,
       "rank": 127,
       "win_prob": 31.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4723.607896172433,
+      "points_def": 4637.843018461012,
+      "ranking_off": 151,
+      "ranking_def": 124
     },
     {
       "date": "1993-02-20",
@@ -8124,7 +9824,11 @@
       "rating_ev": 31,
       "rank": 126,
       "win_prob": 9.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4742.874874848756,
+      "points_def": 4645.695592180537,
+      "ranking_off": 144,
+      "ranking_def": 123
     },
     {
       "date": "1992-10-25",
@@ -8143,7 +9847,11 @@
       "rating_ev": 25,
       "rank": 127,
       "win_prob": 13.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4742.874874848756,
+      "points_def": 4613.181011250277,
+      "ranking_off": 142,
+      "ranking_def": 131
     },
     {
       "date": "1992-08-16",
@@ -8162,7 +9870,11 @@
       "rating_ev": -40,
       "rank": 133,
       "win_prob": 6.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4742.874874848756,
+      "points_def": 4581.945340971917,
+      "ranking_off": 137,
+      "ranking_def": 137
     },
     {
       "date": "1992-07-11",
@@ -8181,7 +9893,11 @@
       "rating_ev": 6,
       "rank": 123,
       "win_prob": 39.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4742.874874848756,
+      "points_def": 4620.39067352404,
+      "ranking_off": 137,
+      "ranking_def": 130
     },
     {
       "date": "1992-07-10",
@@ -8200,7 +9916,11 @@
       "rating_ev": 5,
       "rank": 124,
       "win_prob": 20.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4751.939804341689,
+      "points_def": 4605.660493130472,
+      "ranking_off": 132,
+      "ranking_def": 133
     },
     {
       "date": "1992-06-03",
@@ -8219,7 +9939,11 @@
       "rating_ev": 11,
       "rank": 123,
       "win_prob": 16.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4733.991086392971,
+      "points_def": 4599.939843427327,
+      "ranking_off": 139,
+      "ranking_def": 130
     },
     {
       "date": "1991-11-16",
@@ -8238,7 +9962,11 @@
       "rating_ev": -16,
       "rank": 123,
       "win_prob": 29.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4716.042368444253,
+      "points_def": 4588.982574483141,
+      "ranking_off": 144,
+      "ranking_def": 127
     },
     {
       "date": "1991-11-15",
@@ -8257,7 +9985,11 @@
       "rating_ev": -36,
       "rank": 118,
       "win_prob": 41.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4736.999948538667,
+      "points_def": 4589.89750927172,
+      "ranking_off": 133,
+      "ranking_def": 127
     },
     {
       "date": "1949-10-24",
@@ -8276,7 +10008,11 @@
       "rating_ev": -4,
       "rank": "-",
       "win_prob": 31.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4742.508089370542,
+      "points_def": 4618.114398079589,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1949-10-23",
@@ -8295,7 +10031,11 @@
       "rating_ev": -14,
       "rank": "-",
       "win_prob": 49.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4749.657989889632,
+      "points_def": 4619.18864797743,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1948-09-28",
@@ -8314,7 +10054,11 @@
       "rating_ev": 17,
       "rank": "-",
       "win_prob": 21.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4758.858399755955,
+      "points_def": 4619.164085778389,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1948-09-27",
@@ -8333,7 +10077,11 @@
       "rating_ev": -21,
       "rank": "-",
       "win_prob": 62.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4740.909681807238,
+      "points_def": 4594.66621885983,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1942-08-18",
@@ -8352,7 +10100,11 @@
       "rating_ev": -31,
       "rank": "-",
       "win_prob": 44.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4756.932724013087,
+      "points_def": 4602.676920837987,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1942-08-03",
@@ -8371,7 +10123,11 @@
       "rating_ev": -20,
       "rank": "-",
       "win_prob": 28.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4770.414865688306,
+      "points_def": 4645.084414706001,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1940-09-08",
@@ -8390,7 +10146,11 @@
       "rating_ev": 15,
       "rank": "-",
       "win_prob": 24.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4770.414865688306,
+      "points_def": 4671.947134642653,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1940-09-07",
@@ -8409,7 +10169,11 @@
       "rating_ev": -14,
       "rank": "-",
       "win_prob": 73.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4741.843437116878,
+      "points_def": 4668.283509081152,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1940-08-11",
@@ -8428,7 +10192,11 @@
       "rating_ev": -20,
       "rank": "-",
       "win_prob": 69.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4759.5535086265,
+      "points_def": 4660.599463438177,
+      "ranking_off": "-",
+      "ranking_def": "-"
     },
     {
       "date": "1940-07-18",
@@ -8447,7 +10215,11 @@
       "rating_ev": 9,
       "rank": 55,
       "win_prob": 43.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4786.61124544695,
+      "points_def": 4667.38296307428,
+      "ranking_off": 70,
+      "ranking_def": 49
     },
     {
       "date": "1939-08-27",
@@ -8466,7 +10238,11 @@
       "rating_ev": -19,
       "rank": 54,
       "win_prob": 86.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4776.554989511373,
+      "points_def": 4656.8949384596335,
+      "ranking_off": 73,
+      "ranking_def": 48
     },
     {
       "date": "1939-08-04",
@@ -8485,7 +10261,11 @@
       "rating_ev": -7,
       "rank": 52,
       "win_prob": 27.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4811.803072607042,
+      "points_def": 4674.843656408351,
+      "ranking_off": 67,
+      "ranking_def": 45
     },
     {
       "date": "1939-07-27",
@@ -8504,7 +10284,11 @@
       "rating_ev": 6,
       "rank": 52,
       "win_prob": 27.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4797.875825130418,
+      "points_def": 4698.780660937543,
+      "ranking_off": 67,
+      "ranking_def": 41
     },
     {
       "date": "1939-06-29",
@@ -8523,7 +10307,11 @@
       "rating_ev": 7,
       "rank": 52,
       "win_prob": 4.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4762.282604791435,
+      "points_def": 4716.506530976787,
+      "ranking_off": 75,
+      "ranking_def": 41
     },
     {
       "date": "1938-09-05",
@@ -8542,7 +10330,11 @@
       "rating_ev": 3,
       "rank": 53,
       "win_prob": 44.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4762.282604791435,
+      "points_def": 4703.460347777237,
+      "ranking_off": 75,
+      "ranking_def": 43
     },
     {
       "date": "1938-09-03",
@@ -8561,7 +10353,11 @@
       "rating_ev": 3,
       "rank": 53,
       "win_prob": 86.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4772.7579492686455,
+      "points_def": 4695.394963778882,
+      "ranking_off": 74,
+      "ranking_def": 43
     },
     {
       "date": "1938-08-17",
@@ -8580,7 +10376,11 @@
       "rating_ev": -13,
       "rank": 53,
       "win_prob": 48.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4768.932045332275,
+      "points_def": 4713.3436817276,
+      "ranking_off": 73,
+      "ranking_def": 43
     },
     {
       "date": "1938-07-20",
@@ -8599,7 +10399,11 @@
       "rating_ev": -12,
       "rank": 53,
       "win_prob": 45.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4787.395127814688,
+      "points_def": 4737.844564653206,
+      "ranking_off": 66,
+      "ranking_def": 38
     },
     {
       "date": "1938-06-11",
@@ -8618,7 +10422,11 @@
       "rating_ev": 7,
       "rank": 52,
       "win_prob": 73.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4813.29952310606,
+      "points_def": 4751.850129443099,
+      "ranking_off": 66,
+      "ranking_def": 39
     },
     {
       "date": "1938-05-31",
@@ -8637,7 +10445,11 @@
       "rating_ev": 15,
       "rank": 53,
       "win_prob": 3.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4814.8836176570085,
+      "points_def": 4727.964002371043,
+      "ranking_off": 66,
+      "ranking_def": 39
     },
     {
       "date": "1937-09-19",
@@ -8656,7 +10468,11 @@
       "rating_ev": -8,
       "rank": 51,
       "win_prob": 29.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4814.8836176570085,
+      "points_def": 4696.42556208332,
+      "ranking_off": 63,
+      "ranking_def": 42
     },
     {
       "date": "1937-09-07",
@@ -8675,7 +10491,11 @@
       "rating_ev": -25,
       "rank": 51,
       "win_prob": 45.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4796.934899708291,
+      "points_def": 4714.075133852478,
+      "ranking_off": 64,
+      "ranking_def": 39
     },
     {
       "date": "1937-09-05",
@@ -8694,7 +10514,11 @@
       "rating_ev": 43,
       "rank": 50,
       "win_prob": 68.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4821.054548376661,
+      "points_def": 4723.102095081116,
+      "ranking_off": 63,
+      "ranking_def": 39
     },
     {
       "date": "1937-09-04",
@@ -8713,7 +10537,11 @@
       "rating_ev": 6,
       "rank": 51,
       "win_prob": 39.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4792.381980468636,
+      "points_def": 4697.660569027232,
+      "ranking_off": 64,
+      "ranking_def": 42
     },
     {
       "date": "1937-08-29",
@@ -8732,7 +10560,11 @@
       "rating_ev": 15,
       "rank": 51,
       "win_prob": 1.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4802.728745994979,
+      "points_def": 4683.728424485405,
+      "ranking_off": 65,
+      "ranking_def": 43
     },
     {
       "date": "1937-08-19",
@@ -8751,7 +10583,11 @@
       "rating_ev": 37,
       "rank": 51,
       "win_prob": 15.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4784.780028046262,
+      "points_def": 4685.169803734824,
+      "ranking_off": 65,
+      "ranking_def": 43
     },
     {
       "date": "1937-07-14",
@@ -8770,7 +10606,11 @@
       "rating_ev": 21,
       "rank": 56,
       "win_prob": 11.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4791.584675582868,
+      "points_def": 4651.015472333865,
+      "ranking_off": 64,
+      "ranking_def": 47
     },
     {
       "date": "1937-06-20",
@@ -8789,7 +10629,11 @@
       "rating_ev": -18,
       "rank": 59,
       "win_prob": 3.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4763.01324701144,
+      "points_def": 4629.27019146755,
+      "ranking_off": 69,
+      "ranking_def": 49
     },
     {
       "date": "1937-06-03",
@@ -8808,7 +10652,11 @@
       "rating_ev": 5,
       "rank": 56,
       "win_prob": 56.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4734.441818440011,
+      "points_def": 4666.868576354975,
+      "ranking_off": 73,
+      "ranking_def": 46
     },
     {
       "date": "1936-08-31",
@@ -8827,7 +10675,11 @@
       "rating_ev": -4,
       "rank": 57,
       "win_prob": 32.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4727.811292312548,
+      "points_def": 4650.743054202394,
+      "ranking_off": 74,
+      "ranking_def": 45
     },
     {
       "date": "1936-08-30",
@@ -8846,7 +10698,11 @@
       "rating_ev": 5,
       "rank": 57,
       "win_prob": 66.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4709.86257436383,
+      "points_def": 4650.232457935716,
+      "ranking_off": 75,
+      "ranking_def": 46
     },
     {
       "date": "1936-08-20",
@@ -8865,7 +10721,11 @@
       "rating_ev": 5,
       "rank": 57,
       "win_prob": 31.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4711.254964678686,
+      "points_def": 4639.181292458049,
+      "ranking_off": 75,
+      "ranking_def": 48
     },
     {
       "date": "1936-06-30",
@@ -8884,7 +10744,11 @@
       "rating_ev": -17,
       "rank": 58,
       "win_prob": 59.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4711.233105570507,
+      "points_def": 4638.606249397085,
+      "ranking_off": 75,
+      "ranking_def": 48
     },
     {
       "date": "1936-05-28",
@@ -8903,7 +10767,11 @@
       "rating_ev": -9,
       "rank": 56,
       "win_prob": 57.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4738.708128531178,
+      "points_def": 4639.878156921759,
+      "ranking_off": 73,
+      "ranking_def": 47
     },
     {
       "date": "1935-09-18",
@@ -8922,7 +10790,11 @@
       "rating_ev": -3,
       "rank": 55,
       "win_prob": 58.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4716.403537124193,
+      "points_def": 4680.457867066687,
+      "ranking_off": 75,
+      "ranking_def": 44
     },
     {
       "date": "1935-09-15",
@@ -8941,7 +10813,11 @@
       "rating_ev": -3,
       "rank": 54,
       "win_prob": 1.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4709.144786137205,
+      "points_def": 4683.617035466832,
+      "ranking_off": 75,
+      "ranking_def": 44
     },
     {
       "date": "1935-08-22",
@@ -8960,7 +10836,11 @@
       "rating_ev": -7,
       "rank": 55,
       "win_prob": 62.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4709.144786137205,
+      "points_def": 4701.717405884849,
+      "ranking_off": 75,
+      "ranking_def": 41
     },
     {
       "date": "1935-08-20",
@@ -8979,7 +10859,11 @@
       "rating_ev": -36,
       "rank": 54,
       "win_prob": 83.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4724.874261623436,
+      "points_def": 4719.666123833566,
+      "ranking_off": 74,
+      "ranking_def": 40
     },
     {
       "date": "1935-08-07",
@@ -8998,7 +10882,11 @@
       "rating_ev": 13,
       "rank": 52,
       "win_prob": 11.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4751.395292227545,
+      "points_def": 4748.237552404995,
+      "ranking_off": 69,
+      "ranking_def": 38
     },
     {
       "date": "1935-07-09",
@@ -9017,7 +10905,11 @@
       "rating_ev": 12,
       "rank": 53,
       "win_prob": 6.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4722.823863656116,
+      "points_def": 4734.3948195487455,
+      "ranking_off": 75,
+      "ranking_def": 39
     },
     {
       "date": "1935-06-19",
@@ -9036,7 +10928,11 @@
       "rating_ev": -11,
       "rank": 53,
       "win_prob": 83.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4704.875145707399,
+      "points_def": 4721.4565278021655,
+      "ranking_off": 75,
+      "ranking_def": 40
     },
     {
       "date": "1935-06-12",
@@ -9055,7 +10951,11 @@
       "rating_ev": 2,
       "rank": 53,
       "win_prob": 41.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4718.473828538923,
+      "points_def": 4750.027956373594,
+      "ranking_off": 75,
+      "ranking_def": 37
     },
     {
       "date": "1934-08-08",
@@ -9074,7 +10974,11 @@
       "rating_ev": 15,
       "rank": 54,
       "win_prob": 25.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4700.525110590205,
+      "points_def": 4739.078666373983,
+      "ranking_off": 73,
+      "ranking_def": 37
     },
     {
       "date": "1934-06-29",
@@ -9093,7 +10997,11 @@
       "rating_ev": -6,
       "rank": 56,
       "win_prob": 69.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4713.420543926272,
+      "points_def": 4724.18741780046,
+      "ranking_off": 73,
+      "ranking_def": 38
     },
     {
       "date": "1933-09-05",
@@ -9112,7 +11020,11 @@
       "rating_ev": 28,
       "rank": 57,
       "win_prob": 66.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4731.089984679834,
+      "points_def": 4712.201086495415,
+      "ranking_off": 69,
+      "ranking_def": 40
     },
     {
       "date": "1933-09-03",
@@ -9131,7 +11043,11 @@
       "rating_ev": -12,
       "rank": 59,
       "win_prob": 46.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4694.650379353548,
+      "points_def": 4686.0049190528025,
+      "ranking_off": 72,
+      "ranking_def": 44
     },
     {
       "date": "1933-09-02",
@@ -9150,7 +11066,11 @@
       "rating_ev": -12,
       "rank": 57,
       "win_prob": 70.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4716.396005678426,
+      "points_def": 4677.988155707645,
+      "ranking_off": 71,
+      "ranking_def": 44
     },
     {
       "date": "1933-08-16",
@@ -9169,7 +11089,11 @@
       "rating_ev": 6,
       "rank": 57,
       "win_prob": 12.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4734.900760256301,
+      "points_def": 4662.268920366831,
+      "ranking_off": 69,
+      "ranking_def": 45
     },
     {
       "date": "1933-08-09",
@@ -9188,7 +11112,11 @@
       "rating_ev": 5,
       "rank": 56,
       "win_prob": 57.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4737.111669386974,
+      "points_def": 4642.077368395069,
+      "ranking_off": 68,
+      "ranking_def": 49
     },
     {
       "date": "1933-07-20",
@@ -9207,7 +11135,11 @@
       "rating_ev": -4,
       "rank": 57,
       "win_prob": 84.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4730.373972545901,
+      "points_def": 4638.751852800674,
+      "ranking_off": 68,
+      "ranking_def": 49
     },
     {
       "date": "1933-06-11",
@@ -9226,7 +11158,11 @@
       "rating_ev": -6,
       "rank": 55,
       "win_prob": 2.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4747.377320764489,
+      "points_def": 4656.700570749392,
+      "ranking_off": 65,
+      "ranking_def": 45
     },
     {
       "date": "1933-05-28",
@@ -9245,7 +11181,11 @@
       "rating_ev": -12,
       "rank": 55,
       "win_prob": 42.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4718.805892193061,
+      "points_def": 4686.281083363511,
+      "ranking_off": 70,
+      "ranking_def": 44
     },
     {
       "date": "1932-08-30",
@@ -9264,7 +11204,11 @@
       "rating_ev": -12,
       "rank": 55,
       "win_prob": 45.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4718.805892193061,
+      "points_def": 4694.7660391028685,
+      "ranking_off": 70,
+      "ranking_def": 45
     },
     {
       "date": "1932-08-29",
@@ -9283,7 +11227,11 @@
       "rating_ev": -37,
       "rank": 54,
       "win_prob": 84.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4739.441662010035,
+      "points_def": 4681.006905273421,
+      "ranking_off": 67,
+      "ranking_def": 45
     },
     {
       "date": "1932-08-18",
@@ -9302,7 +11250,11 @@
       "rating_ev": -18,
       "rank": 51,
       "win_prob": 42.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4764.083561454851,
+      "points_def": 4695.083152265306,
+      "ranking_off": 66,
+      "ranking_def": 45
     },
     {
       "date": "1932-08-06",
@@ -9321,7 +11273,11 @@
       "rating_ev": -17,
       "rank": 51,
       "win_prob": 79.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4794.168620156364,
+      "points_def": 4716.044494592431,
+      "ranking_off": 63,
+      "ranking_def": 42
     },
     {
       "date": "1932-07-15",
@@ -9340,7 +11296,11 @@
       "rating_ev": 2,
       "rank": 48,
       "win_prob": 9.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4825.634673395924,
+      "points_def": 4703.003341703466,
+      "ranking_off": 60,
+      "ranking_def": 43
     },
     {
       "date": "1932-06-05",
@@ -9359,7 +11319,11 @@
       "rating_ev": 0,
       "rank": 49,
       "win_prob": 4.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4828.734953705982,
+      "points_def": 4713.977857364665,
+      "ranking_off": 60,
+      "ranking_def": 41
     },
     {
       "date": "1932-06-01",
@@ -9378,7 +11342,11 @@
       "rating_ev": 13,
       "rank": 49,
       "win_prob": 74.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4828.734953705982,
+      "points_def": 4702.399648817275,
+      "ranking_off": 60,
+      "ranking_def": 43
     },
     {
       "date": "1931-09-27",
@@ -9397,7 +11365,11 @@
       "rating_ev": -9,
       "rank": 50,
       "win_prob": 56.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4816.167911946864,
+      "points_def": 4683.411385932629,
+      "ranking_off": 62,
+      "ranking_def": 43
     },
     {
       "date": "1931-09-01",
@@ -9416,7 +11388,11 @@
       "rating_ev": 14,
       "rank": 50,
       "win_prob": 73.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4828.241209197432,
+      "points_def": 4688.799493630535,
+      "ranking_off": 60,
+      "ranking_def": 43
     },
     {
       "date": "1931-08-30",
@@ -9435,7 +11411,11 @@
       "rating_ev": -2,
       "rank": 51,
       "win_prob": 90.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4815.613722135711,
+      "points_def": 4706.748211579253,
+      "ranking_off": 63,
+      "ranking_def": 40
     },
     {
       "date": "1931-07-08",
@@ -9454,7 +11434,11 @@
       "rating_ev": 11,
       "rank": 51,
       "win_prob": 2.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4841.391152844494,
+      "points_def": 4686.60197755689,
+      "ranking_off": 61,
+      "ranking_def": 43
     },
     {
       "date": "1931-06-17",
@@ -9473,7 +11457,11 @@
       "rating_ev": -8,
       "rank": 51,
       "win_prob": 29.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4823.442434895776,
+      "points_def": 4664.567466425892,
+      "ranking_off": 63,
+      "ranking_def": 43
     },
     {
       "date": "1931-06-09",
@@ -9492,7 +11480,11 @@
       "rating_ev": 6,
       "rank": 51,
       "win_prob": 89.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4834.592030556805,
+      "points_def": 4673.973475871537,
+      "ranking_off": 61,
+      "ranking_def": 43
     },
     {
       "date": "1931-05-28",
@@ -9511,7 +11503,11 @@
       "rating_ev": 8,
       "rank": 51,
       "win_prob": 46.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4825.346213863325,
+      "points_def": 4670.059424305397,
+      "ranking_off": 62,
+      "ranking_def": 43
     },
     {
       "date": "1930-09-13",
@@ -9530,7 +11526,11 @@
       "rating_ev": -37,
       "rank": 50,
       "win_prob": 82.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4835.818063315619,
+      "points_def": 4640.614389361641,
+      "ranking_off": 58,
+      "ranking_def": 46
     },
     {
       "date": "1930-08-16",
@@ -9549,7 +11549,11 @@
       "rating_ev": -20,
       "rank": 47,
       "win_prob": 61.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4870.272610641268,
+      "points_def": 4670.688915701251,
+      "ranking_off": 56,
+      "ranking_def": 42
     },
     {
       "date": "1930-08-15",
@@ -9568,7 +11572,11 @@
       "rating_ev": -42,
       "rank": 46,
       "win_prob": 88.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4866.590645614687,
+      "points_def": 4694.888903011378,
+      "ranking_off": 55,
+      "ranking_def": 41
     },
     {
       "date": "1930-08-06",
@@ -9587,7 +11595,11 @@
       "rating_ev": 24,
       "rank": 42,
       "win_prob": 58.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4895.110202163444,
+      "points_def": 4702.370033855054,
+      "ranking_off": 55,
+      "ranking_def": 40
     },
     {
       "date": "1930-07-18",
@@ -9606,7 +11618,11 @@
       "rating_ev": -9,
       "rank": 44,
       "win_prob": 7.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4870.336706430989,
+      "points_def": 4676.87147775211,
+      "ranking_off": 54,
+      "ranking_def": 43
     },
     {
       "date": "1930-06-27",
@@ -9625,7 +11641,11 @@
       "rating_ev": -8,
       "rank": 43,
       "win_prob": 75.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4876.839207902753,
+      "points_def": 4705.544197633648,
+      "ranking_off": 54,
+      "ranking_def": 38
     },
     {
       "date": "1929-09-18",
@@ -9644,7 +11664,11 @@
       "rating_ev": 14,
       "rank": 44,
       "win_prob": 73.6,
-      "type": "past"
+      "type": "past",
+      "points_off": 4900.529474878451,
+      "points_def": 4723.492915582366,
+      "ranking_off": 53,
+      "ranking_def": 38
     },
     {
       "date": "1929-08-27",
@@ -9663,7 +11687,11 @@
       "rating_ev": 0,
       "rank": 44,
       "win_prob": 24.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4874.747817994876,
+      "points_def": 4741.441633531083,
+      "ranking_off": 53,
+      "ranking_def": 37
     },
     {
       "date": "1929-08-16",
@@ -9682,7 +11710,11 @@
       "rating_ev": -2,
       "rank": 44,
       "win_prob": 53.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4881.8712668656935,
+      "points_def": 4732.28023523984,
+      "ranking_off": 53,
+      "ranking_def": 37
     },
     {
       "date": "1929-08-15",
@@ -9701,7 +11733,11 @@
       "rating_ev": 9,
       "rank": 44,
       "win_prob": 91.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4870.720581252951,
+      "points_def": 4740.316524660234,
+      "ranking_off": 53,
+      "ranking_def": 37
     },
     {
       "date": "1929-07-25",
@@ -9720,7 +11756,11 @@
       "rating_ev": 2,
       "rank": 46,
       "win_prob": 43.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4844.076546768126,
+      "points_def": 4768.887953231662,
+      "ranking_off": 54,
+      "ranking_def": 34
     },
     {
       "date": "1929-07-07",
@@ -9739,7 +11779,11 @@
       "rating_ev": 4,
       "rank": 46,
       "win_prob": 2.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4863.426064050279,
+      "points_def": 4757.607314258528,
+      "ranking_off": 54,
+      "ranking_def": 36
     },
     {
       "date": "1928-09-23",
@@ -9758,7 +11802,11 @@
       "rating_ev": 0,
       "rank": 48,
       "win_prob": 48.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4845.477346101561,
+      "points_def": 4761.749571735996,
+      "ranking_off": 54,
+      "ranking_def": 36
     },
     {
       "date": "1928-08-12",
@@ -9777,7 +11825,11 @@
       "rating_ev": 9,
       "rank": 47,
       "win_prob": 20.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4852.30534083867,
+      "points_def": 4748.440816954206,
+      "ranking_off": 54,
+      "ranking_def": 37
     },
     {
       "date": "1928-07-27",
@@ -9796,7 +11848,11 @@
       "rating_ev": -28,
       "rank": 47,
       "win_prob": 74.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4839.08782341178,
+      "points_def": 4735.4698547719845,
+      "ranking_off": 54,
+      "ranking_def": 37
     },
     {
       "date": "1928-07-26",
@@ -9815,7 +11871,11 @@
       "rating_ev": 41,
       "rank": 45,
       "win_prob": 92.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4870.5766591788815,
+      "points_def": 4753.418572720702,
+      "ranking_off": 53,
+      "ranking_def": 36
     },
     {
       "date": "1928-07-09",
@@ -9834,7 +11894,11 @@
       "rating_ev": 14,
       "rank": 47,
       "win_prob": 4.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4840.47420586972,
+      "points_def": 4753.418572720702,
+      "ranking_off": 54,
+      "ranking_def": 36
     },
     {
       "date": "1927-09-25",
@@ -9853,7 +11917,11 @@
       "rating_ev": -22,
       "rank": 48,
       "win_prob": 54.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4840.47420586972,
+      "points_def": 4723.199136264513,
+      "ranking_off": 53,
+      "ranking_def": 38
     },
     {
       "date": "1927-08-13",
@@ -9872,7 +11940,11 @@
       "rating_ev": 22,
       "rank": 46,
       "win_prob": 80.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4852.535748175192,
+      "points_def": 4754.102230661674,
+      "ranking_off": 53,
+      "ranking_def": 36
     },
     {
       "date": "1927-08-10",
@@ -9891,7 +11963,11 @@
       "rating_ev": 13,
       "rank": 47,
       "win_prob": 29.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.772938186051,
+      "points_def": 4728.1305167734245,
+      "ranking_off": 55,
+      "ranking_def": 38
     },
     {
       "date": "1927-07-01",
@@ -9910,7 +11986,11 @@
       "rating_ev": 13,
       "rank": 48,
       "win_prob": 1.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4819.236625807309,
+      "points_def": 4709.450008367047,
+      "ranking_off": 54,
+      "ranking_def": 40
     },
     {
       "date": "1927-06-16",
@@ -9929,7 +12009,11 @@
       "rating_ev": 15,
       "rank": 48,
       "win_prob": 68.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4801.287907858591,
+      "points_def": 4684.012988356174,
+      "ranking_off": 55,
+      "ranking_def": 42
     },
     {
       "date": "1926-09-19",
@@ -9948,7 +12032,11 @@
       "rating_ev": 9,
       "rank": 47,
       "win_prob": 42.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4773.263959535034,
+      "points_def": 4701.961706304892,
+      "ranking_off": 53,
+      "ranking_def": 40
     },
     {
       "date": "1926-09-05",
@@ -9967,7 +12055,11 @@
       "rating_ev": 14,
       "rank": 47,
       "win_prob": 10.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4777.667200207629,
+      "points_def": 4674.272268583327,
+      "ranking_off": 53,
+      "ranking_def": 42
     },
     {
       "date": "1926-07-23",
@@ -9986,7 +12078,11 @@
       "rating_ev": -16,
       "rank": 47,
       "win_prob": 4.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4759.718482258912,
+      "points_def": 4642.732992810144,
+      "ranking_off": 53,
+      "ranking_def": 45
     },
     {
       "date": "1926-07-04",
@@ -10005,7 +12101,11 @@
       "rating_ev": 1,
       "rank": 47,
       "win_prob": 9.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4741.769764310194,
+      "points_def": 4681.112678807246,
+      "ranking_off": 56,
+      "ranking_def": 41
     },
     {
       "date": "1926-06-13",
@@ -10024,7 +12124,11 @@
       "rating_ev": 0,
       "rank": 47,
       "win_prob": 88.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4741.769764310194,
+      "points_def": 4667.503609146888,
+      "ranking_off": 56,
+      "ranking_def": 43
     },
     {
       "date": "1925-09-02",
@@ -10043,7 +12147,11 @@
       "rating_ev": 10,
       "rank": 45,
       "win_prob": 19.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4745.83886408592,
+      "points_def": 4685.452327095606,
+      "ranking_off": 54,
+      "ranking_def": 41
     },
     {
       "date": "1925-08-26",
@@ -10062,7 +12170,11 @@
       "rating_ev": -4,
       "rank": 45,
       "win_prob": 65.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4765.970222195089,
+      "points_def": 4658.170615295329,
+      "ranking_off": 51,
+      "ranking_def": 42
     },
     {
       "date": "1925-07-05",
@@ -10081,7 +12193,11 @@
       "rating_ev": 23,
       "rank": 45,
       "win_prob": 20.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4763.05825264618,
+      "points_def": 4674.434021745986,
+      "ranking_off": 51,
+      "ranking_def": 42
     },
     {
       "date": "1925-06-28",
@@ -10100,7 +12216,11 @@
       "rating_ev": -1,
       "rank": 45,
       "win_prob": 75.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4753.83212274476,
+      "points_def": 4642.587749593784,
+      "ranking_off": 52,
+      "ranking_def": 43
     },
     {
       "date": "1924-10-18",
@@ -10119,7 +12239,11 @@
       "rating_ev": -13,
       "rank": 45,
       "win_prob": 44.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4777.480274176866,
+      "points_def": 4614.3035945355,
+      "ranking_off": 51,
+      "ranking_def": 46
     },
     {
       "date": "1924-09-14",
@@ -10138,7 +12262,11 @@
       "rating_ev": -12,
       "rank": 45,
       "win_prob": 10.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4799.274249389772,
+      "points_def": 4615.087548024291,
+      "ranking_off": 51,
+      "ranking_def": 46
     },
     {
       "date": "1924-08-24",
@@ -10157,7 +12285,11 @@
       "rating_ev": -22,
       "rank": 45,
       "win_prob": 90.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4818.310454785295,
+      "points_def": 4623.638369764397,
+      "ranking_off": 49,
+      "ranking_def": 43
     },
     {
       "date": "1924-07-25",
@@ -10176,7 +12308,11 @@
       "rating_ev": 6,
       "rank": 45,
       "win_prob": 1.8,
-      "type": "past"
+      "type": "past",
+      "points_off": 4853.731320000843,
+      "points_def": 4639.956406963206,
+      "ranking_off": 47,
+      "ranking_def": 42
     },
     {
       "date": "1924-06-19",
@@ -10195,7 +12331,11 @@
       "rating_ev": -10,
       "rank": 45,
       "win_prob": 18.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4825.159891429415,
+      "points_def": 4653.941576389333,
+      "ranking_off": 47,
+      "ranking_def": 42
     },
     {
       "date": "1924-06-03",
@@ -10214,7 +12354,11 @@
       "rating_ev": 10,
       "rank": 44,
       "win_prob": 2.9,
-      "type": "past"
+      "type": "past",
+      "points_off": 4833.768892830284,
+      "points_def": 4679.413552721747,
+      "ranking_off": 46,
+      "ranking_def": 39
     },
     {
       "date": "1924-05-25",
@@ -10233,7 +12377,11 @@
       "rating_ev": 0,
       "rank": 44,
       "win_prob": 26.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4815.820174881566,
+      "points_def": 4669.818285932208,
+      "ranking_off": 49,
+      "ranking_def": 39
     },
     {
       "date": "1923-09-30",
@@ -10252,7 +12400,11 @@
       "rating_ev": 16,
       "rank": 41,
       "win_prob": 20.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4840.083045238027,
+      "points_def": 4640.374275819227,
+      "ranking_off": 44,
+      "ranking_def": 38
     },
     {
       "date": "1923-09-25",
@@ -10271,7 +12423,11 @@
       "rating_ev": -9,
       "rank": 41,
       "win_prob": 15.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 4838.094500656633,
+      "points_def": 4613.382878425818,
+      "ranking_off": 44,
+      "ranking_def": 39
     },
     {
       "date": "1923-09-19",
@@ -10290,7 +12446,11 @@
       "rating_ev": -6,
       "rank": 41,
       "win_prob": 23.7,
-      "type": "past"
+      "type": "past",
+      "points_off": 4820.145782707915,
+      "points_def": 4640.893825246792,
+      "ranking_off": 46,
+      "ranking_def": 38
     },
     {
       "date": "1923-07-24",
@@ -10309,7 +12469,11 @@
       "rating_ev": -4,
       "rank": 41,
       "win_prob": 63.3,
-      "type": "past"
+      "type": "past",
+      "points_off": 4810.275698433838,
+      "points_def": 4672.050429182877,
+      "ranking_off": 46,
+      "ranking_def": 35
     },
     {
       "date": "1923-06-24",
@@ -10328,7 +12492,11 @@
       "rating_ev": 26,
       "rank": 41,
       "win_prob": 70.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4830.407464384503,
+      "points_def": 4667.904333379574,
+      "ranking_off": 45,
+      "ranking_def": 35
     },
     {
       "date": "1922-09-24",
@@ -10347,7 +12515,11 @@
       "rating_ev": 3,
       "rank": 41,
       "win_prob": 38.4,
-      "type": "past"
+      "type": "past",
+      "points_off": 4795.912429912431,
+      "points_def": 4639.942857393114,
+      "ranking_off": 44,
+      "ranking_def": 36
     },
     {
       "date": "1922-08-11",
@@ -10366,7 +12538,11 @@
       "rating_ev": -34,
       "rank": 40,
       "win_prob": 13.0,
-      "type": "past"
+      "type": "past",
+      "points_off": 4803.052603362223,
+      "points_def": 4620.31030256222,
+      "ranking_off": 43,
+      "ranking_def": 38
     },
     {
       "date": "1921-08-28",
@@ -10385,7 +12561,11 @@
       "rating_ev": -13,
       "rank": 32,
       "win_prob": 26.5,
-      "type": "past"
+      "type": "past",
+      "points_off": 4774.481174790794,
+      "points_def": 4669.153864177357,
+      "ranking_off": 36,
+      "ranking_def": 31
     },
     {
       "date": "1921-07-22",
@@ -10404,7 +12584,11 @@
       "rating_ev": 15,
       "rank": 32,
       "win_prob": 10.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4800.142979007628,
+      "points_def": 4682.436980774883,
+      "ranking_off": 35,
+      "ranking_def": 31
     },
     {
       "date": "1920-10-17",
@@ -10423,7 +12607,11 @@
       "rating_ev": -27,
       "rank": 32,
       "win_prob": 17.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 4800.142979007628,
+      "points_def": 4651.5039197908045,
+      "ranking_off": 35,
+      "ranking_def": 32
     }
   ]
 }

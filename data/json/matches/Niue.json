@@ -49,7 +49,11 @@
       "rating_ev": -6,
       "rank": 190,
       "win_prob": 0.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 1319,
+      "points_def": 1693.690816494885,
+      "ranking_off": 190,
+      "ranking_def": 190
     },
     {
       "date": "1983-08-20",
@@ -68,7 +72,11 @@
       "rating_ev": -2,
       "rank": 190,
       "win_prob": 0.1,
-      "type": "past"
+      "type": "past",
+      "points_off": 1319,
+      "points_def": 1718.9882989984646,
+      "ranking_off": 190,
+      "ranking_def": 190
     }
   ]
 }

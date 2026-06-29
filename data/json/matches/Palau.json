@@ -49,7 +49,11 @@
       "rating_ev": -5,
       "rank": 219,
       "win_prob": 0.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 1037.5201465201465,
+      "points_def": 1297.2840831654823,
+      "ranking_off": 219,
+      "ranking_def": 219
     },
     {
       "date": "1998-07-31",
@@ -68,7 +72,11 @@
       "rating_ev": -2,
       "rank": 219,
       "win_prob": 0.2,
-      "type": "past"
+      "type": "past",
+      "points_off": 1008.948717948718,
+      "points_def": 1278.477099146093,
+      "ranking_off": 219,
+      "ranking_def": 219
     }
   ]
 }
