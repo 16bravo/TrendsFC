@@ -105,14 +105,42 @@ async function loadTeamData(team) {
     return await resp.json();
 }
 
-// Calcul de la proba selon la formule Python
-function calcExpectedResult(points1, points2, neutral) {
-    let expected_result = ((1/(1+Math.exp(-1*(points1-points2)/850))-0.5)*33+1.25*(neutral ? 0 : 1))/6.5;
-    expected_result = Math.max(-2.5, Math.min(2.5, expected_result));
-    return expected_result;
-}
-function calcWinProb(expected_result) {
-    return Math.round((1/(1+Math.exp(-expected_result*2.95))*1000))/10;
+// Calcul des probabilités de match (Victoire/Nul/Défaite)
+function calculateMatchProbas(points1, points2, neutral) {
+    // Bonus domicile de 50 points pour Team 1 si non neutre
+    const p1_eff = neutral ? points1 : (points1 + 50);
+    const p2_eff = points2;
+    
+    const X = Math.abs(p1_eff - p2_eff);
+    
+    // Formule Victoire (de l'équipe la plus forte)
+    const V = 1 / (1 + 2.0134 * Math.exp(-0.006581 * Math.pow(X, 0.9391)));
+    
+    // Formule Défaite (de l'équipe la plus forte)
+    const D = Math.min(1 - V, 0.3265 / (1 + 0.000071 * Math.pow(X, 1.801)));
+    
+    // Le reste est le Nul
+    const N = 1 - V - D;
+
+    let prob1, probN, prob2;
+    
+    if (p1_eff >= p2_eff) {
+        // Team 1 est plus forte (ou égale)
+        prob1 = V;
+        prob2 = D;
+        probN = N;
+    } else {
+        // Team 2 est plus forte
+        prob1 = D;
+        prob2 = V;
+        probN = N;
+    }
+
+    return {
+        win1: Math.round(prob1 * 1000) / 10,
+        draw: Math.round(probN * 1000) / 10,
+        win2: Math.round(prob2 * 1000) / 10
+    };
 }
 
 // Affichage du panel équipe (gauche/droite)
@@ -298,7 +326,7 @@ function renderTeamPanel(teamData, side) {
 }
 
 // Affichage du donut ou de l'historique cumulé
-function renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2, colors) {
+function renderDonutOrHistory(probas, h2hStats, donutMode, team1, team2, colors) {
     const { color1, color2, textColor1, textColor2 } = colors ?? { color1: '#FF4560', color2: '#008FFB', textColor1: '#FFFFFF', textColor2: '#FFFFFF' };
     const donutDiv = document.getElementById('donutContainer');
     const isDark = document.body.classList.contains('dark-theme');
@@ -314,31 +342,29 @@ function renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2, c
         donutTitle.textContent = donutMode ? 'Head-to-Head History' : 'General Ranking Method Prediction';
         donutTitle.style.color = titleColor;
     }
-    if (dot1) dot1.style.backgroundColor = donutMode ? '#eee' : (isDark ? '#007bff' : '#007bff');
-    if (dot2) dot2.style.backgroundColor = donutMode ? (isDark ? '#007bff' : '#007bff') : '#eee';
+    if (dot1) dot1.style.backgroundColor = donutMode ? '#eee' : '#007bff';
+    if (dot2) dot2.style.backgroundColor = donutMode ? '#007bff' : '#eee';
     
     // Style de la section donut
     if (donutSection) {
         donutSection.style.background = isDark ? 'rgba(255,255,255,0.05)' : 'rgba(0,0,0,0.02)';
         donutSection.style.borderColor = isDark ? '#444' : 'rgba(0,0,0,0.1)';
-        // Ajout d'un léger dégradé selon le mode
         const alpha = isDark ? '15' : '10';
         donutSection.style.backgroundImage = `linear-gradient(135deg, ${color1}${alpha} 0%, ${color2}${alpha} 100%)`;
     }
 
     donutDiv.innerHTML = '';
-    // Détruit l'ancien graphique s'il existe
     if (window.apexDonutChart) {
         window.apexDonutChart.destroy();
         window.apexDonutChart = null;
     }
     if (!donutMode) {
-        const sliceColors = [color2, color1];
-        const sliceTextColors = [textColor2, textColor1];
+        const sliceColors = [color2, '#999', color1];
+        const sliceTextColors = [textColor2, '#FFFFFF', textColor1];
         const options = {
             chart: { type: 'donut', height: 300 },
-            series: [prob2, prob1],
-            labels: [team2, team1],
+            series: [probas.win2, probas.draw, probas.win1],
+            labels: [team2, 'Draw', team1],
             colors: sliceColors,
             dataLabels: {
                 formatter: (val) => val.toFixed(1) + '%',
@@ -578,10 +604,8 @@ async function refreshAll() {
     const lastPoints1 = rankingsMap[team1]?.points ?? (data1.matches.find(m => m.type === 'past')?.rating1 ?? 0);
     const lastPoints2 = rankingsMap[team2]?.points ?? (data2.matches.find(m => m.type === 'past')?.rating1 ?? 0);
 
-    // Calcul proba
-    const expected_result = calcExpectedResult(lastPoints1, lastPoints2, neutral);
-    const prob1 = calcWinProb(expected_result);
-    const prob2 = Math.round((100 - prob1)*10)/10;
+    // Calcul probabilités (nouvelle méthode avec Nul)
+    const matchProbas = calculateMatchProbas(lastPoints1, lastPoints2, neutral);
 
     // Historique des confrontations
     const h2hMatches = data1.matches
@@ -607,7 +631,7 @@ async function refreshAll() {
         predictionContainer.innerHTML = renderPredictedScore(team1, team2, predictedScore.goals1, predictedScore.goals2, colors);
     }
     
-    renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2, colors);
+    renderDonutOrHistory(matchProbas, h2hStats, donutMode, team1, team2, colors);
 
     // Affiche ou masque le switch "Neutral ground" selon le mode
     const neutralSwitchWrapper = document.getElementById('neutralSwitchWrapper');
