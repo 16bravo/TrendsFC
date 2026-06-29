@@ -5,9 +5,21 @@ document.addEventListener('DOMContentLoaded', function () {
     // Default JSON file path for team results (adjust as needed)
     const jsonFilePath = `data/json/matches/${teamName}.json`;
 
-    // Modifiy page name and h1 title
-    document.title = `${teamName} Results`;
-    document.getElementById('h1title').textContent = teamName + " Results";
+    // Load team rankings for off/def stats
+    let teamRankingsData = {};
+    async function loadTeamRankings() {
+        try {
+            const response = await fetch('data/json/rankings/LatestRankings.json');
+            const data = await response.json();
+            if (data.rankings) {
+                data.rankings.forEach(r => {
+                    teamRankingsData[r.team] = r;
+                });
+            }
+        } catch (e) {
+            console.log('Could not load rankings data');
+        }
+    }
 
     // Function to load team results JSON file
     async function loadTeamResultsJSON(filePath) {
@@ -16,11 +28,15 @@ document.addEventListener('DOMContentLoaded', function () {
         return jsonData;
     }
 
-    // Reference to team results table body
-    const teamResultsBody = document.getElementById('team-results-body');
+    // Load both rankings and results in parallel
+    Promise.all([loadTeamRankings(), loadTeamResultsJSON(jsonFilePath)]).then(([_, teamResultsData]) => {
+        
+        // Modifiy page name and h1 title
+        document.title = `${teamName} Results`;
+        document.getElementById('h1title').textContent = teamName + " Results";
 
-    // Initial JSON loading
-    loadTeamResultsJSON(jsonFilePath).then(teamResultsData => {
+        // Reference to team results table body
+        const teamResultsBody = document.getElementById('team-results-body');
         // console.log('Team Results Data:', teamResultsData);
 
         // Remplir les badges Best/Worst rank (toujours visibles)
@@ -227,13 +243,90 @@ document.addEventListener('DOMContentLoaded', function () {
         const apexDiv = document.getElementById('apexChart');
         const pastMatches = teamResultsData.matches.filter(m => m.type === 'past' && m.rank && m.rating1);
 
-        // Prépare les données pour les deux graphiques
+        // Prépare les données pour tous les graphiques
         const rankSeries = pastMatches.map(m => ({ x: m.date, y: m.rank }));
         const pointsSeries = pastMatches.map(m => ({ x: m.date, y: m.rating1 }));
+        const offRankSeries = pastMatches.map(m => ({ x: m.date, y: m.ranking_off || m.rank }));
+        const defRankSeries = pastMatches.map(m => ({ x: m.date, y: m.ranking_def || m.rank }));
+        const offPointsSeries = pastMatches.map(m => ({ x: m.date, y: m.points_off || m.rating1 }));
+        const defPointsSeries = pastMatches.map(m => ({ x: m.date, y: m.points_def || m.rating1 }));
+
+        // Affiche les stats off/def actuelles
+        const currentTeamStats = teamRankingsData[teamName];
+        if (currentTeamStats) {
+            const offDefStatsDiv = document.getElementById('offDefStats');
+            if (offDefStatsDiv) {
+                offDefStatsDiv.innerHTML = `
+                    <div class="row mt-4">
+                        <div class="col-md-3">
+                            <div class="card text-center">
+                                <div class="card-body">
+                                    <h6 class="card-title">Off Rating</h6>
+                                    <p class="card-text"><strong>${currentTeamStats.points_off || '?'}</strong></p>
+                                    <small class="text-muted">Rank: ${currentTeamStats.ranking_off || '?'}</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="card text-center">
+                                <div class="card-body">
+                                    <h6 class="card-title">Def Rating</h6>
+                                    <p class="card-text"><strong>${currentTeamStats.points_def || '?'}</strong></p>
+                                    <small class="text-muted">Rank: ${currentTeamStats.ranking_def || '?'}</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+        }
 
         // Fonction pour créer le graphique
         function renderApexChart(type) {
-            const isRank = type === 'rank';
+            let seriesData = rankSeries;
+            let seriesName = 'Rank';
+            let yAxisTitle = 'Rank';
+            let color = '#4bc0c0';
+            let reversed = true;
+
+            if (type === 'rank') {
+                seriesData = rankSeries;
+                seriesName = 'Rank';
+                yAxisTitle = 'Rank';
+                color = '#4bc0c0';
+                reversed = true;
+            } else if (type === 'points') {
+                seriesData = pointsSeries;
+                seriesName = 'Points';
+                yAxisTitle = 'Points';
+                color = '#ffa726';
+                reversed = false;
+            } else if (type === 'offRank') {
+                seriesData = offRankSeries;
+                seriesName = 'Off Rank';
+                yAxisTitle = 'Off Rank';
+                color = '#66bb6a';
+                reversed = true;
+            } else if (type === 'defRank') {
+                seriesData = defRankSeries;
+                seriesName = 'Def Rank';
+                yAxisTitle = 'Def Rank';
+                color = '#ef5350';
+                reversed = true;
+            } else if (type === 'offPoints') {
+                seriesData = offPointsSeries;
+                seriesName = 'Off Points';
+                yAxisTitle = 'Off Points';
+                color = '#66bb6a';
+                reversed = false;
+            } else if (type === 'defPoints') {
+                seriesData = defPointsSeries;
+                seriesName = 'Def Points';
+                yAxisTitle = 'Def Points';
+                color = '#ef5350';
+                reversed = false;
+            }
+
             const options = {
                 chart: {
                     type: 'line',
@@ -241,16 +334,16 @@ document.addEventListener('DOMContentLoaded', function () {
                     toolbar: { show: false }
                 },
                 series: [{
-                    name: isRank ? 'Rank' : 'Points',
-                    data: isRank ? rankSeries : pointsSeries
+                    name: seriesName,
+                    data: seriesData
                 }],
                 xaxis: {
                     type: 'datetime',
                     title: { text: 'Date' }
                 },
                 yaxis: {
-                    reversed: isRank, // Classement inversé
-                    title: { text: isRank ? 'Rank' : 'Points' }
+                    reversed: reversed,
+                    title: { text: yAxisTitle }
                 },
                 stroke: {
                     curve: 'smooth',
@@ -259,7 +352,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 markers: {
                     size: 0
                 },
-                colors: [isRank ? '#4bc0c0' : '#ffa726'],
+                colors: [color],
                 tooltip: {
                     x: { format: 'yyyy-MM-dd' }
                 }
@@ -280,6 +373,34 @@ document.addEventListener('DOMContentLoaded', function () {
         if (chartTypeSwitch) {
             chartTypeSwitch.addEventListener('change', function () {
                 renderApexChart(chartTypeSwitch.checked ? 'points' : 'rank');
+            });
+        }
+
+        // Créer les boutons pour off/def si l'élément existe
+        const chartSelectorDiv = document.getElementById('chartSelector');
+        if (chartSelectorDiv) {
+            chartSelectorDiv.innerHTML = `
+                <div class="btn-group" role="group">
+                    <button type="button" class="btn btn-sm btn-outline-primary active chart-btn" data-type="rank">Rank</button>
+                    <button type="button" class="btn btn-sm btn-outline-primary chart-btn" data-type="points">Points</button>
+                    <button type="button" class="btn btn-sm btn-outline-success chart-btn" data-type="offRank">Off Rank</button>
+                    <button type="button" class="btn btn-sm btn-outline-success chart-btn" data-type="offPoints">Off Points</button>
+                    <button type="button" class="btn btn-sm btn-outline-danger chart-btn" data-type="defRank">Def Rank</button>
+                    <button type="button" class="btn btn-sm btn-outline-danger chart-btn" data-type="defPoints">Def Points</button>
+                </div>
+            `;
+
+            // Ajouter les listeners aux boutons
+            const chartButtons = document.querySelectorAll('.chart-btn');
+            chartButtons.forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // Retirer la classe active de tous les boutons
+                    chartButtons.forEach(b => b.classList.remove('active'));
+                    // Ajouter active au bouton cliqué
+                    this.classList.add('active');
+                    // Mettre à jour le graphique
+                    renderApexChart(this.getAttribute('data-type'));
+                });
             });
         }
     });

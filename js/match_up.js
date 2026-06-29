@@ -301,6 +301,31 @@ function renderTeamPanel(teamData, side) {
 function renderDonutOrHistory(prob1, prob2, h2hStats, donutMode, team1, team2, colors) {
     const { color1, color2, textColor1, textColor2 } = colors ?? { color1: '#FF4560', color2: '#008FFB', textColor1: '#FFFFFF', textColor2: '#FFFFFF' };
     const donutDiv = document.getElementById('donutContainer');
+    const isDark = document.body.classList.contains('dark-theme');
+    
+    // Mise à jour de l'UI (titre et points du carousel)
+    const donutTitle = document.getElementById('donutTitle');
+    const dot1 = document.getElementById('dot1');
+    const dot2 = document.getElementById('dot2');
+    const donutSection = document.getElementById('donutSection');
+    const titleColor = isDark ? '#aaa' : '#666';
+
+    if (donutTitle) {
+        donutTitle.textContent = donutMode ? 'Head-to-Head History' : 'General Ranking Method Prediction';
+        donutTitle.style.color = titleColor;
+    }
+    if (dot1) dot1.style.backgroundColor = donutMode ? '#eee' : (isDark ? '#007bff' : '#007bff');
+    if (dot2) dot2.style.backgroundColor = donutMode ? (isDark ? '#007bff' : '#007bff') : '#eee';
+    
+    // Style de la section donut
+    if (donutSection) {
+        donutSection.style.background = isDark ? 'rgba(255,255,255,0.05)' : 'rgba(0,0,0,0.02)';
+        donutSection.style.borderColor = isDark ? '#444' : 'rgba(0,0,0,0.1)';
+        // Ajout d'un léger dégradé selon le mode
+        const alpha = isDark ? '15' : '10';
+        donutSection.style.backgroundImage = `linear-gradient(135deg, ${color1}${alpha} 0%, ${color2}${alpha} 100%)`;
+    }
+
     donutDiv.innerHTML = '';
     // Détruit l'ancien graphique s'il existe
     if (window.apexDonutChart) {
@@ -496,21 +521,40 @@ function computePredictedScore(team1, team2) {
 // Affichage du score prédit
 function renderPredictedScore(team1, team2, goals1, goals2, colors) {
     const { color1, color2, textColor1, textColor2 } = colors ?? { color1: '#FF4560', color2: '#008FFB', textColor1: '#FFFFFF', textColor2: '#FFFFFF' };
+    const isDark = document.body.classList.contains('dark-theme');
     
+    // Pour le fond, on utilise des versions très sombres ou très claires selon le thème
+    const bgColor = isDark ? '#1a1d21' : '#f8f9fa';
+    const borderColor = isDark ? '#444' : '#dee2e6';
+    const titleColor = isDark ? '#aaa' : '#666';
+
+    // On s'assure que les scores ressortent (si la couleur principale est trop proche du fond)
+    const lumBackground = isDark ? 30 : 240;
+    const lum1 = getColorLuminance(color1);
+    const lum2 = getColorLuminance(color2);
+    
+    // Si en mode sombre la couleur est trop sombre, on utilise la secondaire pour le texte
+    // Si en mode clair la couleur est trop claire, on utilise la secondaire
+    const scoreColor1 = isDark ? (lum1 < 70 ? textColor1 : color1) : (lum1 > 180 ? textColor1 : color1);
+    const scoreColor2 = isDark ? (lum2 < 70 ? textColor2 : color2) : (lum2 > 180 ? textColor2 : color2);
+
     return `
-        <div class="prediction-container mb-4" style="background: linear-gradient(135deg, ${color1}20 0%, ${color2}20 100%); padding: 20px; border-radius: 8px; border: 2px solid #ddd;">
-            <div style="text-align: center; margin-bottom: 12px;">
-                <h6 style="color: #666; margin: 0; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">TrendsFC Prediction</h6>
+        <div class="prediction-container mb-4" style="background: ${bgColor}; padding: 20px; border-radius: 12px; border: 1px solid ${borderColor}; box-shadow: 0 4px 6px rgba(0,0,0,0.1); position: relative; overflow: hidden;">
+            <!-- Dégradé très subtil en arrière-plan basé sur les couleurs d'équipe client -->
+            <div style="position: absolute; top:0; left:0; right:0; bottom:0; background: linear-gradient(135deg, ${color1}15 0%, ${color2}15 100%); pointer-events: none;"></div>
+            
+            <div style="text-align: center; margin-bottom: 12px; position: relative;">
+                <h6 style="color: ${titleColor}; margin: 0; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; font-size: 0.8em;">TrendsFC Prediction</h6>
             </div>
-            <div style="display: flex; align-items: center; justify-content: space-around;">
+            <div style="display: flex; align-items: center; justify-content: space-around; position: relative;">
                 <div style="text-align: center;">
-                    <div style="font-size: 0.9em; color: #888; margin-bottom: 4px;">${team1}</div>
-                    <div style="font-size: 2.5em; font-weight: bold; color: ${color1}; line-height: 1;">${goals1}</div>
+                    <div style="font-size: 0.9em; color: ${titleColor}; margin-bottom: 4px; font-weight: 500;">${team1}</div>
+                    <div style="font-size: 3em; font-weight: 900; color: ${scoreColor1}; line-height: 1; text-shadow: ${isDark ? '0 0 10px rgba(0,0,0,0.5)' : 'none'};">${goals1}</div>
                 </div>
-                <div style="font-size: 1.2em; color: #999; font-weight: bold;">-</div>
+                <div style="font-size: 1.5em; color: ${titleColor}; font-weight: bold; opacity: 0.5;">-</div>
                 <div style="text-align: center;">
-                    <div style="font-size: 0.9em; color: #888; margin-bottom: 4px;">${team2}</div>
-                    <div style="font-size: 2.5em; font-weight: bold; color: ${color2}; line-height: 1;">${goals2}</div>
+                    <div style="font-size: 0.9em; color: ${titleColor}; margin-bottom: 4px; font-weight: 500;">${team2}</div>
+                    <div style="font-size: 3em; font-weight: 900; color: ${scoreColor2}; line-height: 1; text-shadow: ${isDark ? '0 0 10px rgba(0,0,0,0.5)' : 'none'};">${goals2}</div>
                 </div>
             </div>
         </div>
@@ -583,7 +627,33 @@ document.addEventListener('DOMContentLoaded', async () => {
     document.getElementById('team1Select').addEventListener('change', refreshAll);
     document.getElementById('team2Select').addEventListener('change', refreshAll);
     document.getElementById('neutralToggle').addEventListener('change', refreshAll);
-    document.getElementById('toggleDonutMode').addEventListener('change', refreshAll);
+    
+    // Gestion du swipe et click pour la section Donut
+    const donutSection = document.getElementById('donutSection');
+    const toggleDonut = document.getElementById('toggleDonutMode');
+    
+    if (donutSection && toggleDonut) {
+        // Switch au clic sur la section (mais pas sur le toggle neutral ground)
+        donutSection.addEventListener('click', (e) => {
+            if (!e.target.closest('#neutralSwitchWrapper')) {
+                toggleDonut.checked = !toggleDonut.checked;
+                refreshAll();
+            }
+        });
+
+        // Gestion du swipe
+        let touchstartX = 0;
+        let touchendX = 0;
+        
+        donutSection.addEventListener('touchstart', e => touchstartX = e.changedTouches[0].screenX, false);
+        donutSection.addEventListener('touchend', e => {
+            touchendX = e.changedTouches[0].screenX;
+            if (Math.abs(touchendX - touchstartX) > 50) { // Seuil de 50px pour le swipe
+                toggleDonut.checked = !toggleDonut.checked;
+                refreshAll();
+            }
+        }, false);
+    }
 
     // Dark mode switch (comme dans matches)
     const themeToggle = document.getElementById('theme-toggle');

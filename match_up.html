@@ -34,20 +34,30 @@
     <div class="row mb-4">
       <div class="col-md-4" id="team1Panel"></div>
       <div class="col-md-4 d-flex flex-column align-items-center justify-content-center">
-        <div class="w-100 d-flex justify-content-center mb-2">
-          <div class="custom-control custom-switch">
-            <input type="checkbox" class="custom-control-input" id="toggleDonutMode">
-            <label class="custom-control-label" for="toggleDonutMode">Show head-to-head summary</label>
-          </div>
-        </div>
         <div id="predictionContainer" class="w-100"></div>
-        <div id="donutContainer" style="width: 100%; max-width: 320px;"></div>
-        <div id="neutralSwitchWrapper" class="form-check form-switch mt-3">
-          <label class="form-label">Neutral ground</label><br>
-          <div class="custom-control custom-switch">
-            <input type="checkbox" class="custom-control-input" id="neutralToggle" checked>
-            <label class="custom-control-label" for="neutralToggle">Yes</label>
+        
+        <!-- Donut Section with Carousel effect -->
+        <div id="donutSection" class="w-100 mb-4" style="background: rgba(128,128,128,0.05); border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); padding: 15px; position: relative; cursor: pointer;" title="Click or swipe to switch mode">
+          <div id="donutTitleContainer" style="text-align: center; margin-bottom: 12px;">
+            <h6 id="donutTitle" style="color: #666; margin: 0; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; font-size: 0.8em;">General Ranking Method Prediction</h6>
           </div>
+          
+          <div id="donutContainer" style="width: 100%; max-width: 320px; margin: 0 auto;"></div>
+
+          <!-- Neutral Switch inside Donut Section -->
+          <div id="neutralSwitchWrapper" class="text-center mt-2" style="position: relative; z-index: 10;">
+            <div class="custom-control custom-switch d-inline-block">
+              <input type="checkbox" class="custom-control-input" id="neutralToggle" checked>
+              <label class="custom-control-label" for="neutralToggle" style="font-size: 0.8em; color: #888; cursor: pointer;">Neutral ground</label>
+            </div>
+          </div>
+
+          <div style="text-align: center; margin-top: 10px;">
+            <span id="dot1" style="height: 8px; width: 8px; background-color: #bbb; border-radius: 50%; display: inline-block; margin: 0 4px; transition: background-color 0.3s;"></span>
+            <span id="dot2" style="height: 8px; width: 8px; background-color: #eee; border-radius: 50%; display: inline-block; margin: 0 4px; transition: background-color 0.3s;"></span>
+          </div>
+          <!-- Hidden toggle used by existing JS logic -->
+          <input type="checkbox" id="toggleDonutMode" style="display:none">
         </div>
       </div>
       <div class="col-md-4" id="team2Panel"></div>

@@ -90,18 +90,17 @@
                 </div>
               </div>
             </div>
-            <!-- Toggle switch for chart type -->
-            <div class="d-flex align-items-center mb-2">
-              <span class="mr-2">Chart:</span>
-              <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="chartTypeSwitch">
-                <label class="custom-control-label" for="chartTypeSwitch">Points</label>
-              </div>
+            <!-- Chart type selector -->
+            <div class="mb-3">
+              <span class="mr-2"><strong>Chart Type:</strong></span>
+              <div id="chartSelector"></div>
             </div>
             <!-- Chart container -->
             <div style="height: 400px;">
               <div id="apexChart" style="height:400px;"></div>
             </div>
+            <!-- Off/Def Stats -->
+            <div id="offDefStats"></div>
           </div>
         </div>
       </div>
