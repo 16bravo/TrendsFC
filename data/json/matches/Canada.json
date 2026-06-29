@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 487,
-    "wins": 190,
+    "matches_played": 488,
+    "wins": 191,
     "draws": 116,
     "losses": 181,
-    "goals_for": 631,
+    "goals_for": 632,
     "goals_against": 611,
-    "goal_difference": 20,
-    "win_percentage": 39.0,
+    "goal_difference": 21,
+    "win_percentage": 39.1,
     "avg_points": 1.41,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 61.09,
+    "avg_rank": 61.02,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 153,
     "away_matches": 200,
-    "neutral_matches": 134,
+    "neutral_matches": 135,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2026-06-24"
+    "last_match_date": "2026-06-28"
   },
   "matches": [
     {
@@ -42,14 +42,14 @@
       "original_team2": "South Africa",
       "flag1": "canada.png",
       "flag2": "south_africa.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5271,
-      "rating2": 5019,
-      "rating_ev": 0,
-      "rank": 29,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5270,
+      "rating2": 5020,
+      "rating_ev": -1,
+      "rank": 30,
       "win_prob": 75.1,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-06-24",
