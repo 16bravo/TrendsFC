@@ -587,6 +587,51 @@ function renderPredictedScore(team1, team2, goals1, goals2, colors) {
     `;
 }
 
+// Affichage des "True betting odds"
+function renderBettingOdds(team1, team2, probas, colors) {
+    const { color1, color2, textColor1, textColor2 } = colors ?? { color1: '#FF4560', color2: '#008FFB', textColor1: '#FFFFFF', textColor2: '#FFFFFF' };
+    const isDark = document.body.classList.contains('dark-theme');
+    const borderColor = isDark ? '#444' : '#dee2e6';
+    const titleColor = isDark ? '#aaa' : '#666';
+    const oddBg = isDark ? 'rgba(255,255,255,0.05)' : 'rgba(0,0,0,0.03)';
+
+    // Calcul des cotes (0.9 / proba) avec minimum 1.00
+    const calcOdd = (p) => {
+        if (!p || p <= 0) return '—';
+        const val = 0.96 / (p / 100);
+        return Math.max(1.00, val).toFixed(2);
+    };
+    const odd1 = calcOdd(probas.win1);
+    const oddN = calcOdd(probas.draw);
+    const odd2 = calcOdd(probas.win2);
+
+    // Gestion du contraste pour les couleurs d'équipe
+    const lum1 = getColorLuminance(color1);
+    const lum2 = getColorLuminance(color2);
+    const oddColor1 = isDark ? (lum1 < 70 ? textColor1 : color1) : (lum1 > 180 ? '#333' : color1);
+    const oddColor2 = isDark ? (lum2 < 70 ? textColor2 : color2) : (lum2 > 180 ? '#333' : color2);
+
+    return `
+        <div class="betting-odds-container mb-4" style="text-align: center; border-top: 1px dashed ${borderColor}; padding-top: 15px;">
+            <div style="font-size: 0.75em; color: ${titleColor}; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">TrendsFC True Betting Odds</div>
+            <div style="display: flex; justify-content: center; gap: 15px;">
+                <div style="background: ${oddBg}; padding: 8px 15px; border-radius: 8px; min-width: 80px;">
+                    <div style="font-size: 0.7em; color: ${titleColor}; margin-bottom: 2px;">1</div>
+                    <div style="font-size: 1.2em; font-weight: 800; color: ${oddColor1};">${odd1}</div>
+                </div>
+                <div style="background: ${oddBg}; padding: 8px 15px; border-radius: 8px; min-width: 80px;">
+                    <div style="font-size: 0.7em; color: ${titleColor}; margin-bottom: 2px;">N</div>
+                    <div style="font-size: 1.2em; font-weight: 800; color: ${isDark ? '#ccc' : '#444'};">${oddN}</div>
+                </div>
+                <div style="background: ${oddBg}; padding: 8px 15px; border-radius: 8px; min-width: 80px;">
+                    <div style="font-size: 0.7em; color: ${titleColor}; margin-bottom: 2px;">2</div>
+                    <div style="font-size: 1.2em; font-weight: 800; color: ${oddColor2};">${odd2}</div>
+                </div>
+            </div>
+        </div>
+    `;
+}
+
 // Rafraîchit toute la page
 async function refreshAll() {
     const team1 = document.getElementById('team1Select').value;
@@ -629,6 +674,12 @@ async function refreshAll() {
     const predictionContainer = document.getElementById('predictionContainer');
     if (predictionContainer) {
         predictionContainer.innerHTML = renderPredictedScore(team1, team2, predictedScore.goals1, predictedScore.goals2, colors);
+    }
+    
+    // Affichage des "True betting odds"
+    const bettingOddsContainer = document.getElementById('bettingOddsContainer');
+    if (bettingOddsContainer) {
+        bettingOddsContainer.innerHTML = renderBettingOdds(team1, team2, matchProbas, colors);
     }
     
     renderDonutOrHistory(matchProbas, h2hStats, donutMode, team1, team2, colors);
