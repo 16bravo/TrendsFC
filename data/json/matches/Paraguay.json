@@ -1,18 +1,18 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 793,
+    "matches_played": 794,
     "wins": 279,
-    "draws": 210,
+    "draws": 211,
     "losses": 304,
-    "goals_for": 1009,
-    "goals_against": 1119,
+    "goals_for": 1010,
+    "goals_against": 1120,
     "goal_difference": -110,
-    "win_percentage": 35.2,
+    "win_percentage": 35.1,
     "avg_points": 1.32,
     "best_rank": 6,
     "worst_rank": 47,
-    "avg_rank": 24.1,
+    "avg_rank": 24.11,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Bolivia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 367,
-    "neutral_matches": 211,
+    "neutral_matches": 212,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2026-06-25"
+    "last_match_date": "2026-06-29"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "Germany",
       "flag1": "paraguay.png",
       "flag2": "germany.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5303,
-      "rating2": 5571,
-      "rating_ev": 0,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5319,
+      "rating2": 5555,
+      "rating_ev": 16,
       "rank": 25,
       "win_prob": 23.7,
-      "type": "fixture",
-      "points_off": 5046,
-      "points_def": 5016,
-      "ranking_off": 41,
+      "type": "past",
+      "points_off": 5036.914438204385,
+      "points_def": 5033.773806991297,
+      "ranking_off": 44,
       "ranking_def": 10
     },
     {
