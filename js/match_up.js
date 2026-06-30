@@ -411,6 +411,44 @@ function renderDonutOrHistory(probas, h2hStats, donutMode, team1, team2, colors)
     }
 }
 
+// Fonction pour désaturer une couleur
+function desaturateColor(hex, amount = 0.5) {
+    const rgb = hexToRgb(hex);
+    const [r, g, b] = rgb;
+    const gray = Math.round(0.05 * r + 0.05 * g + 0.05 * b);
+    const newR = Math.round(r + (gray - r) * amount);
+    const newG = Math.round(g + (gray - g) * amount);
+    const newB = Math.round(b + (gray - b) * amount);
+    return '#' + [newR, newG, newB].map(x => x.toString(16).padStart(2, '0')).join('').toUpperCase();
+}
+
+// Calcul des odds à partir des ratings
+function calculateOddsFromRatings(rating1, rating2) {
+    if (!rating1 || !rating2) return null;
+    
+    const X = Math.abs(rating1 - rating2);
+    const V = 1 / (1 + 2.0134 * Math.exp(-0.006581 * Math.pow(X, 0.9391)));
+    const D = Math.min(1 - V, 0.3265 / (1 + 0.000071 * Math.pow(X, 1.801)));
+    const N = 1 - V - D;
+
+    let prob1, probN, prob2;
+    if (rating1 >= rating2) {
+        prob1 = V;
+        prob2 = D;
+        probN = N;
+    } else {
+        prob1 = D;
+        prob2 = V;
+        probN = N;
+    }
+
+    const odd1 = (prob1 > 0) ? (Math.max(1.00, 0.96 / prob1)).toFixed(2) : '—';
+    const oddN = (probN > 0) ? (Math.max(1.00, 0.96 / probN)).toFixed(2) : '—';
+    const odd2 = (prob2 > 0) ? (Math.max(1.00, 0.96 / prob2)).toFixed(2) : '—';
+
+    return { odd1, oddN, odd2 };
+}
+
 // Affichage de l'historique des confrontations
 function renderHeadToHead(matches, team1, team2) {
     // On ne prend que les matches de team1 contre team2
@@ -418,18 +456,26 @@ function renderHeadToHead(matches, team1, team2) {
         .filter(m => m.team2 === team2 || m.team2 === team1)
         .sort((a, b) => new Date(b.date) - new Date(a.date));
     if (!filtered.length) return '<div class="alert alert-info">No direct match found.</div>';
+    
+    const isDark = document.body.classList.contains('dark-theme');
+    const headerBg = isDark ? '#2a2d31' : '#f8f9fa';
+    const headerTextColor = isDark ? '#e0e0e0' : '#333';
+    const tableBg = isDark ? 'rgba(255,255,255,0.02)' : 'rgba(0,0,0,0.01)';
+    const borderColor = isDark ? '#404040' : '#ddd';
+    
     let html = `<div class="table-responsive">
-        <table class="table table-bordered table-sm align-middle" style="font-size:0.85em;">
+        <table class="table table-sm align-middle" style="font-size:0.85em; background: ${tableBg}; border-collapse: collapse;">
         <thead>
-            <tr>
-                <th>Home</th>
-                <th>Score</th>
-                <th>Away</th>
-                <th class="d-none d-sm-table-cell" style="white-space:nowrap">Date</th>
-                <th class="d-none d-md-table-cell">Venue</th>
-                <th class="d-none d-lg-table-cell">Tournament</th>
-                <th class="d-none d-lg-table-cell">Δpts</th>
-                <th class="d-none d-xl-table-cell">Rank</th>
+            <tr style="background: ${headerBg}; border-bottom: 2px solid ${borderColor};">
+                <th style="color: ${headerTextColor}; font-weight: 600; padding: 12px 8px; border: none;">Home</th>
+                <th style="color: ${headerTextColor}; font-weight: 600; padding: 12px 4px; text-align: center; width: 70px; border: none;">Score</th>
+                <th style="color: ${headerTextColor}; font-weight: 600; padding: 12px 8px; border: none;">Away</th>
+                <th class="d-none d-sm-table-cell" style="color: ${headerTextColor}; font-weight: 600; padding: 12px 8px; white-space:nowrap; border: none;">Date</th>
+                <th class="d-none d-md-table-cell" style="color: ${headerTextColor}; font-weight: 600; padding: 12px 8px; border: none;">Venue</th>
+                <th class="d-none d-lg-table-cell" style="color: ${headerTextColor}; font-weight: 600; padding: 12px 8px; border: none;">Tournament</th>
+                <th class="d-none d-lg-table-cell" style="color: ${headerTextColor}; font-weight: 600; padding: 12px 8px; text-align: center; border: none;">Δpts</th>
+                <th class="d-none d-xl-table-cell" style="color: ${headerTextColor}; font-weight: 600; padding: 12px 8px; text-align: center; border: none;">Rank</th>
+                <th class="d-none d-xl-table-cell" style="color: ${headerTextColor}; font-weight: 600; padding: 12px 8px; text-align: center; border: none;">Odds (1-N-2)</th>
             </tr>
         </thead>
         <tbody>
@@ -466,28 +512,93 @@ function renderHeadToHead(matches, team1, team2) {
             awayFlag = m.flag2;
         }
 
-        // Détermine la couleur selon le vainqueur réel
+                // Détermine la couleur selon le vainqueur réel
         const isDark = document.body.classList.contains('dark-theme');
         let winner = null;
         if (typeof homeScore === 'number' && typeof awayScore === 'number') {
             if (homeScore > awayScore) winner = homeTeam;
             else if (homeScore < awayScore) winner = awayTeam;
         }
-        const scoreColor = `color: ${getH2HScoreColor(winner, isDark)}; font-weight: bold;`;
+        
+        // Créer un badge pour le score avec couleur du vainqueur
+        let scoreBadge = `<span style="display: inline-block; padding: 4px 8px; border-radius: 6px; font-weight: 700; font-size: 0.95em; background: ${isDark ? '#404040' : '#e9ecef'}; color: ${isDark ? '#e0e0e0' : '#495057'}; min-width: 50px; text-align: center;">${homeScore} - ${awayScore}</span>`;
+        if (winner) {
+            const winnerColors = countriesColorsMap[winner];
+            if (winnerColors) {
+                // Badge avec la couleur primaire du vainqueur et texte en couleur secondaire
+                scoreBadge = `<span style="display: inline-block; padding: 5px 10px; border-radius: 6px; font-weight: 700; font-size: 0.95em; background-color: ${winnerColors.primary}; color: ${winnerColors.secondary}; min-width: 50px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.9);">${homeScore} - ${awayScore}</span>`;
+            }
+        }
+        
         const venue = m.country || '';
         const tournament = m.tournament || '';
         const pts = m.rating_ev !== undefined && m.rating_ev !== null && m.rating_ev !== "" ? (m.rating_ev > 0 ? '+' : '') + m.rating_ev : '';
         const rank = m.rank ?? '';
+        
+        // Calcul des odds si les ratings sont disponibles
+        let oddsDisplay = '—';
+        if (m.rating1 && m.rating2) {
+            const odds = calculateOddsFromRatings(m.rating1, m.rating2);
+            if (odds) {
+                // Réordonner les cotes selon l'affichage home/away (pas forcément team1/team2)
+                const oddHome = (homeTeam === m.team1) ? odds.odd1 : odds.odd2;
+                const oddAway = (homeTeam === m.team1) ? odds.odd2 : odds.odd1;
+                const oddN    = odds.oddN;
 
-            html += `<tr>
-                <td>${flagImgFromFile(homeFlag, homeOriginal)} ${homeOriginal}</td>
-                <td class="font-weight-bold" style="${scoreColor}">${homeScore} - ${awayScore}</td>
-                <td>${flagImgFromFile(awayFlag, awayOriginal)} ${awayOriginal}</td>
-                <td class="d-none d-sm-table-cell">${m.date}</td>
-                <td class="d-none d-md-table-cell">${venue}</td>
-                <td class="d-none d-lg-table-cell">${tournament}</td>
-                <td class="d-none d-lg-table-cell">${pts}</td>
-                <td class="d-none d-xl-table-cell">${rank}</td>
+                // Déterminer l'issue réelle par le score (pas par valeur de cote)
+                let outcome = null; // 'home', 'draw', 'away'
+                if (typeof homeScore === 'number' && typeof awayScore === 'number') {
+                    if (homeScore > awayScore) outcome = 'home';
+                    else if (homeScore < awayScore) outcome = 'away';
+                    else if (homeScore === awayScore) outcome = 'draw';
+                }
+
+                const regularBg   = isDark ? '#505050' : '#f0f0f0';
+                const regularText = isDark ? '#909090' : '#999';
+                const separatorColor = isDark ? '#606060' : '#ddd';
+
+                const homeTeamColors = countriesColorsMap[homeTeam];
+                const awayTeamColors = countriesColorsMap[awayTeam];
+
+                const buildBadge = (oddVal, isWinner, teamColors) => {
+                    if (isWinner && teamColors) {
+                        return `<span style="padding: 3px 8px; border-radius: 4px; font-weight: 700; background-color: ${teamColors.primary}; color: ${teamColors.secondary}; box-shadow: 0 1px 3px rgba(0,0,0,0.2);">${oddVal}</span>`;
+                    }
+                    if (isWinner) {
+                        return `<span style="padding: 3px 8px; border-radius: 4px; font-weight: 700; background-color: ${isDark ? '#888' : '#ccc'}; color: ${isDark ? '#fff' : '#333'}; box-shadow: 0 1px 3px rgba(0,0,0,0.2);">${oddVal}</span>`;
+                    }
+                    const bg   = teamColors ? desaturateColor(teamColors.primary) : regularBg;
+                    const text = teamColors ? desaturateColor(teamColors.secondary) : regularText;
+                    return `<span style="padding: 3px 8px; border-radius: 3px; background-color: ${bg}; color: ${text}; font-weight: 600;">${oddVal}</span>`;
+                };
+
+                const homeBadge = buildBadge(oddHome, outcome === 'home', homeTeamColors);
+                const drawBadge = buildBadge(oddN,    outcome === 'draw', null);
+                const awayBadge = buildBadge(oddAway, outcome === 'away', awayTeamColors);
+
+                oddsDisplay = `<div style="font-size: 0.85em; display: flex; gap: 4px; justify-content: center; align-items: center;">
+                    ${homeBadge}
+                    <span style="color: ${separatorColor}; opacity: 0.5;">-</span>
+                    ${drawBadge}
+                    <span style="color: ${separatorColor}; opacity: 0.5;">-</span>
+                    ${awayBadge}
+                </div>`;
+            }
+        }
+        
+        const rowBg = isDark ? 'rgba(255,255,255,0.03)' : 'rgba(0,0,0,0.015)';
+        const rowBorder = isDark ? '#333' : '#e9ecef';
+
+            html += `<tr style="background: ${rowBg}; border-bottom: 1px solid ${rowBorder};">
+                <td style="padding: 8px; border: none;">${flagImgFromFile(homeFlag, homeOriginal)} ${homeOriginal}</td>
+                <td style="text-align: center; padding: 8px 4px; border: none;">${scoreBadge}</td>
+                <td style="padding: 8px; border: none;">${flagImgFromFile(awayFlag, awayOriginal)} ${awayOriginal}</td>
+                <td class="d-none d-sm-table-cell" style="padding: 8px; border: none; font-size: 0.8em;">${m.date}</td>
+                <td class="d-none d-md-table-cell" style="padding: 8px; border: none; font-size: 0.8em;">${venue}</td>
+                <td class="d-none d-lg-table-cell" style="padding: 8px; border: none; font-size: 0.8em;">${tournament}</td>
+                <td class="d-none d-lg-table-cell" style="padding: 8px; border: none; text-align: center; font-size: 0.8em; color: ${pts.startsWith('+') ? (isDark ? '#4ade80' : '#059669') : (isDark ? '#f87171' : '#dc2626')}; font-weight: 600;">${pts}</td>
+                <td class="d-none d-xl-table-cell" style="padding: 8px; border: none; text-align: center; font-size: 0.8em; color: ${isDark ? '#a0a0a0' : '#666'};">${rank}</td>
+                <td class="d-none d-xl-table-cell" style="padding: 8px; border: none; text-align: center; font-size: 0.8em;">${oddsDisplay}</td>
             </tr>`;
     }
     html += '</tbody></table></div>';
