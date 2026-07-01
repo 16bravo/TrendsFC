@@ -1,18 +1,18 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1030,
-    "wins": 535,
+    "matches_played": 1031,
+    "wins": 536,
     "draws": 237,
     "losses": 258,
-    "goals_for": 1830,
+    "goals_for": 1832,
     "goals_against": 1054,
-    "goal_difference": 776,
-    "win_percentage": 51.9,
+    "goal_difference": 778,
+    "win_percentage": 52.0,
     "avg_points": 1.79,
     "best_rank": 2,
     "worst_rank": 41,
-    "avg_rank": 21.56,
+    "avg_rank": 21.55,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Bahamas",
@@ -25,11 +25,11 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 301,
+    "home_matches": 302,
     "away_matches": 271,
     "neutral_matches": 458,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2026-06-24"
+    "last_match_date": "2026-06-30"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "Ecuador",
       "flag1": "mexico.png",
       "flag2": "ecuador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5363,
-      "rating2": 5385,
-      "rating_ev": 0,
-      "rank": 18,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5386,
+      "rating2": 5362,
+      "rating_ev": 23,
+      "rank": 15,
       "win_prob": 58.5,
-      "type": "fixture",
-      "points_off": 5046,
+      "type": "past",
+      "points_off": 5061.617781133059,
       "points_def": 5042,
-      "ranking_off": 41,
+      "ranking_off": 33,
       "ranking_def": 9
     },
     {

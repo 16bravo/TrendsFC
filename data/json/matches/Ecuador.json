@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 603,
+    "matches_played": 604,
     "wins": 186,
     "draws": 162,
-    "losses": 255,
+    "losses": 256,
     "goals_for": 726,
-    "goals_against": 906,
-    "goal_difference": -180,
+    "goals_against": 908,
+    "goal_difference": -182,
     "win_percentage": 30.8,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.68,
+    "avg_rank": 34.65,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 183,
-    "away_matches": 211,
+    "away_matches": 212,
     "neutral_matches": 209,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2026-06-25"
+    "last_match_date": "2026-06-30"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Mexico",
       "flag1": "ecuador.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5385,
-      "rating2": 5363,
-      "rating_ev": 0,
-      "rank": 15,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5362,
+      "rating2": 5386,
+      "rating_ev": -23,
+      "rank": 18,
       "win_prob": 41.5,
-      "type": "fixture",
+      "type": "past",
       "points_off": 5053,
-      "points_def": 5144,
-      "ranking_off": 37,
-      "ranking_def": 1
+      "points_def": 5128.382218866941,
+      "ranking_off": 38,
+      "ranking_def": 2
     },
     {
       "date": "2026-06-25",
