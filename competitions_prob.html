@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Euro 2024</title>
+    <script type="module" charset="utf8" src="js/competitions.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/competitions.css">
+    <link rel="stylesheet" href="css/matches.css">
+    <link rel="stylesheet" href="css/index.css">
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+</head>
+<body class="bg-light">
+  <div id="navbar-placeholder"></div>
+  <script src="js/navbar.js"></script>
+
+  <div class="container mt-4">
+    <div class="row mb-3">
+      <div class="col-md-4 mb-2">
+        <label for="competitionSelect">Competition:</label>
+        <select id="competitionSelect" class="form-control">
+          <option value="euro2024">Euro 2024</option>
+          <!-- D'autres compétitions plus tard -->
+        </select>
+      </div>
+      <div class="col-md-8 mb-2 d-flex align-items-end">
+        <!-- Onglets niveau ici (nav-tabs ou boutons Bootstrap) -->
+        <ul class="nav nav-tabs" id="levelTabs">
+          <li class="nav-item"><a class="nav-link active" data-level="champion" href="#">Champion</a></li>
+          <li class="nav-item"><a class="nav-link" data-level="final" href="#">Final</a></li>
+          <li class="nav-item"><a class="nav-link" data-level="semi-final" href="#">Semi Final</a></li>
+          <li class="nav-item"><a class="nav-link" data-level="quarter-final" href="#">Quarter Final</a></li>
+          <li class="nav-item"><a class="nav-link" data-level="round-of-16" href="#">Round of 16</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="d-flex">
+      <div id="team-sidebar" class="bg-white border rounded p-2 me-3" style="min-width:220px; max-height:80vh; overflow-y:auto;">
+        <div class="form-check mb-2">
+          <input class="form-check-input" type="checkbox" id="selectAllTeams" checked>
+          <label class="form-check-label" for="selectAllTeams"><strong>Select All</strong></label>
+        </div>
+        <div id="teamCheckboxList"></div>
+      </div>
+      <div class="flex-grow-1">
+        <div id="graph" class="mb-4"></div>
+        <h1 id="table-title">Champion Probability</h1>
+        <div class="table-responsive">
+          <table class="table table-bordered" id="probability-table">
+            <thead>
+              <tr>
+                <th>Team</th>
+                <!-- Dates dynamiques -->
+              </tr>
+            </thead>
+            <tbody id="table-body">
+              <!-- Données dynamiques -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>

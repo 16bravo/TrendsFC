@@ -7,6 +7,7 @@
         { href: 'schedule.html?type=past',    label: 'Latest Matches',  page: 'schedule', search: 'past'    },
         { href: 'schedule.html?type=fixture', label: 'Fixtures',        page: 'schedule', search: 'fixture' },
         { href: 'match_up.html',              label: 'Match-Up',        page: 'match_up'          },
+        { href: 'competitions.html',          label: 'Competitions',    page: 'competitions'      },
         { href: 'about.html',                 label: 'About',           page: 'about'             },
     ];
 
@@ -37,4 +38,20 @@
         '      <button id="theme-toggle" class="btn btn-outline-secondary ml-2" title="Switch theme">\uD83C\uDF19</button>\n' +
         '    </div>\n' +
         '  </nav>';
+
+    // Dark theme management
+    const themeToggle = document.getElementById('theme-toggle');
+    if (themeToggle) {
+        // Appliquer le thème au chargement
+        if (localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-theme');
+            themeToggle.textContent = '☀️';
+        }
+
+        themeToggle.addEventListener('click', () => {
+            const isDark = document.body.classList.toggle('dark-theme');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            themeToggle.textContent = isDark ? '☀️' : '🌙';
+        });
+    }
 }());

@@ -3,66 +3,643 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Euro 2024</title>
-    <script type="module" charset="utf8" src="js/competitions.js"></script>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/competitions.css">
-    <link rel="stylesheet" href="css/matches.css">
-    <link rel="stylesheet" href="css/index.css">
-    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <title>Competitions - TrendsFC</title>
+    <!-- Use the same version of Bootstrap as index.html -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <style>
+        :root {
+            --primary-yellow: #ffeb3b;
+        }
+
+        /* Fixed navbar spacing from index.css might not be enough if we use fixed-top */
+        body {
+            padding-top: 80px; 
+        }
+
+        /* Spécificités pour le Dark Mode de TrendsFC */
+        body.dark-theme {
+            background-color: #181a1b !important;
+            color: #e0e0e0 !important;
+        }
+
+        body.dark-theme .sim-header {
+            background: #23272b;
+            border-color: #444;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+
+        body.dark-theme .slider-wrapper {
+            background: #2a2e33;
+            border-color: #444;
+        }
+
+        body.dark-theme select.form-control {
+            background: #181a1b;
+            color: #e0e0e0;
+            border-color: #444;
+        }
+
+        body.dark-theme .sim-header label {
+            color: #aaa;
+        }
+
+        body.dark-theme .empty-state {
+            color: #777;
+        }
+
+        /** ─── BRACKET (SVG Tree Layout) ───────────────────────────────── **/
+        #bracket-container { margin-top: 10px; }
+
+        .bk-outer {
+            font-family: 'Segoe UI', sans-serif;
+            font-size: 0.82rem;
+            min-height: 600px;
+        }
+
+        /* Title bar for each round */
+        .bk-title {
+            text-align: center;
+            background: #fff;
+            color: #111;
+            font-weight: 700;
+            font-size: 0.78rem;
+            padding: 5px 4px;
+            border: 1px solid #bbb;
+            box-sizing: border-box;
+        }
+
+        /* Individual match card */
+        .bk-match {
+            background: #1c1c1c;
+            border: 1px solid #444;
+            border-radius: 4px;
+            overflow: hidden;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        .bk-match:hover {
+            border-color: #666;
+            transform: translateY(-2px);
+            z-index: 10 !important;
+        }
+
+        .bk-date {
+            font-size: 0.68rem;
+            color: #5b9bd5;
+            background: #111;
+            padding: 3px 8px;
+            border-bottom: 1px solid #333;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        .bk-team {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 4px 7px;
+            height: 28px;
+            border-bottom: 1px solid #2a2a2a;
+            color: #ccc;
+        }
+        .bk-team:last-child { border-bottom: none; }
+        .bk-team.winner { background: #232323; }
+        .bk-team.winner .bk-name { color: #fff; font-weight: 600; text-decoration: underline; }
+
+        .bk-team-info {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        .bk-flag {
+            width: 20px;
+            height: 13px;
+            object-fit: cover;
+            flex-shrink: 0;
+            border: 1px solid #333;
+        }
+        .bk-flag-placeholder { width: 20px; flex-shrink: 0; }
+
+        .bk-name {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .bk-score {
+            flex-shrink: 0;
+            min-width: 22px;
+            height: 20px;
+            line-height: 20px;
+            text-align: center;
+            font-weight: 700;
+            font-size: 0.78rem;
+            padding: 0 5px;
+            border-radius: 2px;
+        }
+        .bk-score.real      { background: #3a7; color: #fff; }
+        .bk-score.predicted { background: #3a3a3a; color: #888; }
+
+        /* 3rd place section below bracket */
+        .bk-third {
+            margin-top: 30px;
+            padding: 15px 30px;
+            border-top: 1px dashed #444;
+        }
+        .bk-third-title {
+            font-weight: 700;
+            color: #888;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 8px;
+        }
+
+        .sim-table th {
+            background: #343a40;
+            color: var(--primary-yellow);
+            text-transform: uppercase;
+            font-size: 0.8rem;
+        }
+
+
+        body.dark-theme .empty-state i {
+            color: var(--primary-yellow);
+        }
+
+        /* Styles de base */
+        .sim-container {
+            max-width: 98%;
+            margin: 0 auto;
+            padding: 0 10px;
+        }
+
+        .bracket-wrapper {
+            width: 100%;
+            overflow-x: auto;
+        }
+
+        .sim-header {
+            position: sticky;
+            top: 70px; /* Just below main navbar */
+            z-index: 1000;
+            background: #fff;
+            border-radius: 12px;
+            padding: 16px 24px;
+            margin-bottom: 30px;
+            border: 1px solid #dee2e6;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        body.dark-theme .sim-header {
+            background: #23272b;
+            border-color: #444;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+
+        .control-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            align-items: flex-end;
+        }
+
+        .comp-selector-wrapper {
+            flex: 0 0 300px;
+        }
+
+        .sim-header label {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #666;
+            font-weight: 600;
+        }
+
+        body.dark-theme .sim-header label {
+            color: #aaa;
+        }
+
+        .slider-wrapper {
+            flex: 2; /* Increased width weight */
+            display: none; 
+            align-items: center;
+            background: #f8f9fa;
+            padding: 12px 25px;
+            border-radius: 10px;
+            border: 1px solid #dee2e6;
+        }
+
+        body.dark-theme .slider-wrapper {
+            background: #1e1e1e;
+            border-color: #333;
+        }
+
+        .slider-controls {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            width: 100%;
+        }
+
+        .step-btn {
+            background: #333;
+            border: 1px solid #444;
+            color: white;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.2s;
+            outline: none;
+        }
+
+        .step-btn:hover {
+            background: var(--primary-yellow);
+            color: black;
+            border-color: var(--primary-yellow);
+        }
+
+        .step-btn:active {
+            transform: scale(0.9);
+        }
+
+        input[type=range] {
+            flex-grow: 1;
+            cursor: pointer;
+            margin: 0 10px;
+        }
+
+        .date-display {
+            font-family: 'Monaco', 'Consolas', monospace;
+            background: #000;
+            padding: 8px 16px;
+            border-radius: 6px;
+            color: var(--primary-yellow);
+            font-weight: bold;
+            font-size: 1.1rem;
+            min-width: 140px;
+            text-align: center;
+        }
+
+        /* Tabs Styling */
+        .nav-pills .nav-link {
+            color: #aaa;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            padding: 10px 20px;
+            border-radius: 6px;
+            transition: all 0.3s;
+        }
+
+        .nav-pills .nav-link.active {
+            background-color: var(--primary-yellow) !important;
+            color: #000 !important;
+            box-shadow: 0 4px 12px rgba(255, 235, 59, 0.3);
+        }
+
+        /* Group Tables & Match List */
+        .group-card {
+            background: #23272b;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 25px;
+            border: 1px solid #444;
+        }
+        
+        body:not(.dark-theme) .group-card {
+            background: #fff;
+            border-color: #dee2e6;
+        }
+
+        .group-title {
+            color: var(--primary-yellow);
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #444;
+            padding-bottom: 8px;
+        }
+
+        .sim-table {
+            width: 100%;
+            font-size: 0.9rem;
+            margin-bottom: 20px;
+        }
+
+        .sim-table th { color: #888; font-weight: 400; padding: 5px; text-align: center; }
+        .sim-table td { padding: 8px 5px; border-top: 1px solid #333; }
+        .sim-table .team-name { text-align: left; width: 50%; font-weight: 600; }
+        .sim-table .pts { font-weight: bold; color: var(--primary-yellow); text-align: center; }
+        .sim-table .qualify-zone { border-left: 3px solid #4caf50; }
+        .sim-table .third-zone { border-left: 3px solid #ff9800; }
+
+        .match-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 6px 0;
+            font-size: 0.85rem;
+            border-bottom: 1px dashed #333;
+        }
+
+        .match-row:last-child { border-bottom: none; }
+        .match-team { flex: 1; }
+        .match-team.home { text-align: right; margin-right: 10px; }
+        .match-team.away { text-align: left; margin-left: 10px; }
+        .match-score {
+            width: 45px;
+            text-align: center;
+            background: #000;
+            border-radius: 4px;
+            font-weight: bold;
+            padding: 2px 0;
+        }
+
+        .match-score.predicted {
+            color: #888;
+            background: #1a1a1a;
+            font-style: italic;
+        }
+
+        .match-score.real {
+            color: var(--primary-yellow);
+            background: #000;
+            box-shadow: 0 0 5px rgba(255, 235, 59, 0.2);
+        }
+
+        .match-row.match-played {
+            background: rgba(255, 255, 255, 0.03);
+            border-left: 2px solid var(--primary-yellow);
+            padding-left: 8px;
+        }
+
+        .match-row.match-future {
+            opacity: 0.7;
+        }
+
+        body:not(.dark-theme) .match-score.predicted {
+            background: #f0f0f0;
+            color: #777;
+        }
+
+        body:not(.dark-theme) .match-score.real {
+            background: #333;
+            color: #fff;
+        }
+
+        body:not(.dark-theme) .match-row.match-played {
+            background: rgba(0, 0, 0, 0.02);
+            border-left: 2px solid #333;
+        }
+
+        /* Bracket Styling */
+        .bracket-wrapper {
+            display: flex;
+            padding: 40px 20px;
+            gap: 60px;
+            align-items: center; /* Center rounds horizontally for better vertical flow */
+            justify-content: center;
+            min-height: 600px;
+        }
+
+        .bracket-round {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            height: 100%;
+            min-width: 220px;
+            gap: 20px;
+        }
+
+        .bracket-round-title {
+            text-align: center;
+            color: var(--primary-yellow);
+            font-size: 0.9rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 30px;
+        }
+
+        .bracket-match {
+            background: #23272b;
+            border: 1px solid #444;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            margin-bottom: 10px;
+        }
+
+        body:not(.dark-theme) .bracket-match {
+            background: #fff;
+            border-color: #dee2e6;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .bracket-match-team {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 15px;
+            font-size: 0.9rem;
+            color: #ccc;
+            border-bottom: 1px solid #333;
+        }
+
+        body:not(.dark-theme) .bracket-match-team {
+            color: #333;
+            border-bottom-color: #eee;
+        }
+
+        .bracket-match-team:last-child {
+            border-bottom: none;
+        }
+
+        .bracket-match-team.winner {
+            color: var(--primary-yellow);
+            font-weight: bold;
+            background: rgba(255, 235, 59, 0.05);
+        }
+
+        body:not(.dark-theme) .bracket-match-team.winner {
+            color: #000;
+            background: rgba(0, 0, 0, 0.03);
+            border-left: 3px solid #000;
+        }
+
+        .bracket-match-score {
+            font-family: 'Monaco', monospace;
+            font-weight: bold;
+            min-width: 25px;
+            text-align: center;
+        }
+
+        .bracket-match-score.predicted {
+            opacity: 0.5;
+            font-style: italic;
+        }
+
+        /* Third Place Section */
+        .third-place-container {
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 2px dashed #444;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .third-place-card {
+            width: 300px;
+        }
+
+        @media (max-width: 1200px) {
+            .bracket-wrapper {
+                justify-content: flex-start;
+                overflow-x: auto;
+            }
+        }
+            flex-shrink: 0;
+        }
+
+        .bracket-round-title {
+            text-align: center;
+            color: var(--primary-yellow);
+            font-size: 0.9rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 20px;
+            padding: 8px;
+            background: rgba(255,235,59,0.05);
+            border-radius: 4px;
+        }
+
+        .bracket-match {
+            background: #23272b;
+            border: 1px solid #444;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            padding: 8px;
+            width: 200px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+            position: relative;
+        }
+
+        body:not(.dark-theme) .bracket-match {
+            background: #fff;
+            border-color: #dee2e6;
+        }
+
+        .bracket-match-team {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.85rem;
+            padding: 4px 6px;
+            border-radius: 4px;
+        }
+
+        .bracket-match-team.winner {
+            font-weight: bold;
+            background: rgba(76, 175, 80, 0.1);
+        }
+
+        .bracket-match-score {
+            font-family: 'Monaco', monospace;
+            font-weight: bold;
+            min-width: 20px;
+            text-align: center;
+        }
+
+        .bracket-match-score.predicted { color: #2196f3; }
+        .bracket-match-score.real { color: #4caf50; }
+
+        .third-place-container {
+            border-top: 2px solid var(--primary-yellow);
+            margin-top: 40px;
+            padding-top: 20px;
+        }
+
+        #simulator-viewport {
+            min-height: 500px;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 120px 0;
+            opacity: 0.5;
+        }
+
+        .empty-state i {
+            font-size: 5rem;
+            margin-bottom: 25px;
+            display: block;
+        }
+
+        @media (max-width: 992px) {
+            .control-group { flex-direction: column; align-items: stretch; }
+            .comp-selector-wrapper { flex: 1; }
+        }
+    </style>
+    <!-- Add jQuery and Bootstrap scripts to match index.html for navbar compatibility -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
 </head>
-<body class="bg-light">
-  <div id="navbar-placeholder"></div>
-  <script src="js/navbar.js"></script>
+</head>
+<body>
+    <div id="navbar-placeholder"></div>
 
-  <div class="container mt-4">
-    <div class="row mb-3">
-      <div class="col-md-4 mb-2">
-        <label for="competitionSelect">Competition:</label>
-        <select id="competitionSelect" class="form-control">
-          <option value="euro2024">Euro 2024</option>
-          <!-- D'autres compétitions plus tard -->
-        </select>
-      </div>
-      <div class="col-md-8 mb-2 d-flex align-items-end">
-        <!-- Onglets niveau ici (nav-tabs ou boutons Bootstrap) -->
-        <ul class="nav nav-tabs" id="levelTabs">
-          <li class="nav-item"><a class="nav-link active" data-level="champion" href="#">Champion</a></li>
-          <li class="nav-item"><a class="nav-link" data-level="final" href="#">Final</a></li>
-          <li class="nav-item"><a class="nav-link" data-level="semi-final" href="#">Semi Final</a></li>
-          <li class="nav-item"><a class="nav-link" data-level="quarter-final" href="#">Quarter Final</a></li>
-          <li class="nav-item"><a class="nav-link" data-level="round-of-16" href="#">Round of 16</a></li>
-        </ul>
-      </div>
+    <div class="sim-container">
+        <header class="sim-header">
+            <div class="control-group">
+                <div class="comp-selector-wrapper">
+                    <label for="compSelect" style="display:block; margin-bottom: 8px; font-size: 0.9rem; color: #aaa;">Select Competition</label>
+                    <select id="compSelect" class="form-control">
+                        <option value="">Choose a tournament...</option>
+                    </select>
+                </div>
+
+                <div class="slider-wrapper" id="sliderGroup">
+                    <div class="slider-controls">
+                        <div style="flex-grow: 1;">
+                            <label>Time Machine Simulation</label>
+                            <div style="display: flex; align-items: center;">
+                                <button class="step-btn" id="prevDay"><i class="fa fa-minus"></i></button>
+                                <input type="range" id="dateRange" min="0" max="100" value="0">
+                                <button class="step-btn" id="nextDay"><i class="fa fa-plus"></i></button>
+                            </div>
+                        </div>
+                        <div class="date-display" id="currentDateDisplay">-----</div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main id="simulator-viewport">
+            <div class="empty-state">
+                <i class="fa fa-line-chart"></i>
+                <h3>Tournament Simulator</h3>
+                <p>Select a competition to start the time-machine simulation.</p>
+            </div>
+        </main>
     </div>
 
-    <div class="d-flex">
-      <div id="team-sidebar" class="bg-white border rounded p-2 me-3" style="min-width:220px; max-height:80vh; overflow-y:auto;">
-        <div class="form-check mb-2">
-          <input class="form-check-input" type="checkbox" id="selectAllTeams" checked>
-          <label class="form-check-label" for="selectAllTeams"><strong>Select All</strong></label>
-        </div>
-        <div id="teamCheckboxList"></div>
-      </div>
-      <div class="flex-grow-1">
-        <div id="graph" class="mb-4"></div>
-        <h1 id="table-title">Champion Probability</h1>
-        <div class="table-responsive">
-          <table class="table table-bordered" id="probability-table">
-            <thead>
-              <tr>
-                <th>Team</th>
-                <!-- Dates dynamiques -->
-              </tr>
-            </thead>
-            <tbody id="table-body">
-              <!-- Données dynamiques -->
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </div>
-
-  </div>
+    <!-- External Scripts -->
+    <script src="js/navbar.js"></script>
+    <script src="js/simulation.js"></script>
 </body>
 </html>
