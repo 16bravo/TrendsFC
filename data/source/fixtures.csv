@@ -1,6 +1,5 @@
 date,home_team,away_team,tournament,country,neutral
 2026-07-01,Belgium,Senegal,World Cup,United States,True
-2026-07-01,DR Congo,England,World Cup,United States,True
 2026-07-01,United States,Bosnia and Herzegovinaovina,World Cup,United States,False
 2026-07-02,Croatia,Portugal,World Cup,Canada,True
 2026-07-02,Algeria,Switzerland,World Cup,Canada,True
@@ -8,8 +7,9 @@ date,home_team,away_team,tournament,country,neutral
 2026-07-03,Argentina,Cape Verde,World Cup,United States,True
 2026-07-03,Australia,Egypt,World Cup,United States,True
 2026-07-03,Colombia,Ghana,World Cup,United States,True
-2026-07-04,France,Paraguay,World Cup,United States,True
 2026-07-04,Canada,Morocco,World Cup,United States,True
+2026-07-04,France,Paraguay,World Cup,United States,True
+2026-07-05,Mexico,England,World Cup,Mexico,False
 2026-07-05,Brazil,Norway,World Cup,United States,True
 2026-07-18,Vietnam,Myanmar,Friendly,Vietnam,False
 2026-07-24,Cambodia,Singapore,SE Asian Champ,Cambodia,False
