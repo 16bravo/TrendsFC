@@ -1,0 +1,708 @@
+{
+  "id": "WC18",
+  "name": "World Cup",
+  "year": 2018,
+  "hosts": [
+    "Russia"
+  ],
+  "rounds": [
+    {
+      "id": "r1783019867743",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 8,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": false
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783019867743_gA_0_1",
+          "group": "A",
+          "home": "Russia",
+          "away": "Saudi Arabia",
+          "date": "2018-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gA_0_2",
+          "group": "A",
+          "home": "Russia",
+          "away": "Egypt",
+          "date": "2018-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gA_0_3",
+          "group": "A",
+          "home": "Russia",
+          "away": "Uruguay",
+          "date": "2018-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gA_1_2",
+          "group": "A",
+          "home": "Saudi Arabia",
+          "away": "Egypt",
+          "date": "2018-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gA_1_3",
+          "group": "A",
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "date": "2018-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gA_2_3",
+          "group": "A",
+          "home": "Egypt",
+          "away": "Uruguay",
+          "date": "2018-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gB_0_1",
+          "group": "B",
+          "home": "Portugal",
+          "away": "Spain",
+          "date": "2018-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gB_0_2",
+          "group": "B",
+          "home": "Portugal",
+          "away": "Morocco",
+          "date": "2018-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gB_0_3",
+          "group": "B",
+          "home": "Portugal",
+          "away": "Iran",
+          "date": "2018-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gB_1_2",
+          "group": "B",
+          "home": "Spain",
+          "away": "Morocco",
+          "date": "2018-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gB_1_3",
+          "group": "B",
+          "home": "Spain",
+          "away": "Iran",
+          "date": "2018-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gB_2_3",
+          "group": "B",
+          "home": "Morocco",
+          "away": "Iran",
+          "date": "2018-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gC_0_1",
+          "group": "C",
+          "home": "France",
+          "away": "Australia",
+          "date": "2018-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gC_0_2",
+          "group": "C",
+          "home": "France",
+          "away": "Peru",
+          "date": "2018-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gC_0_3",
+          "group": "C",
+          "home": "France",
+          "away": "Denmark",
+          "date": "2018-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gC_1_2",
+          "group": "C",
+          "home": "Australia",
+          "away": "Peru",
+          "date": "2018-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gC_1_3",
+          "group": "C",
+          "home": "Australia",
+          "away": "Denmark",
+          "date": "2018-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gC_2_3",
+          "group": "C",
+          "home": "Peru",
+          "away": "Denmark",
+          "date": "2018-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gD_0_1",
+          "group": "D",
+          "home": "Argentina",
+          "away": "Iceland",
+          "date": "2018-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gD_0_2",
+          "group": "D",
+          "home": "Argentina",
+          "away": "Croatia",
+          "date": "2018-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gD_0_3",
+          "group": "D",
+          "home": "Argentina",
+          "away": "Nigeria",
+          "date": "2018-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gD_1_2",
+          "group": "D",
+          "home": "Iceland",
+          "away": "Croatia",
+          "date": "2018-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gD_1_3",
+          "group": "D",
+          "home": "Iceland",
+          "away": "Nigeria",
+          "date": "2018-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gD_2_3",
+          "group": "D",
+          "home": "Croatia",
+          "away": "Nigeria",
+          "date": "2018-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gE_0_1",
+          "group": "E",
+          "home": "Brazil",
+          "away": "Switzerland",
+          "date": "2018-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gE_0_2",
+          "group": "E",
+          "home": "Brazil",
+          "away": "Costa Rica",
+          "date": "2018-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gE_0_3",
+          "group": "E",
+          "home": "Brazil",
+          "away": "Serbia",
+          "date": "2018-06-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gE_1_2",
+          "group": "E",
+          "home": "Switzerland",
+          "away": "Costa Rica",
+          "date": "2018-06-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gE_1_3",
+          "group": "E",
+          "home": "Switzerland",
+          "away": "Serbia",
+          "date": "2018-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gE_2_3",
+          "group": "E",
+          "home": "Costa Rica",
+          "away": "Serbia",
+          "date": "2018-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gF_0_1",
+          "group": "F",
+          "home": "Germany",
+          "away": "Mexico",
+          "date": "2018-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gF_0_2",
+          "group": "F",
+          "home": "Germany",
+          "away": "Sweden",
+          "date": "2018-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gF_0_3",
+          "group": "F",
+          "home": "Germany",
+          "away": "South Korea",
+          "date": "2018-06-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gF_1_2",
+          "group": "F",
+          "home": "Mexico",
+          "away": "Sweden",
+          "date": "2018-06-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gF_1_3",
+          "group": "F",
+          "home": "Mexico",
+          "away": "South Korea",
+          "date": "2018-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gF_2_3",
+          "group": "F",
+          "home": "Sweden",
+          "away": "South Korea",
+          "date": "2018-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gG_0_1",
+          "group": "G",
+          "home": "Belgium",
+          "away": "Panama",
+          "date": "2018-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gG_0_2",
+          "group": "G",
+          "home": "Belgium",
+          "away": "Tunisia",
+          "date": "2018-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gG_0_3",
+          "group": "G",
+          "home": "Belgium",
+          "away": "England",
+          "date": "2018-06-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gG_1_2",
+          "group": "G",
+          "home": "Panama",
+          "away": "Tunisia",
+          "date": "2018-06-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gG_1_3",
+          "group": "G",
+          "home": "Panama",
+          "away": "England",
+          "date": "2018-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gG_2_3",
+          "group": "G",
+          "home": "Tunisia",
+          "away": "England",
+          "date": "2018-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gH_0_1",
+          "group": "H",
+          "home": "Poland",
+          "away": "Senegal",
+          "date": "2018-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gH_0_2",
+          "group": "H",
+          "home": "Poland",
+          "away": "Colombia",
+          "date": "2018-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gH_0_3",
+          "group": "H",
+          "home": "Poland",
+          "away": "Japan",
+          "date": "2018-06-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gH_1_2",
+          "group": "H",
+          "home": "Senegal",
+          "away": "Colombia",
+          "date": "2018-06-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gH_1_3",
+          "group": "H",
+          "home": "Senegal",
+          "away": "Japan",
+          "date": "2018-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783019867743_gH_2_3",
+          "group": "H",
+          "home": "Colombia",
+          "away": "Japan",
+          "date": "2018-06-19",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "Russia",
+          "Saudi Arabia",
+          "Egypt",
+          "Uruguay"
+        ],
+        "B": [
+          "Portugal",
+          "Spain",
+          "Morocco",
+          "Iran"
+        ],
+        "C": [
+          "France",
+          "Australia",
+          "Peru",
+          "Denmark"
+        ],
+        "D": [
+          "Argentina",
+          "Iceland",
+          "Croatia",
+          "Nigeria"
+        ],
+        "E": [
+          "Brazil",
+          "Switzerland",
+          "Costa Rica",
+          "Serbia"
+        ],
+        "F": [
+          "Germany",
+          "Mexico",
+          "Sweden",
+          "South Korea"
+        ],
+        "G": [
+          "Belgium",
+          "Panama",
+          "Tunisia",
+          "England"
+        ],
+        "H": [
+          "Poland",
+          "Senegal",
+          "Colombia",
+          "Japan"
+        ]
+      }
+    },
+    {
+      "id": "r1783020613055",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783020613055_m0",
+          "slot_home": {
+            "round": "r1783019867743",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783019867743",
+            "group": "B",
+            "position": "2nd"
+          },
+          "date": "2018-06-30"
+        },
+        {
+          "id": "r1783020613055_m1",
+          "slot_home": {
+            "round": "r1783019867743",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783019867743",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "2018-06-30"
+        },
+        {
+          "id": "r1783020613055_m2",
+          "slot_home": {
+            "round": "r1783019867743",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783019867743",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "2018-07-02"
+        },
+        {
+          "id": "r1783020613055_m3",
+          "slot_home": {
+            "round": "r1783019867743",
+            "group": "G",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783019867743",
+            "group": "H",
+            "position": "2nd"
+          },
+          "date": "2018-07-02"
+        },
+        {
+          "id": "r1783020613055_m4",
+          "slot_home": {
+            "round": "r1783019867743",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783019867743",
+            "group": "A",
+            "position": "2nd"
+          },
+          "date": "2018-07-01"
+        },
+        {
+          "id": "r1783020613055_m5",
+          "slot_home": {
+            "round": "r1783019867743",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783019867743",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "2018-07-01"
+        },
+        {
+          "id": "r1783020613055_m6",
+          "slot_home": {
+            "round": "r1783019867743",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783019867743",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "2018-07-03"
+        },
+        {
+          "id": "r1783020613055_m7",
+          "slot_home": {
+            "round": "r1783019867743",
+            "group": "H",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783019867743",
+            "group": "G",
+            "position": "2nd"
+          },
+          "date": "2018-07-03"
+        },
+        {
+          "id": "r1783020613055_m8",
+          "slot_home": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m1",
+            "outcome": "winner"
+          },
+          "date": "2018-07-06"
+        },
+        {
+          "id": "r1783020613055_m9",
+          "slot_home": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m3",
+            "outcome": "winner"
+          },
+          "date": "2018-07-06"
+        },
+        {
+          "id": "r1783020613055_m10",
+          "slot_home": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m5",
+            "outcome": "winner"
+          },
+          "date": "2018-07-07"
+        },
+        {
+          "id": "r1783020613055_m11",
+          "slot_home": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m7",
+            "outcome": "winner"
+          },
+          "date": "2018-07-07"
+        },
+        {
+          "id": "r1783020613055_m12",
+          "slot_home": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m9",
+            "outcome": "winner"
+          },
+          "date": "2018-07-10"
+        },
+        {
+          "id": "r1783020613055_m13",
+          "slot_home": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m11",
+            "outcome": "winner"
+          },
+          "date": "2018-07-11"
+        },
+        {
+          "id": "r1783020613055_m14",
+          "slot_home": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m13",
+            "outcome": "winner"
+          },
+          "date": "2018-07-15"
+        },
+        {
+          "id": "r1783020613055_m3rd",
+          "slot_home": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783020613055",
+            "match": "r1783020613055_m13",
+            "outcome": "loser"
+          },
+          "date": "2018-07-14"
+        }
+      ]
+    }
+  ]
+}

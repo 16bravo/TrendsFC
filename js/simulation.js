@@ -4,6 +4,8 @@
  */
 
 let realResults = {};
+let knockoutOverrides = {};
+let groupOverrides = {};
 let currentCompetition = null;
 let teamRankings = {}; // Cache for team historical data
 let teamTricodes = {}; // Cache for mapping Name -> Tricode (flags)
@@ -58,6 +60,7 @@ function getTeamRatingsAtDate(team, date) {
             const nextEntry = (i > 0) ? historical[i - 1] : entry;
             
             return {
+                rank: nextEntry.rank || 999,
                 off: nextEntry.ranking_off || 999,
                 def: nextEntry.ranking_def || 999
             };
@@ -66,7 +69,7 @@ function getTeamRatingsAtDate(team, date) {
 
     // Default to the oldest available if the date is very far in the past
     const oldest = historical[historical.length - 1];
-    return { off: oldest.ranking_off || 999, def: oldest.ranking_def || 999 };
+    return { rank: oldest.rank || 999, off: oldest.ranking_off || 999, def: oldest.ranking_def || 999 };
 }
 
 /**
@@ -124,10 +127,15 @@ function getMatchResult(match, atDate) {
             
             if (real) {
                 const teams = [match.home, match.away].sort();
+                const isHomeFirst = (match.home === teams[0]);
                 return {
-                    s1: (match.home === teams[0]) ? real.s1 : real.s2,
-                    s2: (match.home === teams[0]) ? real.s2 : real.s1,
-                    winner: real.winner, // Include the winner from overrides if it exists
+                    s1: isHomeFirst ? real.s1 : real.s2,
+                    s2: isHomeFirst ? real.s2 : real.s1,
+                    // On récupère les tirs au but réels s'ils existent dans le JSON (ex: p1, p2)
+                    p1: isHomeFirst ? (real.p1 ?? null) : (real.p2 ?? null),
+                    p2: isHomeFirst ? (real.p2 ?? null) : (real.p1 ?? null),
+                    winner: real.winner || null,
+                    matchDate: match.date,
                     isPrediction: false
                 };
             }
@@ -155,24 +163,45 @@ async function init() {
             console.warn("Real results file not found. Simulation will rely on predictions only.");
         }
 
+        // 1b. Load knockout overrides (shootout/penalty winners)
+        const ovResp = await fetch('data/json/knockout_overrides.json');
+        if (ovResp.ok) {
+            knockoutOverrides = await ovResp.json();
+            console.log("Knockout overrides loaded.");
+        }
+
+        // 1c. Load group overrides (fair-play tie-break, etc.)
+        const grpResp = await fetch('data/json/group_overrides.json');
+        if (grpResp.ok) {
+            groupOverrides = await grpResp.json();
+            console.log("Group overrides loaded.");
+        }
+
         // 2. Populate Competition Selector
         const compSelect = document.getElementById('compSelect');
-        const competitions = [
-            { id: 'WC26.json', name: 'World Cup 2026' }
-        ];
-
-        competitions.forEach(comp => {
-            const opt = document.createElement('option');
-            opt.value = comp.id;
-            opt.textContent = comp.name;
-            compSelect.appendChild(opt);
-        });
-
-        compSelect.addEventListener('change', (e) => {
-            if (e.target.value) {
-                loadCompetition(e.target.value);
+        const compResp = await fetch('data/json/competitions/competitions.json');
+        if (compResp.ok) {
+            const competitions = await compResp.json();
+            competitions.forEach(comp => {
+                const opt = document.createElement('option');
+                opt.value = comp.id;
+                opt.textContent = comp.name;
+                compSelect.appendChild(opt);
+            });
+            
+            // Auto-load the first one if needed
+            if (competitions.length > 0) {
+                compSelect.value = competitions[0].id;
+                loadCompetition(competitions[0].id, competitions[0].name);
             }
-        });
+
+            compSelect.addEventListener('change', (e) => {
+                if (e.target.value) {
+                    const selected = competitions.find(c => c.id === e.target.value);
+                    loadCompetition(e.target.value, selected ? selected.name : null);
+                }
+            });
+        }
 
     } catch (error) {
         console.error("Initialization error:", error);
@@ -181,9 +210,10 @@ async function init() {
 
 /**
  * Load competition structure and necessary team data
- * @param {string} filename 
+ * @param {string} filename
+ * @param {string} [displayName] - Name from competitions.json manifest (e.g. "World Cup 2022")
  */
-async function loadCompetition(filename) {
+async function loadCompetition(filename, displayName) {
     console.log(`Loading competition: ${filename}`);
     
     try {
@@ -191,6 +221,8 @@ async function loadCompetition(filename) {
         if (!response.ok) throw new Error("Failed to load competition JSON");
         
         currentCompetition = await response.json();
+        // Use the manifest name (with year) if provided, fallback to internal name
+        if (displayName) currentCompetition.name = displayName;
         involvedTeams.clear();
 
         // Identify all teams participating in the tournament
@@ -434,6 +466,24 @@ function calculateGroupStage(round, atDate) {
             return b.gf - a.gf;
         });
 
+        // Apply group override only when all matches in the group are played
+        const allGroupMatchesPlayed = group.matches.every(m => m.date <= atDate);
+        if (allGroupMatchesPlayed) {
+            const compName = currentCompetition.name;
+            const compBase = compName.replace(/ \d{4}$/, '');
+            const overrideOrder = groupOverrides[compName]?.[gKey] ?? groupOverrides[compBase]?.[gKey];
+            if (overrideOrder) {
+                const overrideSorted = overrideOrder
+                    .map(teamName => group.standings[teamName])
+                    .filter(Boolean);
+                // Only apply if all teams in the override match the group
+                if (overrideSorted.length === group.sorted.length) {
+                    group.sorted = overrideSorted;
+                    console.log(`[Group Override] Applied for group ${gKey}: ${overrideOrder.join(', ')}`);
+                }
+            }
+        }
+
         // Sort matches chronologically
         group.matches.sort((a, b) => new Date(a.date) - new Date(b.date));
     });
@@ -648,6 +698,47 @@ async function renderKnockoutPhase(rounds, groupResults, atDate) {
         return [home, away];
     };
 
+    const determineWinner = (home, away, res) => {
+        // ÉTAPE 1 : Si le score n'est pas nul, le gagnant est direct (réel ou prédit)
+        if (res.s1 > res.s2) return home;
+        if (res.s2 > res.s1) return away;
+
+        // ÉTAPE 2 : Le score est nul (s1 == s2)
+        // Cas A : C'est un résultat RÉEL -> chercher dans knockout_overrides.json
+        if (!res.isPrediction) {
+            console.log(`[REAL MATCH] ${home} vs ${away} (${res.s1}-${res.s2})`);
+            const overrideKey = [home, away].sort().join('|');
+            const compBase = currentCompetition.name.replace(/ \d{4}$/, '');
+            const override =
+                knockoutOverrides[currentCompetition.name]?.[res.matchDate]?.[overrideKey] ??
+                knockoutOverrides[compBase]?.[res.matchDate]?.[overrideKey];
+            if (override?.winner) {
+                console.log(`  -> Winner by Knockout Override: ${override.winner}`);
+                return override.winner;
+            }
+            console.warn(`  -> Real draw, no override found for "${overrideKey}" on ${res.matchDate}. Using tie-breaker.`);
+        }
+
+        // Cas B : C'est une SIMULATION (ou tàb réels manquants) -> Tie-breaker algorithmique
+        const r1 = getTeamRatingsAtDate(home, atDate);
+        const r2 = getTeamRatingsAtDate(away, atDate);
+
+        console.log(`[TIE-BREAKER] ${home} vs ${away} (Score: ${res.s1}-${res.s2})`);
+        console.log(`  1. Rank: ${home}=${r1.rank} vs ${away}=${r2.rank}`);
+        if (r1.rank < r2.rank) return home;
+        if (r2.rank < r1.rank) return away;
+        
+        console.log(`  2. Offense: ${home}=${r1.off} vs ${away}=${r2.off}`);
+        if (r1.off < r2.off) return home;
+        if (r2.off < r1.off) return away;
+        
+        console.log(`  3. Defense: ${home}=${r1.def} vs ${away}=${r2.def}`);
+        if (r1.def < r2.def) return home;
+        if (r2.def < r1.def) return away;
+        
+        return home === "TBD" ? away : home;
+    };
+
     for (const id of processOrder) {
         const m = matchById[id];
         let home = resolveSlot(m.slot_home);
@@ -656,42 +747,7 @@ async function renderKnockoutPhase(rounds, groupResults, atDate) {
         
         const res = getMatchResult({ ...m, home, away }, atDate);
         
-        let winner;
-        if (res.winner && res.winner !== "TBD") {
-            // PRIORITY 1: Manual override from real_results.json
-            winner = res.winner;
-            console.log(`[Manual Winner] ${home} vs ${away}. Forced Winner: ${winner}`);
-        } else if (res.s1 > res.s2) {
-            winner = home;
-        } else if (res.s1 < res.s2) {
-            winner = away;
-        } else {
-            // PRIORITY 2: TIE BREAKER: Based on ratings if s1 == s2
-            const r1 = getTeamRatingsAtDate(home, atDate);
-            const r2 = getTeamRatingsAtDate(away, atDate);
-            
-            // Overall Rating (Lower is better)
-            const overall1 = (r1.off + r1.def) / 2;
-            const overall2 = (r2.off + r2.def) / 2;
-            
-            if (overall1 < overall2) {
-                winner = home;
-            } else if (overall2 < overall1) {
-                winner = away;
-            } else if (r1.off < r2.off) {
-                // Tier 2: Better Offense
-                winner = home;
-            } else if (r2.off < r1.off) {
-                winner = away;
-            } else if (r1.def < r2.def) {
-                // Tier 3: Better Defense
-                winner = home;
-            } else {
-                // Absolute fallback
-                winner = home === "TBD" ? away : home;
-            }
-            console.log(`[Tie-Breaker] ${home} vs ${away} (s1=${res.s1}). Winner: ${winner}`);
-        }
+        const winner = determineWinner(home, away, res);
 
         matchManifest[m.id] = { winner, loser: winner === home ? away : home, result: res, home, away };
     }
@@ -702,23 +758,8 @@ async function renderKnockoutPhase(rounds, groupResults, atDate) {
         let away = resolveSlot(m.slot_away);
         const res = getMatchResult({ ...m, home, away }, atDate);
         
-        let winner;
-        if (res.s1 > res.s2) {
-            winner = home;
-        } else if (res.s1 < res.s2) {
-            winner = away;
-        } else {
-            const r1 = getTeamRatingsAtDate(home, atDate);
-            const r2 = getTeamRatingsAtDate(away, atDate);
-            const overall1 = (r1.off + r1.def) / 2;
-            const overall2 = (r2.off + r2.def) / 2;
-            
-            if (overall1 < overall2) winner = home;
-            else if (overall2 < overall1) winner = away;
-            else if (r1.off < r2.off) winner = home;
-            else if (r2.off < r1.off) winner = away;
-            else winner = home;
-        }
+        const winner = determineWinner(home, away, res);
+
         matchManifest[m.id] = { winner, loser: winner === home ? away : home, result: res, home, away };
     }
 

@@ -1,0 +1,708 @@
+{
+  "id": "WC22",
+  "name": "World Cup",
+  "year": 2022,
+  "hosts": [
+    "Qatar"
+  ],
+  "rounds": [
+    {
+      "id": "r1783014035760",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 8,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": false
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783014035760_gA_0_1",
+          "group": "A",
+          "home": "Qatar",
+          "away": "Ecuador",
+          "date": "2022-11-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gA_0_2",
+          "group": "A",
+          "home": "Qatar",
+          "away": "Senegal",
+          "date": "2022-11-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gA_0_3",
+          "group": "A",
+          "home": "Qatar",
+          "away": "Netherlands",
+          "date": "2022-11-29",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gA_1_2",
+          "group": "A",
+          "home": "Ecuador",
+          "away": "Senegal",
+          "date": "2022-11-29",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gA_1_3",
+          "group": "A",
+          "home": "Ecuador",
+          "away": "Netherlands",
+          "date": "2022-11-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gA_2_3",
+          "group": "A",
+          "home": "Senegal",
+          "away": "Netherlands",
+          "date": "2022-11-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gB_0_1",
+          "group": "B",
+          "home": "England",
+          "away": "Iran",
+          "date": "2022-11-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gB_0_2",
+          "group": "B",
+          "home": "England",
+          "away": "United States",
+          "date": "2022-11-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gB_0_3",
+          "group": "B",
+          "home": "England",
+          "away": "Wales",
+          "date": "2022-11-29",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gB_1_2",
+          "group": "B",
+          "home": "Iran",
+          "away": "United States",
+          "date": "2022-11-29",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gB_1_3",
+          "group": "B",
+          "home": "Iran",
+          "away": "Wales",
+          "date": "2022-11-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gB_2_3",
+          "group": "B",
+          "home": "United States",
+          "away": "Wales",
+          "date": "2022-11-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gC_0_1",
+          "group": "C",
+          "home": "Argentina",
+          "away": "Saudi Arabia",
+          "date": "2022-11-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gC_0_2",
+          "group": "C",
+          "home": "Argentina",
+          "away": "Mexico",
+          "date": "2022-11-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gC_0_3",
+          "group": "C",
+          "home": "Argentina",
+          "away": "Poland",
+          "date": "2022-11-30",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gC_1_2",
+          "group": "C",
+          "home": "Saudi Arabia",
+          "away": "Mexico",
+          "date": "2022-11-30",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gC_1_3",
+          "group": "C",
+          "home": "Saudi Arabia",
+          "away": "Poland",
+          "date": "2022-11-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gC_2_3",
+          "group": "C",
+          "home": "Mexico",
+          "away": "Poland",
+          "date": "2022-11-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gD_0_1",
+          "group": "D",
+          "home": "France",
+          "away": "Australia",
+          "date": "2022-11-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gD_0_2",
+          "group": "D",
+          "home": "France",
+          "away": "Denmark",
+          "date": "2022-11-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gD_0_3",
+          "group": "D",
+          "home": "France",
+          "away": "Tunisia",
+          "date": "2022-11-30",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gD_1_2",
+          "group": "D",
+          "home": "Australia",
+          "away": "Denmark",
+          "date": "2022-11-30",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gD_1_3",
+          "group": "D",
+          "home": "Australia",
+          "away": "Tunisia",
+          "date": "2022-11-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gD_2_3",
+          "group": "D",
+          "home": "Denmark",
+          "away": "Tunisia",
+          "date": "2022-11-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gE_0_1",
+          "group": "E",
+          "home": "Spain",
+          "away": "Costa Rica",
+          "date": "2022-11-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gE_0_2",
+          "group": "E",
+          "home": "Spain",
+          "away": "Germany",
+          "date": "2022-11-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gE_0_3",
+          "group": "E",
+          "home": "Spain",
+          "away": "Japan",
+          "date": "2022-12-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gE_1_2",
+          "group": "E",
+          "home": "Costa Rica",
+          "away": "Germany",
+          "date": "2022-12-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gE_1_3",
+          "group": "E",
+          "home": "Costa Rica",
+          "away": "Japan",
+          "date": "2022-11-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gE_2_3",
+          "group": "E",
+          "home": "Germany",
+          "away": "Japan",
+          "date": "2022-11-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gF_0_1",
+          "group": "F",
+          "home": "Belgium",
+          "away": "Canada",
+          "date": "2022-11-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gF_0_2",
+          "group": "F",
+          "home": "Belgium",
+          "away": "Morocco",
+          "date": "2022-11-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gF_0_3",
+          "group": "F",
+          "home": "Belgium",
+          "away": "Croatia",
+          "date": "2022-12-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gF_1_2",
+          "group": "F",
+          "home": "Canada",
+          "away": "Morocco",
+          "date": "2022-12-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gF_1_3",
+          "group": "F",
+          "home": "Canada",
+          "away": "Croatia",
+          "date": "2022-11-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gF_2_3",
+          "group": "F",
+          "home": "Morocco",
+          "away": "Croatia",
+          "date": "2022-11-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gG_0_1",
+          "group": "G",
+          "home": "Brazil",
+          "away": "Serbia",
+          "date": "2022-11-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gG_0_2",
+          "group": "G",
+          "home": "Brazil",
+          "away": "Switzerland",
+          "date": "2022-11-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gG_0_3",
+          "group": "G",
+          "home": "Brazil",
+          "away": "Cameroon",
+          "date": "2022-12-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gG_1_2",
+          "group": "G",
+          "home": "Serbia",
+          "away": "Switzerland",
+          "date": "2022-12-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gG_1_3",
+          "group": "G",
+          "home": "Serbia",
+          "away": "Cameroon",
+          "date": "2022-11-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gG_2_3",
+          "group": "G",
+          "home": "Switzerland",
+          "away": "Cameroon",
+          "date": "2022-11-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gH_0_1",
+          "group": "H",
+          "home": "Portugal",
+          "away": "Ghana",
+          "date": "2022-11-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gH_0_2",
+          "group": "H",
+          "home": "Portugal",
+          "away": "Uruguay",
+          "date": "2022-11-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gH_0_3",
+          "group": "H",
+          "home": "Portugal",
+          "away": "South Korea",
+          "date": "2022-12-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gH_1_2",
+          "group": "H",
+          "home": "Ghana",
+          "away": "Uruguay",
+          "date": "2022-12-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gH_1_3",
+          "group": "H",
+          "home": "Ghana",
+          "away": "South Korea",
+          "date": "2022-11-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783014035760_gH_2_3",
+          "group": "H",
+          "home": "Uruguay",
+          "away": "South Korea",
+          "date": "2022-11-24",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "Qatar",
+          "Ecuador",
+          "Senegal",
+          "Netherlands"
+        ],
+        "B": [
+          "England",
+          "Iran",
+          "United States",
+          "Wales"
+        ],
+        "C": [
+          "Argentina",
+          "Saudi Arabia",
+          "Mexico",
+          "Poland"
+        ],
+        "D": [
+          "France",
+          "Australia",
+          "Denmark",
+          "Tunisia"
+        ],
+        "E": [
+          "Spain",
+          "Costa Rica",
+          "Germany",
+          "Japan"
+        ],
+        "F": [
+          "Belgium",
+          "Canada",
+          "Morocco",
+          "Croatia"
+        ],
+        "G": [
+          "Brazil",
+          "Serbia",
+          "Switzerland",
+          "Cameroon"
+        ],
+        "H": [
+          "Portugal",
+          "Ghana",
+          "Uruguay",
+          "South Korea"
+        ]
+      }
+    },
+    {
+      "id": "r1783014966884",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783014966884_m0",
+          "slot_home": {
+            "round": "r1783014035760",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783014035760",
+            "group": "B",
+            "position": "2nd"
+          },
+          "date": "2022-12-03"
+        },
+        {
+          "id": "r1783014966884_m1",
+          "slot_home": {
+            "round": "r1783014035760",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783014035760",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "2022-12-03"
+        },
+        {
+          "id": "r1783014966884_m2",
+          "slot_home": {
+            "round": "r1783014035760",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783014035760",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "2022-12-05"
+        },
+        {
+          "id": "r1783014966884_m3",
+          "slot_home": {
+            "round": "r1783014035760",
+            "group": "G",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783014035760",
+            "group": "H",
+            "position": "2nd"
+          },
+          "date": "2022-12-05"
+        },
+        {
+          "id": "r1783014966884_m4",
+          "slot_home": {
+            "round": "r1783014035760",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783014035760",
+            "group": "A",
+            "position": "2nd"
+          },
+          "date": "2022-12-04"
+        },
+        {
+          "id": "r1783014966884_m5",
+          "slot_home": {
+            "round": "r1783014035760",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783014035760",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "2022-12-04"
+        },
+        {
+          "id": "r1783014966884_m6",
+          "slot_home": {
+            "round": "r1783014035760",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783014035760",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "2022-12-06"
+        },
+        {
+          "id": "r1783014966884_m7",
+          "slot_home": {
+            "round": "r1783014035760",
+            "group": "H",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783014035760",
+            "group": "G",
+            "position": "2nd"
+          },
+          "date": "2022-12-06"
+        },
+        {
+          "id": "r1783014966884_m8",
+          "slot_home": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m1",
+            "outcome": "winner"
+          },
+          "date": "2022-12-09"
+        },
+        {
+          "id": "r1783014966884_m9",
+          "slot_home": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m3",
+            "outcome": "winner"
+          },
+          "date": "2022-12-09"
+        },
+        {
+          "id": "r1783014966884_m10",
+          "slot_home": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m5",
+            "outcome": "winner"
+          },
+          "date": "2022-12-10"
+        },
+        {
+          "id": "r1783014966884_m11",
+          "slot_home": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m7",
+            "outcome": "winner"
+          },
+          "date": "2022-12-10"
+        },
+        {
+          "id": "r1783014966884_m12",
+          "slot_home": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m9",
+            "outcome": "winner"
+          },
+          "date": "2022-12-13"
+        },
+        {
+          "id": "r1783014966884_m13",
+          "slot_home": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m11",
+            "outcome": "winner"
+          },
+          "date": "2022-12-14"
+        },
+        {
+          "id": "r1783014966884_m14",
+          "slot_home": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m13",
+            "outcome": "winner"
+          },
+          "date": "2022-12-18"
+        },
+        {
+          "id": "r1783014966884_m3rd",
+          "slot_home": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783014966884",
+            "match": "r1783014966884_m13",
+            "outcome": "loser"
+          },
+          "date": "2022-12-17"
+        }
+      ]
+    }
+  ]
+}
