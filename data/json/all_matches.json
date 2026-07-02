@@ -7341,6 +7341,26 @@
       "type": "fixture"
     },
     {
+      "date": "2026-07-06",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "United States",
+      "team2": "Belgium",
+      "original_team1": "United States",
+      "original_team2": "Belgium",
+      "flag1": "usa.png",
+      "flag2": "belgium.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5285,
+      "rating2": 5496,
+      "rating_ev": 0,
+      "rank1": 27,
+      "rank2": 11,
+      "win_prob": 38.1,
+      "type": "fixture"
+    },
+    {
       "date": "2026-07-05",
       "country": "Mexico",
       "tournament": "World Cup",
@@ -7578,6 +7598,26 @@
       "rank1": 7,
       "rank2": 47,
       "win_prob": 84.1,
+      "type": "past"
+    },
+    {
+      "date": "2026-07-01",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "United States",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "United States",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "usa.png",
+      "flag2": "bosnia.png",
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5285,
+      "rating2": 5082,
+      "rating_ev": 11,
+      "rank1": 27,
+      "rank2": 61,
+      "win_prob": 77.4,
       "type": "past"
     },
     {
