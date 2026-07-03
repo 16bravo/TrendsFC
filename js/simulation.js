@@ -9,6 +9,7 @@ let groupOverrides = {};
 let currentCompetition = null;
 let teamRankings = {}; // Cache for team historical data
 let teamTricodes = {}; // Cache for mapping Name -> Tricode (flags)
+let teamNameMapping = {}; // Cache for mapping historical names -> reference_team (for data loading)
 let involvedTeams = new Set();
 let allDates = []; // Array of YYYY-MM-DD strings for the slider
 
@@ -17,7 +18,7 @@ let allDates = []; // Array of YYYY-MM-DD strings for the slider
  */
 
 /**
- * Load team tricode mapping from teams.csv
+ * Load team tricode mapping and historical name mapping from teams.csv
  */
 async function loadTeamTricodes() {
     try {
@@ -28,17 +29,36 @@ async function loadTeamTricodes() {
         const headers = lines[0].split(',');
         const triIdx = headers.indexOf('tricode');
         const nameIdx = headers.indexOf('team');
+        const refIdx = headers.indexOf('reference_team');
         
         lines.slice(1).forEach(line => {
             const values = line.split(',');
             if (values[nameIdx] && values[triIdx]) {
                 teamTricodes[values[nameIdx].trim()] = values[triIdx].trim();
             }
+            // Create mapping: historical_name -> reference_team (for data loading)
+            if (values[nameIdx] && values[refIdx]) {
+                const historicalName = values[nameIdx].trim();
+                const referenceName = values[refIdx].trim();
+                // Only add if they differ (to map historical names to current names)
+                if (historicalName !== referenceName) {
+                    teamNameMapping[historicalName] = referenceName;
+                }
+            }
         });
-        console.log("Team tricodes loaded.");
+        console.log("Team tricodes and name mappings loaded.");
     } catch (e) {
         console.warn("Could not load tricode mapping:", e);
     }
+}
+
+/**
+ * Normalize team name: map historical names to their current reference name for data loading
+ * @param {string} teamName - The team name (possibly historical)
+ * @returns {string} The normalized reference team name
+ */
+function getNormalizedTeamName(teamName) {
+    return teamNameMapping[teamName] || teamName;
 }
 
 /**
@@ -47,7 +67,9 @@ async function loadTeamTricodes() {
  * @param {string} date 
  */
 function getTeamRatingsAtDate(team, date) {
-    const historical = teamRankings[team];
+    // Normalize the team name (historical -> reference)
+    const normalizedTeam = getNormalizedTeamName(team);
+    const historical = teamRankings[normalizedTeam];
     if (!historical || historical.length === 0) return { off: 999, def: 999 };
 
     // Find the latest entry that is matching or before the target date
@@ -122,8 +144,17 @@ function getMatchResult(match, atDate) {
     for (const compName of tournamentNamesToTry) {
         const dateResults = realResults[compName] ? realResults[compName][match.date] : null;
         if (dateResults && matchHasTechnicallyHappened) {
-            const key = [match.home, match.away].sort().join('|');
-            const real = dateResults[key];
+            // Try with original team names first
+            let key = [match.home, match.away].sort().join('|');
+            let real = dateResults[key];
+            
+            // If not found, try with normalized team names
+            if (!real) {
+                const normalizedHome = getNormalizedTeamName(match.home);
+                const normalizedAway = getNormalizedTeamName(match.away);
+                key = [normalizedHome, normalizedAway].sort().join('|');
+                real = dateResults[key];
+            }
             
             if (real) {
                 const teams = [match.home, match.away].sort();
@@ -240,14 +271,20 @@ async function loadCompetition(filename, displayName) {
         console.log(`Involved teams: ${involvedTeams.size}`);
 
         // 3. Load historical ratings for all involved teams (parallel fetch)
-        const teamLoadPromises = Array.from(involvedTeams).map(team => 
-            fetch(`data/json/matches/${team.replace(/&/g, '%26')}.json`)
+        const teamLoadPromises = Array.from(involvedTeams).map(team => {
+            // Normalize team name for file lookup
+            const normalizedTeam = getNormalizedTeamName(team);
+            return fetch(`data/json/matches/${normalizedTeam.replace(/&/g, '%26')}.json`)
                 .then(r => r.ok ? r.json() : null)
                 .then(data => {
-                    if (data) teamRankings[team] = data.matches;
+                    if (data) {
+                        // Store under normalized name to ensure consistency
+                        teamRankings[normalizedTeam] = data.matches;
+                        console.log(`Loaded data for ${team}${team !== normalizedTeam ? ` (normalized: ${normalizedTeam})` : ''}`);
+                    }
                 })
                 .catch(err => console.error(`Error loading data for ${team}:`, err))
-        );
+        });
 
         await Promise.all(teamLoadPromises);
         console.log("All team ratings loaded.");
@@ -687,7 +724,10 @@ async function renderKnockoutPhase(rounds, groupResults, atDate) {
         .filter(id => positions[id])
         .sort((a, b) => (positions[b]?.depth ?? 0) - (positions[a]?.depth ?? 0));
 
-    const getFlagUrl = (name) => { const tri = teamTricodes[name]; return tri ? `img/flags/icons/${tri}.png` : null; };
+    const getFlagUrl = (name) => { 
+        const tri = teamTricodes[name] || teamTricodes[getNormalizedTeamName(name)]; 
+        return tri ? `img/flags/icons/${tri}.png` : null; 
+    };
     const flagHtml = (name) => { const u = getFlagUrl(name); return u ? `<img src="${u}" class="bk-flag" onerror="this.style.display='none'">` : '<span class="bk-flag-placeholder"></span>'; };
 
     const resolveThirds = (home, away, m) => {
@@ -707,11 +747,22 @@ async function renderKnockoutPhase(rounds, groupResults, atDate) {
         // Cas A : C'est un résultat RÉEL -> chercher dans knockout_overrides.json
         if (!res.isPrediction) {
             console.log(`[REAL MATCH] ${home} vs ${away} (${res.s1}-${res.s2})`);
-            const overrideKey = [home, away].sort().join('|');
+            let overrideKey = [home, away].sort().join('|');
             const compBase = currentCompetition.name.replace(/ \d{4}$/, '');
-            const override =
+            let override =
                 knockoutOverrides[currentCompetition.name]?.[res.matchDate]?.[overrideKey] ??
                 knockoutOverrides[compBase]?.[res.matchDate]?.[overrideKey];
+            
+            // If not found with original names, try with normalized names
+            if (!override) {
+                const normalizedHome = getNormalizedTeamName(home);
+                const normalizedAway = getNormalizedTeamName(away);
+                overrideKey = [normalizedHome, normalizedAway].sort().join('|');
+                override =
+                    knockoutOverrides[currentCompetition.name]?.[res.matchDate]?.[overrideKey] ??
+                    knockoutOverrides[compBase]?.[res.matchDate]?.[overrideKey];
+            }
+            
             if (override?.winner) {
                 console.log(`  -> Winner by Knockout Override: ${override.winner}`);
                 return override.winner;

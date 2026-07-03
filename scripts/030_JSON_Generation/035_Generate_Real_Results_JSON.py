@@ -32,9 +32,9 @@ def generate_real_results():
     # Exclude Friendly matches
     df = df[df['tournament'] != 'Friendly']
     
-    # Apply mapping
-    df['home_team'] = df['home_team'].replace(mapping)
-    df['away_team'] = df['away_team'].replace(mapping)
+    # DON'T apply mapping to team names in results - preserve historical names from CSV
+    # The mapping will be handled client-side in simulation.js for data loading
+    # This ensures "Serbia and Montenegro" and "Yugoslavia" are preserved as-is in real_results.json
     
     # Sort for consistency
     df = df.sort_values(['tournament', 'date'])

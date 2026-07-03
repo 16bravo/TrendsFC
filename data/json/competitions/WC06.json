@@ -1,0 +1,708 @@
+{
+  "id": "WC06",
+  "name": "World Cup",
+  "year": 2006,
+  "hosts": [
+    "Germany"
+  ],
+  "rounds": [
+    {
+      "id": "r1783068008061",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 8,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": false
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783068008061_gA_0_1",
+          "group": "A",
+          "home": "Germany",
+          "away": "Costa Rica",
+          "date": "2006-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gA_0_2",
+          "group": "A",
+          "home": "Germany",
+          "away": "Poland",
+          "date": "2006-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gA_0_3",
+          "group": "A",
+          "home": "Germany",
+          "away": "Ecuador",
+          "date": "2006-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gA_1_2",
+          "group": "A",
+          "home": "Costa Rica",
+          "away": "Poland",
+          "date": "2006-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gA_1_3",
+          "group": "A",
+          "home": "Costa Rica",
+          "away": "Ecuador",
+          "date": "2006-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gA_2_3",
+          "group": "A",
+          "home": "Poland",
+          "away": "Ecuador",
+          "date": "2006-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gB_0_1",
+          "group": "B",
+          "home": "England",
+          "away": "Paraguay",
+          "date": "2006-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gB_0_2",
+          "group": "B",
+          "home": "England",
+          "away": "Trinidad and Tobago",
+          "date": "2006-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gB_0_3",
+          "group": "B",
+          "home": "England",
+          "away": "Sweden",
+          "date": "2006-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gB_1_2",
+          "group": "B",
+          "home": "Paraguay",
+          "away": "Trinidad and Tobago",
+          "date": "2006-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gB_1_3",
+          "group": "B",
+          "home": "Paraguay",
+          "away": "Sweden",
+          "date": "2006-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gB_2_3",
+          "group": "B",
+          "home": "Trinidad and Tobago",
+          "away": "Sweden",
+          "date": "2006-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gC_0_1",
+          "group": "C",
+          "home": "Argentina",
+          "away": "Ivory Coast",
+          "date": "2006-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gC_0_2",
+          "group": "C",
+          "home": "Argentina",
+          "away": "Serbia and Montenegro",
+          "date": "2006-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gC_0_3",
+          "group": "C",
+          "home": "Argentina",
+          "away": "Netherlands",
+          "date": "2006-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gC_1_2",
+          "group": "C",
+          "home": "Ivory Coast",
+          "away": "Serbia and Montenegro",
+          "date": "2006-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gC_1_3",
+          "group": "C",
+          "home": "Ivory Coast",
+          "away": "Netherlands",
+          "date": "2006-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gC_2_3",
+          "group": "C",
+          "home": "Serbia and Montenegro",
+          "away": "Netherlands",
+          "date": "2006-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gD_0_1",
+          "group": "D",
+          "home": "Mexico",
+          "away": "Iran",
+          "date": "2006-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gD_0_2",
+          "group": "D",
+          "home": "Mexico",
+          "away": "Angola",
+          "date": "2006-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gD_0_3",
+          "group": "D",
+          "home": "Mexico",
+          "away": "Portugal",
+          "date": "2006-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gD_1_2",
+          "group": "D",
+          "home": "Iran",
+          "away": "Angola",
+          "date": "2006-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gD_1_3",
+          "group": "D",
+          "home": "Iran",
+          "away": "Portugal",
+          "date": "2006-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gD_2_3",
+          "group": "D",
+          "home": "Angola",
+          "away": "Portugal",
+          "date": "2006-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gE_0_1",
+          "group": "E",
+          "home": "United States",
+          "away": "Czechia",
+          "date": "2006-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gE_0_2",
+          "group": "E",
+          "home": "United States",
+          "away": "Italy",
+          "date": "2006-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gE_0_3",
+          "group": "E",
+          "home": "United States",
+          "away": "Ghana",
+          "date": "2006-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gE_1_2",
+          "group": "E",
+          "home": "Czechia",
+          "away": "Italy",
+          "date": "2006-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gE_1_3",
+          "group": "E",
+          "home": "Czechia",
+          "away": "Ghana",
+          "date": "2006-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gE_2_3",
+          "group": "E",
+          "home": "Italy",
+          "away": "Ghana",
+          "date": "2006-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gF_0_1",
+          "group": "F",
+          "home": "Australia",
+          "away": "Japan",
+          "date": "2006-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gF_0_2",
+          "group": "F",
+          "home": "Australia",
+          "away": "Brazil",
+          "date": "2006-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gF_0_3",
+          "group": "F",
+          "home": "Australia",
+          "away": "Croatia",
+          "date": "2006-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gF_1_2",
+          "group": "F",
+          "home": "Japan",
+          "away": "Brazil",
+          "date": "2006-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gF_1_3",
+          "group": "F",
+          "home": "Japan",
+          "away": "Croatia",
+          "date": "2006-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gF_2_3",
+          "group": "F",
+          "home": "Brazil",
+          "away": "Croatia",
+          "date": "2006-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gG_0_1",
+          "group": "G",
+          "home": "France",
+          "away": "Switzerland",
+          "date": "2006-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gG_0_2",
+          "group": "G",
+          "home": "France",
+          "away": "South Korea",
+          "date": "2006-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gG_0_3",
+          "group": "G",
+          "home": "France",
+          "away": "Togo",
+          "date": "2006-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gG_1_2",
+          "group": "G",
+          "home": "Switzerland",
+          "away": "South Korea",
+          "date": "2006-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gG_1_3",
+          "group": "G",
+          "home": "Switzerland",
+          "away": "Togo",
+          "date": "2006-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gG_2_3",
+          "group": "G",
+          "home": "South Korea",
+          "away": "Togo",
+          "date": "2006-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gH_0_1",
+          "group": "H",
+          "home": "Spain",
+          "away": "Ukraine",
+          "date": "2006-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gH_0_2",
+          "group": "H",
+          "home": "Spain",
+          "away": "Tunisia",
+          "date": "2006-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gH_0_3",
+          "group": "H",
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "date": "2006-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gH_1_2",
+          "group": "H",
+          "home": "Ukraine",
+          "away": "Tunisia",
+          "date": "2006-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gH_1_3",
+          "group": "H",
+          "home": "Ukraine",
+          "away": "Saudi Arabia",
+          "date": "2006-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783068008061_gH_2_3",
+          "group": "H",
+          "home": "Tunisia",
+          "away": "Saudi Arabia",
+          "date": "2006-06-14",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "Germany",
+          "Costa Rica",
+          "Poland",
+          "Ecuador"
+        ],
+        "B": [
+          "England",
+          "Paraguay",
+          "Trinidad and Tobago",
+          "Sweden"
+        ],
+        "C": [
+          "Argentina",
+          "Ivory Coast",
+          "Serbia and Montenegro",
+          "Netherlands"
+        ],
+        "D": [
+          "Mexico",
+          "Iran",
+          "Angola",
+          "Portugal"
+        ],
+        "E": [
+          "United States",
+          "Czechia",
+          "Italy",
+          "Ghana"
+        ],
+        "F": [
+          "Australia",
+          "Japan",
+          "Brazil",
+          "Croatia"
+        ],
+        "G": [
+          "France",
+          "Switzerland",
+          "South Korea",
+          "Togo"
+        ],
+        "H": [
+          "Spain",
+          "Ukraine",
+          "Tunisia",
+          "Saudi Arabia"
+        ]
+      }
+    },
+    {
+      "id": "r1783068509911",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783068509911_m0",
+          "slot_home": {
+            "round": "r1783068008061",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783068008061",
+            "group": "B",
+            "position": "2nd"
+          },
+          "date": "2006-06-24"
+        },
+        {
+          "id": "r1783068509911_m1",
+          "slot_home": {
+            "round": "r1783068008061",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783068008061",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "2006-06-24"
+        },
+        {
+          "id": "r1783068509911_m2",
+          "slot_home": {
+            "round": "r1783068008061",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783068008061",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "2006-06-26"
+        },
+        {
+          "id": "r1783068509911_m3",
+          "slot_home": {
+            "round": "r1783068008061",
+            "group": "G",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783068008061",
+            "group": "H",
+            "position": "2nd"
+          },
+          "date": "2006-06-26"
+        },
+        {
+          "id": "r1783068509911_m4",
+          "slot_home": {
+            "round": "r1783068008061",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783068008061",
+            "group": "A",
+            "position": "2nd"
+          },
+          "date": "2006-06-25"
+        },
+        {
+          "id": "r1783068509911_m5",
+          "slot_home": {
+            "round": "r1783068008061",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783068008061",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "2006-06-25"
+        },
+        {
+          "id": "r1783068509911_m6",
+          "slot_home": {
+            "round": "r1783068008061",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783068008061",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "2006-06-27"
+        },
+        {
+          "id": "r1783068509911_m7",
+          "slot_home": {
+            "round": "r1783068008061",
+            "group": "H",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783068008061",
+            "group": "G",
+            "position": "2nd"
+          },
+          "date": "2006-06-27"
+        },
+        {
+          "id": "r1783068509911_m8",
+          "slot_home": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m1",
+            "outcome": "winner"
+          },
+          "date": "2006-06-30"
+        },
+        {
+          "id": "r1783068509911_m9",
+          "slot_home": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m3",
+            "outcome": "winner"
+          },
+          "date": "2006-06-30"
+        },
+        {
+          "id": "r1783068509911_m10",
+          "slot_home": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m5",
+            "outcome": "winner"
+          },
+          "date": "2006-07-01"
+        },
+        {
+          "id": "r1783068509911_m11",
+          "slot_home": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m7",
+            "outcome": "winner"
+          },
+          "date": "2006-07-01"
+        },
+        {
+          "id": "r1783068509911_m12",
+          "slot_home": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m9",
+            "outcome": "winner"
+          },
+          "date": "2006-07-04"
+        },
+        {
+          "id": "r1783068509911_m13",
+          "slot_home": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m11",
+            "outcome": "winner"
+          },
+          "date": "2006-07-05"
+        },
+        {
+          "id": "r1783068509911_m14",
+          "slot_home": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m13",
+            "outcome": "winner"
+          },
+          "date": "2006-07-09"
+        },
+        {
+          "id": "r1783068509911_m3rd",
+          "slot_home": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783068509911",
+            "match": "r1783068509911_m13",
+            "outcome": "loser"
+          },
+          "date": "2006-07-08"
+        }
+      ]
+    }
+  ]
+}

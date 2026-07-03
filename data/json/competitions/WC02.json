@@ -1,0 +1,709 @@
+{
+  "id": "WC02",
+  "name": "World Cup",
+  "year": 2002,
+  "hosts": [
+    "South Korea",
+    "Japan"
+  ],
+  "rounds": [
+    {
+      "id": "r1783069992440",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 8,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": false
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783069992440_gA_0_1",
+          "group": "A",
+          "home": "France",
+          "away": "Senegal",
+          "date": "2002-05-31",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gA_0_2",
+          "group": "A",
+          "home": "France",
+          "away": "Uruguay",
+          "date": "2002-06-06",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gA_0_3",
+          "group": "A",
+          "home": "France",
+          "away": "Denmark",
+          "date": "2002-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gA_1_2",
+          "group": "A",
+          "home": "Senegal",
+          "away": "Uruguay",
+          "date": "2002-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gA_1_3",
+          "group": "A",
+          "home": "Senegal",
+          "away": "Denmark",
+          "date": "2002-06-06",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gA_2_3",
+          "group": "A",
+          "home": "Uruguay",
+          "away": "Denmark",
+          "date": "2002-06-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gB_0_1",
+          "group": "B",
+          "home": "Spain",
+          "away": "Slovenia",
+          "date": "2002-06-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gB_0_2",
+          "group": "B",
+          "home": "Spain",
+          "away": "Paraguay",
+          "date": "2002-06-07",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gB_0_3",
+          "group": "B",
+          "home": "Spain",
+          "away": "South Africa",
+          "date": "2002-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gB_1_2",
+          "group": "B",
+          "home": "Slovenia",
+          "away": "Paraguay",
+          "date": "2002-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gB_1_3",
+          "group": "B",
+          "home": "Slovenia",
+          "away": "South Africa",
+          "date": "2002-06-08",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gB_2_3",
+          "group": "B",
+          "home": "Paraguay",
+          "away": "South Africa",
+          "date": "2002-06-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gC_0_1",
+          "group": "C",
+          "home": "Brazil",
+          "away": "Turkey",
+          "date": "2002-06-03",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gC_0_2",
+          "group": "C",
+          "home": "Brazil",
+          "away": "China",
+          "date": "2002-06-08",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gC_0_3",
+          "group": "C",
+          "home": "Brazil",
+          "away": "Costa Rica",
+          "date": "2002-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gC_1_2",
+          "group": "C",
+          "home": "Turkey",
+          "away": "China",
+          "date": "2002-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gC_1_3",
+          "group": "C",
+          "home": "Turkey",
+          "away": "Costa Rica",
+          "date": "2002-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gC_2_3",
+          "group": "C",
+          "home": "China",
+          "away": "Costa Rica",
+          "date": "2002-06-04",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gD_0_1",
+          "group": "D",
+          "home": "South Korea",
+          "away": "Poland",
+          "date": "2002-06-04",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gD_0_2",
+          "group": "D",
+          "home": "South Korea",
+          "away": "United States",
+          "date": "2002-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gD_0_3",
+          "group": "D",
+          "home": "South Korea",
+          "away": "Portugal",
+          "date": "2002-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gD_1_2",
+          "group": "D",
+          "home": "Poland",
+          "away": "United States",
+          "date": "2002-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gD_1_3",
+          "group": "D",
+          "home": "Poland",
+          "away": "Portugal",
+          "date": "2002-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gD_2_3",
+          "group": "D",
+          "home": "United States",
+          "away": "Portugal",
+          "date": "2002-06-05",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gE_0_1",
+          "group": "E",
+          "home": "Germany",
+          "away": "Saudi Arabia",
+          "date": "2002-06-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gE_0_2",
+          "group": "E",
+          "home": "Germany",
+          "away": "Ireland",
+          "date": "2002-06-05",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gE_0_3",
+          "group": "E",
+          "home": "Germany",
+          "away": "Cameroon",
+          "date": "2002-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gE_1_2",
+          "group": "E",
+          "home": "Saudi Arabia",
+          "away": "Ireland",
+          "date": "2002-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gE_1_3",
+          "group": "E",
+          "home": "Saudi Arabia",
+          "away": "Cameroon",
+          "date": "2002-06-06",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gE_2_3",
+          "group": "E",
+          "home": "Ireland",
+          "away": "Cameroon",
+          "date": "2002-06-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gF_0_1",
+          "group": "F",
+          "home": "Argentina",
+          "away": "Nigeria",
+          "date": "2002-06-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gF_0_2",
+          "group": "F",
+          "home": "Argentina",
+          "away": "England",
+          "date": "2002-06-07",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gF_0_3",
+          "group": "F",
+          "home": "Argentina",
+          "away": "Sweden",
+          "date": "2002-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gF_1_2",
+          "group": "F",
+          "home": "Nigeria",
+          "away": "England",
+          "date": "2002-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gF_1_3",
+          "group": "F",
+          "home": "Nigeria",
+          "away": "Sweden",
+          "date": "2002-06-07",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gF_2_3",
+          "group": "F",
+          "home": "England",
+          "away": "Sweden",
+          "date": "2002-06-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gG_0_1",
+          "group": "G",
+          "home": "Italy",
+          "away": "Ecuador",
+          "date": "2002-06-03",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gG_0_2",
+          "group": "G",
+          "home": "Italy",
+          "away": "Croatia",
+          "date": "2002-06-08",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gG_0_3",
+          "group": "G",
+          "home": "Italy",
+          "away": "Mexico",
+          "date": "2002-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gG_1_2",
+          "group": "G",
+          "home": "Ecuador",
+          "away": "Croatia",
+          "date": "2002-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gG_1_3",
+          "group": "G",
+          "home": "Ecuador",
+          "away": "Mexico",
+          "date": "2002-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gG_2_3",
+          "group": "G",
+          "home": "Croatia",
+          "away": "Mexico",
+          "date": "2002-06-03",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gH_0_1",
+          "group": "H",
+          "home": "Japan",
+          "away": "Belgium",
+          "date": "2002-06-04",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gH_0_2",
+          "group": "H",
+          "home": "Japan",
+          "away": "Russia",
+          "date": "2002-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gH_0_3",
+          "group": "H",
+          "home": "Japan",
+          "away": "Tunisia",
+          "date": "2002-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gH_1_2",
+          "group": "H",
+          "home": "Belgium",
+          "away": "Russia",
+          "date": "2002-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gH_1_3",
+          "group": "H",
+          "home": "Belgium",
+          "away": "Tunisia",
+          "date": "2002-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783069992440_gH_2_3",
+          "group": "H",
+          "home": "Russia",
+          "away": "Tunisia",
+          "date": "2002-06-05",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "France",
+          "Senegal",
+          "Uruguay",
+          "Denmark"
+        ],
+        "B": [
+          "Spain",
+          "Slovenia",
+          "Paraguay",
+          "South Africa"
+        ],
+        "C": [
+          "Brazil",
+          "Turkey",
+          "China",
+          "Costa Rica"
+        ],
+        "D": [
+          "South Korea",
+          "Poland",
+          "United States",
+          "Portugal"
+        ],
+        "E": [
+          "Germany",
+          "Saudi Arabia",
+          "Ireland",
+          "Cameroon"
+        ],
+        "F": [
+          "Argentina",
+          "Nigeria",
+          "England",
+          "Sweden"
+        ],
+        "G": [
+          "Italy",
+          "Ecuador",
+          "Croatia",
+          "Mexico"
+        ],
+        "H": [
+          "Japan",
+          "Belgium",
+          "Russia",
+          "Tunisia"
+        ]
+      }
+    },
+    {
+      "id": "r1783071022974",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783071022974_m0",
+          "slot_home": {
+            "round": "r1783069992440",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783069992440",
+            "group": "B",
+            "position": "2nd"
+          },
+          "date": "2002-06-15"
+        },
+        {
+          "id": "r1783071022974_m1",
+          "slot_home": {
+            "round": "r1783069992440",
+            "group": "G",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783069992440",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "2002-06-17"
+        },
+        {
+          "id": "r1783071022974_m2",
+          "slot_home": {
+            "round": "r1783069992440",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783069992440",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "2002-06-16"
+        },
+        {
+          "id": "r1783071022974_m3",
+          "slot_home": {
+            "round": "r1783069992440",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783069992440",
+            "group": "G",
+            "position": "2nd"
+          },
+          "date": "2002-06-18"
+        },
+        {
+          "id": "r1783071022974_m4",
+          "slot_home": {
+            "round": "r1783069992440",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783069992440",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "2002-06-15"
+        },
+        {
+          "id": "r1783071022974_m5",
+          "slot_home": {
+            "round": "r1783069992440",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783069992440",
+            "group": "H",
+            "position": "2nd"
+          },
+          "date": "2002-06-17"
+        },
+        {
+          "id": "r1783071022974_m6",
+          "slot_home": {
+            "round": "r1783069992440",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783069992440",
+            "group": "A",
+            "position": "2nd"
+          },
+          "date": "2002-06-16"
+        },
+        {
+          "id": "r1783071022974_m7",
+          "slot_home": {
+            "round": "r1783069992440",
+            "group": "H",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783069992440",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "2002-06-18"
+        },
+        {
+          "id": "r1783071022974_m8",
+          "slot_home": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m1",
+            "outcome": "winner"
+          },
+          "date": "2002-06-21"
+        },
+        {
+          "id": "r1783071022974_m9",
+          "slot_home": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m3",
+            "outcome": "winner"
+          },
+          "date": "2002-06-22"
+        },
+        {
+          "id": "r1783071022974_m10",
+          "slot_home": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m5",
+            "outcome": "winner"
+          },
+          "date": "2002-06-21"
+        },
+        {
+          "id": "r1783071022974_m11",
+          "slot_home": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m7",
+            "outcome": "winner"
+          },
+          "date": "2002-06-22"
+        },
+        {
+          "id": "r1783071022974_m12",
+          "slot_home": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m9",
+            "outcome": "winner"
+          },
+          "date": "2002-06-25"
+        },
+        {
+          "id": "r1783071022974_m13",
+          "slot_home": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m11",
+            "outcome": "winner"
+          },
+          "date": "2002-06-26"
+        },
+        {
+          "id": "r1783071022974_m14",
+          "slot_home": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m13",
+            "outcome": "winner"
+          },
+          "date": "2002-06-30"
+        },
+        {
+          "id": "r1783071022974_m3rd",
+          "slot_home": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783071022974",
+            "match": "r1783071022974_m13",
+            "outcome": "loser"
+          },
+          "date": "2002-06-29"
+        }
+      ]
+    }
+  ]
+}

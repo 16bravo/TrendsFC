@@ -1,0 +1,708 @@
+{
+  "id": "WC98",
+  "name": "World Cup",
+  "year": 1998,
+  "hosts": [
+    "France"
+  ],
+  "rounds": [
+    {
+      "id": "r1783084199159",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 8,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": false
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783084199159_gA_0_1",
+          "group": "A",
+          "home": "Brazil",
+          "away": "Scotland",
+          "date": "1998-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gA_0_2",
+          "group": "A",
+          "home": "Brazil",
+          "away": "Morocco",
+          "date": "1998-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gA_0_3",
+          "group": "A",
+          "home": "Brazil",
+          "away": "Norway",
+          "date": "1998-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gA_1_2",
+          "group": "A",
+          "home": "Scotland",
+          "away": "Morocco",
+          "date": "1998-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gA_1_3",
+          "group": "A",
+          "home": "Scotland",
+          "away": "Norway",
+          "date": "1998-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gA_2_3",
+          "group": "A",
+          "home": "Morocco",
+          "away": "Norway",
+          "date": "1998-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gB_0_1",
+          "group": "B",
+          "home": "Italy",
+          "away": "Chile",
+          "date": "1998-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gB_0_2",
+          "group": "B",
+          "home": "Italy",
+          "away": "Cameroon",
+          "date": "1998-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gB_0_3",
+          "group": "B",
+          "home": "Italy",
+          "away": "Austria",
+          "date": "1998-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gB_1_2",
+          "group": "B",
+          "home": "Chile",
+          "away": "Cameroon",
+          "date": "1998-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gB_1_3",
+          "group": "B",
+          "home": "Chile",
+          "away": "Austria",
+          "date": "1998-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gB_2_3",
+          "group": "B",
+          "home": "Cameroon",
+          "away": "Austria",
+          "date": "1998-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gC_0_1",
+          "group": "C",
+          "home": "France",
+          "away": "South Africa",
+          "date": "1998-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gC_0_2",
+          "group": "C",
+          "home": "France",
+          "away": "Saudi Arabia",
+          "date": "1998-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gC_0_3",
+          "group": "C",
+          "home": "France",
+          "away": "Denmark",
+          "date": "1998-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gC_1_2",
+          "group": "C",
+          "home": "South Africa",
+          "away": "Saudi Arabia",
+          "date": "1998-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gC_1_3",
+          "group": "C",
+          "home": "South Africa",
+          "away": "Denmark",
+          "date": "1998-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gC_2_3",
+          "group": "C",
+          "home": "Saudi Arabia",
+          "away": "Denmark",
+          "date": "1998-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gD_0_1",
+          "group": "D",
+          "home": "Spain",
+          "away": "Nigeria",
+          "date": "1998-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gD_0_2",
+          "group": "D",
+          "home": "Spain",
+          "away": "Paraguay",
+          "date": "1998-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gD_0_3",
+          "group": "D",
+          "home": "Spain",
+          "away": "Bulgaria",
+          "date": "1998-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gD_1_2",
+          "group": "D",
+          "home": "Nigeria",
+          "away": "Paraguay",
+          "date": "1998-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gD_1_3",
+          "group": "D",
+          "home": "Nigeria",
+          "away": "Bulgaria",
+          "date": "1998-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gD_2_3",
+          "group": "D",
+          "home": "Paraguay",
+          "away": "Bulgaria",
+          "date": "1998-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gE_0_1",
+          "group": "E",
+          "home": "Netherlands",
+          "away": "Belgium",
+          "date": "1998-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gE_0_2",
+          "group": "E",
+          "home": "Netherlands",
+          "away": "South Korea",
+          "date": "1998-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gE_0_3",
+          "group": "E",
+          "home": "Netherlands",
+          "away": "Mexico",
+          "date": "1998-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gE_1_2",
+          "group": "E",
+          "home": "Belgium",
+          "away": "South Korea",
+          "date": "1998-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gE_1_3",
+          "group": "E",
+          "home": "Belgium",
+          "away": "Mexico",
+          "date": "1998-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gE_2_3",
+          "group": "E",
+          "home": "South Korea",
+          "away": "Mexico",
+          "date": "1998-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gF_0_1",
+          "group": "F",
+          "home": "Germany",
+          "away": "United States",
+          "date": "1998-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gF_0_2",
+          "group": "F",
+          "home": "Germany",
+          "away": "Yugoslavia",
+          "date": "1998-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gF_0_3",
+          "group": "F",
+          "home": "Germany",
+          "away": "Iran",
+          "date": "1998-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gF_1_2",
+          "group": "F",
+          "home": "United States",
+          "away": "Yugoslavia",
+          "date": "1998-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gF_1_3",
+          "group": "F",
+          "home": "United States",
+          "away": "Iran",
+          "date": "1998-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gF_2_3",
+          "group": "F",
+          "home": "Yugoslavia",
+          "away": "Iran",
+          "date": "1998-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gG_0_1",
+          "group": "G",
+          "home": "Romania",
+          "away": "Colombia",
+          "date": "1998-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gG_0_2",
+          "group": "G",
+          "home": "Romania",
+          "away": "England",
+          "date": "1998-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gG_0_3",
+          "group": "G",
+          "home": "Romania",
+          "away": "Tunisia",
+          "date": "1998-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gG_1_2",
+          "group": "G",
+          "home": "Colombia",
+          "away": "England",
+          "date": "1998-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gG_1_3",
+          "group": "G",
+          "home": "Colombia",
+          "away": "Tunisia",
+          "date": "1998-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gG_2_3",
+          "group": "G",
+          "home": "England",
+          "away": "Tunisia",
+          "date": "1998-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gH_0_1",
+          "group": "H",
+          "home": "Argentina",
+          "away": "Japan",
+          "date": "1998-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gH_0_2",
+          "group": "H",
+          "home": "Argentina",
+          "away": "Jamaica",
+          "date": "1998-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gH_0_3",
+          "group": "H",
+          "home": "Argentina",
+          "away": "Croatia",
+          "date": "1998-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gH_1_2",
+          "group": "H",
+          "home": "Japan",
+          "away": "Jamaica",
+          "date": "1998-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gH_1_3",
+          "group": "H",
+          "home": "Japan",
+          "away": "Croatia",
+          "date": "1998-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783084199159_gH_2_3",
+          "group": "H",
+          "home": "Jamaica",
+          "away": "Croatia",
+          "date": "1998-06-14",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "Brazil",
+          "Scotland",
+          "Morocco",
+          "Norway"
+        ],
+        "B": [
+          "Italy",
+          "Chile",
+          "Cameroon",
+          "Austria"
+        ],
+        "C": [
+          "France",
+          "South Africa",
+          "Saudi Arabia",
+          "Denmark"
+        ],
+        "D": [
+          "Spain",
+          "Nigeria",
+          "Paraguay",
+          "Bulgaria"
+        ],
+        "E": [
+          "Netherlands",
+          "Belgium",
+          "South Korea",
+          "Mexico"
+        ],
+        "F": [
+          "Germany",
+          "United States",
+          "Yugoslavia",
+          "Iran"
+        ],
+        "G": [
+          "Romania",
+          "Colombia",
+          "England",
+          "Tunisia"
+        ],
+        "H": [
+          "Argentina",
+          "Japan",
+          "Jamaica",
+          "Croatia"
+        ]
+      }
+    },
+    {
+      "id": "r1783085047369",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783085047369_m0",
+          "slot_home": {
+            "round": "r1783084199159",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783084199159",
+            "group": "B",
+            "position": "2nd"
+          },
+          "date": "1998-06-27"
+        },
+        {
+          "id": "r1783085047369_m1",
+          "slot_home": {
+            "round": "r1783084199159",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783084199159",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "1998-06-28"
+        },
+        {
+          "id": "r1783085047369_m2",
+          "slot_home": {
+            "round": "r1783084199159",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783084199159",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "1998-06-29"
+        },
+        {
+          "id": "r1783085047369_m3",
+          "slot_home": {
+            "round": "r1783084199159",
+            "group": "H",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783084199159",
+            "group": "G",
+            "position": "2nd"
+          },
+          "date": "1998-06-30"
+        },
+        {
+          "id": "r1783085047369_m4",
+          "slot_home": {
+            "round": "r1783084199159",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783084199159",
+            "group": "A",
+            "position": "2nd"
+          },
+          "date": "1998-06-27"
+        },
+        {
+          "id": "r1783085047369_m5",
+          "slot_home": {
+            "round": "r1783084199159",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783084199159",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "1998-06-28"
+        },
+        {
+          "id": "r1783085047369_m6",
+          "slot_home": {
+            "round": "r1783084199159",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783084199159",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "1998-06-29"
+        },
+        {
+          "id": "r1783085047369_m7",
+          "slot_home": {
+            "round": "r1783084199159",
+            "group": "G",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783084199159",
+            "group": "H",
+            "position": "2nd"
+          },
+          "date": "1998-06-30"
+        },
+        {
+          "id": "r1783085047369_m8",
+          "slot_home": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m1",
+            "outcome": "winner"
+          },
+          "date": "1998-07-03"
+        },
+        {
+          "id": "r1783085047369_m9",
+          "slot_home": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m3",
+            "outcome": "winner"
+          },
+          "date": "1998-07-04"
+        },
+        {
+          "id": "r1783085047369_m10",
+          "slot_home": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m5",
+            "outcome": "winner"
+          },
+          "date": "1998-07-03"
+        },
+        {
+          "id": "r1783085047369_m11",
+          "slot_home": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m7",
+            "outcome": "winner"
+          },
+          "date": "1998-07-04"
+        },
+        {
+          "id": "r1783085047369_m12",
+          "slot_home": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m9",
+            "outcome": "winner"
+          },
+          "date": "1998-07-07"
+        },
+        {
+          "id": "r1783085047369_m13",
+          "slot_home": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m11",
+            "outcome": "winner"
+          },
+          "date": "1998-07-08"
+        },
+        {
+          "id": "r1783085047369_m14",
+          "slot_home": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m13",
+            "outcome": "winner"
+          },
+          "date": "1998-07-12"
+        },
+        {
+          "id": "r1783085047369_m3rd",
+          "slot_home": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783085047369",
+            "match": "r1783085047369_m13",
+            "outcome": "loser"
+          },
+          "date": "1998-07-11"
+        }
+      ]
+    }
+  ]
+}

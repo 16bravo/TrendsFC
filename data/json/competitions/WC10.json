@@ -1,0 +1,708 @@
+{
+  "id": "WC10",
+  "name": "World Cup",
+  "year": 2010,
+  "hosts": [
+    "South Africa"
+  ],
+  "rounds": [
+    {
+      "id": "r1783066832753",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 8,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": false
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783066832753_gA_0_1",
+          "group": "A",
+          "home": "South Africa",
+          "away": "Mexico",
+          "date": "2010-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gA_0_2",
+          "group": "A",
+          "home": "South Africa",
+          "away": "Uruguay",
+          "date": "2010-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gA_0_3",
+          "group": "A",
+          "home": "South Africa",
+          "away": "France",
+          "date": "2010-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gA_1_2",
+          "group": "A",
+          "home": "Mexico",
+          "away": "Uruguay",
+          "date": "2010-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gA_1_3",
+          "group": "A",
+          "home": "Mexico",
+          "away": "France",
+          "date": "2010-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gA_2_3",
+          "group": "A",
+          "home": "Uruguay",
+          "away": "France",
+          "date": "2010-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gB_0_1",
+          "group": "B",
+          "home": "South Korea",
+          "away": "Greece",
+          "date": "2010-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gB_0_2",
+          "group": "B",
+          "home": "South Korea",
+          "away": "Argentina",
+          "date": "2010-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gB_0_3",
+          "group": "B",
+          "home": "South Korea",
+          "away": "Nigeria",
+          "date": "2010-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gB_1_2",
+          "group": "B",
+          "home": "Greece",
+          "away": "Argentina",
+          "date": "2010-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gB_1_3",
+          "group": "B",
+          "home": "Greece",
+          "away": "Nigeria",
+          "date": "2010-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gB_2_3",
+          "group": "B",
+          "home": "Argentina",
+          "away": "Nigeria",
+          "date": "2010-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gC_0_1",
+          "group": "C",
+          "home": "England",
+          "away": "United States",
+          "date": "2010-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gC_0_2",
+          "group": "C",
+          "home": "England",
+          "away": "Algeria",
+          "date": "2010-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gC_0_3",
+          "group": "C",
+          "home": "England",
+          "away": "Slovenia",
+          "date": "2010-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gC_1_2",
+          "group": "C",
+          "home": "United States",
+          "away": "Algeria",
+          "date": "2010-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gC_1_3",
+          "group": "C",
+          "home": "United States",
+          "away": "Slovenia",
+          "date": "2010-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gC_2_3",
+          "group": "C",
+          "home": "Algeria",
+          "away": "Slovenia",
+          "date": "2010-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gD_0_1",
+          "group": "D",
+          "home": "Serbia",
+          "away": "Ghana",
+          "date": "2010-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gD_0_2",
+          "group": "D",
+          "home": "Serbia",
+          "away": "Germany",
+          "date": "2010-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gD_0_3",
+          "group": "D",
+          "home": "Serbia",
+          "away": "Australia",
+          "date": "2010-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gD_1_2",
+          "group": "D",
+          "home": "Ghana",
+          "away": "Germany",
+          "date": "2010-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gD_1_3",
+          "group": "D",
+          "home": "Ghana",
+          "away": "Australia",
+          "date": "2010-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gD_2_3",
+          "group": "D",
+          "home": "Germany",
+          "away": "Australia",
+          "date": "2010-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gE_0_1",
+          "group": "E",
+          "home": "Netherlands",
+          "away": "Denmark",
+          "date": "2010-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gE_0_2",
+          "group": "E",
+          "home": "Netherlands",
+          "away": "Japan",
+          "date": "2010-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gE_0_3",
+          "group": "E",
+          "home": "Netherlands",
+          "away": "Cameroon",
+          "date": "2010-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gE_1_2",
+          "group": "E",
+          "home": "Denmark",
+          "away": "Japan",
+          "date": "2010-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gE_1_3",
+          "group": "E",
+          "home": "Denmark",
+          "away": "Cameroon",
+          "date": "2010-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gE_2_3",
+          "group": "E",
+          "home": "Japan",
+          "away": "Cameroon",
+          "date": "2010-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gF_0_1",
+          "group": "F",
+          "home": "Italy",
+          "away": "Paraguay",
+          "date": "2010-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gF_0_2",
+          "group": "F",
+          "home": "Italy",
+          "away": "New Zealand",
+          "date": "2010-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gF_0_3",
+          "group": "F",
+          "home": "Italy",
+          "away": "Slovakia",
+          "date": "2010-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gF_1_2",
+          "group": "F",
+          "home": "Paraguay",
+          "away": "New Zealand",
+          "date": "2010-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gF_1_3",
+          "group": "F",
+          "home": "Paraguay",
+          "away": "Slovakia",
+          "date": "2010-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gF_2_3",
+          "group": "F",
+          "home": "New Zealand",
+          "away": "Slovakia",
+          "date": "2010-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gG_0_1",
+          "group": "G",
+          "home": "Brazil",
+          "away": "North Korea",
+          "date": "2010-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gG_0_2",
+          "group": "G",
+          "home": "Brazil",
+          "away": "Ivory Coast",
+          "date": "2010-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gG_0_3",
+          "group": "G",
+          "home": "Brazil",
+          "away": "Portugal",
+          "date": "2010-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gG_1_2",
+          "group": "G",
+          "home": "North Korea",
+          "away": "Ivory Coast",
+          "date": "2010-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gG_1_3",
+          "group": "G",
+          "home": "North Korea",
+          "away": "Portugal",
+          "date": "2010-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gG_2_3",
+          "group": "G",
+          "home": "Ivory Coast",
+          "away": "Portugal",
+          "date": "2010-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gH_0_1",
+          "group": "H",
+          "home": "Spain",
+          "away": "Switzerland",
+          "date": "2010-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gH_0_2",
+          "group": "H",
+          "home": "Spain",
+          "away": "Honduras",
+          "date": "2010-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gH_0_3",
+          "group": "H",
+          "home": "Spain",
+          "away": "Chile",
+          "date": "2010-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gH_1_2",
+          "group": "H",
+          "home": "Switzerland",
+          "away": "Honduras",
+          "date": "2010-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gH_1_3",
+          "group": "H",
+          "home": "Switzerland",
+          "away": "Chile",
+          "date": "2010-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783066832753_gH_2_3",
+          "group": "H",
+          "home": "Honduras",
+          "away": "Chile",
+          "date": "2010-06-16",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "South Africa",
+          "Mexico",
+          "Uruguay",
+          "France"
+        ],
+        "B": [
+          "South Korea",
+          "Greece",
+          "Argentina",
+          "Nigeria"
+        ],
+        "C": [
+          "England",
+          "United States",
+          "Algeria",
+          "Slovenia"
+        ],
+        "D": [
+          "Serbia",
+          "Ghana",
+          "Germany",
+          "Australia"
+        ],
+        "E": [
+          "Netherlands",
+          "Denmark",
+          "Japan",
+          "Cameroon"
+        ],
+        "F": [
+          "Italy",
+          "Paraguay",
+          "New Zealand",
+          "Slovakia"
+        ],
+        "G": [
+          "Brazil",
+          "North Korea",
+          "Ivory Coast",
+          "Portugal"
+        ],
+        "H": [
+          "Spain",
+          "Switzerland",
+          "Honduras",
+          "Chile"
+        ]
+      }
+    },
+    {
+      "id": "r1783067394607",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783067394607_m0",
+          "slot_home": {
+            "round": "r1783066832753",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783066832753",
+            "group": "B",
+            "position": "2nd"
+          },
+          "date": "2010-06-26"
+        },
+        {
+          "id": "r1783067394607_m1",
+          "slot_home": {
+            "round": "r1783066832753",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783066832753",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "2010-06-26"
+        },
+        {
+          "id": "r1783067394607_m2",
+          "slot_home": {
+            "round": "r1783066832753",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783066832753",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "2010-06-28"
+        },
+        {
+          "id": "r1783067394607_m3",
+          "slot_home": {
+            "round": "r1783066832753",
+            "group": "G",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783066832753",
+            "group": "H",
+            "position": "2nd"
+          },
+          "date": "2010-06-28"
+        },
+        {
+          "id": "r1783067394607_m4",
+          "slot_home": {
+            "round": "r1783066832753",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783066832753",
+            "group": "A",
+            "position": "2nd"
+          },
+          "date": "2010-06-27"
+        },
+        {
+          "id": "r1783067394607_m5",
+          "slot_home": {
+            "round": "r1783066832753",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783066832753",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "2010-06-27"
+        },
+        {
+          "id": "r1783067394607_m6",
+          "slot_home": {
+            "round": "r1783066832753",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783066832753",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "2010-06-29"
+        },
+        {
+          "id": "r1783067394607_m7",
+          "slot_home": {
+            "round": "r1783066832753",
+            "group": "H",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783066832753",
+            "group": "G",
+            "position": "2nd"
+          },
+          "date": "2010-06-29"
+        },
+        {
+          "id": "r1783067394607_m8",
+          "slot_home": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m1",
+            "outcome": "winner"
+          },
+          "date": "2010-07-02"
+        },
+        {
+          "id": "r1783067394607_m9",
+          "slot_home": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m3",
+            "outcome": "winner"
+          },
+          "date": "2010-07-02"
+        },
+        {
+          "id": "r1783067394607_m10",
+          "slot_home": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m5",
+            "outcome": "winner"
+          },
+          "date": "2010-07-03"
+        },
+        {
+          "id": "r1783067394607_m11",
+          "slot_home": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m7",
+            "outcome": "winner"
+          },
+          "date": "2010-07-03"
+        },
+        {
+          "id": "r1783067394607_m12",
+          "slot_home": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m9",
+            "outcome": "winner"
+          },
+          "date": "2010-07-06"
+        },
+        {
+          "id": "r1783067394607_m13",
+          "slot_home": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m11",
+            "outcome": "winner"
+          },
+          "date": "2010-07-07"
+        },
+        {
+          "id": "r1783067394607_m14",
+          "slot_home": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m13",
+            "outcome": "winner"
+          },
+          "date": "2010-07-11"
+        },
+        {
+          "id": "r1783067394607_m3rd",
+          "slot_home": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783067394607",
+            "match": "r1783067394607_m13",
+            "outcome": "loser"
+          },
+          "date": "2010-07-10"
+        }
+      ]
+    }
+  ]
+}
