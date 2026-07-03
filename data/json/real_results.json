@@ -128203,11 +128203,13 @@
     "2018-07-01": {
       "Russia|Spain": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "Russia"
       },
       "Croatia|Denmark": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "Croatia"
       }
     },
     "2018-07-02": {
@@ -128223,7 +128225,8 @@
     "2018-07-03": {
       "Colombia|England": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "England"
       },
       "Sweden|Switzerland": {
         "s1": 1,
@@ -128247,7 +128250,8 @@
       },
       "Croatia|Russia": {
         "s1": 2,
-        "s2": 2
+        "s2": 2,
+        "winner": "Croatia"
       }
     },
     "2018-07-10": {
@@ -128515,7 +128519,8 @@
     "2022-12-05": {
       "Croatia|Japan": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "Croatia"
       },
       "Brazil|South Korea": {
         "s1": 4,
@@ -128525,7 +128530,8 @@
     "2022-12-06": {
       "Morocco|Spain": {
         "s1": 0,
-        "s2": 0
+        "s2": 0,
+        "winner": "Morocco"
       },
       "Portugal|Switzerland": {
         "s1": 6,
@@ -128535,11 +128541,13 @@
     "2022-12-09": {
       "Argentina|Netherlands": {
         "s1": 2,
-        "s2": 2
+        "s2": 2,
+        "winner": "Argentina"
       },
       "Brazil|Croatia": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "Croatia"
       }
     },
     "2022-12-10": {
@@ -128573,7 +128581,8 @@
     "2022-12-18": {
       "Argentina|France": {
         "s1": 3,
-        "s2": 3
+        "s2": 3,
+        "winner": "Argentina"
       }
     },
     "2023-06-14": {
@@ -128951,6 +128960,16 @@
       },
       "Bosnia and Herzegovina|United States": {
         "s1": 0,
+        "s2": 2
+      }
+    },
+    "2026-07-02": {
+      "Austria|Spain": {
+        "s1": 0,
+        "s2": 3
+      },
+      "Croatia|Portugal": {
+        "s1": 1,
         "s2": 2
       }
     }
