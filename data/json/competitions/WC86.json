@@ -1,0 +1,611 @@
+{
+  "id": "WC86",
+  "name": "World Cup",
+  "year": 1986,
+  "hosts": [
+    "Mexico"
+  ],
+  "rounds": [
+    {
+      "id": "r1783092964782",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 6,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": true
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783092964782_gA_0_1",
+          "group": "A",
+          "home": "Argentina",
+          "away": "South Korea",
+          "date": "1986-06-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_0_2",
+          "group": "A",
+          "home": "Argentina",
+          "away": "Bulgaria",
+          "date": "1986-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_0_3",
+          "group": "A",
+          "home": "Argentina",
+          "away": "Italy",
+          "date": "1986-06-05",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_1_2",
+          "group": "A",
+          "home": "South Korea",
+          "away": "Bulgaria",
+          "date": "1986-06-05",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_1_3",
+          "group": "A",
+          "home": "South Korea",
+          "away": "Italy",
+          "date": "1986-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_2_3",
+          "group": "A",
+          "home": "Bulgaria",
+          "away": "Italy",
+          "date": "1986-05-31",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_1",
+          "group": "B",
+          "home": "Belgium",
+          "away": "Mexico",
+          "date": "1986-06-03",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_2",
+          "group": "B",
+          "home": "Belgium",
+          "away": "Paraguay",
+          "date": "1986-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_3",
+          "group": "B",
+          "home": "Belgium",
+          "away": "Iraq",
+          "date": "1986-06-08",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_1_2",
+          "group": "B",
+          "home": "Mexico",
+          "away": "Paraguay",
+          "date": "1986-06-07",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_1_3",
+          "group": "B",
+          "home": "Mexico",
+          "away": "Iraq",
+          "date": "1986-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_2_3",
+          "group": "B",
+          "home": "Paraguay",
+          "away": "Iraq",
+          "date": "1986-06-04",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_1",
+          "group": "C",
+          "home": "Canada",
+          "away": "France",
+          "date": "1986-06-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_2",
+          "group": "C",
+          "home": "Canada",
+          "away": "Soviet Union",
+          "date": "1986-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_3",
+          "group": "C",
+          "home": "Canada",
+          "away": "Hungary",
+          "date": "1986-06-06",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_1_2",
+          "group": "C",
+          "home": "France",
+          "away": "Soviet Union",
+          "date": "1986-06-05",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_1_3",
+          "group": "C",
+          "home": "France",
+          "away": "Hungary",
+          "date": "1986-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_2_3",
+          "group": "C",
+          "home": "Soviet Union",
+          "away": "Hungary",
+          "date": "1986-06-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_1",
+          "group": "D",
+          "home": "Spain",
+          "away": "Brazil",
+          "date": "1986-06-01",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_2",
+          "group": "D",
+          "home": "Spain",
+          "away": "Algeria",
+          "date": "1986-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_3",
+          "group": "D",
+          "home": "Spain",
+          "away": "Northern Ireland",
+          "date": "1986-06-07",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_1_2",
+          "group": "D",
+          "home": "Brazil",
+          "away": "Algeria",
+          "date": "1986-06-06",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_1_3",
+          "group": "D",
+          "home": "Brazil",
+          "away": "Northern Ireland",
+          "date": "1986-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_2_3",
+          "group": "D",
+          "home": "Algeria",
+          "away": "Northern Ireland",
+          "date": "1986-06-03",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_1",
+          "group": "E",
+          "home": "Uruguay",
+          "away": "West Germany",
+          "date": "1986-06-04",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_2",
+          "group": "E",
+          "home": "Uruguay",
+          "away": "Scotland",
+          "date": "1986-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_3",
+          "group": "E",
+          "home": "Uruguay",
+          "away": "Denmark",
+          "date": "1986-06-08",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_1_2",
+          "group": "E",
+          "home": "West Germany",
+          "away": "Scotland",
+          "date": "1986-06-08",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_1_3",
+          "group": "E",
+          "home": "West Germany",
+          "away": "Denmark",
+          "date": "1986-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_2_3",
+          "group": "E",
+          "home": "Scotland",
+          "away": "Denmark",
+          "date": "1986-06-04",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_1",
+          "group": "F",
+          "home": "Morocco",
+          "away": "England",
+          "date": "1986-06-06",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_2",
+          "group": "F",
+          "home": "Morocco",
+          "away": "Poland",
+          "date": "1986-06-02",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_3",
+          "group": "F",
+          "home": "Morocco",
+          "away": "Portugal",
+          "date": "1986-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_1_2",
+          "group": "F",
+          "home": "England",
+          "away": "Poland",
+          "date": "1986-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_1_3",
+          "group": "F",
+          "home": "England",
+          "away": "Portugal",
+          "date": "1986-06-03",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_2_3",
+          "group": "F",
+          "home": "Poland",
+          "away": "Portugal",
+          "date": "1986-06-07",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "Argentina",
+          "South Korea",
+          "Bulgaria",
+          "Italy"
+        ],
+        "B": [
+          "Belgium",
+          "Mexico",
+          "Paraguay",
+          "Iraq"
+        ],
+        "C": [
+          "Canada",
+          "France",
+          "Soviet Union",
+          "Hungary"
+        ],
+        "D": [
+          "Spain",
+          "Brazil",
+          "Algeria",
+          "Northern Ireland"
+        ],
+        "E": [
+          "Uruguay",
+          "West Germany",
+          "Scotland",
+          "Denmark"
+        ],
+        "F": [
+          "Morocco",
+          "England",
+          "Poland",
+          "Portugal"
+        ]
+      }
+    },
+    {
+      "id": "r1783092964782_thirds",
+      "type": "best_thirds_ranking",
+      "name": "Best 3rds — Group Stage",
+      "virtual": true,
+      "linked_to_round": "r1783092964782",
+      "config": {
+        "num_qualifiers": 4,
+        "ranking_rules": {
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored"
+          ]
+        },
+        "mapping_file": "data/source/wc94_third_place_mapping.csv"
+      },
+      "matches": []
+    },
+    {
+      "id": "r1783093701114",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783093701114_m0",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1986-06-16"
+        },
+        {
+          "id": "r1783093701114_m1",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "B",
+            "position": "2nd"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "1986-06-18"
+        },
+        {
+          "id": "r1783093701114_m2",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "1986-06-18"
+        },
+        {
+          "id": "r1783093701114_m3",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1986-06-15"
+        },
+        {
+          "id": "r1783093701114_m4",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1986-06-16"
+        },
+        {
+          "id": "r1783093701114_m5",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "A",
+            "position": "2nd"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "1986-06-17"
+        },
+        {
+          "id": "r1783093701114_m6",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "1986-06-17"
+        },
+        {
+          "id": "r1783093701114_m7",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1986-06-15"
+        },
+        {
+          "id": "r1783093701114_m8",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m1",
+            "outcome": "winner"
+          },
+          "date": "1986-06-22"
+        },
+        {
+          "id": "r1783093701114_m9",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m3",
+            "outcome": "winner"
+          },
+          "date": "1986-06-22"
+        },
+        {
+          "id": "r1783093701114_m10",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m5",
+            "outcome": "winner"
+          },
+          "date": "1986-06-21"
+        },
+        {
+          "id": "r1783093701114_m11",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m7",
+            "outcome": "winner"
+          },
+          "date": "1986-06-21"
+        },
+        {
+          "id": "r1783093701114_m12",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m9",
+            "outcome": "winner"
+          },
+          "date": "1986-06-25"
+        },
+        {
+          "id": "r1783093701114_m13",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m11",
+            "outcome": "winner"
+          },
+          "date": "1986-06-25"
+        },
+        {
+          "id": "r1783093701114_m14",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m13",
+            "outcome": "winner"
+          },
+          "date": "1986-06-29"
+        },
+        {
+          "id": "r1783093701114_m3rd",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m13",
+            "outcome": "loser"
+          },
+          "date": "1986-06-28"
+        }
+      ]
+    }
+  ]
+}

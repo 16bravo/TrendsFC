@@ -435,7 +435,9 @@ async function refreshSimulation() {
         renderGroupStage(groupResults, atDate);
         
         if (groupRound.config.qualifiers.best_thirds_enabled) {
-            renderBestThirds(groupResults.thirds, groupRound.config, atDate);
+            const thirdsRound = currentCompetition.rounds.find(r => r.type === 'best_thirds_ranking');
+            const numThirdsQualify = thirdsRound?.config?.num_qualifiers || 8;
+            renderBestThirds(groupResults.thirds, groupRound.config, numThirdsQualify, atDate);
         }
     }
     
@@ -496,11 +498,106 @@ function calculateGroupStage(round, atDate) {
             }
         });
 
-        // Sort standings
+        // Calculate head-to-head stats for each team
+        Object.keys(group.standings).forEach(team => {
+            const h2h = { mp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 };
+            group.matches.forEach(m => {
+                if (m.date > atDate) return;
+                const res = m.tempResult;
+                if (m.home === team) {
+                    h2h.mp++;
+                    h2h.gf += res.s1; h2h.ga += res.s2;
+                    if (res.s1 > res.s2) { h2h.pts += 3; h2h.w++; }
+                    else if (res.s1 < res.s2) { h2h.l++; }
+                    else { h2h.pts += 1; h2h.d++; }
+                } else if (m.away === team) {
+                    h2h.mp++;
+                    h2h.gf += res.s2; h2h.ga += res.s1;
+                    if (res.s2 > res.s1) { h2h.pts += 3; h2h.w++; }
+                    else if (res.s2 < res.s1) { h2h.l++; }
+                    else { h2h.pts += 1; h2h.d++; }
+                }
+            });
+            h2h.gd = h2h.gf - h2h.ga;
+            group.standings[team].h2h = h2h;
+        });
+
+        // Sort standings using tiebreaker rules from config
+        const tiebreakers = round.config.ranking_rules?.tiebreakers || ['points', 'goal_difference', 'goals_scored'];
         group.sorted = Object.values(group.standings).sort((a, b) => {
-            if (b.pts !== a.pts) return b.pts - a.pts;
-            if (b.gd !== a.gd) return b.gd - a.gd;
-            return b.gf - a.gf;
+            for (const rule of tiebreakers) {
+                let cmp = 0;
+                if (rule === 'points') {
+                    cmp = b.pts - a.pts;
+                } else if (rule === 'goal_difference') {
+                    cmp = b.gd - a.gd;
+                } else if (rule === 'goals_scored') {
+                    cmp = b.gf - a.gf;
+                } else if (rule === 'head_to_head_gd') {
+                    // Calculate H2H only between these two teams
+                    let h2h_a = { gf: 0, ga: 0 };
+                    let h2h_b = { gf: 0, ga: 0 };
+                    group.matches.forEach(m => {
+                        if (m.date > atDate) return;
+                        const res = m.tempResult;
+                        if ((m.home === a.team && m.away === b.team) ||
+                            (m.home === b.team && m.away === a.team)) {
+                            if (m.home === a.team) {
+                                h2h_a.gf += res.s1; h2h_a.ga += res.s2;
+                                h2h_b.gf += res.s2; h2h_b.ga += res.s1;
+                            } else {
+                                h2h_a.gf += res.s2; h2h_a.ga += res.s1;
+                                h2h_b.gf += res.s1; h2h_b.ga += res.s2;
+                            }
+                        }
+                    });
+                    const h2h_gd_a = h2h_a.gf - h2h_a.ga;
+                    const h2h_gd_b = h2h_b.gf - h2h_b.ga;
+                    cmp = h2h_gd_b - h2h_gd_a;
+                } else if (rule === 'head_to_head_goals') {
+                    // Calculate H2H goals only between these two teams
+                    let h2h_a_gf = 0, h2h_b_gf = 0;
+                    group.matches.forEach(m => {
+                        if (m.date > atDate) return;
+                        const res = m.tempResult;
+                        if ((m.home === a.team && m.away === b.team) ||
+                            (m.home === b.team && m.away === a.team)) {
+                            if (m.home === a.team) {
+                                h2h_a_gf += res.s1;
+                                h2h_b_gf += res.s2;
+                            } else {
+                                h2h_a_gf += res.s2;
+                                h2h_b_gf += res.s1;
+                            }
+                        }
+                    });
+                    cmp = h2h_b_gf - h2h_a_gf;
+                } else if (rule === 'head_to_head_points') {
+                    // Calculate H2H points only between these two teams
+                    let h2h_a_pts = 0, h2h_b_pts = 0;
+                    group.matches.forEach(m => {
+                        if (m.date > atDate) return;
+                        const res = m.tempResult;
+                        if ((m.home === a.team && m.away === b.team) ||
+                            (m.home === b.team && m.away === a.team)) {
+                            if (m.home === a.team) {
+                                if (res.s1 > res.s2) h2h_a_pts += 3;
+                                else if (res.s1 === res.s2) h2h_a_pts += 1;
+                                if (res.s2 > res.s1) h2h_b_pts += 3;
+                                else if (res.s1 === res.s2) h2h_b_pts += 1;
+                            } else {
+                                if (res.s2 > res.s1) h2h_a_pts += 3;
+                                else if (res.s1 === res.s2) h2h_a_pts += 1;
+                                if (res.s1 > res.s2) h2h_b_pts += 3;
+                                else if (res.s1 === res.s2) h2h_b_pts += 1;
+                            }
+                        }
+                    });
+                    cmp = h2h_b_pts - h2h_a_pts;
+                }
+                if (cmp !== 0) return cmp;
+            }
+            return 0;
         });
 
         // Apply group override only when all matches in the group are played
@@ -594,9 +691,8 @@ function renderGroupStage(data, atDate) {
 /**
  * RENDERING: Best Thirds
  */
-function renderBestThirds(thirds, config, atDate) {
+function renderBestThirds(thirds, config, numToQualify, atDate) {
     const container = document.getElementById('thirds-view');
-    const numToQualify = 8; // WC26 specific for now, could be dynamic
 
     let rows = thirds.map((t, idx) => {
         const isQualfied = idx < numToQualify;
@@ -615,7 +711,7 @@ function renderBestThirds(thirds, config, atDate) {
             <div class="col-lg-8">
                 <div class="group-card">
                     <div class="group-title text-center">Best 3rd Place Teams Ranking</div>
-                    <p class="text-muted text-center small">Top ${numToQualify} teams qualify for Round of 32 (WC 2026 Format)</p>
+                    <p class="text-muted text-center small">Top ${numToQualify} teams qualify for Knockout Phase</p>
                     <table class="table table-dark table-sm sim-table">
                         <thead><tr><th>#</th><th>Team</th><th>P</th><th>GD</th><th>Pts</th></tr></thead>
                         <tbody>${rows}</tbody>
@@ -640,7 +736,8 @@ async function renderKnockoutPhase(rounds, groupResults, atDate) {
 
     const getBestThirdsForSlot = (targetSlot) => {
         if (!isThirdsDataReady) { console.warn("Thirds data not ready"); return "TBD"; }
-        const numQ = groupRound.config.qualifiers.num_thirds_qualify || 8;
+        const thirdsRound = currentCompetition.rounds.find(r => r.type === 'best_thirds_ranking');
+        const numQ = thirdsRound?.config?.num_qualifiers || 8;
         const combo = groupResults.thirds.slice(0, numQ).map(t => t.group).sort().join('');
         const row = thirdsMap.find(r => r.combo === combo);
         if (!row) { console.error(`COMBO NOT FOUND: "${combo}"`); return "TBD"; }
@@ -961,11 +1058,11 @@ async function renderKnockoutPhase(rounds, groupResults, atDate) {
  * UTILS: Load CSV Mapping for Best Thirds
  */
 async function loadThirdsMapping() {
-    const groupRound = currentCompetition.rounds.find(r => r.type === 'group_stage');
-    if (!groupRound || !groupRound.config.qualifiers || !groupRound.config.qualifiers.mapping_file) return null;
+    const thirdsRound = currentCompetition.rounds.find(r => r.type === 'best_thirds_ranking');
+    if (!thirdsRound || !thirdsRound.config || !thirdsRound.config.mapping_file) return null;
 
     try {
-        const resp = await fetch(groupRound.config.qualifiers.mapping_file);
+        const resp = await fetch(thirdsRound.config.mapping_file);
         if (!resp.ok) throw new Error(`HTTP error! status: ${resp.status}`);
         const text = await resp.text();
         const lines = text.trim().split('\n');

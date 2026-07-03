@@ -1,0 +1,611 @@
+{
+  "id": "WC90",
+  "name": "World Cup",
+  "year": 1990,
+  "hosts": [
+    "Italy"
+  ],
+  "rounds": [
+    {
+      "id": "r1783092964782",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 6,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": true
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783092964782_gA_0_1",
+          "group": "A",
+          "home": "Italy",
+          "away": "Austria",
+          "date": "1990-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_0_2",
+          "group": "A",
+          "home": "Italy",
+          "away": "United States",
+          "date": "1990-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_0_3",
+          "group": "A",
+          "home": "Italy",
+          "away": "Czechoslovakia",
+          "date": "1990-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_1_2",
+          "group": "A",
+          "home": "Austria",
+          "away": "United States",
+          "date": "1990-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_1_3",
+          "group": "A",
+          "home": "Austria",
+          "away": "Czechoslovakia",
+          "date": "1990-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_2_3",
+          "group": "A",
+          "home": "United States",
+          "away": "Czechoslovakia",
+          "date": "1990-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_1",
+          "group": "B",
+          "home": "Argentina",
+          "away": "Cameroon",
+          "date": "1990-06-08",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_2",
+          "group": "B",
+          "home": "Argentina",
+          "away": "Soviet Union",
+          "date": "1990-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_3",
+          "group": "B",
+          "home": "Argentina",
+          "away": "Romania",
+          "date": "1990-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_1_2",
+          "group": "B",
+          "home": "Cameroon",
+          "away": "Soviet Union",
+          "date": "1990-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_1_3",
+          "group": "B",
+          "home": "Cameroon",
+          "away": "Romania",
+          "date": "1990-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_2_3",
+          "group": "B",
+          "home": "Soviet Union",
+          "away": "Romania",
+          "date": "1990-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_1",
+          "group": "C",
+          "home": "Brazil",
+          "away": "Sweden",
+          "date": "1990-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_2",
+          "group": "C",
+          "home": "Brazil",
+          "away": "Costa Rica",
+          "date": "1990-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_3",
+          "group": "C",
+          "home": "Brazil",
+          "away": "Scotland",
+          "date": "1990-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_1_2",
+          "group": "C",
+          "home": "Sweden",
+          "away": "Costa Rica",
+          "date": "1990-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_1_3",
+          "group": "C",
+          "home": "Sweden",
+          "away": "Scotland",
+          "date": "1990-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_2_3",
+          "group": "C",
+          "home": "Costa Rica",
+          "away": "Scotland",
+          "date": "1990-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_1",
+          "group": "D",
+          "home": "West Germany",
+          "away": "Yugoslavia",
+          "date": "1990-06-10",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_2",
+          "group": "D",
+          "home": "West Germany",
+          "away": "United Arab Emirates",
+          "date": "1990-06-15",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_3",
+          "group": "D",
+          "home": "West Germany",
+          "away": "Colombia",
+          "date": "1990-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_1_2",
+          "group": "D",
+          "home": "Yugoslavia",
+          "away": "United Arab Emirates",
+          "date": "1990-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_1_3",
+          "group": "D",
+          "home": "Yugoslavia",
+          "away": "Colombia",
+          "date": "1990-06-14",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_2_3",
+          "group": "D",
+          "home": "United Arab Emirates",
+          "away": "Colombia",
+          "date": "1990-06-09",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_1",
+          "group": "E",
+          "home": "Belgium",
+          "away": "South Korea",
+          "date": "1990-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_2",
+          "group": "E",
+          "home": "Belgium",
+          "away": "Uruguay",
+          "date": "1990-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_3",
+          "group": "E",
+          "home": "Belgium",
+          "away": "Spain",
+          "date": "1990-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_1_2",
+          "group": "E",
+          "home": "South Korea",
+          "away": "Uruguay",
+          "date": "1990-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_1_3",
+          "group": "E",
+          "home": "South Korea",
+          "away": "Spain",
+          "date": "1990-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_2_3",
+          "group": "E",
+          "home": "Uruguay",
+          "away": "Spain",
+          "date": "1990-06-13",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_1",
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Ireland",
+          "date": "1990-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_2",
+          "group": "F",
+          "home": "Netherlands",
+          "away": "England",
+          "date": "1990-06-16",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_3",
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Egypt",
+          "date": "1990-06-12",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_1_2",
+          "group": "F",
+          "home": "Ireland",
+          "away": "England",
+          "date": "1990-06-11",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_1_3",
+          "group": "F",
+          "home": "Ireland",
+          "away": "Egypt",
+          "date": "1990-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_2_3",
+          "group": "F",
+          "home": "England",
+          "away": "Egypt",
+          "date": "1990-06-21",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "Italy",
+          "Austria",
+          "United States",
+          "Czechoslovakia"
+        ],
+        "B": [
+          "Argentina",
+          "Cameroon",
+          "Soviet Union",
+          "Romania"
+        ],
+        "C": [
+          "Brazil",
+          "Sweden",
+          "Costa Rica",
+          "Scotland"
+        ],
+        "D": [
+          "West Germany",
+          "Yugoslavia",
+          "United Arab Emirates",
+          "Colombia"
+        ],
+        "E": [
+          "Belgium",
+          "South Korea",
+          "Uruguay",
+          "Spain"
+        ],
+        "F": [
+          "Netherlands",
+          "Ireland",
+          "England",
+          "Egypt"
+        ]
+      }
+    },
+    {
+      "id": "r1783092964782_thirds",
+      "type": "best_thirds_ranking",
+      "name": "Best 3rds — Group Stage",
+      "virtual": true,
+      "linked_to_round": "r1783092964782",
+      "config": {
+        "num_qualifiers": 4,
+        "ranking_rules": {
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored"
+          ]
+        },
+        "mapping_file": "data/source/wc94_third_place_mapping.csv"
+      },
+      "matches": []
+    },
+    {
+      "id": "r1783093701114",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783093701114_m0",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1990-06-24"
+        },
+        {
+          "id": "r1783093701114_m1",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "1990-06-26"
+        },
+        {
+          "id": "r1783093701114_m2",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "B",
+            "position": "2nd"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "1990-06-25"
+        },
+        {
+          "id": "r1783093701114_m3",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1990-06-25"
+        },
+        {
+          "id": "r1783093701114_m4",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "A",
+            "position": "2nd"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "1990-06-23"
+        },
+        {
+          "id": "r1783093701114_m5",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1990-06-24"
+        },
+        {
+          "id": "r1783093701114_m6",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1990-06-23"
+        },
+        {
+          "id": "r1783093701114_m7",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "1990-06-26"
+        },
+        {
+          "id": "r1783093701114_m8",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m1",
+            "outcome": "winner"
+          },
+          "date": "1990-06-30"
+        },
+        {
+          "id": "r1783093701114_m9",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m3",
+            "outcome": "winner"
+          },
+          "date": "1990-06-30"
+        },
+        {
+          "id": "r1783093701114_m10",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m5",
+            "outcome": "winner"
+          },
+          "date": "1990-07-01"
+        },
+        {
+          "id": "r1783093701114_m11",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m7",
+            "outcome": "winner"
+          },
+          "date": "1990-07-01"
+        },
+        {
+          "id": "r1783093701114_m12",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m9",
+            "outcome": "winner"
+          },
+          "date": "1990-07-03"
+        },
+        {
+          "id": "r1783093701114_m13",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m11",
+            "outcome": "winner"
+          },
+          "date": "1990-07-04"
+        },
+        {
+          "id": "r1783093701114_m14",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m13",
+            "outcome": "winner"
+          },
+          "date": "1990-07-08"
+        },
+        {
+          "id": "r1783093701114_m3rd",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m13",
+            "outcome": "loser"
+          },
+          "date": "1990-07-07"
+        }
+      ]
+    }
+  ]
+}

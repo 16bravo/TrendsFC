@@ -1,0 +1,611 @@
+{
+  "id": "WC94",
+  "name": "World Cup",
+  "year": 1994,
+  "hosts": [
+    "United States"
+  ],
+  "rounds": [
+    {
+      "id": "r1783092964782",
+      "type": "group_stage",
+      "name": "Group Stage",
+      "config": {
+        "num_groups": 6,
+        "teams_per_group": 4,
+        "ranking_rules": {
+          "points_win": 3,
+          "points_draw": 1,
+          "points_loss": 0,
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored",
+            "head_to_head_gd"
+          ]
+        },
+        "qualifiers": {
+          "top_n_per_group": 2,
+          "best_thirds_enabled": true
+        }
+      },
+      "matches": [
+        {
+          "id": "r1783092964782_gA_0_1",
+          "group": "A",
+          "home": "United States",
+          "away": "Switzerland",
+          "date": "1994-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_0_2",
+          "group": "A",
+          "home": "United States",
+          "away": "Colombia",
+          "date": "1994-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_0_3",
+          "group": "A",
+          "home": "United States",
+          "away": "Romania",
+          "date": "1994-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_1_2",
+          "group": "A",
+          "home": "Switzerland",
+          "away": "Colombia",
+          "date": "1994-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_1_3",
+          "group": "A",
+          "home": "Switzerland",
+          "away": "Romania",
+          "date": "1994-06-22",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gA_2_3",
+          "group": "A",
+          "home": "Colombia",
+          "away": "Romania",
+          "date": "1994-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_1",
+          "group": "B",
+          "home": "Brazil",
+          "away": "Russia",
+          "date": "1994-06-20",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_2",
+          "group": "B",
+          "home": "Brazil",
+          "away": "Cameroon",
+          "date": "1994-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_0_3",
+          "group": "B",
+          "home": "Brazil",
+          "away": "Sweden",
+          "date": "1994-06-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_1_2",
+          "group": "B",
+          "home": "Russia",
+          "away": "Cameroon",
+          "date": "1994-06-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_1_3",
+          "group": "B",
+          "home": "Russia",
+          "away": "Sweden",
+          "date": "1994-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gB_2_3",
+          "group": "B",
+          "home": "Cameroon",
+          "away": "Sweden",
+          "date": "1994-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_1",
+          "group": "C",
+          "home": "Germany",
+          "away": "Bolivia",
+          "date": "1994-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_2",
+          "group": "C",
+          "home": "Germany",
+          "away": "Spain",
+          "date": "1994-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_0_3",
+          "group": "C",
+          "home": "Germany",
+          "away": "South Korea",
+          "date": "1994-06-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_1_2",
+          "group": "C",
+          "home": "Bolivia",
+          "away": "Spain",
+          "date": "1994-06-27",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_1_3",
+          "group": "C",
+          "home": "Bolivia",
+          "away": "South Korea",
+          "date": "1994-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gC_2_3",
+          "group": "C",
+          "home": "Spain",
+          "away": "South Korea",
+          "date": "1994-06-17",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_1",
+          "group": "D",
+          "home": "Argentina",
+          "away": "Greece",
+          "date": "1994-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_2",
+          "group": "D",
+          "home": "Argentina",
+          "away": "Nigeria",
+          "date": "1994-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_0_3",
+          "group": "D",
+          "home": "Argentina",
+          "away": "Bulgaria",
+          "date": "1994-06-30",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_1_2",
+          "group": "D",
+          "home": "Greece",
+          "away": "Nigeria",
+          "date": "1994-06-30",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_1_3",
+          "group": "D",
+          "home": "Greece",
+          "away": "Bulgaria",
+          "date": "1994-06-26",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gD_2_3",
+          "group": "D",
+          "home": "Nigeria",
+          "away": "Bulgaria",
+          "date": "1994-06-21",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_1",
+          "group": "E",
+          "home": "Italy",
+          "away": "Ireland",
+          "date": "1994-06-18",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_2",
+          "group": "E",
+          "home": "Italy",
+          "away": "Norway",
+          "date": "1994-06-23",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_0_3",
+          "group": "E",
+          "home": "Italy",
+          "away": "Mexico",
+          "date": "1994-06-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_1_2",
+          "group": "E",
+          "home": "Ireland",
+          "away": "Norway",
+          "date": "1994-06-28",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_1_3",
+          "group": "E",
+          "home": "Ireland",
+          "away": "Mexico",
+          "date": "1994-06-24",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gE_2_3",
+          "group": "E",
+          "home": "Norway",
+          "away": "Mexico",
+          "date": "1994-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_1",
+          "group": "F",
+          "home": "Belgium",
+          "away": "Morocco",
+          "date": "1994-06-19",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_2",
+          "group": "F",
+          "home": "Belgium",
+          "away": "Netherlands",
+          "date": "1994-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_0_3",
+          "group": "F",
+          "home": "Belgium",
+          "away": "Saudi Arabia",
+          "date": "1994-06-29",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_1_2",
+          "group": "F",
+          "home": "Morocco",
+          "away": "Netherlands",
+          "date": "1994-06-29",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_1_3",
+          "group": "F",
+          "home": "Morocco",
+          "away": "Saudi Arabia",
+          "date": "1994-06-25",
+          "cancelled": false
+        },
+        {
+          "id": "r1783092964782_gF_2_3",
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Saudi Arabia",
+          "date": "1994-06-20",
+          "cancelled": false
+        }
+      ],
+      "groups": {
+        "A": [
+          "United States",
+          "Switzerland",
+          "Colombia",
+          "Romania"
+        ],
+        "B": [
+          "Brazil",
+          "Russia",
+          "Cameroon",
+          "Sweden"
+        ],
+        "C": [
+          "Germany",
+          "Bolivia",
+          "Spain",
+          "South Korea"
+        ],
+        "D": [
+          "Argentina",
+          "Greece",
+          "Nigeria",
+          "Bulgaria"
+        ],
+        "E": [
+          "Italy",
+          "Ireland",
+          "Norway",
+          "Mexico"
+        ],
+        "F": [
+          "Belgium",
+          "Morocco",
+          "Netherlands",
+          "Saudi Arabia"
+        ]
+      }
+    },
+    {
+      "id": "r1783092964782_thirds",
+      "type": "best_thirds_ranking",
+      "name": "Best 3rds — Group Stage",
+      "virtual": true,
+      "linked_to_round": "r1783092964782",
+      "config": {
+        "num_qualifiers": 4,
+        "ranking_rules": {
+          "tiebreakers": [
+            "points",
+            "goal_difference",
+            "goals_scored"
+          ]
+        },
+        "mapping_file": "data/source/wc94_third_place_mapping.csv"
+      },
+      "matches": []
+    },
+    {
+      "id": "r1783093701114",
+      "type": "knockout",
+      "name": "Knockout",
+      "config": {
+        "legs": 1,
+        "extra_time": true,
+        "penalties": true,
+        "replay": false,
+        "third_place_match": true
+      },
+      "matches": [
+        {
+          "id": "r1783093701114_m0",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "A",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1994-07-03"
+        },
+        {
+          "id": "r1783093701114_m1",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "B",
+            "position": "2nd"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "F",
+            "position": "2nd"
+          },
+          "date": "1994-07-03"
+        },
+        {
+          "id": "r1783093701114_m2",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "F",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "E",
+            "position": "2nd"
+          },
+          "date": "1994-07-04"
+        },
+        {
+          "id": "r1783093701114_m3",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "B",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1994-07-04"
+        },
+        {
+          "id": "r1783093701114_m4",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "E",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "D",
+            "position": "2nd"
+          },
+          "date": "1994-07-05"
+        },
+        {
+          "id": "r1783093701114_m5",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "C",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1994-07-02"
+        },
+        {
+          "id": "r1783093701114_m6",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "D",
+            "position": "1st"
+          },
+          "slot_away": {
+            "round": "r1783092964782_thirds"
+          },
+          "date": "1994-07-05"
+        },
+        {
+          "id": "r1783093701114_m7",
+          "slot_home": {
+            "round": "r1783092964782",
+            "group": "A",
+            "position": "2nd"
+          },
+          "slot_away": {
+            "round": "r1783092964782",
+            "group": "C",
+            "position": "2nd"
+          },
+          "date": "1994-07-02"
+        },
+        {
+          "id": "r1783093701114_m8",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m0",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m1",
+            "outcome": "winner"
+          },
+          "date": "1994-07-10"
+        },
+        {
+          "id": "r1783093701114_m9",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m2",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m3",
+            "outcome": "winner"
+          },
+          "date": "1994-07-09"
+        },
+        {
+          "id": "r1783093701114_m10",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m4",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m5",
+            "outcome": "winner"
+          },
+          "date": "1994-07-10"
+        },
+        {
+          "id": "r1783093701114_m11",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m6",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m7",
+            "outcome": "winner"
+          },
+          "date": "1994-07-09"
+        },
+        {
+          "id": "r1783093701114_m12",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m8",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m9",
+            "outcome": "winner"
+          },
+          "date": "1994-07-13"
+        },
+        {
+          "id": "r1783093701114_m13",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m10",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m11",
+            "outcome": "winner"
+          },
+          "date": "1994-07-13"
+        },
+        {
+          "id": "r1783093701114_m14",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m12",
+            "outcome": "winner"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m13",
+            "outcome": "winner"
+          },
+          "date": "1994-07-17"
+        },
+        {
+          "id": "r1783093701114_m3rd",
+          "slot_home": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m12",
+            "outcome": "loser"
+          },
+          "slot_away": {
+            "round": "r1783093701114",
+            "match": "r1783093701114_m13",
+            "outcome": "loser"
+          },
+          "date": "1994-07-16"
+        }
+      ]
+    }
+  ]
+}
