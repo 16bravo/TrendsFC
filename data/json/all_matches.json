@@ -156,7 +156,7 @@
       "rating2": 5110,
       "rating_ev": 0,
       "rank1": 61,
-      "rank2": 57,
+      "rank2": 58,
       "win_prob": 58.5,
       "type": "fixture"
     },
@@ -353,11 +353,11 @@
       "score1": "",
       "score2": "",
       "rating1": 4941,
-      "rating2": 5101,
+      "rating2": 5111,
       "rating_ev": 0,
       "rank1": 82,
-      "rank2": 58,
-      "win_prob": 43.4,
+      "rank2": 57,
+      "win_prob": 42.4,
       "type": "fixture"
     },
     {
@@ -372,12 +372,12 @@
       "flag2": "ivory_coast.png",
       "score1": "",
       "score2": "",
-      "rating1": 5101,
+      "rating1": 5111,
       "rating2": 5233,
       "rating_ev": 0,
-      "rank1": 58,
+      "rank1": 57,
       "rank2": 36,
-      "win_prob": 46.5,
+      "win_prob": 47.6,
       "type": "fixture"
     },
     {
@@ -575,7 +575,7 @@
       "rating1": 5110,
       "rating2": 4737,
       "rating_ev": 0,
-      "rank1": 57,
+      "rank1": 58,
       "rank2": 131,
       "win_prob": 88.7,
       "type": "fixture"
@@ -1736,7 +1736,7 @@
       "rating2": 5499,
       "rating_ev": 0,
       "rank1": 14,
-      "rank2": 10,
+      "rank2": 9,
       "win_prob": 51.4,
       "type": "fixture"
     },
@@ -2275,7 +2275,7 @@
       "rating1": 5499,
       "rating2": 5189,
       "rating_ev": 0,
-      "rank1": 10,
+      "rank1": 9,
       "rank2": 43,
       "win_prob": 85.7,
       "type": "fixture"
@@ -3052,12 +3052,12 @@
       "flag2": "somalia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5101,
+      "rating1": 5111,
       "rating2": 4512,
       "rating_ev": 0,
-      "rank1": 58,
+      "rank1": 57,
       "rank2": 162,
-      "win_prob": 95.0,
+      "win_prob": 95.1,
       "type": "fixture"
     },
     {
@@ -3255,7 +3255,7 @@
       "rating1": 5110,
       "rating2": 4846,
       "rating_ev": 0,
-      "rank1": 57,
+      "rank1": 58,
       "rank2": 99,
       "win_prob": 83.1,
       "type": "fixture"
@@ -3396,7 +3396,7 @@
       "rating2": 5110,
       "rating_ev": 0,
       "rank1": 99,
-      "rank2": 57,
+      "rank2": 58,
       "win_prob": 32.8,
       "type": "fixture"
     },
@@ -3453,11 +3453,11 @@
       "score1": "",
       "score2": "",
       "rating1": 4512,
-      "rating2": 5101,
+      "rating2": 5111,
       "rating_ev": 0,
       "rank1": 162,
-      "rank2": 58,
-      "win_prob": 11.3,
+      "rank2": 57,
+      "win_prob": 10.9,
       "type": "fixture"
     },
     {
@@ -4272,12 +4272,12 @@
       "flag2": "gambia.png",
       "score1": "",
       "score2": "",
-      "rating1": 5101,
+      "rating1": 5111,
       "rating2": 4941,
       "rating_ev": 0,
-      "rank1": 58,
+      "rank1": 57,
       "rank2": 82,
-      "win_prob": 75.8,
+      "win_prob": 76.6,
       "type": "fixture"
     },
     {
@@ -4396,7 +4396,7 @@
       "rating2": 5110,
       "rating_ev": 0,
       "rank1": 131,
-      "rank2": 57,
+      "rank2": 58,
       "win_prob": 23.5,
       "type": "fixture"
     },
@@ -4496,7 +4496,7 @@
       "rating2": 5499,
       "rating_ev": 0,
       "rank1": 4,
-      "rank2": 10,
+      "rank2": 9,
       "win_prob": 67.6,
       "type": "fixture"
     },
@@ -5136,7 +5136,7 @@
       "rating2": 5499,
       "rating_ev": 0,
       "rank1": 43,
-      "rank2": 10,
+      "rank2": 9,
       "win_prob": 28.7,
       "type": "fixture"
     },
@@ -5715,7 +5715,7 @@
       "rating1": 5499,
       "rating2": 5566,
       "rating_ev": 0,
-      "rank1": 10,
+      "rank1": 9,
       "rank2": 4,
       "win_prob": 53.6,
       "type": "fixture"
@@ -6295,7 +6295,7 @@
       "rating1": 5499,
       "rating2": 5412,
       "rating_ev": 0,
-      "rank1": 10,
+      "rank1": 9,
       "rank2": 14,
       "win_prob": 69.5,
       "type": "fixture"
@@ -6573,11 +6573,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5233,
-      "rating2": 5101,
+      "rating2": 5111,
       "rating_ev": 0,
       "rank1": 36,
-      "rank2": 58,
-      "win_prob": 73.5,
+      "rank2": 57,
+      "win_prob": 72.6,
       "type": "fixture"
     },
     {
@@ -6655,7 +6655,7 @@
       "rating1": 5110,
       "rating2": 5088,
       "rating_ev": 0,
-      "rank1": 57,
+      "rank1": 58,
       "rank2": 61,
       "win_prob": 63.1,
       "type": "fixture"
@@ -7361,6 +7361,26 @@
       "type": "fixture"
     },
     {
+      "date": "2026-07-07",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "Colombia",
+      "team2": "Switzerland",
+      "original_team1": "Colombia",
+      "original_team2": "Switzerland",
+      "flag1": "colombia.png",
+      "flag2": "switzerland.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5498,
+      "rating2": 5458,
+      "rating_ev": 0,
+      "rank1": 10,
+      "rank2": 12,
+      "win_prob": 54.4,
+      "type": "fixture"
+    },
+    {
       "date": "2026-07-06",
       "country": "United States",
       "tournament": "World Cup",
@@ -7436,7 +7456,7 @@
       "rating2": 5499,
       "rating_ev": 0,
       "rank1": 6,
-      "rank2": 10,
+      "rank2": 9,
       "win_prob": 55.5,
       "type": "fixture"
     },
@@ -7530,15 +7550,15 @@
       "original_team2": "Ghana",
       "flag1": "colombia.png",
       "flag2": "ghana.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5508,
-      "rating2": 5101,
-      "rating_ev": 0,
-      "rank1": 9,
-      "rank2": 58,
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5498,
+      "rating2": 5111,
+      "rating_ev": -10,
+      "rank1": 10,
+      "rank2": 57,
       "win_prob": 85.3,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-07-02",
