@@ -125885,11 +125885,13 @@
     "1986-06-21": {
       "Mexico|West Germany": {
         "s1": 0,
-        "s2": 0
+        "s2": 0,
+        "winner": "West Germany"
       },
       "Brazil|France": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "France"
       }
     },
     "1986-06-22": {
@@ -125899,7 +125901,8 @@
       },
       "Belgium|Spain": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "Belgium"
       }
     },
     "1986-06-25": {
@@ -126123,7 +126126,8 @@
       },
       "Ireland|Romania": {
         "s1": 0,
-        "s2": 0
+        "s2": 0,
+        "winner": "Ireland"
       }
     },
     "1990-06-26": {
@@ -126139,7 +126143,8 @@
     "1990-06-30": {
       "Argentina|Yugoslavia": {
         "s1": 0,
-        "s2": 0
+        "s2": 0,
+        "winner": "Argentina"
       },
       "Ireland|Italy": {
         "s1": 0,
@@ -126159,13 +126164,15 @@
     "1990-07-03": {
       "Argentina|Italy": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "Argentina"
       }
     },
     "1990-07-04": {
       "England|West Germany": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "West Germany"
       }
     },
     "1990-07-07": {
@@ -126389,7 +126396,8 @@
       },
       "Bulgaria|Mexico": {
         "s1": 1,
-        "s2": 1
+        "s2": 1,
+        "winner": "Bulgaria"
       }
     },
     "1994-07-09": {
@@ -126409,7 +126417,8 @@
       },
       "Romania|Sweden": {
         "s1": 2,
-        "s2": 2
+        "s2": 2,
+        "winner": "Sweden"
       }
     },
     "1994-07-13": {
@@ -126431,7 +126440,8 @@
     "1994-07-17": {
       "Brazil|Italy": {
         "s1": 0,
-        "s2": 0
+        "s2": 0,
+        "winner": "Brazil"
       }
     },
     "1998-06-10": {
@@ -128988,6 +128998,16 @@
       },
       "Algeria|Switzerland": {
         "s1": 0,
+        "s2": 2
+      }
+    },
+    "2026-07-03": {
+      "Australia|Egypt": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Argentina|Cape Verde": {
+        "s1": 3,
         "s2": 2
       }
     }
