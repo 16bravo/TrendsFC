@@ -14,7 +14,7 @@
         "num_groups": 6,
         "teams_per_group": 4,
         "ranking_rules": {
-          "points_win": 3,
+          "points_win": 2,
           "points_draw": 1,
           "points_loss": 0,
           "tiebreakers": [

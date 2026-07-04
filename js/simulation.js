@@ -454,6 +454,11 @@ async function refreshSimulation() {
 function calculateGroupStage(round, atDate) {
     let groups = {};
     
+    // Read points configuration from round config
+    const pointsWin = round.config.ranking_rules.points_win ?? 3;
+    const pointsDraw = round.config.ranking_rules.points_draw ?? 1;
+    const pointsLoss = round.config.ranking_rules.points_loss ?? 0;
+    
     // Initialize groups
     round.matches.forEach(m => {
         if (!groups[m.group]) {
@@ -483,16 +488,18 @@ function calculateGroupStage(round, atDate) {
             a.gd = a.gf - a.ga;
 
             if (res.s1 > res.s2) {
-                h.pts += 3;
+                h.pts += pointsWin;
                 h.w++;
+                a.pts += pointsLoss;
                 a.l++;
             } else if (res.s1 < res.s2) {
-                a.pts += 3;
+                a.pts += pointsWin;
                 a.w++;
+                h.pts += pointsLoss;
                 h.l++;
             } else {
-                h.pts += 1;
-                a.pts += 1;
+                h.pts += pointsDraw;
+                a.pts += pointsDraw;
                 h.d++;
                 a.d++;
             }
@@ -507,15 +514,15 @@ function calculateGroupStage(round, atDate) {
                 if (m.home === team) {
                     h2h.mp++;
                     h2h.gf += res.s1; h2h.ga += res.s2;
-                    if (res.s1 > res.s2) { h2h.pts += 3; h2h.w++; }
-                    else if (res.s1 < res.s2) { h2h.l++; }
-                    else { h2h.pts += 1; h2h.d++; }
+                    if (res.s1 > res.s2) { h2h.pts += pointsWin; h2h.w++; }
+                    else if (res.s1 < res.s2) { h2h.pts += pointsLoss; h2h.l++; }
+                    else { h2h.pts += pointsDraw; h2h.d++; }
                 } else if (m.away === team) {
                     h2h.mp++;
                     h2h.gf += res.s2; h2h.ga += res.s1;
-                    if (res.s2 > res.s1) { h2h.pts += 3; h2h.w++; }
-                    else if (res.s2 < res.s1) { h2h.l++; }
-                    else { h2h.pts += 1; h2h.d++; }
+                    if (res.s2 > res.s1) { h2h.pts += pointsWin; h2h.w++; }
+                    else if (res.s2 < res.s1) { h2h.pts += pointsLoss; h2h.l++; }
+                    else { h2h.pts += pointsDraw; h2h.d++; }
                 }
             });
             h2h.gd = h2h.gf - h2h.ga;
