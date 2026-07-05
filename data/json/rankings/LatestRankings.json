@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2026-07-04"
+    "2026-07-05"
   ],
   "rankings": [
     {
@@ -14,12 +14,12 @@
       "points_def": 5064,
       "confederation": "UEFA",
       "ranking_off": 1,
-      "ranking_def": 5,
+      "ranking_def": 4,
       "ranking_change": 0,
       "points_change": -2,
       "ranking_off_change": 0,
       "points_off_change": -12,
-      "ranking_def_change": 3,
+      "ranking_def_change": 4,
       "points_def_change": 41
     },
     {
@@ -96,24 +96,6 @@
     },
     {
       "ranking": 6,
-      "flag": "brazil.png",
-      "team": "Brazil",
-      "reference_team": "Brazil",
-      "points": 5549,
-      "points_off": 5304,
-      "points_def": 5069,
-      "confederation": "CONMEBOL",
-      "ranking_off": 6,
-      "ranking_def": 4,
-      "ranking_change": 4,
-      "points_change": 49,
-      "ranking_off_change": 1,
-      "points_off_change": 35,
-      "ranking_def_change": 2,
-      "points_def_change": 29
-    },
-    {
-      "ranking": 7,
       "flag": "england.png",
       "team": "England",
       "reference_team": "England",
@@ -123,7 +105,7 @@
       "confederation": "UEFA",
       "ranking_off": 12,
       "ranking_def": 10,
-      "ranking_change": -3,
+      "ranking_change": -2,
       "points_change": -20,
       "ranking_off_change": 0,
       "points_off_change": 7,
@@ -131,7 +113,7 @@
       "points_def_change": -32
     },
     {
-      "ranking": 8,
+      "ranking": 7,
       "flag": "netherlands.png",
       "team": "Netherlands",
       "reference_team": "Netherlands",
@@ -139,32 +121,50 @@
       "points_off": 5300,
       "points_def": 4964,
       "confederation": "UEFA",
-      "ranking_off": 7,
+      "ranking_off": 6,
       "ranking_def": 23,
-      "ranking_change": 0,
+      "ranking_change": 1,
       "points_change": 25,
-      "ranking_off_change": -2,
+      "ranking_off_change": -1,
       "points_off_change": 23,
       "ranking_def_change": 8,
       "points_def_change": 25
+    },
+    {
+      "ranking": 8,
+      "flag": "brazil.png",
+      "team": "Brazil",
+      "reference_team": "Brazil",
+      "points": 5532,
+      "points_off": 5284,
+      "points_def": 5060,
+      "confederation": "CONMEBOL",
+      "ranking_off": 8,
+      "ranking_def": 5,
+      "ranking_change": 2,
+      "points_change": 32,
+      "ranking_off_change": -1,
+      "points_off_change": 15,
+      "ranking_def_change": 1,
+      "points_def_change": 20
     },
     {
       "ranking": 9,
       "flag": "norway.png",
       "team": "Norway",
       "reference_team": "Norway",
-      "points": 5499,
-      "points_off": 5283,
-      "points_def": 4921,
+      "points": 5516,
+      "points_off": 5291,
+      "points_def": 4940,
       "confederation": "UEFA",
-      "ranking_off": 8,
-      "ranking_def": 34,
+      "ranking_off": 7,
+      "ranking_def": 28,
       "ranking_change": -2,
-      "points_change": -31,
-      "ranking_off_change": 1,
-      "points_off_change": 30,
-      "ranking_def_change": -14,
-      "points_def_change": -48
+      "points_change": -14,
+      "ranking_off_change": 2,
+      "points_off_change": 38,
+      "ranking_def_change": -8,
+      "points_def_change": -29
     },
     {
       "ranking": 10,
@@ -320,12 +320,12 @@
       "points_def": 4939,
       "confederation": "UEFA",
       "ranking_off": 18,
-      "ranking_def": 28,
+      "ranking_def": 29,
       "ranking_change": -2,
       "points_change": -28,
       "ranking_off_change": -1,
       "points_off_change": -12,
-      "ranking_def_change": 0,
+      "ranking_def_change": -1,
       "points_def_change": -8
     },
     {
@@ -356,12 +356,12 @@
       "points_def": 4922,
       "confederation": "UEFA",
       "ranking_off": 16,
-      "ranking_def": 33,
+      "ranking_def": 34,
       "ranking_change": 0,
       "points_change": -2,
       "ranking_off_change": 0,
       "points_off_change": -3,
-      "ranking_def_change": 6,
+      "ranking_def_change": 5,
       "points_def_change": 5
     },
     {
@@ -410,12 +410,12 @@
       "points_def": 4925,
       "confederation": "UEFA",
       "ranking_off": 25,
-      "ranking_def": 30,
+      "ranking_def": 31,
       "ranking_change": -4,
       "points_change": -29,
       "ranking_off_change": -1,
       "points_off_change": -1,
-      "ranking_def_change": -5,
+      "ranking_def_change": -6,
       "points_def_change": -32
     },
     {
@@ -518,12 +518,12 @@
       "points_def": 4925,
       "confederation": "UEFA",
       "ranking_off": 32,
-      "ranking_def": 30,
+      "ranking_def": 31,
       "ranking_change": -4,
       "points_change": -40,
       "ranking_off_change": -4,
       "points_off_change": -44,
-      "ranking_def_change": 3,
+      "ranking_def_change": 2,
       "points_def_change": -9
     },
     {
@@ -536,12 +536,12 @@
       "points_def": 4924,
       "confederation": "CAF",
       "ranking_off": 17,
-      "ranking_def": 32,
+      "ranking_def": 33,
       "ranking_change": -1,
       "points_change": -29,
       "ranking_off_change": -2,
       "points_off_change": -28,
-      "ranking_def_change": -8,
+      "ranking_def_change": -9,
       "points_def_change": -40
     },
     {
@@ -608,12 +608,12 @@
       "points_def": 4935,
       "confederation": "UEFA",
       "ranking_off": 24,
-      "ranking_def": 29,
+      "ranking_def": 30,
       "ranking_change": 0,
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 3,
+      "ranking_def_change": 2,
       "points_def_change": 0
     },
     {
