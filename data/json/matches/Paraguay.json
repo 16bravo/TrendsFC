@@ -1,13 +1,13 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 794,
+    "matches_played": 795,
     "wins": 279,
     "draws": 211,
-    "losses": 304,
+    "losses": 305,
     "goals_for": 1010,
-    "goals_against": 1120,
-    "goal_difference": -110,
+    "goals_against": 1121,
+    "goal_difference": -111,
     "win_percentage": 35.1,
     "avg_points": 1.32,
     "best_rank": 6,
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 367,
-    "neutral_matches": 212,
+    "neutral_matches": 213,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2026-06-29"
+    "last_match_date": "2026-07-04"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "France",
       "flag1": "paraguay.png",
       "flag2": "france.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5319,
-      "rating2": 5627,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 5323,
+      "rating2": 5623,
+      "rating_ev": 4,
       "rank": 25,
       "win_prob": 20.7,
-      "type": "fixture",
+      "type": "past",
       "points_off": 5036,
-      "points_def": 5033,
+      "points_def": 5049.34420852838,
       "ranking_off": 44,
-      "ranking_def": 9
+      "ranking_def": 7
     },
     {
       "date": "2026-06-29",

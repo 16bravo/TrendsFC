@@ -1,18 +1,18 @@
 {
   "team": "Canada",
   "stats": {
-    "matches_played": 488,
+    "matches_played": 489,
     "wins": 191,
     "draws": 116,
-    "losses": 181,
+    "losses": 182,
     "goals_for": 632,
-    "goals_against": 611,
-    "goal_difference": 21,
+    "goals_against": 614,
+    "goal_difference": 18,
     "win_percentage": 39.1,
     "avg_points": 1.41,
     "best_rank": 16,
     "worst_rank": 100,
-    "avg_rank": 61.02,
+    "avg_rank": 60.97,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Cayman Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 153,
     "away_matches": 200,
-    "neutral_matches": 135,
+    "neutral_matches": 136,
     "first_match_date": "1924-06-07",
-    "last_match_date": "2026-06-28"
+    "last_match_date": "2026-07-04"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Morocco",
       "flag1": "canada.png",
       "flag2": "morocco.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5270,
-      "rating2": 5358,
-      "rating_ev": 0,
-      "rank": 28,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 5234,
+      "rating2": 5394,
+      "rating_ev": -36,
+      "rank": 35,
       "win_prob": 40.4,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4991,
-      "points_def": 4916,
+      "points_def": 4892.789896952978,
       "ranking_off": 59,
-      "ranking_def": 37
+      "ranking_def": 46
     },
     {
       "date": "2026-06-28",
