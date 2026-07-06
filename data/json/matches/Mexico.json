@@ -1,14 +1,14 @@
 {
   "team": "Mexico",
   "stats": {
-    "matches_played": 1031,
+    "matches_played": 1032,
     "wins": 536,
     "draws": 237,
-    "losses": 258,
-    "goals_for": 1832,
-    "goals_against": 1054,
-    "goal_difference": 778,
-    "win_percentage": 52.0,
+    "losses": 259,
+    "goals_for": 1834,
+    "goals_against": 1057,
+    "goal_difference": 777,
+    "win_percentage": 51.9,
     "avg_points": 1.79,
     "best_rank": 2,
     "worst_rank": 41,
@@ -25,11 +25,11 @@
       "date": "1961-05-10",
       "flag": "england.png"
     },
-    "home_matches": 302,
+    "home_matches": 303,
     "away_matches": 271,
     "neutral_matches": 458,
     "first_match_date": "1923-01-01",
-    "last_match_date": "2026-06-30"
+    "last_match_date": "2026-07-05"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "England",
       "flag1": "mexico.png",
       "flag2": "england.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5386,
-      "rating2": 5539,
-      "rating_ev": 0,
-      "rank": 16,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5376,
+      "rating2": 5549,
+      "rating_ev": -10,
+      "rank": 17,
       "win_prob": 44.2,
-      "type": "fixture",
-      "points_off": 5061,
-      "points_def": 5042,
-      "ranking_off": 33,
-      "ranking_def": 9
+      "type": "past",
+      "points_off": 5071.499334679664,
+      "points_def": 5014.636284248735,
+      "ranking_off": 32,
+      "ranking_def": 10
     },
     {
       "date": "2026-06-30",
