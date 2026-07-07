@@ -1,18 +1,18 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 827,
+    "matches_played": 828,
     "wins": 369,
     "draws": 171,
-    "losses": 287,
-    "goals_for": 1257,
-    "goals_against": 1078,
-    "goal_difference": 179,
+    "losses": 288,
+    "goals_for": 1258,
+    "goals_against": 1082,
+    "goal_difference": 176,
     "win_percentage": 44.6,
-    "avg_points": 1.55,
+    "avg_points": 1.54,
     "best_rank": 12,
     "worst_rank": 94,
-    "avg_rank": 37.94,
+    "avg_rank": 37.93,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Barbados",
@@ -25,11 +25,11 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 491,
+    "home_matches": 492,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2026-07-01"
+    "last_match_date": "2026-07-06"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Belgium",
       "flag1": "usa.png",
       "flag2": "belgium.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5285,
-      "rating2": 5496,
-      "rating_ev": 0,
-      "rank": 27,
+      "score1": 1,
+      "score2": 4,
+      "rating1": 5251,
+      "rating2": 5530,
+      "rating_ev": -34,
+      "rank": 30,
       "win_prob": 38.1,
-      "type": "fixture",
-      "points_off": 5082,
-      "points_def": 4829,
-      "ranking_off": 31,
-      "ranking_def": 61
+      "type": "past",
+      "points_off": 5069.176351765842,
+      "points_def": 4800.370441556766,
+      "ranking_off": 32,
+      "ranking_def": 76
     },
     {
       "date": "2026-07-01",
