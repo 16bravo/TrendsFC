@@ -48,14 +48,22 @@ jobs:
         run: |
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
           git config --global user.name "${{ secrets.GIT_USERNAME }}"
+      
           if git diff --quiet -- data/source/; then
             echo "No changes in data/source/ directory. Skipping commit."
-          else
-            git add -A data/source/
-            git commit -m "Update data/source/"
-            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-            git push
+            exit 0
           fi
+      
+          git add -A data/source/
+          git commit -m "Update data/source/" || exit 0
+      
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+      
+          # Sync with latest remote main before pushing
+          git fetch origin main
+          git pull --rebase origin main
+      
+          git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
