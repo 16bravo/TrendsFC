@@ -33,11 +33,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5019,
-      "rating2": 5211,
+      "rating2": 5219,
       "rating_ev": 0,
       "rank1": 71,
-      "rank2": 38,
-      "win_prob": 40.0,
+      "rank2": 37,
+      "win_prob": 39.2,
       "type": "fixture"
     },
     {
@@ -252,12 +252,12 @@
       "flag2": "south_sudan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5211,
+      "rating1": 5219,
       "rating2": 4566,
       "rating_ev": 0,
-      "rank1": 38,
+      "rank1": 37,
       "rank2": 159,
-      "win_prob": 95.9,
+      "win_prob": 96.0,
       "type": "fixture"
     },
     {
@@ -2932,12 +2932,12 @@
       "flag2": "malawi.png",
       "score1": "",
       "score2": "",
-      "rating1": 5211,
+      "rating1": 5219,
       "rating2": 4692,
       "rating_ev": 0,
-      "rank1": 38,
+      "rank1": 37,
       "rank2": 139,
-      "win_prob": 93.4,
+      "win_prob": 93.6,
       "type": "fixture"
     },
     {
@@ -3233,11 +3233,11 @@
       "score1": "",
       "score2": "",
       "rating1": 4692,
-      "rating2": 5211,
+      "rating2": 5219,
       "rating_ev": 0,
       "rank1": 139,
-      "rank2": 38,
-      "win_prob": 14.4,
+      "rank2": 37,
+      "win_prob": 14.0,
       "type": "fixture"
     },
     {
@@ -4053,11 +4053,11 @@
       "score1": "",
       "score2": "",
       "rating1": 4566,
-      "rating2": 5211,
+      "rating2": 5219,
       "rating_ev": 0,
       "rank1": 159,
-      "rank2": 38,
-      "win_prob": 9.3,
+      "rank2": 37,
+      "win_prob": 9.1,
       "type": "fixture"
     },
     {
@@ -6532,12 +6532,12 @@
       "flag2": "angola.png",
       "score1": "",
       "score2": "",
-      "rating1": 5211,
+      "rating1": 5219,
       "rating2": 5019,
       "rating_ev": 0,
-      "rank1": 38,
+      "rank1": 37,
       "rank2": 71,
-      "win_prob": 78.3,
+      "win_prob": 78.8,
       "type": "fixture"
     },
     {
@@ -7352,12 +7352,12 @@
       "flag2": "switzerland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5593,
+      "rating1": 5585,
       "rating2": 5460,
       "rating_ev": 0,
       "rank1": 3,
       "rank2": 12,
-      "win_prob": 64.2,
+      "win_prob": 63.4,
       "type": "fixture"
     },
     {
@@ -28878,26 +28878,6 @@
       "rank1": 40,
       "rank2": 161,
       "win_prob": 96.9,
-      "type": "past"
-    },
-    {
-      "date": "2025-07-08",
-      "country": "South Korea",
-      "tournament": "East Asian Championship",
-      "team1": "Japan",
-      "team2": "Hong Kong",
-      "original_team1": "Japan",
-      "original_team2": "Hong Kong",
-      "flag1": "japan.png",
-      "flag2": "hong_kong.png",
-      "score1": 6,
-      "score2": 1,
-      "rating1": 5440,
-      "rating2": 4489,
-      "rating_ev": 14,
-      "rank1": 11,
-      "rank2": 162,
-      "win_prob": 97.6,
       "type": "past"
     }
   ]
