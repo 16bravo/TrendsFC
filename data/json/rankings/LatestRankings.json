@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2026-07-09"
+    "2026-07-10"
   ],
   "rankings": [
     {
@@ -9,18 +9,18 @@
       "flag": "spain.png",
       "team": "Spain",
       "reference_team": "Spain",
-      "points": 5684,
-      "points_off": 5351,
-      "points_def": 5088,
+      "points": 5689,
+      "points_off": 5350,
+      "points_def": 5101,
       "confederation": "UEFA",
       "ranking_off": 2,
-      "ranking_def": 3,
+      "ranking_def": 2,
       "ranking_change": 0,
-      "points_change": 5,
+      "points_change": 10,
       "ranking_off_change": -1,
-      "points_off_change": -32,
-      "ranking_def_change": 5,
-      "points_def_change": 65
+      "points_off_change": -33,
+      "ranking_def_change": 6,
+      "points_def_change": 78
     },
     {
       "ranking": 2,
@@ -31,11 +31,11 @@
       "points_off": 5321,
       "points_def": 5079,
       "confederation": "UEFA",
-      "ranking_off": 5,
+      "ranking_off": 4,
       "ranking_def": 4,
       "ranking_change": 4,
       "points_change": 91,
-      "ranking_off_change": 1,
+      "ranking_off_change": 2,
       "points_off_change": 48,
       "ranking_def_change": 5,
       "points_def_change": 66
@@ -153,16 +153,16 @@
       "flag": "belgium.png",
       "team": "Belgium",
       "reference_team": "Belgium",
-      "points": 5530,
-      "points_off": 5333,
+      "points": 5525,
+      "points_off": 5319,
       "points_def": 5006,
       "confederation": "UEFA",
-      "ranking_off": 4,
+      "ranking_off": 5,
       "ranking_def": 12,
       "ranking_change": 2,
-      "points_change": 35,
-      "ranking_off_change": -1,
-      "points_off_change": 29,
+      "points_change": 30,
+      "ranking_off_change": -2,
+      "points_off_change": 15,
       "ranking_def_change": -1,
       "points_def_change": 10
     },
@@ -374,12 +374,12 @@
       "points_def": 5093,
       "confederation": "CONMEBOL",
       "ranking_off": 39,
-      "ranking_def": 2,
+      "ranking_def": 3,
       "ranking_change": -4,
       "points_change": -35,
       "ranking_off_change": -4,
       "points_off_change": -24,
-      "ranking_def_change": 0,
+      "ranking_def_change": -1,
       "points_def_change": -31
     },
     {

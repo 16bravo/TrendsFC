@@ -52,7 +52,7 @@
       "type": "fixture",
       "points_off": 5321,
       "points_def": 5079,
-      "ranking_off": 5,
+      "ranking_off": 4,
       "ranking_def": 4
     },
     {
@@ -75,7 +75,7 @@
       "type": "fixture",
       "points_off": 5321,
       "points_def": 5079,
-      "ranking_off": 5,
+      "ranking_off": 4,
       "ranking_def": 4
     },
     {
@@ -91,14 +91,14 @@
       "score1": "",
       "score2": "",
       "rating1": 5637,
-      "rating2": 5530,
+      "rating2": 5525,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 71.3,
+      "win_prob": 71.7,
       "type": "fixture",
       "points_off": 5321,
       "points_def": 5079,
-      "ranking_off": 5,
+      "ranking_off": 4,
       "ranking_def": 4
     },
     {
@@ -121,7 +121,7 @@
       "type": "fixture",
       "points_off": 5321,
       "points_def": 5079,
-      "ranking_off": 5,
+      "ranking_off": 4,
       "ranking_def": 4
     },
     {
@@ -137,14 +137,14 @@
       "score1": "",
       "score2": "",
       "rating1": 5637,
-      "rating2": 5530,
+      "rating2": 5525,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 50.8,
+      "win_prob": 51.3,
       "type": "fixture",
       "points_off": 5321,
       "points_def": 5079,
-      "ranking_off": 5,
+      "ranking_off": 4,
       "ranking_def": 4
     },
     {
@@ -167,7 +167,30 @@
       "type": "fixture",
       "points_off": 5321,
       "points_def": 5079,
-      "ranking_off": 5,
+      "ranking_off": 4,
+      "ranking_def": 4
+    },
+    {
+      "date": "2026-07-14",
+      "country": "United States",
+      "tournament": "World Cup",
+      "team1": "France",
+      "team2": "Spain",
+      "original_team1": "France",
+      "original_team2": "Spain",
+      "flag1": "france.png",
+      "flag2": "spain.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5637,
+      "rating2": 5689,
+      "rating_ev": 0,
+      "rank": 2,
+      "win_prob": 44.3,
+      "type": "fixture",
+      "points_off": 5321,
+      "points_def": 5079,
+      "ranking_off": 4,
       "ranking_def": 4
     },
     {
