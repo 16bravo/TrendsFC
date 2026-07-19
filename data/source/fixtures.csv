@@ -1,14 +1,12 @@
 date,home_team,away_team,tournament,country,neutral
-2026-07-18,Vietnam,Myanmar,Friendly,Vietnam,False
-2026-07-19,Argentina,Spain,World Cup,United States,True
 2026-07-24,Cambodia,Singapore,SE Asian Champ,Cambodia,False
 2026-07-24,East Timor,Vietnam,SE Asian Champ,Thailand,True
 2026-07-25,Laos,Thailand,SE Asian Champ,Laos,False
 2026-07-25,Myanmar,Malaysia,SE Asian Champ,Myanmar,False
 2026-07-27,Indonesia,Cambodia,SE Asian Champ,Indonesia,False
 2026-07-27,Singapore,East Timor,SE Asian Champ,Singapore,False
-2026-07-28,Philippines,Myanmar,SE Asian Champ,Philippines,False
 2026-07-28,Malaysia,Laos,SE Asian Champ,Malaysia,False
+2026-07-28,Philippines,Myanmar,SE Asian Champ,Philippines,False
 2026-07-31,East Timor,Indonesia,SE Asian Champ,Thailand,True
 2026-07-31,Vietnam,Singapore,SE Asian Champ,Vietnam,False
 2026-08-01,Laos,Philippines,SE Asian Champ,Laos,False
@@ -21,23 +19,23 @@ date,home_team,away_team,tournament,country,neutral
 2026-08-07,Vietnam,Cambodia,SE Asian Champ,Vietnam,False
 2026-08-08,Malaysia,Philippines,SE Asian Champ,Malaysia,False
 2026-08-08,Thailand,Myanmar,SE Asian Champ,Thailand,False
+2026-09-19,Namibia,Congo,African Cup qualifier,Namibia,False
 2026-09-19,Tunisia,Uganda,African Cup qualifier,Tunisia,False
 2026-09-19,Togo,Burundi,African Cup qualifier,Togo,False
 2026-09-19,Tanzania,Guinea-Bissau,African Cup qualifier,Tanzania,False
-2026-09-19,Sudan,Ethiopia,African Cup qualifier,Sudan,False
+2026-09-19,South Africa,Guinea,African Cup qualifier,South Africa,False
 2026-09-19,Sierra Leone,Zimbabwe,African Cup qualifier,Sierra Leone,False
 2026-09-19,Senegal,Mozambique,African Cup qualifier,Senegal,False
 2026-09-19,Rwanda,Liberia,African Cup qualifier,Rwanda,False
 2026-09-19,Niger,Lesotho,African Cup qualifier,Niger,False
 2026-09-19,Nigeria,Madagascar,African Cup qualifier,Nigeria,False
-2026-09-19,Namibia,Congo,African Cup qualifier,Namibia,False
 2026-09-19,Morocco,Gabon,African Cup qualifier,Morocco,False
-2026-09-19,South Africa,Guinea,African Cup qualifier,South Africa,False
+2026-09-19,Sudan,Ethiopia,African Cup qualifier,Sudan,False
 2026-09-19,Mali,Cape Verde,African Cup qualifier,Mali,False
 2026-09-19,Algeria,Zambia,African Cup qualifier,Algeria,False
 2026-09-19,Burkina Faso,Benin,African Cup qualifier,Burkina Faso,False
-2026-09-19,DR Congo,Equatorial Guinea,African Cup qualifier,DR Congo,False
 2026-09-19,Mauritania,Central African Republic,African Cup qualifier,Mauritania,False
+2026-09-19,DR Congo,Equatorial Guinea,African Cup qualifier,DR Congo,False
 2026-09-19,Egypt,Angola,African Cup qualifier,Egypt,False
 2026-09-19,Cameroon,Comoros,African Cup qualifier,Cameroon,False
 2026-09-19,Ivory Coast,Ghana,African Cup qualifier,Ivory Coast,False
@@ -80,15 +78,15 @@ date,home_team,away_team,tournament,country,neutral
 2026-09-26,England,Spain,European League A,England,False
 2026-09-26,Bulgaria,Luxembourg,European League C,Bulgaria,False
 2026-09-27,Gibraltar,Andorra,European League D,Gibraltar,False
-2026-09-27,Qatar,Yemen,Gulf Cup,Saudi Arabia,True
+2026-09-27,Bahrain,United Arab Emirates,Gulf Cup,Saudi Arabia,True
 2026-09-27,Lithuania,Azerbaijan,European League D,Lithuania,False
 2026-09-27,Ireland,Israel,European League B,Hungary,True
-2026-09-27,Bahrain,United Arab Emirates,Gulf Cup,Saudi Arabia,True
+2026-09-27,Qatar,Yemen,Gulf Cup,Saudi Arabia,True
 2026-09-27,Serbia,Netherlands,European League A,Serbia,False
 2026-09-27,Norway,Portugal,European League A,Norway,False
 2026-09-27,Germany,Greece,European League A,Germany,False
-2026-09-27,Austria,Kosovo,European League B,Austria,False
 2026-09-27,Denmark,Wales,European League A,Denmark,False
+2026-09-27,Austria,Kosovo,European League B,Austria,False
 2026-09-28,Latvia,Cyprus,European League C,Latvia,False
 2026-09-28,Armenia,Montenegro,European League C,Armenia,False
 2026-09-28,Georgia,Ukraine,European League B,Georgia,False
@@ -168,7 +166,7 @@ date,home_team,away_team,tournament,country,neutral
 2026-10-06,Belarus,Finland,European League C,,True
 2026-10-19,Guinea-Bissau,Nigeria,African Cup qualifier,Guinea-Bissau,False
 2026-10-19,Zimbabwe,DR Congo,African Cup qualifier,Zimbabwe,False
-2026-10-19,Zambia,Togo,African Cup qualifier,Zambia,False
+2026-10-19,Uganda,Libya,African Cup qualifier,Uganda,False
 2026-10-19,South Sudan,Egypt,African Cup qualifier,South Sudan,False
 2026-10-19,Somalia,Ivory Coast,African Cup qualifier,Somalia,False
 2026-10-19,Mozambique,Sudan,African Cup qualifier,Mozambique,False
@@ -177,27 +175,27 @@ date,home_team,away_team,tournament,country,neutral
 2026-10-19,Lesotho,Morocco,African Cup qualifier,Lesotho,False
 2026-10-19,Guinea,Kenya,African Cup qualifier,Guinea,False
 2026-10-19,Ghana,Gambia,African Cup qualifier,Ghana,False
-2026-10-19,Uganda,Libya,African Cup qualifier,Uganda,False
+2026-10-19,Zambia,Togo,African Cup qualifier,Zambia,False
 2026-10-19,Ethiopia,Senegal,African Cup qualifier,Ethiopia,False
 2026-10-19,Angola,Malawi,African Cup qualifier,Angola,False
-2026-10-19,Benin,Mauritania,African Cup qualifier,Benin,False
 2026-10-19,Botswana,Tunisia,African Cup qualifier,Botswana,False
 2026-10-19,Burundi,Algeria,African Cup qualifier,Burundi,False
 2026-10-19,Cape Verde,Rwanda,African Cup qualifier,Cape Verde,False
-2026-10-19,Gabon,Niger,African Cup qualifier,Gabon,False
+2026-10-19,Benin,Mauritania,African Cup qualifier,Benin,False
 2026-10-19,Comoros,Namibia,African Cup qualifier,Comoros,False
 2026-10-19,Congo,Cameroon,African Cup qualifier,Congo,False
 2026-10-19,Equatorial Guinea,Sierra Leone,African Cup qualifier,Equatorial Guinea,False
 2026-10-19,Eritrea,South Africa,African Cup qualifier,Eritrea,False
 2026-10-19,Central African Republic,Burkina Faso,African Cup qualifier,Central African Republic,False
+2026-10-19,Gabon,Niger,African Cup qualifier,Gabon,False
 2026-11-12,Czechia,Spain,European League A,Czechia,False
+2026-11-12,San Marino,Belarus,European League C,San Marino,False
 2026-11-12,Montenegro,Latvia,European League C,Montenegro,False
 2026-11-12,Armenia,Cyprus,European League C,Armenia,False
 2026-11-12,Albania,Finland,European League C,Albania,False
 2026-11-12,Turkey,Belgium,European League A,Turkey,False
 2026-11-12,Italy,France,European League A,Italy,False
 2026-11-12,England,Croatia,European League A,England,False
-2026-11-12,San Marino,Belarus,European League C,San Marino,False
 2026-11-12,New Zealand,India,Friendly,New Zealand,False
 2026-11-13,Liechtenstein,Azerbaijan,European League D,Liechtenstein,False
 2026-11-13,Serbia,Germany,European League A,Serbia,False
