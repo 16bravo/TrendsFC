@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2026-07-25"
+    "2026-07-27"
   ],
   "rankings": [
     {
@@ -3001,11 +3001,11 @@
       "points_off": 4630,
       "points_def": 4427,
       "confederation": "UEFA",
-      "ranking_off": 173,
+      "ranking_off": 172,
       "ranking_def": 169,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 0,
+      "ranking_off_change": 1,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
@@ -3048,24 +3048,6 @@
     },
     {
       "ranking": 170,
-      "flag": "singapore.png",
-      "team": "Singapore",
-      "reference_team": "Singapore",
-      "points": 4413,
-      "points_off": 4650,
-      "points_def": 4392,
-      "confederation": "AFC",
-      "ranking_off": 170,
-      "ranking_def": 174,
-      "ranking_change": 1,
-      "points_change": 7,
-      "ranking_off_change": 0,
-      "points_off_change": 7,
-      "ranking_def_change": 1,
-      "points_def_change": 16
-    },
-    {
-      "ranking": 171,
       "flag": "st_vincent.png",
       "team": "St Vincent & Grenadines",
       "reference_team": "St Vincent & Grenadines",
@@ -3075,12 +3057,30 @@
       "confederation": "CONCACAF",
       "ranking_off": 154,
       "ranking_def": 165,
-      "ranking_change": -1,
+      "ranking_change": 0,
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
+    },
+    {
+      "ranking": 171,
+      "flag": "singapore.png",
+      "team": "Singapore",
+      "reference_team": "Singapore",
+      "points": 4401,
+      "points_off": 4626,
+      "points_def": 4392,
+      "confederation": "AFC",
+      "ranking_off": 173,
+      "ranking_def": 174,
+      "ranking_change": 0,
+      "points_change": -5,
+      "ranking_off_change": -3,
+      "points_off_change": -17,
+      "ranking_def_change": 1,
+      "points_def_change": 16
     },
     {
       "ranking": 172,
@@ -3199,11 +3199,11 @@
       "points_off": 4633,
       "points_def": 4347,
       "confederation": "CONCACAF",
-      "ranking_off": 171,
+      "ranking_off": 170,
       "ranking_def": 178,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 0,
+      "ranking_off_change": 1,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
@@ -3253,11 +3253,11 @@
       "points_off": 4633,
       "points_def": 4346,
       "confederation": "CONCACAF",
-      "ranking_off": 171,
+      "ranking_off": 170,
       "ranking_def": 181,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 0,
+      "ranking_off_change": 1,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
@@ -3717,18 +3717,18 @@
       "flag": "timor.png",
       "team": "East Timor",
       "reference_team": "East Timor",
-      "points": 3830,
+      "points": 3842,
       "points_off": 4442,
-      "points_def": 4044,
+      "points_def": 4067,
       "confederation": "AFC",
       "ranking_off": 197,
       "ranking_def": 207,
       "ranking_change": 0,
-      "points_change": -40,
+      "points_change": -28,
       "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 0,
-      "points_def_change": -40
+      "points_def_change": -17
     },
     {
       "ranking": 208,
