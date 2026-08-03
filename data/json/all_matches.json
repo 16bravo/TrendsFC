@@ -3215,7 +3215,7 @@
       "rating1": 4181,
       "rating2": 3554,
       "rating_ev": 0,
-      "rank1": 185,
+      "rank1": 186,
       "rank2": 213,
       "win_prob": 95.6,
       "type": "fixture"
@@ -5336,7 +5336,7 @@
       "rating2": 4181,
       "rating_ev": 0,
       "rank1": 214,
-      "rank2": 185,
+      "rank2": 186,
       "win_prob": 8.9,
       "type": "fixture"
     },
@@ -6635,7 +6635,7 @@
       "rating1": 4181,
       "rating2": 3522,
       "rating_ev": 0,
-      "rank1": 185,
+      "rank1": 186,
       "rank2": 214,
       "win_prob": 96.1,
       "type": "fixture"
@@ -7496,7 +7496,7 @@
       "rating2": 4181,
       "rating_ev": 0,
       "rank1": 213,
-      "rank2": 185,
+      "rank2": 186,
       "win_prob": 9.9,
       "type": "fixture"
     },
@@ -8113,11 +8113,11 @@
       "score1": "",
       "score2": "",
       "rating1": 4689,
-      "rating2": 4179,
+      "rating2": 4195,
       "rating_ev": 0,
       "rank1": 140,
-      "rank2": 186,
-      "win_prob": 93.2,
+      "rank2": 184,
+      "win_prob": 92.8,
       "type": "fixture"
     },
     {
@@ -8163,22 +8163,22 @@
     {
       "date": "2026-08-03",
       "country": "Cambodia",
-      "tournament": "SE Asian Champ",
+      "tournament": "Southeast Asian Champ",
       "team1": "Cambodia",
       "team2": "East Timor",
       "original_team1": "Cambodia",
       "original_team2": "East Timor",
       "flag1": "cambodia.png",
       "flag2": "timor.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4179,
-      "rating2": 3852,
-      "rating_ev": 0,
-      "rank1": 186,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4195,
+      "rating2": 3836,
+      "rating_ev": 16,
+      "rank1": 184,
       "rank2": 207,
       "win_prob": 86.5,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-08-03",

@@ -1,7 +1,7 @@
 {
   "year": "latest",
   "latest_date": [
-    "2026-08-01"
+    "2026-08-03"
   ],
   "rankings": [
     {
@@ -3181,11 +3181,11 @@
       "points_off": 4556,
       "points_def": 4269,
       "confederation": "UEFA",
-      "ranking_off": 184,
+      "ranking_off": 185,
       "ranking_def": 190,
       "ranking_change": 0,
       "points_change": 0,
-      "ranking_off_change": 0,
+      "ranking_off_change": -1,
       "points_off_change": 0,
       "ranking_def_change": 1,
       "points_def_change": 0
@@ -3300,6 +3300,24 @@
     },
     {
       "ranking": 184,
+      "flag": "cambodia.png",
+      "team": "Cambodia",
+      "reference_team": "Cambodia",
+      "points": 4195,
+      "points_off": 4556,
+      "points_def": 4268,
+      "confederation": "AFC",
+      "ranking_off": 184,
+      "ranking_def": 191,
+      "ranking_change": -2,
+      "points_change": -6,
+      "ranking_off_change": 1,
+      "points_off_change": 1,
+      "ranking_def_change": -2,
+      "points_def_change": -17
+    },
+    {
+      "ranking": 185,
       "flag": "papua.png",
       "team": "Papua New Guinea",
       "reference_team": "Papua New Guinea",
@@ -3309,7 +3327,7 @@
       "confederation": "OFC",
       "ranking_off": 191,
       "ranking_def": 189,
-      "ranking_change": 0,
+      "ranking_change": -1,
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
@@ -3317,7 +3335,7 @@
       "points_def_change": 0
     },
     {
-      "ranking": 185,
+      "ranking": 186,
       "flag": "france.png",
       "team": "Saint Martin",
       "reference_team": "Saint Martin",
@@ -3327,30 +3345,12 @@
       "confederation": "CONCACAF",
       "ranking_off": 188,
       "ranking_def": 184,
-      "ranking_change": 0,
+      "ranking_change": -1,
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
       "ranking_def_change": 0,
       "points_def_change": 0
-    },
-    {
-      "ranking": 186,
-      "flag": "cambodia.png",
-      "team": "Cambodia",
-      "reference_team": "Cambodia",
-      "points": 4179,
-      "points_off": 4555,
-      "points_def": 4248,
-      "confederation": "AFC",
-      "ranking_off": 185,
-      "ranking_def": 193,
-      "ranking_change": -4,
-      "points_change": -22,
-      "ranking_off_change": 0,
-      "points_off_change": 0,
-      "ranking_def_change": -4,
-      "points_def_change": -37
     },
     {
       "ranking": 187,
@@ -3452,12 +3452,12 @@
       "points_def": 4267,
       "confederation": "CONCACAF",
       "ranking_off": 183,
-      "ranking_def": 191,
+      "ranking_def": 192,
       "ranking_change": 0,
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -3650,12 +3650,12 @@
       "points_def": 4254,
       "confederation": "AFC",
       "ranking_off": 209,
-      "ranking_def": 192,
+      "ranking_def": 193,
       "ranking_change": 0,
       "points_change": 0,
       "ranking_off_change": 0,
       "points_off_change": 0,
-      "ranking_def_change": 1,
+      "ranking_def_change": 0,
       "points_def_change": 0
     },
     {
@@ -3717,18 +3717,18 @@
       "flag": "timor.png",
       "team": "East Timor",
       "reference_team": "East Timor",
-      "points": 3852,
-      "points_off": 4442,
-      "points_def": 4076,
+      "points": 3836,
+      "points_off": 4421,
+      "points_def": 4074,
       "confederation": "AFC",
       "ranking_off": 197,
       "ranking_def": 206,
       "ranking_change": 0,
-      "points_change": -18,
+      "points_change": -34,
       "ranking_off_change": 0,
-      "points_off_change": 0,
+      "points_off_change": -21,
       "ranking_def_change": 1,
-      "points_def_change": -8
+      "points_def_change": -10
     },
     {
       "ranking": 208,
