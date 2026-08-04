@@ -1396,7 +1396,7 @@
       "rating2": 4256,
       "rating_ev": 0,
       "rank1": 67,
-      "rank2": 177,
+      "rank2": 178,
       "win_prob": 97.4,
       "type": "fixture"
     },
@@ -1975,7 +1975,7 @@
       "rating1": 4256,
       "rating2": 4995,
       "rating_ev": 0,
-      "rank1": 177,
+      "rank1": 178,
       "rank2": 75,
       "win_prob": 6.7,
       "type": "fixture"
@@ -2996,7 +2996,7 @@
       "rating2": 4256,
       "rating_ev": 0,
       "rank1": 56,
-      "rank2": 177,
+      "rank2": 178,
       "win_prob": 98.1,
       "type": "fixture"
     },
@@ -3016,7 +3016,7 @@
       "rating2": 4254,
       "rating_ev": 0,
       "rank1": 199,
-      "rank2": 178,
+      "rank2": 179,
       "win_prob": 39.6,
       "type": "fixture"
     },
@@ -3675,7 +3675,7 @@
       "rating1": 4254,
       "rating2": 3585,
       "rating_ev": 0,
-      "rank1": 178,
+      "rank1": 179,
       "rank2": 212,
       "win_prob": 96.2,
       "type": "fixture"
@@ -4256,7 +4256,7 @@
       "rating2": 3879,
       "rating_ev": 0,
       "rank1": 168,
-      "rank2": 206,
+      "rank2": 205,
       "win_prob": 94.5,
       "type": "fixture"
     },
@@ -4456,7 +4456,7 @@
       "rating2": 4256,
       "rating_ev": 0,
       "rank1": 75,
-      "rank2": 177,
+      "rank2": 178,
       "win_prob": 95.5,
       "type": "fixture"
     },
@@ -5135,7 +5135,7 @@
       "rating1": 3879,
       "rating2": 4444,
       "rating_ev": 0,
-      "rank1": 206,
+      "rank1": 205,
       "rank2": 168,
       "win_prob": 12.3,
       "type": "fixture"
@@ -5436,7 +5436,7 @@
       "rating2": 4254,
       "rating_ev": 0,
       "rank1": 212,
-      "rank2": 178,
+      "rank2": 179,
       "win_prob": 8.6,
       "type": "fixture"
     },
@@ -5635,7 +5635,7 @@
       "rating1": 4256,
       "rating2": 5115,
       "rating_ev": 0,
-      "rank1": 177,
+      "rank1": 178,
       "rank2": 56,
       "win_prob": 4.5,
       "type": "fixture"
@@ -6256,7 +6256,7 @@
       "rating2": 3879,
       "rating_ev": 0,
       "rank1": 151,
-      "rank2": 206,
+      "rank2": 205,
       "win_prob": 97.1,
       "type": "fixture"
     },
@@ -6655,7 +6655,7 @@
       "rating1": 4256,
       "rating2": 5030,
       "rating_ev": 0,
-      "rank1": 177,
+      "rank1": 178,
       "rank2": 67,
       "win_prob": 6.0,
       "type": "fixture"
@@ -7175,7 +7175,7 @@
       "rating1": 3879,
       "rating2": 4030,
       "rating_ev": 0,
-      "rank1": 206,
+      "rank1": 205,
       "rank2": 201,
       "win_prob": 44.4,
       "type": "fixture"
@@ -7455,7 +7455,7 @@
       "rating1": 4254,
       "rating2": 4058,
       "rating_ev": 0,
-      "rank1": 178,
+      "rank1": 179,
       "rank2": 199,
       "win_prob": 78.6,
       "type": "fixture"
@@ -8073,11 +8073,11 @@
       "score1": "",
       "score2": "",
       "rating1": 4780,
-      "rating2": 4230,
+      "rating2": 4270,
       "rating_ev": 0,
       "rank1": 123,
-      "rank2": 180,
-      "win_prob": 94.2,
+      "rank2": 177,
+      "win_prob": 93.2,
       "type": "fixture"
     },
     {
@@ -8123,22 +8123,22 @@
     {
       "date": "2026-08-04",
       "country": "Myanmar",
-      "tournament": "SE Asian Champ",
+      "tournament": "Southeast Asian Champ",
       "team1": "Myanmar",
       "team2": "Laos",
       "original_team1": "Myanmar",
       "original_team2": "Laos",
       "flag1": "myanmar.png",
       "flag2": "laos.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4230,
-      "rating2": 3899,
-      "rating_ev": 0,
-      "rank1": 180,
-      "rank2": 205,
+      "score1": 7,
+      "score2": 2,
+      "rating1": 4270,
+      "rating2": 3859,
+      "rating_ev": 40,
+      "rank1": 177,
+      "rank2": 206,
       "win_prob": 86.7,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-08-04",
