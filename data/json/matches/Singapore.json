@@ -33,6 +33,52 @@
   },
   "matches": [
     {
+      "date": "2026-08-18",
+      "country": "Thailand",
+      "tournament": "SE Asian Champ",
+      "team1": "Singapore",
+      "team2": "Thailand",
+      "original_team1": "Singapore",
+      "original_team2": "Thailand",
+      "flag1": "singapore.png",
+      "flag2": "thailand.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4436,
+      "rating2": 4774,
+      "rating_ev": 0,
+      "rank": 170,
+      "win_prob": 12.9,
+      "type": "fixture",
+      "points_off": 4616,
+      "points_def": 4437,
+      "ranking_off": 176,
+      "ranking_def": 169
+    },
+    {
+      "date": "2026-08-15",
+      "country": "Singapore",
+      "tournament": "SE Asian Champ",
+      "team1": "Singapore",
+      "team2": "Thailand",
+      "original_team1": "Singapore",
+      "original_team2": "Thailand",
+      "flag1": "singapore.png",
+      "flag2": "thailand.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4436,
+      "rating2": 4774,
+      "rating_ev": 0,
+      "rank": 170,
+      "win_prob": 26.3,
+      "type": "fixture",
+      "points_off": 4616,
+      "points_def": 4437,
+      "ranking_off": 176,
+      "ranking_def": 169
+    },
+    {
       "date": "2026-08-07",
       "country": "Singapore",
       "tournament": "Southeast Asian Champ",
@@ -214,7 +260,7 @@
       "points_off": 4616,
       "points_def": 4437,
       "ranking_off": 176,
-      "ranking_def": 168
+      "ranking_def": 169
     },
     {
       "date": "2026-01-14",
@@ -237,7 +283,7 @@
       "points_off": 4616,
       "points_def": 4437,
       "ranking_off": 176,
-      "ranking_def": 168
+      "ranking_def": 169
     },
     {
       "date": "2026-01-09",
@@ -260,7 +306,7 @@
       "points_off": 4616,
       "points_def": 4437,
       "ranking_off": 176,
-      "ranking_def": 168
+      "ranking_def": 169
     },
     {
       "date": "2025-11-18",
