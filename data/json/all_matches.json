@@ -30999,46 +30999,6 @@
       "rank2": 175,
       "win_prob": 80.7,
       "type": "past"
-    },
-    {
-      "date": "2025-08-30",
-      "country": "Uzbekistan",
-      "tournament": "Central Asian Nations Cup",
-      "team1": "Kyrgyzstan",
-      "team2": "Turkmenistan",
-      "original_team1": "Kyrgyzstan",
-      "original_team2": "Turkmenistan",
-      "flag1": "kyrgyzstan.png",
-      "flag2": "turkmenistan.png",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 4737,
-      "rating2": 4592,
-      "rating_ev": -10,
-      "rank1": 133,
-      "rank2": 155,
-      "win_prob": 67.4,
-      "type": "past"
-    },
-    {
-      "date": "2025-08-30",
-      "country": "Uzbekistan",
-      "tournament": "Central Asian Nations Cup",
-      "team1": "Uzbekistan",
-      "team2": "Oman",
-      "original_team1": "Uzbekistan",
-      "original_team2": "Oman",
-      "flag1": "uzbekistan.png",
-      "flag2": "oman.png",
-      "score1": 1,
-      "score2": 1,
-      "rating1": 5074,
-      "rating2": 4878,
-      "rating_ev": -20,
-      "rank1": 60,
-      "rank2": 91,
-      "win_prob": 81.3,
-      "type": "past"
     }
   ]
 }
