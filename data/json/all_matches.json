@@ -30879,46 +30879,6 @@
       "rank2": 36,
       "win_prob": 75.6,
       "type": "past"
-    },
-    {
-      "date": "2025-09-03",
-      "country": "Mauritius",
-      "tournament": "World Cup qualifier",
-      "team1": "Gabon",
-      "team2": "Seychelles",
-      "original_team1": "Gabon",
-      "original_team2": "Seychelles",
-      "flag1": "gabon.png",
-      "flag2": "seychelles.png",
-      "score1": 4,
-      "score2": 0,
-      "rating1": 4911,
-      "rating2": 4187,
-      "rating_ev": 14,
-      "rank1": 86,
-      "rank2": 185,
-      "win_prob": 94.8,
-      "type": "past"
-    },
-    {
-      "date": "2025-09-03",
-      "country": "Qatar",
-      "tournament": "Friendly",
-      "team1": "Qatar",
-      "team2": "Bahrain",
-      "original_team1": "Qatar",
-      "original_team2": "Bahrain",
-      "flag1": "qatar.png",
-      "flag2": "bahrain.png",
-      "score1": 2,
-      "score2": 2,
-      "rating1": 4868,
-      "rating2": 4837,
-      "rating_ev": -4,
-      "rank1": 97,
-      "rank2": 106,
-      "win_prob": 64.8,
-      "type": "past"
     }
   ]
 }
