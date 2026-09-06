@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Lesotho",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -56,7 +56,7 @@
       "ranking_def": 78
     },
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -79,7 +79,7 @@
       "ranking_def": 78
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Morocco",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -102,7 +102,7 @@
       "ranking_def": 78
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -125,7 +125,7 @@
       "ranking_def": 78
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-09-29",
       "country": "Gabon",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
@@ -148,8 +148,8 @@
       "ranking_def": 78
     },
     {
-      "date": "2026-09-14",
-      "country": "Niger",
+      "date": "2026-09-25",
+      "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Niger",
       "team2": "Lesotho",
@@ -163,7 +163,7 @@
       "rating2": 4567,
       "rating_ev": 0,
       "rank": 92,
-      "win_prob": 85.9,
+      "win_prob": 79.8,
       "type": "fixture",
       "points_off": 4911,
       "points_def": 4797,

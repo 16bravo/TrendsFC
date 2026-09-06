@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -56,7 +56,7 @@
       "ranking_def": 16
     },
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -79,7 +79,7 @@
       "ranking_def": 16
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Gambia",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -102,7 +102,7 @@
       "ranking_def": 16
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
@@ -125,8 +125,31 @@
       "ranking_def": 16
     },
     {
-      "date": "2026-10-14",
-      "country": "Somalia",
+      "date": "2026-10-03",
+      "country": "Ivory Coast",
+      "tournament": "Friendly",
+      "team1": "Ivory Coast",
+      "team2": "Cameroon",
+      "original_team1": "Ivory Coast",
+      "original_team2": "Cameroon",
+      "flag1": "ivory_coast.png",
+      "flag2": "cameroon.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5233,
+      "rating2": 5069,
+      "rating_ev": 0,
+      "rank": 37,
+      "win_prob": 76.1,
+      "type": "fixture",
+      "points_off": 5051,
+      "points_def": 4986,
+      "ranking_off": 41,
+      "ranking_def": 16
+    },
+    {
+      "date": "2026-09-29",
+      "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",
       "team2": "Somalia",
@@ -140,7 +163,7 @@
       "rating2": 4512,
       "rating_ev": 0,
       "rank": 37,
-      "win_prob": 92.8,
+      "win_prob": 96.9,
       "type": "fixture",
       "points_off": 5051,
       "points_def": 4986,
@@ -148,7 +171,7 @@
       "ranking_def": 16
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-24",
       "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Ivory Coast",

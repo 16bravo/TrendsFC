@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Angola",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -56,7 +56,7 @@
       "ranking_def": 33
     },
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Egypt",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -79,7 +79,7 @@
       "ranking_def": 33
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Egypt",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -102,7 +102,7 @@
       "ranking_def": 33
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Malawi",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -125,7 +125,53 @@
       "ranking_def": 33
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-05",
+      "country": "Egypt",
+      "tournament": "Friendly",
+      "team1": "Egypt",
+      "team2": "Tanzania",
+      "original_team1": "Egypt",
+      "original_team2": "Tanzania",
+      "flag1": "egypt.png",
+      "flag2": "tanzania.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5234,
+      "rating2": 4824,
+      "rating_ev": 0,
+      "rank": 35,
+      "win_prob": 90.1,
+      "type": "fixture",
+      "points_off": 5108,
+      "points_def": 4922,
+      "ranking_off": 28,
+      "ranking_def": 33
+    },
+    {
+      "date": "2026-10-04",
+      "country": "Egypt",
+      "tournament": "Friendly",
+      "team1": "Egypt",
+      "team2": "South Africa",
+      "original_team1": "Egypt",
+      "original_team2": "South Africa",
+      "flag1": "egypt.png",
+      "flag2": "south_africa.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5234,
+      "rating2": 5020,
+      "rating_ev": 0,
+      "rank": 35,
+      "win_prob": 79.8,
+      "type": "fixture",
+      "points_off": 5108,
+      "points_def": 4922,
+      "ranking_off": 28,
+      "ranking_def": 33
+    },
+    {
+      "date": "2026-09-29",
       "country": "South Sudan",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -148,7 +194,7 @@
       "ranking_def": 33
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-25",
       "country": "Egypt",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",

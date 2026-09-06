@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Tunisia",
       "tournament": "African Cup qualifier",
       "team1": "Tunisia",
@@ -56,7 +56,7 @@
       "ranking_def": 88
     },
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Uganda",
       "tournament": "African Cup qualifier",
       "team1": "Tunisia",
@@ -79,7 +79,7 @@
       "ranking_def": 88
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Libya",
       "tournament": "African Cup qualifier",
       "team1": "Tunisia",
@@ -102,7 +102,7 @@
       "ranking_def": 88
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Tunisia",
       "tournament": "African Cup qualifier",
       "team1": "Tunisia",
@@ -125,7 +125,53 @@
       "ranking_def": 88
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-06",
+      "country": "Tunisia",
+      "tournament": "Friendly",
+      "team1": "Tunisia",
+      "team2": "Benin",
+      "original_team1": "Tunisia",
+      "original_team2": "Benin",
+      "flag1": "tunisia.png",
+      "flag2": "benin.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5028,
+      "rating2": 4853,
+      "rating_ev": 0,
+      "rank": 69,
+      "win_prob": 77.0,
+      "type": "fixture",
+      "points_off": 4970,
+      "points_def": 4786,
+      "ranking_off": 66,
+      "ranking_def": 88
+    },
+    {
+      "date": "2026-10-03",
+      "country": "Tunisia",
+      "tournament": "Friendly",
+      "team1": "Tunisia",
+      "team2": "Mali",
+      "original_team1": "Tunisia",
+      "original_team2": "Mali",
+      "flag1": "tunisia.png",
+      "flag2": "mali.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5028,
+      "rating2": 5110,
+      "rating_ev": 0,
+      "rank": 69,
+      "win_prob": 51.9,
+      "type": "fixture",
+      "points_off": 4970,
+      "points_def": 4786,
+      "ranking_off": 66,
+      "ranking_def": 88
+    },
+    {
+      "date": "2026-09-28",
       "country": "Botswana",
       "tournament": "African Cup qualifier",
       "team1": "Tunisia",
@@ -148,7 +194,7 @@
       "ranking_def": 88
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-24",
       "country": "Tunisia",
       "tournament": "African Cup qualifier",
       "team1": "Tunisia",

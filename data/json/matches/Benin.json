@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Benin",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -56,7 +56,7 @@
       "ranking_def": 81
     },
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -79,7 +79,7 @@
       "ranking_def": 81
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Benin",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -102,7 +102,7 @@
       "ranking_def": 81
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Central African Republic",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
@@ -125,8 +125,31 @@
       "ranking_def": 81
     },
     {
-      "date": "2026-10-14",
-      "country": "Benin",
+      "date": "2026-10-06",
+      "country": "Tunisia",
+      "tournament": "Friendly",
+      "team1": "Benin",
+      "team2": "Tunisia",
+      "original_team1": "Benin",
+      "original_team2": "Tunisia",
+      "flag1": "benin.png",
+      "flag2": "tunisia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4853,
+      "rating2": 5028,
+      "rating_ev": 0,
+      "rank": 97,
+      "win_prob": 23.0,
+      "type": "fixture",
+      "points_off": 4877,
+      "points_def": 4792,
+      "ranking_off": 97,
+      "ranking_def": 81
+    },
+    {
+      "date": "2026-09-29",
+      "country": "Ivory Coast",
       "tournament": "African Cup qualifier",
       "team1": "Benin",
       "team2": "Mauritania",
@@ -140,7 +163,7 @@
       "rating2": 4811,
       "rating_ev": 0,
       "rank": 97,
-      "win_prob": 65.1,
+      "win_prob": 54.6,
       "type": "fixture",
       "points_off": 4877,
       "points_def": 4792,
@@ -148,7 +171,7 @@
       "ranking_def": 81
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-25",
       "country": "Burkina Faso",
       "tournament": "African Cup qualifier",
       "team1": "Benin",

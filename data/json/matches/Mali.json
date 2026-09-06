@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Cape Verde",
       "tournament": "African Cup qualifier",
       "team1": "Mali",
@@ -56,7 +56,7 @@
       "ranking_def": 21
     },
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Mali",
       "tournament": "African Cup qualifier",
       "team1": "Mali",
@@ -79,7 +79,7 @@
       "ranking_def": 21
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Mali",
       "tournament": "African Cup qualifier",
       "team1": "Mali",
@@ -102,7 +102,7 @@
       "ranking_def": 21
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Rwanda",
       "tournament": "African Cup qualifier",
       "team1": "Mali",
@@ -125,7 +125,30 @@
       "ranking_def": 21
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-03",
+      "country": "Tunisia",
+      "tournament": "Friendly",
+      "team1": "Mali",
+      "team2": "Tunisia",
+      "original_team1": "Mali",
+      "original_team2": "Tunisia",
+      "flag1": "mali.png",
+      "flag2": "tunisia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5110,
+      "rating2": 5028,
+      "rating_ev": 0,
+      "rank": 58,
+      "win_prob": 48.1,
+      "type": "fixture",
+      "points_off": 4895,
+      "points_def": 4965,
+      "ranking_off": 87,
+      "ranking_def": 21
+    },
+    {
+      "date": "2026-09-29",
       "country": "Liberia",
       "tournament": "African Cup qualifier",
       "team1": "Mali",
@@ -148,7 +171,7 @@
       "ranking_def": 21
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-25",
       "country": "Mali",
       "tournament": "African Cup qualifier",
       "team1": "Mali",

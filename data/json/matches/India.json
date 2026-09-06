@@ -52,7 +52,7 @@
       "type": "fixture",
       "points_off": 4619,
       "points_def": 4553,
-      "ranking_off": 174,
+      "ranking_off": 175,
       "ranking_def": 159
     },
     {
@@ -75,7 +75,7 @@
       "type": "fixture",
       "points_off": 4619,
       "points_def": 4553,
-      "ranking_off": 174,
+      "ranking_off": 175,
       "ranking_def": 159
     },
     {
@@ -98,7 +98,7 @@
       "type": "fixture",
       "points_off": 4619,
       "points_def": 4553,
-      "ranking_off": 174,
+      "ranking_off": 175,
       "ranking_def": 159
     },
     {
@@ -121,7 +121,30 @@
       "type": "fixture",
       "points_off": 4619,
       "points_def": 4553,
-      "ranking_off": 174,
+      "ranking_off": 175,
+      "ranking_def": 159
+    },
+    {
+      "date": "2026-10-06",
+      "country": "India",
+      "tournament": "Friendly",
+      "team1": "India",
+      "team2": "Uruguay",
+      "original_team1": "India",
+      "original_team2": "Uruguay",
+      "flag1": "india.png",
+      "flag2": "uruguay.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4494,
+      "rating2": 5349,
+      "rating_ev": 0,
+      "rank": 163,
+      "win_prob": 4.6,
+      "type": "fixture",
+      "points_off": 4619,
+      "points_def": 4553,
+      "ranking_off": 175,
       "ranking_def": 159
     },
     {
@@ -144,7 +167,30 @@
       "type": "fixture",
       "points_off": 4619,
       "points_def": 4553,
-      "ranking_off": 174,
+      "ranking_off": 175,
+      "ranking_def": 159
+    },
+    {
+      "date": "2026-09-25",
+      "country": "India",
+      "tournament": "Friendly",
+      "team1": "India",
+      "team2": "Panama",
+      "original_team1": "India",
+      "original_team2": "Panama",
+      "flag1": "india.png",
+      "flag2": "panama.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4494,
+      "rating2": 5081,
+      "rating_ev": 0,
+      "rank": 163,
+      "win_prob": 11.4,
+      "type": "fixture",
+      "points_off": 4619,
+      "points_def": 4553,
+      "ranking_off": 175,
       "ranking_def": 159
     },
     {

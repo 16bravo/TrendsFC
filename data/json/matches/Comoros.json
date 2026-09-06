@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Comoros",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -56,7 +56,7 @@
       "ranking_def": 75
     },
     {
-      "date": "2027-03-14",
+      "date": "2027-03-06",
       "country": "Namibia",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -79,7 +79,7 @@
       "ranking_def": 75
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Comoros",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -102,7 +102,7 @@
       "ranking_def": 75
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-06",
       "country": "Congo",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -125,7 +125,30 @@
       "ranking_def": 75
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-04",
+      "country": "France",
+      "tournament": "Friendly",
+      "team1": "Comoros",
+      "team2": "Senegal",
+      "original_team1": "Comoros",
+      "original_team2": "Senegal",
+      "flag1": "comoros.png",
+      "flag2": "senegal.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4844,
+      "rating2": 5343,
+      "rating_ev": 0,
+      "rank": 101,
+      "win_prob": 10.6,
+      "type": "fixture",
+      "points_off": 4852,
+      "points_def": 4803,
+      "ranking_off": 103,
+      "ranking_def": 75
+    },
+    {
+      "date": "2026-09-29",
       "country": "Comoros",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
@@ -148,7 +171,7 @@
       "ranking_def": 75
     },
     {
-      "date": "2026-09-14",
+      "date": "2026-09-24",
       "country": "Cameroon",
       "tournament": "African Cup qualifier",
       "team1": "Comoros",
