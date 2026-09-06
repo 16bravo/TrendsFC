@@ -66,8 +66,8 @@ date,home_team,away_team,tournament,country,neutral
 2026-09-24,Libya,Botswana,African Cup qualifier,Libya,False
 2026-09-24,DR Congo,Equatorial Guinea,African Cup qualifier,DR Congo,False
 2026-09-24,Congo,Namibia,African Cup qualifier,Botswana,True
-2026-09-24,Central African Republic,Mauritania,African Cup qualifier,Morocco,True
 2026-09-24,Japan,Uruguay,Friendly,Japan,False
+2026-09-24,Central African Republic,Mauritania,African Cup qualifier,Morocco,True
 2026-09-24,Cameroon,Comoros,African Cup qualifier,Cameroon,False
 2026-09-24,Liechtenstein,Lithuania,European League D,Liechtenstein,False
 2026-09-24,Ivory Coast,Ghana,African Cup qualifier,Ivory Coast,False
@@ -161,9 +161,9 @@ date,home_team,away_team,tournament,country,neutral
 2026-09-27,Germany,Greece,European League A,Germany,False
 2026-09-27,Cayman Islands,Guyana,CONCACAF League B,Dominica,True
 2026-09-27,China,New Zealand,Friendly tournament,China,False
-2026-09-28,Saint Kitts and Nevis,Grenada,CONCACAF League B,St Kitts and Nevis,True
-2026-09-28,South Korea,Uruguay,Friendly,South Korea,False
 2026-09-28,Saint Lucia,Bermuda,CONCACAF League B,Saint Lucia,False
+2026-09-28,South Korea,Uruguay,Friendly,South Korea,False
+2026-09-28,Saint Kitts and Nevis,Grenada,CONCACAF League B,St Kitts and Nevis,True
 2026-09-28,Bonaire,Cuba,CONCACAF League B,St Kitts and Nevis,True
 2026-09-28,Barbados,Guadeloupe,CONCACAF League B,Saint Lucia,True
 2026-09-28,Suriname,Martinique,CONCACAF League A,Suriname,False
@@ -174,7 +174,7 @@ date,home_team,away_team,tournament,country,neutral
 2026-09-28,Indonesia,Malaysia,Southeast Asian Cup,Indonesia,False
 2026-09-28,Zimbabwe,DR Congo,African Cup qualifier,Zimbabwe,False
 2026-09-28,Bangladesh,Singapore,Southeast Asian Cup,Indonesia,True
-2026-09-28,Central African Republic,Burkina Faso,African Cup qualifier,Central African Republic,False
+2026-09-28,Burkina Faso,Central African Republic,African Cup qualifier,Morocco,True
 2026-09-28,Botswana,Tunisia,African Cup qualifier,Botswana,False
 2026-09-28,Latvia,Cyprus,European League C,Latvia,False
 2026-09-28,Armenia,Montenegro,European League C,Armenia,False
@@ -258,17 +258,17 @@ date,home_team,away_team,tournament,country,neutral
 2026-10-01,Indonesia,Bangladesh,Southeast Asian Cup,Indonesia,False
 2026-10-01,Malaysia,Singapore,Southeast Asian Cup,Indonesia,True
 2026-10-02,Kazakhstan,Moldova,European League C,Kazakhstan,False
-2026-10-02,Martinique,Honduras,CONCACAF League A,Martinique,False
-2026-10-02,El Salvador,Jamaica,CONCACAF League A,El Salvador,False
-2026-10-02,Palestine,Tajikistan,Friendly tournament,China,True
 2026-10-02,Suriname,Guatemala,CONCACAF League A,Suriname,False
+2026-10-02,Martinique,Honduras,CONCACAF League A,Martinique,False
+2026-10-02,South Korea,Venezuela,Friendly,South Korea,False
 2026-10-02,Barbados,Bermuda,CONCACAF League B,Barbados,False
 2026-10-02,Bonaire,Grenada,CONCACAF League B,Trinidad and Tobago,True
 2026-10-02,Cuba,Saint Kitts and Nevis,CONCACAF League B,Trinidad and Tobago,True
 2026-10-02,Guadeloupe,Saint Lucia,CONCACAF League B,Barbados,True
+2026-10-02,Palestine,Tajikistan,Friendly tournament,China,True
 2026-10-02,Colombia,Paraguay,Friendly,United States,True
 2026-10-02,China,Turkmenistan,Friendly tournament,China,False
-2026-10-02,Tanzania,Ghana,Friendly,Tanzania,False
+2026-10-02,El Salvador,Jamaica,CONCACAF League A,El Salvador,False
 2026-10-02,Philippines,Thailand,Southeast Asian Cup,Indonesia,True
 2026-10-02,Latvia,Montenegro,European League C,Latvia,False
 2026-10-02,Faroe Islands,Slovakia,European League C,Faroe Islands,False
@@ -280,24 +280,25 @@ date,home_team,away_team,tournament,country,neutral
 2026-10-02,France,Italy,European League A,France,False
 2026-10-02,Belgium,Turkey,European League A,Belgium,False
 2026-10-02,Pakistan,Vietnam,Southeast Asian Cup,Indonesia,True
-2026-10-02,South Korea,Venezuela,Friendly,South Korea,False
-2026-10-03,United States,Mexico,Friendly,United States,False
+2026-10-02,Tanzania,Ghana,Friendly,Tanzania,False
+2026-10-03,Tunisia,Mali,Friendly,Tunisia,False
 2026-10-03,Croatia,England,European League A,Croatia,False
 2026-10-03,Spain,Czechia,European League A,Spain,False
-2026-10-03,Switzerland,Slovenia,European League B,Switzerland,False
+2026-10-03,North Macedonia,Scotland,European League B,North Macedonia,False
 2026-10-03,Belarus,San Marino,European League C,Hungary,True
 2026-10-03,Estonia,Luxembourg,European League C,Estonia,False
 2026-10-03,Finland,Albania,European League C,Finland,False
 2026-10-03,Iceland,Bulgaria,European League C,Iceland,False
+2026-10-03,Argentina,Burkina Faso,Friendly,Argentina,False
 2026-10-03,Canada,Peru,Friendly,Canada,False
 2026-10-03,Djibouti,Sri Lanka,Friendly tournament,Mauritius,True
 2026-10-03,India,Brazil,Friendly,India,False
-2026-10-03,Ivory Coast,Cameroon,Friendly,Ivory Coast,False
 2026-10-03,St Vincent & Grenadines,Sint Maarten,CONCACAF League B,Belize,True
 2026-10-03,Belize,French Guiana,CONCACAF League B,Belize,False
-2026-10-03,Tunisia,Mali,Friendly,Tunisia,False
-2026-10-03,North Macedonia,Scotland,European League B,North Macedonia,False
-2026-10-04,Comoros,Senegal,Friendly,France,True
+2026-10-03,United States,Mexico,Friendly,United States,False
+2026-10-03,Ivory Coast,Cameroon,Friendly,Ivory Coast,False
+2026-10-03,Switzerland,Slovenia,European League B,Switzerland,False
+2026-10-04,Azerbaijan,Lithuania,European League D,Azerbaijan,False
 2026-10-04,US Virgin Islands,Bahamas,CONCACAF League C,US Virgin Islands,False
 2026-10-04,Anguilla,Aruba,CONCACAF League C,Antigua and Barbuda,True
 2026-10-04,Puerto Rico,Cayman Islands,CONCACAF League B,Puerto Rico,False
@@ -307,7 +308,7 @@ date,home_team,away_team,tournament,country,neutral
 2026-10-04,Costa Rica,Haiti,CONCACAF League A,Costa Rica,False
 2026-10-04,Turks and Caicos Islands,British Virgin Islands,CONCACAF League C,Turks and Caicos Islands,False
 2026-10-04,Malta,Andorra,European League D,Malta,False
-2026-10-04,Azerbaijan,Lithuania,European League D,Azerbaijan,False
+2026-10-04,Comoros,Senegal,Friendly,France,True
 2026-10-04,Kosovo,Austria,European League B,Kosovo,False
 2026-10-04,Ireland,Israel,European League B,Serbia,True
 2026-10-04,Wales,Denmark,European League A,Wales,False
