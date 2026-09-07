@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-06",
+      "date": "2027-03-07",
       "country": "Algeria",
       "tournament": "African Cup qualifier",
       "team1": "Algeria",
@@ -56,7 +56,7 @@
       "ranking_def": 32
     },
     {
-      "date": "2027-03-06",
+      "date": "2027-03-07",
       "country": "Zambia",
       "tournament": "African Cup qualifier",
       "team1": "Algeria",
@@ -79,7 +79,7 @@
       "ranking_def": 32
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "country": "Algeria",
       "tournament": "African Cup qualifier",
       "team1": "Algeria",
@@ -102,7 +102,7 @@
       "ranking_def": 32
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "country": "Togo",
       "tournament": "African Cup qualifier",
       "team1": "Algeria",
@@ -118,6 +118,29 @@
       "rating_ev": 0,
       "rank": 29,
       "win_prob": 78.8,
+      "type": "fixture",
+      "points_off": 5155,
+      "points_def": 4924,
+      "ranking_off": 17,
+      "ranking_def": 32
+    },
+    {
+      "date": "2026-10-06",
+      "country": "Algeria",
+      "tournament": "Friendly",
+      "team1": "Algeria",
+      "team2": "Niger",
+      "original_team1": "Algeria",
+      "original_team2": "Niger",
+      "flag1": "algeria.png",
+      "flag2": "niger.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5253,
+      "rating2": 4882,
+      "rating_ev": 0,
+      "rank": 29,
+      "win_prob": 88.6,
       "type": "fixture",
       "points_off": 5155,
       "points_def": 4924,
