@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-08",
+      "date": "2027-03-09",
       "country": "Madagascar",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -56,7 +56,7 @@
       "ranking_def": 40
     },
     {
-      "date": "2027-03-08",
+      "date": "2027-03-09",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -79,7 +79,7 @@
       "ranking_def": 40
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "country": "Nigeria",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -102,7 +102,7 @@
       "ranking_def": 40
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "country": "Tanzania",
       "tournament": "African Cup qualifier",
       "team1": "Nigeria",
@@ -118,6 +118,29 @@
       "rating_ev": 0,
       "rank": 31,
       "win_prob": 80.1,
+      "type": "fixture",
+      "points_off": 5137,
+      "points_def": 4911,
+      "ranking_off": 21,
+      "ranking_def": 40
+    },
+    {
+      "date": "2026-10-06",
+      "country": "Russia",
+      "tournament": "Friendly",
+      "team1": "Nigeria",
+      "team2": "Russia",
+      "original_team1": "Nigeria",
+      "original_team2": "Russia",
+      "flag1": "nigeria.png",
+      "flag2": "russia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5248,
+      "rating2": 5328,
+      "rating_ev": 0,
+      "rank": 31,
+      "win_prob": 31.2,
       "type": "fixture",
       "points_off": 5137,
       "points_def": 4911,

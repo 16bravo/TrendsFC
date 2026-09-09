@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-08",
+      "date": "2027-03-09",
       "country": "Angola",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -56,7 +56,7 @@
       "ranking_def": 33
     },
     {
-      "date": "2027-03-08",
+      "date": "2027-03-09",
       "country": "Egypt",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -79,7 +79,7 @@
       "ranking_def": 33
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "country": "Egypt",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -102,7 +102,7 @@
       "ranking_def": 33
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "country": "Malawi",
       "tournament": "African Cup qualifier",
       "team1": "Egypt",
@@ -118,29 +118,6 @@
       "rating_ev": 0,
       "rank": 35,
       "win_prob": 86.7,
-      "type": "fixture",
-      "points_off": 5108,
-      "points_def": 4922,
-      "ranking_off": 28,
-      "ranking_def": 33
-    },
-    {
-      "date": "2026-10-05",
-      "country": "Egypt",
-      "tournament": "Friendly",
-      "team1": "Egypt",
-      "team2": "Tanzania",
-      "original_team1": "Egypt",
-      "original_team2": "Tanzania",
-      "flag1": "egypt.png",
-      "flag2": "tanzania.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5234,
-      "rating2": 4824,
-      "rating_ev": 0,
-      "rank": 35,
-      "win_prob": 90.1,
       "type": "fixture",
       "points_off": 5108,
       "points_def": 4922,

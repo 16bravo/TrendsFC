@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-08",
+      "date": "2027-03-09",
       "country": "DR Congo",
       "tournament": "African Cup qualifier",
       "team1": "DR Congo",
@@ -56,7 +56,7 @@
       "ranking_def": 18
     },
     {
-      "date": "2027-03-08",
+      "date": "2027-03-09",
       "country": "Equatorial Guinea",
       "tournament": "African Cup qualifier",
       "team1": "DR Congo",
@@ -79,7 +79,7 @@
       "ranking_def": 18
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "country": "DR Congo",
       "tournament": "African Cup qualifier",
       "team1": "DR Congo",
@@ -102,7 +102,7 @@
       "ranking_def": 18
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "country": "Sierra Leone",
       "tournament": "African Cup qualifier",
       "team1": "DR Congo",
@@ -118,6 +118,52 @@
       "rating_ev": 0,
       "rank": 47,
       "win_prob": 76.5,
+      "type": "fixture",
+      "points_off": 4984,
+      "points_def": 4974,
+      "ranking_off": 63,
+      "ranking_def": 18
+    },
+    {
+      "date": "2026-10-05",
+      "country": "South Africa",
+      "tournament": "Friendly",
+      "team1": "DR Congo",
+      "team2": "Uganda",
+      "original_team1": "DR Congo",
+      "original_team2": "Uganda",
+      "flag1": "dr_congo.png",
+      "flag2": "uganda.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5173,
+      "rating2": 4841,
+      "rating_ev": 0,
+      "rank": 47,
+      "win_prob": 80.9,
+      "type": "fixture",
+      "points_off": 4984,
+      "points_def": 4974,
+      "ranking_off": 63,
+      "ranking_def": 18
+    },
+    {
+      "date": "2026-10-02",
+      "country": "South Africa",
+      "tournament": "Friendly",
+      "team1": "DR Congo",
+      "team2": "Uganda",
+      "original_team1": "DR Congo",
+      "original_team2": "Uganda",
+      "flag1": "dr_congo.png",
+      "flag2": "uganda.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5173,
+      "rating2": 4841,
+      "rating_ev": 0,
+      "rank": 47,
+      "win_prob": 80.9,
       "type": "fixture",
       "points_off": 4984,
       "points_def": 4974,
