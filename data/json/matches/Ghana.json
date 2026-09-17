@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-16",
+      "date": "2027-03-17",
       "country": "Gambia",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -56,7 +56,7 @@
       "ranking_def": 38
     },
     {
-      "date": "2027-03-16",
+      "date": "2027-03-17",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -79,7 +79,7 @@
       "ranking_def": 38
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "country": "Ghana",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -102,7 +102,7 @@
       "ranking_def": 38
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "country": "Somalia",
       "tournament": "African Cup qualifier",
       "team1": "Ghana",
@@ -125,22 +125,22 @@
       "ranking_def": 38
     },
     {
-      "date": "2026-10-02",
-      "country": "Tanzania",
+      "date": "2026-10-04",
+      "country": "Morocco",
       "tournament": "Friendly",
       "team1": "Ghana",
-      "team2": "Tanzania",
+      "team2": "Morocco",
       "original_team1": "Ghana",
-      "original_team2": "Tanzania",
+      "original_team2": "Morocco",
       "flag1": "ghana.png",
-      "flag2": "tanzania.png",
+      "flag2": "morocco.png",
       "score1": "",
       "score2": "",
       "rating1": 5111,
-      "rating2": 4824,
+      "rating2": 5380,
       "rating_ev": 0,
       "rank": 57,
-      "win_prob": 69.3,
+      "win_prob": 16.6,
       "type": "fixture",
       "points_off": 4988,
       "points_def": 4914,

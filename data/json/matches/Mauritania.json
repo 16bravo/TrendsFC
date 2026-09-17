@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-16",
+      "date": "2027-03-17",
       "country": "Central African Republic",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -56,7 +56,7 @@
       "ranking_def": 54
     },
     {
-      "date": "2027-03-16",
+      "date": "2027-03-17",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -79,7 +79,7 @@
       "ranking_def": 54
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "country": "Burkina Faso",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -102,7 +102,7 @@
       "ranking_def": 54
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -118,6 +118,29 @@
       "rating_ev": 0,
       "rank": 112,
       "win_prob": 37.4,
+      "type": "fixture",
+      "points_off": 4804,
+      "points_def": 4844,
+      "ranking_off": 128,
+      "ranking_def": 54
+    },
+    {
+      "date": "2026-10-06",
+      "country": "Tunisia",
+      "tournament": "Friendly",
+      "team1": "Mauritania",
+      "team2": "Tunisia",
+      "original_team1": "Mauritania",
+      "original_team2": "Tunisia",
+      "flag1": "mauritania.png",
+      "flag2": "tunisia.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 4811,
+      "rating2": 5028,
+      "rating_ev": 0,
+      "rank": 112,
+      "win_prob": 20.0,
       "type": "fixture",
       "points_off": 4804,
       "points_def": 4844,

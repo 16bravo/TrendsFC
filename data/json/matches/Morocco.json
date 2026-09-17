@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-16",
+      "date": "2027-03-17",
       "country": "Gabon",
       "tournament": "African Cup qualifier",
       "team1": "Morocco",
@@ -56,7 +56,7 @@
       "ranking_def": 15
     },
     {
-      "date": "2027-03-16",
+      "date": "2027-03-17",
       "country": "Morocco",
       "tournament": "African Cup qualifier",
       "team1": "Morocco",
@@ -79,7 +79,7 @@
       "ranking_def": 15
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "country": "Morocco",
       "tournament": "African Cup qualifier",
       "team1": "Morocco",
@@ -102,7 +102,7 @@
       "ranking_def": 15
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "country": "Niger",
       "tournament": "African Cup qualifier",
       "team1": "Morocco",
@@ -118,6 +118,29 @@
       "rating_ev": 0,
       "rank": 16,
       "win_prob": 84.5,
+      "type": "fixture",
+      "points_off": 5109,
+      "points_def": 4996,
+      "ranking_off": 26,
+      "ranking_def": 15
+    },
+    {
+      "date": "2026-10-04",
+      "country": "Morocco",
+      "tournament": "Friendly",
+      "team1": "Morocco",
+      "team2": "Ghana",
+      "original_team1": "Morocco",
+      "original_team2": "Ghana",
+      "flag1": "morocco.png",
+      "flag2": "ghana.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5380,
+      "rating2": 5111,
+      "rating_ev": 0,
+      "rank": 16,
+      "win_prob": 83.4,
       "type": "fixture",
       "points_off": 5109,
       "points_def": 4996,
