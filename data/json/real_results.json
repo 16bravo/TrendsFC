@@ -16313,6 +16313,12 @@
         "s1": 4,
         "s2": 0
       }
+    },
+    "2026-09-24": {
+      "Congo|Namibia": {
+        "s1": 0,
+        "s2": 1
+      }
     }
   },
   "Afro-Asian Cup": {
@@ -87797,6 +87803,12 @@
         "s1": 1,
         "s2": 5
       }
+    },
+    "2026-09-24": {
+      "New Zealand|Palestine": {
+        "s1": 2,
+        "s2": 2
+      }
     }
   },
   "Friendship Games": {
@@ -99329,6 +99341,16 @@
       },
       "Fiji|Vanuatu": {
         "s1": 0,
+        "s2": 1
+      }
+    },
+    "2026-09-24": {
+      "Solomon Islands|Vanuatu": {
+        "s1": 3,
+        "s2": 3
+      },
+      "New Caledonia|Papua New Guinea": {
+        "s1": 2,
         "s2": 1
       }
     }
@@ -119288,6 +119310,18 @@
     },
     "2026-06-09": {
       "Brunei|East Timor": {
+        "s1": 1,
+        "s2": 3
+      }
+    }
+  },
+  "Southeast Asian Cup": {
+    "2026-09-24": {
+      "East Timor|Myanmar": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Brunei|Laos": {
         "s1": 1,
         "s2": 3
       }
