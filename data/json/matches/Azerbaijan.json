@@ -1,18 +1,18 @@
 {
   "team": "Azerbaijan",
   "stats": {
-    "matches_played": 324,
-    "wins": 67,
+    "matches_played": 325,
+    "wins": 68,
     "draws": 81,
     "losses": 176,
-    "goals_for": 265,
+    "goals_for": 266,
     "goals_against": 545,
-    "goal_difference": -280,
-    "win_percentage": 20.7,
-    "avg_points": 0.87,
+    "goal_difference": -279,
+    "win_percentage": 20.9,
+    "avg_points": 0.88,
     "best_rank": 36,
     "worst_rank": 131,
-    "avg_rank": 100.28,
+    "avg_rank": 100.35,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Saint Lucia",
@@ -25,11 +25,11 @@
       "date": "1995-09-06",
       "flag": "france.png"
     },
-    "home_matches": 116,
+    "home_matches": 117,
     "away_matches": 152,
     "neutral_matches": 56,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2026-06-09"
+    "last_match_date": "2026-09-23"
   },
   "matches": [
     {
@@ -50,10 +50,10 @@
       "rank": 122,
       "win_prob": 50.3,
       "type": "fixture",
-      "points_off": 4796,
+      "points_off": 4777.200316409924,
       "points_def": 4609,
-      "ranking_off": 130,
-      "ranking_def": 145
+      "ranking_off": 142,
+      "ranking_def": 146
     },
     {
       "date": "2026-11-13",
@@ -73,10 +73,10 @@
       "rank": 122,
       "win_prob": 81.9,
       "type": "fixture",
-      "points_off": 4796,
+      "points_off": 4777.200316409924,
       "points_def": 4609,
-      "ranking_off": 130,
-      "ranking_def": 145
+      "ranking_off": 142,
+      "ranking_def": 146
     },
     {
       "date": "2026-10-04",
@@ -96,10 +96,10 @@
       "rank": 122,
       "win_prob": 58.2,
       "type": "fixture",
-      "points_off": 4796,
+      "points_off": 4777.200316409924,
       "points_def": 4609,
-      "ranking_off": 130,
-      "ranking_def": 145
+      "ranking_off": 142,
+      "ranking_def": 146
     },
     {
       "date": "2026-10-01",
@@ -119,10 +119,10 @@
       "rank": 122,
       "win_prob": 91.6,
       "type": "fixture",
-      "points_off": 4796,
+      "points_off": 4777.200316409924,
       "points_def": 4609,
-      "ranking_off": 130,
-      "ranking_def": 145
+      "ranking_off": 142,
+      "ranking_def": 146
     },
     {
       "date": "2026-09-27",
@@ -142,10 +142,10 @@
       "rank": 122,
       "win_prob": 36.7,
       "type": "fixture",
-      "points_off": 4796,
+      "points_off": 4777.200316409924,
       "points_def": 4609,
-      "ranking_off": 130,
-      "ranking_def": 145
+      "ranking_off": 142,
+      "ranking_def": 146
     },
     {
       "date": "2026-09-23",
@@ -157,17 +157,17 @@
       "original_team2": "Tajikistan",
       "flag1": "azerbaijan.png",
       "flag2": "tajikistan.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 0,
       "rating1": 4784,
       "rating2": 4636,
       "rating_ev": 0,
       "rank": 122,
       "win_prob": 74.8,
-      "type": "fixture",
-      "points_off": 4796,
+      "type": "past",
+      "points_off": 4777.200316409924,
       "points_def": 4609,
-      "ranking_off": 130,
+      "ranking_off": 142,
       "ranking_def": 145
     },
     {
