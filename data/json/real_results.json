@@ -16318,6 +16318,34 @@
       "Congo|Namibia": {
         "s1": 0,
         "s2": 1
+      },
+      "Ghana|Ivory Coast": {
+        "s1": 0,
+        "s2": 2
+      },
+      "DR Congo|Equatorial Guinea": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Cameroon|Comoros": {
+        "s1": 3,
+        "s2": 1
+      },
+      "Botswana|Libya": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Central African Republic|Mauritania": {
+        "s1": 1,
+        "s2": 3
+      },
+      "Tunisia|Uganda": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Sierra Leone|Zimbabwe": {
+        "s1": 2,
+        "s2": 3
       }
     }
   },
@@ -47425,6 +47453,12 @@
         "s1": 0,
         "s2": 0
       }
+    },
+    "2026-09-24": {
+      "Guyana|Puerto Rico": {
+        "s1": 1,
+        "s2": 0
+      }
     }
   },
   "CONCACAF Nations League C": {
@@ -73253,6 +73287,24 @@
         "s1": 1,
         "s2": 1
       }
+    },
+    "2026-09-24": {
+      "Portugal|Wales": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Greece|Serbia": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Denmark|Norway": {
+        "s1": 2,
+        "s2": 3
+      },
+      "Germany|Netherlands": {
+        "s1": 1,
+        "s2": 1
+      }
     }
   },
   "European Nations League A/B": {
@@ -74046,6 +74098,16 @@
       "Iceland|Wales": {
         "s1": 1,
         "s2": 4
+      }
+    },
+    "2026-09-24": {
+      "Austria|Israel": {
+        "s1": 3,
+        "s2": 1
+      },
+      "Ireland|Kosovo": {
+        "s1": 0,
+        "s2": 1
       }
     }
   },
@@ -75502,6 +75564,16 @@
       "Andorra|Malta": {
         "s1": 0,
         "s2": 0
+      }
+    },
+    "2026-09-24": {
+      "Liechtenstein|Lithuania": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Andorra|Malta": {
+        "s1": 1,
+        "s2": 2
       }
     }
   },
@@ -91248,6 +91320,16 @@
       "Iraq|Oman": {
         "s1": 1,
         "s2": 1
+      }
+    },
+    "2026-09-24": {
+      "Bahrain|Qatar": {
+        "s1": 0,
+        "s2": 2
+      },
+      "United Arab Emirates|Yemen": {
+        "s1": 4,
+        "s2": 0
       }
     }
   },
