@@ -16347,6 +16347,24 @@
         "s1": 2,
         "s2": 3
       }
+    },
+    "2026-09-25": {
+      "Guinea-Bissau|Tanzania": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Ethiopia|Sudan": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Lesotho|Niger": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Mozambique|Senegal": {
+        "s1": 1,
+        "s2": 1
+      }
     }
   },
   "Afro-Asian Cup": {
@@ -46551,6 +46569,20 @@
         "s1": 3,
         "s2": 0
       }
+    },
+    "2026-09-24": {
+      "Haiti|Trinidad and Tobago": {
+        "s1": 3,
+        "s2": 2
+      },
+      "Dominican Republic|Nicaragua": {
+        "s1": 3,
+        "s2": 2
+      },
+      "Costa Rica|Curaçao": {
+        "s1": 3,
+        "s2": 4
+      }
     }
   },
   "CONCACAF Nations League B": {
@@ -47457,6 +47489,10 @@
     "2026-09-24": {
       "Guyana|Puerto Rico": {
         "s1": 1,
+        "s2": 0
+      },
+      "Cayman Islands|Dominica": {
+        "s1": 0,
         "s2": 0
       }
     }
@@ -119406,6 +119442,16 @@
       "Brunei|Laos": {
         "s1": 1,
         "s2": 3
+      }
+    },
+    "2026-09-25": {
+      "Bangladesh|Malaysia": {
+        "s1": 0,
+        "s2": 3
+      },
+      "Indonesia|Singapore": {
+        "s1": 2,
+        "s2": 0
       }
     }
   },

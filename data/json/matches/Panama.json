@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 602,
+    "matches_played": 603,
     "wins": 200,
-    "draws": 146,
+    "draws": 147,
     "losses": 256,
-    "goals_for": 751,
-    "goals_against": 923,
+    "goals_for": 752,
+    "goals_against": 924,
     "goal_difference": -172,
     "win_percentage": 33.2,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 84.85,
+    "avg_rank": 84.82,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -26,10 +26,10 @@
       "flag": "costa_rica.png"
     },
     "home_matches": 203,
-    "away_matches": 231,
+    "away_matches": 232,
     "neutral_matches": 168,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-06-27"
+    "last_match_date": "2026-09-25"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "new_zealand.png",
       "score1": "",
       "score2": "",
-      "rating1": 5081,
+      "rating1": 5067,
       "rating2": 5028,
       "rating_ev": 0,
-      "rank": 63,
-      "win_prob": 55.8,
+      "rank": 64,
+      "win_prob": 54.3,
       "type": "fixture",
-      "points_off": 5001,
-      "points_def": 4840,
-      "ranking_off": 55,
-      "ranking_def": 58
+      "points_off": 4984.315839770839,
+      "points_def": 4822.051282051282,
+      "ranking_off": 64,
+      "ranking_def": 64
     },
     {
       "date": "2026-09-25",
@@ -65,18 +65,18 @@
       "original_team2": "India",
       "flag1": "panama.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5081,
-      "rating2": 4494,
-      "rating_ev": 0,
-      "rank": 63,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5067,
+      "rating2": 4508,
+      "rating_ev": -14,
+      "rank": 64,
       "win_prob": 88.6,
-      "type": "fixture",
-      "points_off": 5001,
-      "points_def": 4840,
-      "ranking_off": 55,
-      "ranking_def": 58
+      "type": "past",
+      "points_off": 4984.315839770839,
+      "points_def": 4822.051282051282,
+      "ranking_off": 64,
+      "ranking_def": 64
     },
     {
       "date": "2026-06-27",
