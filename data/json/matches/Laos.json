@@ -1,18 +1,18 @@
 {
   "team": "Laos",
   "stats": {
-    "matches_played": 239,
+    "matches_played": 240,
     "wins": 44,
     "draws": 35,
-    "losses": 160,
+    "losses": 161,
     "goals_for": 241,
-    "goals_against": 757,
-    "goal_difference": -516,
-    "win_percentage": 18.4,
+    "goals_against": 761,
+    "goal_difference": -520,
+    "win_percentage": 18.3,
     "avg_points": 0.7,
     "best_rank": 149,
     "worst_rank": 207,
-    "avg_rank": 192.31,
+    "avg_rank": 192.37,
     "biggest_win": {
       "score": "6-1",
       "opponent": "East Timor",
@@ -26,10 +26,10 @@
       "flag": null
     },
     "home_matches": 51,
-    "away_matches": 70,
+    "away_matches": 71,
     "neutral_matches": 118,
     "first_match_date": "1961-12-12",
-    "last_match_date": "2026-09-24"
+    "last_match_date": "2026-09-27"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Hong Kong",
       "flag1": "laos.png",
       "flag2": "hong_kong.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3871,
-      "rating2": 4484,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 3859,
+      "rating2": 4496,
+      "rating_ev": -12,
       "rank": 206,
       "win_prob": 4.6,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4395,
-      "points_def": 4007,
-      "ranking_off": 201,
-      "ranking_def": 208
+      "points_def": 3994.028236598547,
+      "ranking_off": 200,
+      "ranking_def": 209
     },
     {
       "date": "2026-09-24",

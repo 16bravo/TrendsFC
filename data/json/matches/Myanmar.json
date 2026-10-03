@@ -1,18 +1,18 @@
 {
   "team": "Myanmar",
   "stats": {
-    "matches_played": 545,
+    "matches_played": 546,
     "wins": 217,
     "draws": 99,
-    "losses": 229,
+    "losses": 230,
     "goals_for": 886,
-    "goals_against": 947,
-    "goal_difference": -61,
-    "win_percentage": 39.8,
-    "avg_points": 1.38,
+    "goals_against": 948,
+    "goal_difference": -62,
+    "win_percentage": 39.7,
+    "avg_points": 1.37,
     "best_rank": 45,
     "worst_rank": 198,
-    "avg_rank": 129.71,
+    "avg_rank": 129.79,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Singapore",
@@ -27,9 +27,9 @@
     },
     "home_matches": 70,
     "away_matches": 139,
-    "neutral_matches": 336,
+    "neutral_matches": 337,
     "first_match_date": "1950-02-17",
-    "last_match_date": "2026-09-24"
+    "last_match_date": "2026-09-27"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Cambodia",
       "flag1": "myanmar.png",
       "flag2": "cambodia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4280,
-      "rating2": 4204,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 1,
+      "rating1": 4262,
+      "rating2": 4222,
+      "rating_ev": -18,
       "rank": 177,
       "win_prob": 58.3,
-      "type": "fixture",
-      "points_off": 4645,
-      "points_def": 4226,
-      "ranking_off": 168,
-      "ranking_def": 199
+      "type": "past",
+      "points_off": 4615.577902884517,
+      "points_def": 4244.145586694604,
+      "ranking_off": 175,
+      "ranking_def": 195
     },
     {
       "date": "2026-09-24",

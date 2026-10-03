@@ -16364,6 +16364,156 @@
       "Mozambique|Senegal": {
         "s1": 1,
         "s2": 1
+      },
+      "Algeria|Zambia": {
+        "s1": 3,
+        "s2": 1
+      },
+      "Benin|Burkina Faso": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Gambia|Somalia": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Angola|Egypt": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Burundi|Togo": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Liberia|Rwanda": {
+        "s1": 1,
+        "s2": 3
+      },
+      "Madagascar|Nigeria": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Gabon|Morocco": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Cape Verde|Mali": {
+        "s1": 1,
+        "s2": 3
+      },
+      "Malawi|South Sudan": {
+        "s1": 2,
+        "s2": 1
+      }
+    },
+    "2026-09-26": {
+      "Guinea|South Africa": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Eritrea|Kenya": {
+        "s1": 1,
+        "s2": 1
+      }
+    },
+    "2026-09-28": {
+      "DR Congo|Zimbabwe": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Botswana|Tunisia": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Equatorial Guinea|Sierra Leone": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Burkina Faso|Central African Republic": {
+        "s1": 1,
+        "s2": 0
+      }
+    },
+    "2026-09-29": {
+      "Algeria|Burundi": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Benin|Mauritania": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Cape Verde|Rwanda": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Comoros|Namibia": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Cameroon|Congo": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Gabon|Niger": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Ethiopia|Senegal": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Togo|Zambia": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Egypt|South Sudan": {
+        "s1": 5,
+        "s2": 0
+      },
+      "Mozambique|Sudan": {
+        "s1": 4,
+        "s2": 1
+      },
+      "Lesotho|Morocco": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Madagascar|Tanzania": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Liberia|Mali": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Ivory Coast|Somalia": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Guinea-Bissau|Nigeria": {
+        "s1": 3,
+        "s2": 0
+      },
+      "Gambia|Ghana": {
+        "s1": 4,
+        "s2": 2
+      },
+      "Libya|Uganda": {
+        "s1": 0,
+        "s2": 1
+      }
+    },
+    "2026-09-30": {
+      "Eritrea|South Africa": {
+        "s1": 0,
+        "s2": 5
+      }
+    },
+    "2026-10-01": {
+      "Guinea|Kenya": {
+        "s1": 1,
+        "s2": 0
       }
     }
   },
@@ -46583,6 +46733,76 @@
         "s1": 3,
         "s2": 4
       }
+    },
+    "2026-09-25": {
+      "Guatemala|Jamaica": {
+        "s1": 2,
+        "s2": 3
+      },
+      "Honduras|Suriname": {
+        "s1": 2,
+        "s2": 3
+      },
+      "El Salvador|Martinique": {
+        "s1": 3,
+        "s2": 1
+      }
+    },
+    "2026-09-27": {
+      "Curaçao|Nicaragua": {
+        "s1": 6,
+        "s2": 1
+      },
+      "Costa Rica|Haiti": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Dominican Republic|Trinidad and Tobago": {
+        "s1": 2,
+        "s2": 1
+      }
+    },
+    "2026-09-28": {
+      "Martinique|Suriname": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Honduras|Jamaica": {
+        "s1": 1,
+        "s2": 0
+      },
+      "El Salvador|Guatemala": {
+        "s1": 0,
+        "s2": 6
+      }
+    },
+    "2026-10-01": {
+      "Curaçao|Trinidad and Tobago": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Dominican Republic|Haiti": {
+        "s1": 1,
+        "s2": 4
+      },
+      "Costa Rica|Nicaragua": {
+        "s1": 3,
+        "s2": 0
+      }
+    },
+    "2026-10-02": {
+      "El Salvador|Jamaica": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Guatemala|Suriname": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Honduras|Martinique": {
+        "s1": 1,
+        "s2": 2
+      }
     }
   },
   "CONCACAF Nations League B": {
@@ -47495,6 +47715,100 @@
         "s1": 0,
         "s2": 0
       }
+    },
+    "2026-09-25": {
+      "Bonaire|Saint Kitts and Nevis": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Bermuda|Guadeloupe": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Cuba|Grenada": {
+        "s1": 3,
+        "s2": 0
+      },
+      "Barbados|Saint Lucia": {
+        "s1": 2,
+        "s2": 0
+      }
+    },
+    "2026-09-26": {
+      "French Guiana|St Vincent & Grenadines": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Belize|Sint Maarten": {
+        "s1": 1,
+        "s2": 0
+      }
+    },
+    "2026-09-27": {
+      "Dominica|Puerto Rico": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Cayman Islands|Guyana": {
+        "s1": 0,
+        "s2": 2
+      }
+    },
+    "2026-09-28": {
+      "Bermuda|Saint Lucia": {
+        "s1": 2,
+        "s2": 5
+      },
+      "Barbados|Guadeloupe": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Bonaire|Cuba": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Grenada|Saint Kitts and Nevis": {
+        "s1": 0,
+        "s2": 3
+      }
+    },
+    "2026-09-29": {
+      "French Guiana|Sint Maarten": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Belize|St Vincent & Grenadines": {
+        "s1": 0,
+        "s2": 1
+      }
+    },
+    "2026-10-01": {
+      "Dominica|Guyana": {
+        "s1": 1,
+        "s2": 5
+      },
+      "Cayman Islands|Puerto Rico": {
+        "s1": 0,
+        "s2": 3
+      }
+    },
+    "2026-10-02": {
+      "Guadeloupe|Saint Lucia": {
+        "s1": 0,
+        "s2": 3
+      },
+      "Bonaire|Grenada": {
+        "s1": 2,
+        "s2": 3
+      },
+      "Barbados|Bermuda": {
+        "s1": 4,
+        "s2": 1
+      },
+      "Cuba|Saint Kitts and Nevis": {
+        "s1": 3,
+        "s2": 3
+      }
     }
   },
   "CONCACAF Nations League C": {
@@ -47988,6 +48302,48 @@
       "Antigua and Barbuda|Aruba": {
         "s1": 0,
         "s2": 1
+      }
+    },
+    "2026-09-26": {
+      "Saint Martin|US Virgin Islands": {
+        "s1": 0,
+        "s2": 2
+      },
+      "British Virgin Islands|Montserrat": {
+        "s1": 0,
+        "s2": 3
+      },
+      "Anguilla|Antigua and Barbuda": {
+        "s1": 0,
+        "s2": 5
+      }
+    },
+    "2026-09-29": {
+      "Bahamas|US Virgin Islands": {
+        "s1": 1,
+        "s2": 3
+      },
+      "British Virgin Islands|Turks and Caicos Islands": {
+        "s1": 0,
+        "s2": 3
+      },
+      "Anguilla|Aruba": {
+        "s1": 0,
+        "s2": 2
+      }
+    },
+    "2026-10-01": {
+      "Anguilla|Antigua and Barbuda": {
+        "s1": 0,
+        "s2": 3
+      },
+      "British Virgin Islands|Montserrat": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Saint Martin|US Virgin Islands": {
+        "s1": 5,
+        "s2": 0
       }
     }
   },
@@ -73341,6 +73697,92 @@
         "s1": 1,
         "s2": 1
       }
+    },
+    "2026-09-25": {
+      "France|Turkey": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Belgium|Italy": {
+        "s1": 2,
+        "s2": 0
+      }
+    },
+    "2026-09-26": {
+      "Croatia|Czechia": {
+        "s1": 2,
+        "s2": 1
+      },
+      "England|Spain": {
+        "s1": 2,
+        "s2": 3
+      }
+    },
+    "2026-09-27": {
+      "Germany|Greece": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Norway|Portugal": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Netherlands|Serbia": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Denmark|Wales": {
+        "s1": 2,
+        "s2": 0
+      }
+    },
+    "2026-09-28": {
+      "Italy|Turkey": {
+        "s1": 4,
+        "s2": 1
+      },
+      "Belgium|France": {
+        "s1": 0,
+        "s2": 1
+      }
+    },
+    "2026-09-29": {
+      "Croatia|Spain": {
+        "s1": 1,
+        "s2": 4
+      },
+      "Czechia|England": {
+        "s1": 0,
+        "s2": 2
+      }
+    },
+    "2026-10-01": {
+      "Denmark|Portugal": {
+        "s1": 2,
+        "s2": 4
+      },
+      "Germany|Serbia": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Greece|Netherlands": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Norway|Wales": {
+        "s1": 1,
+        "s2": 2
+      }
+    },
+    "2026-10-02": {
+      "France|Italy": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Belgium|Turkey": {
+        "s1": 3,
+        "s2": 0
+      }
     }
   },
   "European Nations League A/B": {
@@ -74144,6 +74586,100 @@
       "Ireland|Kosovo": {
         "s1": 0,
         "s2": 1
+      }
+    },
+    "2026-09-25": {
+      "Bosnia and Herzegovina|Poland": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Hungary|Ukraine": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Georgia|Northern Ireland": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Romania|Sweden": {
+        "s1": 1,
+        "s2": 2
+      }
+    },
+    "2026-09-26": {
+      "Scotland|Slovenia": {
+        "s1": 0,
+        "s2": 0
+      },
+      "North Macedonia|Switzerland": {
+        "s1": 0,
+        "s2": 3
+      }
+    },
+    "2026-09-27": {
+      "Austria|Kosovo": {
+        "s1": 3,
+        "s2": 1
+      },
+      "Ireland|Israel": {
+        "s1": 3,
+        "s2": 0
+      }
+    },
+    "2026-09-28": {
+      "Hungary|Northern Ireland": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Georgia|Ukraine": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Bosnia and Herzegovina|Romania": {
+        "s1": 4,
+        "s2": 2
+      },
+      "Poland|Sweden": {
+        "s1": 1,
+        "s2": 3
+      }
+    },
+    "2026-09-29": {
+      "Scotland|Switzerland": {
+        "s1": 0,
+        "s2": 3
+      },
+      "North Macedonia|Slovenia": {
+        "s1": 0,
+        "s2": 2
+      }
+    },
+    "2026-10-01": {
+      "Austria|Ireland": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Israel|Kosovo": {
+        "s1": 0,
+        "s2": 0
+      }
+    },
+    "2026-10-02": {
+      "Bosnia and Herzegovina|Sweden": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Georgia|Hungary": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Poland|Romania": {
+        "s1": 6,
+        "s2": 0
+      },
+      "Northern Ireland|Ukraine": {
+        "s1": 3,
+        "s2": 0
       }
     }
   },
@@ -75097,6 +75633,102 @@
         "s1": 0,
         "s2": 6
       }
+    },
+    "2026-09-25": {
+      "Cyprus|Montenegro": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Armenia|Latvia": {
+        "s1": 2,
+        "s2": 0
+      }
+    },
+    "2026-09-26": {
+      "Bulgaria|Luxembourg": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Albania|Belarus": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Faroe Islands|Kazakhstan": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Estonia|Iceland": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Moldova|Slovakia": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Finland|San Marino": {
+        "s1": 7,
+        "s2": 0
+      }
+    },
+    "2026-09-28": {
+      "Cyprus|Latvia": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Armenia|Montenegro": {
+        "s1": 2,
+        "s2": 3
+      }
+    },
+    "2026-09-29": {
+      "Belarus|Finland": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Kazakhstan|Slovakia": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Faroe Islands|Moldova": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Iceland|Luxembourg": {
+        "s1": 3,
+        "s2": 0
+      },
+      "Bulgaria|Estonia": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Albania|San Marino": {
+        "s1": 3,
+        "s2": 0
+      }
+    },
+    "2026-10-02": {
+      "Faroe Islands|Slovakia": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Armenia|Cyprus": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Kazakhstan|Moldova": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Latvia|Montenegro": {
+        "s1": 1,
+        "s2": 2
+      }
+    },
+    "2026-10-03": {
+      "Albania|Finland": {
+        "s1": 1,
+        "s2": 2
+      }
     }
   },
   "European Nations League C/D": {
@@ -75610,6 +76242,26 @@
       "Andorra|Malta": {
         "s1": 1,
         "s2": 2
+      }
+    },
+    "2026-09-27": {
+      "Azerbaijan|Lithuania": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Andorra|Gibraltar": {
+        "s1": 0,
+        "s2": 0
+      }
+    },
+    "2026-10-01": {
+      "Azerbaijan|Liechtenstein": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Gibraltar|Malta": {
+        "s1": 1,
+        "s2": 1
       }
     }
   },
@@ -87917,6 +88569,34 @@
         "s1": 2,
         "s2": 2
       }
+    },
+    "2026-09-27": {
+      "China|New Zealand": {
+        "s1": 0,
+        "s2": 3
+      }
+    },
+    "2026-09-28": {
+      "Palestine|Tajikistan": {
+        "s1": 4,
+        "s2": 2
+      }
+    },
+    "2026-10-01": {
+      "Ecuador|Japan": {
+        "s1": 0,
+        "s2": 0
+      },
+      "New Zealand|Panama": {
+        "s1": 1,
+        "s2": 1
+      }
+    },
+    "2026-10-02": {
+      "China|Palestine": {
+        "s1": 0,
+        "s2": 5
+      }
     }
   },
   "Friendship Games": {
@@ -91366,6 +92046,46 @@
       "United Arab Emirates|Yemen": {
         "s1": 4,
         "s2": 0
+      }
+    },
+    "2026-09-26": {
+      "Iraq|Kuwait": {
+        "s1": 3,
+        "s2": 2
+      },
+      "Oman|Saudi Arabia": {
+        "s1": 0,
+        "s2": 3
+      }
+    },
+    "2026-09-27": {
+      "Bahrain|United Arab Emirates": {
+        "s1": 0,
+        "s2": 3
+      },
+      "Qatar|Yemen": {
+        "s1": 1,
+        "s2": 0
+      }
+    },
+    "2026-09-29": {
+      "Kuwait|Oman": {
+        "s1": 1,
+        "s2": 3
+      },
+      "Iraq|Saudi Arabia": {
+        "s1": 0,
+        "s2": 2
+      }
+    },
+    "2026-09-30": {
+      "Qatar|United Arab Emirates": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Bahrain|Yemen": {
+        "s1": 2,
+        "s2": 5
       }
     }
   },
@@ -99470,6 +100190,32 @@
       "New Caledonia|Papua New Guinea": {
         "s1": 2,
         "s2": 1
+      }
+    },
+    "2026-09-27": {
+      "New Caledonia|Vanuatu": {
+        "s1": 1,
+        "s2": 4
+      },
+      "Fiji|Papua New Guinea": {
+        "s1": 2,
+        "s2": 0
+      }
+    },
+    "2026-09-30": {
+      "Papua New Guinea|Solomon Islands": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Fiji|New Caledonia": {
+        "s1": 2,
+        "s2": 1
+      }
+    },
+    "2026-10-03": {
+      "Fiji|Vanuatu": {
+        "s1": 1,
+        "s2": 0
       }
     }
   },
@@ -119452,6 +120198,82 @@
       "Indonesia|Singapore": {
         "s1": 2,
         "s2": 0
+      }
+    },
+    "2026-09-26": {
+      "Pakistan|Thailand": {
+        "s1": 0,
+        "s2": 4
+      },
+      "Philippines|Vietnam": {
+        "s1": 0,
+        "s2": 1
+      }
+    },
+    "2026-09-27": {
+      "Hong Kong|Laos": {
+        "s1": 4,
+        "s2": 0
+      },
+      "Cambodia|Myanmar": {
+        "s1": 1,
+        "s2": 0
+      }
+    },
+    "2026-09-28": {
+      "Bangladesh|Singapore": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Indonesia|Malaysia": {
+        "s1": 0,
+        "s2": 0
+      }
+    },
+    "2026-09-29": {
+      "Thailand|Vietnam": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Pakistan|Philippines": {
+        "s1": 2,
+        "s2": 2
+      }
+    },
+    "2026-09-30": {
+      "Cambodia|East Timor": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Brunei|Hong Kong": {
+        "s1": 0,
+        "s2": 2
+      }
+    },
+    "2026-10-01": {
+      "Bangladesh|Indonesia": {
+        "s1": 2,
+        "s2": 9
+      },
+      "Malaysia|Singapore": {
+        "s1": 6,
+        "s2": 0
+      }
+    },
+    "2026-10-02": {
+      "Philippines|Thailand": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Pakistan|Vietnam": {
+        "s1": 2,
+        "s2": 4
+      }
+    },
+    "2026-10-03": {
+      "Cambodia|Hong Kong": {
+        "s1": 0,
+        "s2": 2
       }
     }
   },

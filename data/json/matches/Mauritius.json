@@ -1,18 +1,18 @@
 {
   "team": "Mauritius",
   "stats": {
-    "matches_played": 340,
-    "wins": 94,
+    "matches_played": 341,
+    "wins": 95,
     "draws": 79,
     "losses": 167,
-    "goals_for": 426,
+    "goals_for": 429,
     "goals_against": 544,
-    "goal_difference": -118,
-    "win_percentage": 27.6,
-    "avg_points": 1.06,
+    "goal_difference": -115,
+    "win_percentage": 27.9,
+    "avg_points": 1.07,
     "best_rank": 16,
     "worst_rank": 177,
-    "avg_rank": 124.05,
+    "avg_rank": 124.14,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Reunion",
@@ -25,11 +25,11 @@
       "date": "2003-06-08",
       "flag": "egypt.png"
     },
-    "home_matches": 114,
+    "home_matches": 115,
     "away_matches": 148,
     "neutral_matches": 78,
     "first_match_date": "1932-01-17",
-    "last_match_date": "2026-03-31"
+    "last_match_date": "2026-10-02"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "sri_lanka.png",
       "score1": "",
       "score2": "",
-      "rating1": 4591,
-      "rating2": 4082,
+      "rating1": 4595,
+      "rating2": 4120,
       "rating_ev": 0,
       "rank": 155,
-      "win_prob": 93.2,
+      "win_prob": 92.3,
       "type": "fixture",
-      "points_off": 4619,
+      "points_off": 4636.590131605794,
       "points_def": 4717,
-      "ranking_off": 175,
-      "ranking_def": 110
+      "ranking_off": 168,
+      "ranking_def": 115
     },
     {
       "date": "2026-10-02",
@@ -65,18 +65,18 @@
       "original_team2": "Sri Lanka",
       "flag1": "mauritius.png",
       "flag2": "sri_lanka.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4591,
-      "rating2": 4082,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 4595,
+      "rating2": 4120,
+      "rating_ev": 4,
       "rank": 155,
-      "win_prob": 93.2,
-      "type": "fixture",
-      "points_off": 4619,
+      "win_prob": 92.0,
+      "type": "past",
+      "points_off": 4636.590131605794,
       "points_def": 4717,
-      "ranking_off": 175,
-      "ranking_def": 110
+      "ranking_off": 168,
+      "ranking_def": 115
     },
     {
       "date": "2026-03-31",

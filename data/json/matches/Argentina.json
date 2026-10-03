@@ -1,14 +1,14 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1115,
-    "wins": 616,
+    "matches_played": 1116,
+    "wins": 617,
     "draws": 268,
     "losses": 231,
-    "goals_for": 2120,
+    "goals_for": 2124,
     "goals_against": 1137,
-    "goal_difference": 983,
-    "win_percentage": 55.2,
+    "goal_difference": 987,
+    "win_percentage": 55.3,
     "avg_points": 1.9,
     "best_rank": 1,
     "worst_rank": 27,
@@ -25,11 +25,11 @@
       "date": "1958-06-15",
       "flag": "czechia.png"
     },
-    "home_matches": 381,
+    "home_matches": 382,
     "away_matches": 416,
     "neutral_matches": 318,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-07-19"
+    "last_match_date": "2026-09-30"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "benin.png",
       "score1": "",
       "score2": "",
-      "rating1": 5596,
-      "rating2": 4853,
+      "rating1": 5603,
+      "rating2": 4881,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 97.1,
+      "win_prob": 96.9,
       "type": "fixture",
-      "points_off": 5388,
+      "points_off": 5396.531545192784,
       "points_def": 5037,
       "ranking_off": 1,
-      "ranking_def": 7
+      "ranking_def": 10
     },
     {
       "date": "2026-10-03",
@@ -67,16 +67,16 @@
       "flag2": "burkina.png",
       "score1": "",
       "score2": "",
-      "rating1": 5596,
-      "rating2": 5029,
+      "rating1": 5603,
+      "rating2": 5006,
       "rating_ev": 0,
       "rank": 2,
-      "win_prob": 94.5,
+      "win_prob": 95.1,
       "type": "fixture",
-      "points_off": 5388,
+      "points_off": 5396.531545192784,
       "points_def": 5037,
       "ranking_off": 1,
-      "ranking_def": 7
+      "ranking_def": 10
     },
     {
       "date": "2026-09-30",
@@ -88,18 +88,18 @@
       "original_team2": "Bolivia",
       "flag1": "argentina.png",
       "flag2": "bolivia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5596,
-      "rating2": 5016,
-      "rating_ev": 0,
-      "rank": 2,
-      "win_prob": 94.8,
-      "type": "fixture",
-      "points_off": 5388,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 5603,
+      "rating2": 5004,
+      "rating_ev": 7,
+      "rank": 3,
+      "win_prob": 94.9,
+      "type": "past",
+      "points_off": 5396.531545192784,
       "points_def": 5037,
       "ranking_off": 1,
-      "ranking_def": 7
+      "ranking_def": 11
     },
     {
       "date": "2026-07-19",

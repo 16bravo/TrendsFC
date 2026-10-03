@@ -1,18 +1,18 @@
 {
   "team": "Solomon Islands",
   "stats": {
-    "matches_played": 223,
+    "matches_played": 224,
     "wins": 92,
-    "draws": 39,
+    "draws": 40,
     "losses": 92,
-    "goals_for": 465,
-    "goals_against": 433,
+    "goals_for": 466,
+    "goals_against": 434,
     "goal_difference": 32,
-    "win_percentage": 41.3,
+    "win_percentage": 41.1,
     "avg_points": 1.41,
     "best_rank": 147,
     "worst_rank": 193,
-    "avg_rank": 173.13,
+    "avg_rank": 173.19,
     "biggest_win": {
       "score": "16-0",
       "opponent": "Cook Islands",
@@ -27,9 +27,9 @@
     },
     "home_matches": 59,
     "away_matches": 63,
-    "neutral_matches": 101,
+    "neutral_matches": 102,
     "first_match_date": "1963-08-30",
-    "last_match_date": "2026-09-24"
+    "last_match_date": "2026-09-30"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "Papua New Guinea",
       "flag1": "solomon.png",
       "flag2": "papua.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 1,
       "rating1": 4184,
-      "rating2": 4203,
+      "rating2": 4178,
       "rating_ev": 0,
-      "rank": 187,
-      "win_prob": 47.9,
-      "type": "fixture",
-      "points_off": 4584,
-      "points_def": 4236,
-      "ranking_off": 179,
+      "rank": 186,
+      "win_prob": 50.7,
+      "type": "past",
+      "points_off": 4567.916583253976,
+      "points_def": 4249.237654893947,
+      "ranking_off": 181,
       "ranking_def": 196
     },
     {

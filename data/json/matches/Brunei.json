@@ -1,18 +1,18 @@
 {
   "team": "Brunei",
   "stats": {
-    "matches_played": 154,
+    "matches_played": 155,
     "wins": 27,
     "draws": 13,
-    "losses": 114,
+    "losses": 115,
     "goals_for": 121,
-    "goals_against": 494,
-    "goal_difference": -373,
-    "win_percentage": 17.5,
+    "goals_against": 496,
+    "goal_difference": -375,
+    "win_percentage": 17.4,
     "avg_points": 0.61,
     "best_rank": 168,
     "worst_rank": 212,
-    "avg_rank": 196.45,
+    "avg_rank": 196.54,
     "biggest_win": {
       "score": "4-0",
       "opponent": "East Timor",
@@ -26,10 +26,10 @@
       "flag": "uae.png"
     },
     "home_matches": 30,
-    "away_matches": 42,
+    "away_matches": 43,
     "neutral_matches": 82,
     "first_match_date": "1971-05-22",
-    "last_match_date": "2026-09-24"
+    "last_match_date": "2026-09-30"
   },
   "matches": [
     {
@@ -42,16 +42,16 @@
       "original_team2": "Hong Kong",
       "flag1": "brunei.png",
       "flag2": "hong_kong.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3587,
-      "rating2": 4484,
-      "rating_ev": 0,
-      "rank": 212,
-      "win_prob": 1.7,
-      "type": "fixture",
+      "score1": 0,
+      "score2": 2,
+      "rating1": 3615,
+      "rating2": 4468,
+      "rating_ev": 28,
+      "rank": 211,
+      "win_prob": 1.6,
+      "type": "past",
       "points_off": 4166,
-      "points_def": 3898,
+      "points_def": 3925.200702218363,
       "ranking_off": 214,
       "ranking_def": 213
     },
