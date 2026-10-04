@@ -47814,6 +47814,10 @@
       "Sint Maarten|St Vincent & Grenadines": {
         "s1": 2,
         "s2": 4
+      },
+      "Belize|French Guiana": {
+        "s1": 0,
+        "s2": 2
       }
     }
   },
@@ -76301,6 +76305,12 @@
         "s1": 1,
         "s2": 1
       }
+    },
+    "2026-10-04": {
+      "Azerbaijan|Lithuania": {
+        "s1": 1,
+        "s2": 0
+      }
     }
   },
   "FIFA Series": {
@@ -88618,6 +88628,10 @@
       "Palestine|Tajikistan": {
         "s1": 4,
         "s2": 2
+      },
+      "Kyrgyzstan|Maldives": {
+        "s1": 5,
+        "s2": 0
       }
     },
     "2026-10-01": {
@@ -88628,12 +88642,22 @@
       "New Zealand|Panama": {
         "s1": 1,
         "s2": 1
+      },
+      "Lebanon|Maldives": {
+        "s1": 6,
+        "s2": 0
       }
     },
     "2026-10-02": {
       "China|Palestine": {
         "s1": 0,
         "s2": 5
+      }
+    },
+    "2026-10-04": {
+      "Kyrgyzstan|Lebanon": {
+        "s1": 3,
+        "s2": 1
       }
     }
   },

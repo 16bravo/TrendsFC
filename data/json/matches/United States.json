@@ -1,18 +1,18 @@
 {
   "team": "United States",
   "stats": {
-    "matches_played": 830,
-    "wins": 371,
+    "matches_played": 831,
+    "wins": 372,
     "draws": 171,
     "losses": 288,
-    "goals_for": 1266,
+    "goals_for": 1269,
     "goals_against": 1085,
-    "goal_difference": 181,
-    "win_percentage": 44.7,
+    "goal_difference": 184,
+    "win_percentage": 44.8,
     "avg_points": 1.55,
     "best_rank": 12,
     "worst_rank": 94,
-    "avg_rank": 37.91,
+    "avg_rank": 37.89,
     "biggest_win": {
       "score": "8-0",
       "opponent": "Barbados",
@@ -25,11 +25,11 @@
       "date": "1948-08-06",
       "flag": "norway.png"
     },
-    "home_matches": 494,
+    "home_matches": 495,
     "away_matches": 251,
     "neutral_matches": 85,
     "first_match_date": "1916-08-20",
-    "last_match_date": "2026-09-29"
+    "last_match_date": "2026-10-03"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "canada.png",
       "score1": "",
       "score2": "",
-      "rating1": 5276,
+      "rating1": 5296,
       "rating2": 5247,
       "rating_ev": 0,
-      "rank": 27,
-      "win_prob": 63.8,
+      "rank": 24,
+      "win_prob": 65.8,
       "type": "fixture",
-      "points_off": 5128,
-      "points_def": 4793,
-      "ranking_off": 23,
-      "ranking_def": 78
+      "points_off": 5149.112784578076,
+      "points_def": 4815.746397034134,
+      "ranking_off": 18,
+      "ranking_def": 68
     },
     {
       "date": "2026-10-03",
@@ -65,18 +65,18 @@
       "original_team2": "Mexico",
       "flag1": "usa.png",
       "flag2": "mexico.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5276,
-      "rating2": 5374,
-      "rating_ev": 0,
-      "rank": 27,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5296,
+      "rating2": 5354,
+      "rating_ev": 20,
+      "rank": 25,
       "win_prob": 50.2,
-      "type": "fixture",
-      "points_off": 5128,
-      "points_def": 4793,
-      "ranking_off": 23,
-      "ranking_def": 78
+      "type": "past",
+      "points_off": 5149.112784578076,
+      "points_def": 4815.746397034134,
+      "ranking_off": 18,
+      "ranking_def": 68
     },
     {
       "date": "2026-09-29",
