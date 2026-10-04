@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-03",
+      "date": "2027-03-04",
       "country": "Central African Republic",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -50,13 +50,13 @@
       "rank": 113,
       "win_prob": 56.6,
       "type": "fixture",
-      "points_off": 4824.347893166047,
-      "points_def": 4830.766293352411,
+      "points_off": 4824,
+      "points_def": 4830,
       "ranking_off": 117,
       "ranking_def": 61
     },
     {
-      "date": "2027-03-03",
+      "date": "2027-03-04",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -73,13 +73,13 @@
       "rank": 113,
       "win_prob": 54.0,
       "type": "fixture",
-      "points_off": 4824.347893166047,
-      "points_def": 4830.766293352411,
+      "points_off": 4824,
+      "points_def": 4830,
       "ranking_off": 117,
       "ranking_def": 61
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "country": "Burkina Faso",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -96,13 +96,13 @@
       "rank": 113,
       "win_prob": 22.0,
       "type": "fixture",
-      "points_off": 4824.347893166047,
-      "points_def": 4830.766293352411,
+      "points_off": 4824,
+      "points_def": 4830,
       "ranking_off": 117,
       "ranking_def": 61
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "country": "Mauritania",
       "tournament": "African Cup qualifier",
       "team1": "Mauritania",
@@ -119,8 +119,8 @@
       "rank": 113,
       "win_prob": 40.5,
       "type": "fixture",
-      "points_off": 4824.347893166047,
-      "points_def": 4830.766293352411,
+      "points_off": 4824,
+      "points_def": 4830,
       "ranking_off": 117,
       "ranking_def": 61
     },
@@ -142,8 +142,8 @@
       "rank": 113,
       "win_prob": 23.4,
       "type": "fixture",
-      "points_off": 4824.347893166047,
-      "points_def": 4830.766293352411,
+      "points_off": 4824,
+      "points_def": 4830,
       "ranking_off": 117,
       "ranking_def": 61
     },
