@@ -1,18 +1,18 @@
 {
   "team": "Mauritius",
   "stats": {
-    "matches_played": 341,
+    "matches_played": 342,
     "wins": 95,
     "draws": 79,
-    "losses": 167,
-    "goals_for": 429,
-    "goals_against": 544,
-    "goal_difference": -115,
-    "win_percentage": 27.9,
-    "avg_points": 1.07,
+    "losses": 168,
+    "goals_for": 431,
+    "goals_against": 547,
+    "goal_difference": -116,
+    "win_percentage": 27.8,
+    "avg_points": 1.06,
     "best_rank": 16,
     "worst_rank": 177,
-    "avg_rank": 124.14,
+    "avg_rank": 124.24,
     "biggest_win": {
       "score": "15-2",
       "opponent": "Reunion",
@@ -25,11 +25,11 @@
       "date": "2003-06-08",
       "flag": "egypt.png"
     },
-    "home_matches": 115,
+    "home_matches": 116,
     "away_matches": 148,
     "neutral_matches": 78,
     "first_match_date": "1932-01-17",
-    "last_match_date": "2026-10-02"
+    "last_match_date": "2026-10-05"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Sri Lanka",
       "flag1": "mauritius.png",
       "flag2": "sri_lanka.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4595,
-      "rating2": 4120,
-      "rating_ev": 0,
-      "rank": 155,
+      "score1": 2,
+      "score2": 3,
+      "rating1": 4571,
+      "rating2": 4144,
+      "rating_ev": -24,
+      "rank": 157,
       "win_prob": 92.3,
-      "type": "fixture",
-      "points_off": 4636,
-      "points_def": 4717,
-      "ranking_off": 168,
-      "ranking_def": 114
+      "type": "past",
+      "points_off": 4632.825460288152,
+      "points_def": 4681.406779661017,
+      "ranking_off": 170,
+      "ranking_def": 124
     },
     {
       "date": "2026-10-02",

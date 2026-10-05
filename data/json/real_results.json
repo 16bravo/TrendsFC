@@ -46803,6 +46803,20 @@
         "s1": 1,
         "s2": 2
       }
+    },
+    "2026-10-04": {
+      "Costa Rica|Haiti": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Curaçao|Trinidad and Tobago": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Dominican Republic|Nicaragua": {
+        "s1": 2,
+        "s2": 1
+      }
     }
   },
   "CONCACAF Nations League B": {
@@ -47824,6 +47838,16 @@
       "Dominica|Guyana": {
         "s1": 1,
         "s2": 8
+      },
+      "Cayman Islands|Puerto Rico": {
+        "s1": 0,
+        "s2": 1
+      }
+    },
+    "2026-10-05": {
+      "Guadeloupe|Saint Lucia": {
+        "s1": 0,
+        "s2": 1
       }
     }
   },
@@ -48368,6 +48392,10 @@
         "s2": 3
       },
       "Bahamas|US Virgin Islands": {
+        "s1": 2,
+        "s2": 3
+      },
+      "Anguilla|Aruba": {
         "s1": 2,
         "s2": 3
       }
@@ -73837,6 +73865,16 @@
         "s1": 1,
         "s2": 0
       }
+    },
+    "2026-10-05": {
+      "Belgium|France": {
+        "s1": 1,
+        "s2": 4
+      },
+      "Italy|Turkey": {
+        "s1": 3,
+        "s2": 1
+      }
     }
   },
   "European Nations League A/B": {
@@ -74754,6 +74792,24 @@
       "Ireland|Israel": {
         "s1": 1,
         "s2": 1
+      }
+    },
+    "2026-10-05": {
+      "Romania|Sweden": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Bosnia and Herzegovina|Poland": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Hungary|Ukraine": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Georgia|Northern Ireland": {
+        "s1": 0,
+        "s2": 0
       }
     }
   },
@@ -75814,6 +75870,16 @@
       "Bulgaria|Iceland": {
         "s1": 0,
         "s2": 3
+      }
+    },
+    "2026-10-05": {
+      "Cyprus|Latvia": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Armenia|Montenegro": {
+        "s1": 0,
+        "s2": 0
       }
     }
   },
@@ -88705,6 +88771,16 @@
     "2026-10-04": {
       "Kyrgyzstan|Lebanon": {
         "s1": 3,
+        "s2": 1
+      }
+    },
+    "2026-10-05": {
+      "Ecuador|Panama": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Japan|New Zealand": {
+        "s1": 2,
         "s2": 1
       }
     }
@@ -120394,6 +120470,16 @@
       "Cambodia|Hong Kong": {
         "s1": 0,
         "s2": 2
+      }
+    },
+    "2026-10-05": {
+      "Indonesia|Thailand": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Malaysia|Vietnam": {
+        "s1": 1,
+        "s2": 0
       }
     }
   },

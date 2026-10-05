@@ -1,18 +1,18 @@
 {
   "team": "Panama",
   "stats": {
-    "matches_played": 604,
+    "matches_played": 605,
     "wins": 200,
-    "draws": 148,
+    "draws": 149,
     "losses": 256,
-    "goals_for": 753,
-    "goals_against": 925,
+    "goals_for": 754,
+    "goals_against": 926,
     "goal_difference": -172,
     "win_percentage": 33.1,
     "avg_points": 1.24,
     "best_rank": 39,
     "worst_rank": 142,
-    "avg_rank": 84.78,
+    "avg_rank": 84.74,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Anguilla",
@@ -27,9 +27,9 @@
     },
     "home_matches": 203,
     "away_matches": 232,
-    "neutral_matches": 169,
+    "neutral_matches": 170,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-10-01"
+    "last_match_date": "2026-10-05"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Ecuador",
       "flag1": "panama.png",
       "flag2": "ecuador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5067,
-      "rating2": 5352,
-      "rating_ev": 0,
-      "rank": 64,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5084,
+      "rating2": 5335,
+      "rating_ev": 17,
+      "rank": 60,
       "win_prob": 22.4,
-      "type": "fixture",
-      "points_off": 4972,
-      "points_def": 4835,
-      "ranking_off": 65,
-      "ranking_def": 60
+      "type": "past",
+      "points_off": 4989.948717948718,
+      "points_def": 4846.63233520652,
+      "ranking_off": 57,
+      "ranking_def": 58
     },
     {
       "date": "2026-10-01",

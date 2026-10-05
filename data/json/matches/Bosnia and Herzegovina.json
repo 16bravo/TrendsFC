@@ -1,14 +1,14 @@
 {
   "team": "Bosnia and Herzegovina",
   "stats": {
-    "matches_played": 287,
-    "wins": 105,
+    "matches_played": 288,
+    "wins": 106,
     "draws": 69,
     "losses": 113,
-    "goals_for": 398,
+    "goals_for": 399,
     "goals_against": 396,
-    "goal_difference": 2,
-    "win_percentage": 36.6,
+    "goal_difference": 3,
+    "win_percentage": 36.8,
     "avg_points": 1.34,
     "best_rank": 8,
     "worst_rank": 87,
@@ -25,13 +25,36 @@
       "date": "2024-11-16",
       "flag": "germany.png"
     },
-    "home_matches": 118,
+    "home_matches": 119,
     "away_matches": 140,
     "neutral_matches": 29,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2026-10-02"
+    "last_match_date": "2026-10-05"
   },
   "matches": [
+    {
+      "date": "2026-10-05",
+      "country": "Bosnia and Herzegovina",
+      "tournament": "European Nations League B",
+      "team1": "Bosnia and Herzegovina",
+      "team2": "Poland",
+      "original_team1": "Bosnia and Herzegovina",
+      "original_team2": "Poland",
+      "flag1": "bosnia.png",
+      "flag2": "poland.png",
+      "score1": 1,
+      "score2": 0,
+      "rating1": 5149,
+      "rating2": 5223,
+      "rating_ev": 15,
+      "rank": 52,
+      "win_prob": 49.5,
+      "type": "past",
+      "points_off": 4958.99391144734,
+      "points_def": 4849.713211302252,
+      "ranking_off": 70,
+      "ranking_def": 56
+    },
     {
       "date": "2026-10-02",
       "country": "Bosnia and Herzegovina",

@@ -1,9 +1,9 @@
 {
   "team": "Kenya",
   "stats": {
-    "matches_played": 734,
+    "matches_played": 735,
     "wins": 276,
-    "draws": 181,
+    "draws": 182,
     "losses": 277,
     "goals_for": 1010,
     "goals_against": 999,
@@ -12,7 +12,7 @@
     "avg_points": 1.37,
     "best_rank": 43,
     "worst_rank": 131,
-    "avg_rank": 91.16,
+    "avg_rank": 91.19,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Zanzibar",
@@ -26,10 +26,10 @@
       "flag": "uganda_1.png"
     },
     "home_matches": 265,
-    "away_matches": 257,
+    "away_matches": 258,
     "neutral_matches": 212,
     "first_match_date": "1926-05-01",
-    "last_match_date": "2026-10-01"
+    "last_match_date": "2026-10-05"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "eritrea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4812,
       "rating2": 4612,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 60.3,
+      "rank": 113,
+      "win_prob": 60.8,
       "type": "fixture",
       "points_off": 4881,
-      "points_def": 4723,
+      "points_def": 4749.375847748211,
       "ranking_off": 95,
-      "ranking_def": 108
+      "ranking_def": 101
     },
     {
       "date": "2027-03-05",
@@ -67,16 +67,16 @@
       "flag2": "guinea.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4812,
       "rating2": 4949,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 45.4,
+      "rank": 113,
+      "win_prob": 45.9,
       "type": "fixture",
       "points_off": 4881,
-      "points_def": 4723,
+      "points_def": 4749.375847748211,
       "ranking_off": 95,
-      "ranking_def": 108
+      "ranking_def": 101
     },
     {
       "date": "2026-11-05",
@@ -90,16 +90,16 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4812,
       "rating2": 5082,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 31.8,
+      "rank": 113,
+      "win_prob": 32.3,
       "type": "fixture",
       "points_off": 4881,
-      "points_def": 4723,
+      "points_def": 4749.375847748211,
       "ranking_off": 95,
-      "ranking_def": 108
+      "ranking_def": 101
     },
     {
       "date": "2026-11-05",
@@ -113,16 +113,16 @@
       "flag2": "south_africa.png",
       "score1": "",
       "score2": "",
-      "rating1": 4807,
+      "rating1": 4812,
       "rating2": 5082,
       "rating_ev": 0,
-      "rank": 115,
-      "win_prob": 16.3,
+      "rank": 113,
+      "win_prob": 16.5,
       "type": "fixture",
       "points_off": 4881,
-      "points_def": 4723,
+      "points_def": 4749.375847748211,
       "ranking_off": 95,
-      "ranking_def": 108
+      "ranking_def": 101
     },
     {
       "date": "2026-10-05",
@@ -134,18 +134,18 @@
       "original_team2": "Rwanda",
       "flag1": "kenya.png",
       "flag2": "rwanda.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4807,
-      "rating2": 4893,
-      "rating_ev": 0,
-      "rank": 115,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4812,
+      "rating2": 4888,
+      "rating_ev": 5,
+      "rank": 113,
       "win_prob": 30.6,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4881,
-      "points_def": 4723,
+      "points_def": 4749.375847748211,
       "ranking_off": 95,
-      "ranking_def": 108
+      "ranking_def": 101
     },
     {
       "date": "2026-10-01",

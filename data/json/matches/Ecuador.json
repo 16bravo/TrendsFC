@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 606,
+    "matches_played": 607,
     "wins": 186,
-    "draws": 163,
+    "draws": 164,
     "losses": 257,
-    "goals_for": 726,
-    "goals_against": 911,
+    "goals_for": 727,
+    "goals_against": 912,
     "goal_difference": -185,
-    "win_percentage": 30.7,
+    "win_percentage": 30.6,
     "avg_points": 1.19,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.61,
+    "avg_rank": 34.59,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -27,9 +27,9 @@
     },
     "home_matches": 183,
     "away_matches": 214,
-    "neutral_matches": 209,
+    "neutral_matches": 210,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2026-10-01"
+    "last_match_date": "2026-10-05"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Panama",
       "flag1": "ecuador.png",
       "flag2": "panama.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5352,
-      "rating2": 5067,
-      "rating_ev": 0,
-      "rank": 20,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 5335,
+      "rating2": 5084,
+      "rating_ev": -17,
+      "rank": 23,
       "win_prob": 77.6,
-      "type": "fixture",
-      "points_off": 5033,
-      "points_def": 5126,
-      "ranking_off": 44,
-      "ranking_def": 1
+      "type": "past",
+      "points_off": 5021.36766479348,
+      "points_def": 5108.051282051282,
+      "ranking_off": 47,
+      "ranking_def": 2
     },
     {
       "date": "2026-10-01",
