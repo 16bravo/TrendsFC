@@ -46817,6 +46817,20 @@
         "s1": 2,
         "s2": 1
       }
+    },
+    "2026-10-05": {
+      "Honduras|Jamaica": {
+        "s1": 1,
+        "s2": 1
+      },
+      "El Salvador|Martinique": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Guatemala|Suriname": {
+        "s1": 1,
+        "s2": 0
+      }
     }
   },
   "CONCACAF Nations League B": {
@@ -47852,6 +47866,14 @@
       "Cuba|Saint Kitts and Nevis": {
         "s1": 2,
         "s2": 2
+      },
+      "Bonaire|Grenada": {
+        "s1": 4,
+        "s2": 1
+      },
+      "Barbados|Bermuda": {
+        "s1": 2,
+        "s2": 1
       }
     }
   },
