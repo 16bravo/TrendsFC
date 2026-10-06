@@ -33,7 +33,7 @@
   },
   "matches": [
     {
-      "date": "2027-03-05",
+      "date": "2027-03-06",
       "country": "Libya",
       "tournament": "African Cup qualifier",
       "team1": "Uganda",
@@ -50,13 +50,13 @@
       "rank": 91,
       "win_prob": 43.9,
       "type": "fixture",
-      "points_off": 4900.948717948718,
-      "points_def": 4793.3076890910015,
+      "points_off": 4900,
+      "points_def": 4793,
       "ranking_off": 91,
       "ranking_def": 80
     },
     {
-      "date": "2027-03-05",
+      "date": "2027-03-06",
       "country": "Uganda",
       "tournament": "African Cup qualifier",
       "team1": "Uganda",
@@ -73,13 +73,13 @@
       "rank": 91,
       "win_prob": 51.1,
       "type": "fixture",
-      "points_off": 4900.948717948718,
-      "points_def": 4793.3076890910015,
+      "points_off": 4900,
+      "points_def": 4793,
       "ranking_off": 91,
       "ranking_def": 80
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "country": "Botswana",
       "tournament": "African Cup qualifier",
       "team1": "Uganda",
@@ -96,13 +96,13 @@
       "rank": 91,
       "win_prob": 56.3,
       "type": "fixture",
-      "points_off": 4900.948717948718,
-      "points_def": 4793.3076890910015,
+      "points_off": 4900,
+      "points_def": 4793,
       "ranking_off": 91,
       "ranking_def": 80
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "country": "Uganda",
       "tournament": "African Cup qualifier",
       "team1": "Uganda",
@@ -119,8 +119,8 @@
       "rank": 91,
       "win_prob": 75.6,
       "type": "fixture",
-      "points_off": 4900.948717948718,
-      "points_def": 4793.3076890910015,
+      "points_off": 4900,
+      "points_def": 4793,
       "ranking_off": 91,
       "ranking_def": 80
     },
