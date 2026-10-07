@@ -1,18 +1,18 @@
 {
   "team": "Argentina",
   "stats": {
-    "matches_played": 1117,
-    "wins": 618,
+    "matches_played": 1118,
+    "wins": 619,
     "draws": 268,
     "losses": 231,
-    "goals_for": 2131,
+    "goals_for": 2134,
     "goals_against": 1137,
-    "goal_difference": 994,
-    "win_percentage": 55.3,
+    "goal_difference": 997,
+    "win_percentage": 55.4,
     "avg_points": 1.9,
     "best_rank": 1,
     "worst_rank": 27,
-    "avg_rank": 6.36,
+    "avg_rank": 6.35,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Ecuador",
@@ -25,11 +25,11 @@
       "date": "1958-06-15",
       "flag": "czechia.png"
     },
-    "home_matches": 383,
+    "home_matches": 384,
     "away_matches": 416,
     "neutral_matches": 318,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-10-03"
+    "last_match_date": "2026-10-06"
   },
   "matches": [
     {
@@ -42,15 +42,15 @@
       "original_team2": "Benin",
       "flag1": "argentina.png",
       "flag2": "benin.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5625,
-      "rating2": 4881,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5622,
+      "rating2": 4884,
+      "rating_ev": -3,
       "rank": 3,
       "win_prob": 97.1,
-      "type": "fixture",
-      "points_off": 5434,
+      "type": "past",
+      "points_off": 5424.039947918356,
       "points_def": 5037,
       "ranking_off": 1,
       "ranking_def": 10

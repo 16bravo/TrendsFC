@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 482,
+    "matches_played": 483,
     "wins": 128,
-    "draws": 107,
+    "draws": 108,
     "losses": 247,
     "goals_for": 521,
     "goals_against": 875,
     "goal_difference": -354,
-    "win_percentage": 26.6,
+    "win_percentage": 26.5,
     "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.19,
+    "avg_rank": 63.13,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 176,
-    "away_matches": 181,
+    "away_matches": 182,
     "neutral_matches": 125,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-10-02"
+    "last_match_date": "2026-10-06"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Jordan",
       "flag1": "venezuela.png",
       "flag2": "jordan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5222,
-      "rating2": 5092,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5221,
+      "rating2": 5093,
+      "rating_ev": -1,
       "rank": 35,
       "win_prob": 53.3,
-      "type": "fixture",
-      "points_off": 5044,
-      "points_def": 4949,
-      "ranking_off": 38,
-      "ranking_def": 24
+      "type": "past",
+      "points_off": 5021.082433943184,
+      "points_def": 4974.4163419733295,
+      "ranking_off": 43,
+      "ranking_def": 18
     },
     {
       "date": "2026-10-02",

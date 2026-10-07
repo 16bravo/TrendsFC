@@ -1,14 +1,14 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1016,
-    "wins": 445,
+    "matches_played": 1017,
+    "wins": 446,
     "draws": 252,
     "losses": 319,
-    "goals_for": 1600,
-    "goals_against": 1240,
-    "goal_difference": 360,
-    "win_percentage": 43.8,
+    "goals_for": 1606,
+    "goals_against": 1241,
+    "goal_difference": 365,
+    "win_percentage": 43.9,
     "avg_points": 1.56,
     "best_rank": 1,
     "worst_rank": 39,
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 332,
-    "away_matches": 430,
+    "away_matches": 431,
     "neutral_matches": 254,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-09-28"
+    "last_match_date": "2026-10-06"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "India",
       "flag1": "uruguay.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5360,
-      "rating2": 4506,
-      "rating_ev": 0,
+      "score1": 6,
+      "score2": 1,
+      "rating1": 5372,
+      "rating2": 4494,
+      "rating_ev": 12,
       "rank": 16,
       "win_prob": 95.4,
-      "type": "fixture",
-      "points_off": 5104,
-      "points_def": 5078,
-      "ranking_off": 25,
-      "ranking_def": 3
+      "type": "past",
+      "points_off": 5143.483471421694,
+      "points_def": 5060.051282051282,
+      "ranking_off": 21,
+      "ranking_def": 5
     },
     {
       "date": "2026-09-28",

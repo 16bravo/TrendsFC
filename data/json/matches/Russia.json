@@ -1,18 +1,18 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 779,
+    "matches_played": 780,
     "wins": 407,
-    "draws": 202,
+    "draws": 203,
     "losses": 170,
-    "goals_for": 1400,
-    "goals_against": 755,
+    "goals_for": 1403,
+    "goals_against": 758,
     "goal_difference": 645,
     "win_percentage": 52.2,
     "avg_points": 1.83,
     "best_rank": 1,
     "worst_rank": 38,
-    "avg_rank": 14.02,
+    "avg_rank": 14.03,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1912-07-01",
       "flag": "germany_1.png"
     },
-    "home_matches": 167,
+    "home_matches": 168,
     "away_matches": 359,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2026-10-03"
+    "last_match_date": "2026-10-06"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Nigeria",
       "flag1": "russia.png",
       "flag2": "nigeria.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5354,
-      "rating2": 5170,
-      "rating_ev": 0,
-      "rank": 18,
+      "score1": 3,
+      "score2": 3,
+      "rating1": 5346,
+      "rating2": 5178,
+      "rating_ev": -8,
+      "rank": 19,
       "win_prob": 77.7,
-      "type": "fixture",
-      "points_off": 5173,
-      "points_def": 4938,
-      "ranking_off": 15,
-      "ranking_def": 27
+      "type": "past",
+      "points_off": 5185.752943101193,
+      "points_def": 4910.573353569171,
+      "ranking_off": 13,
+      "ranking_def": 38
     },
     {
       "date": "2026-10-03",
