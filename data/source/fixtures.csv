@@ -133,9 +133,9 @@ date,home_team,away_team,tournament,country,neutral
 2026-11-13,Montserrat,Nicaragua,CONCACAF Ch q,Dominican Rep,True
 2026-11-13,Dominica,Puerto Rico,CONCACAF League B,Guyana,True
 2026-11-14,Brazil,Japan,Friendly tournament,Singapore,True
-2026-11-14,Belize,St Vincent & Grenadines,CONCACAF League B,French Guiana,True
+2026-11-14,French Guiana,Sint Maarten,CONCACAF League B,St Vincent & Grenadines,True
 2026-11-14,Jamaica,Mexico,CONCACAF League,Jamaica,False
-2026-11-14,Haiti,United States,CONCACAF League,Haiti,False
+2026-11-14,Haiti,United States,CONCACAF League,Jamaica,True
 2026-11-14,China,Malaysia,Friendly,China,False
 2026-11-14,Sweden,Bosnia and Herzegovinaovina,European League B,Sweden,False
 2026-11-14,Romania,Poland,European League B,Romania,False
@@ -145,7 +145,7 @@ date,home_team,away_team,tournament,country,neutral
 2026-11-14,Austria,Ireland,European League B,Austria,False
 2026-11-14,Portugal,Denmark,European League A,Portugal,False
 2026-11-14,Norway,Wales,European League A,Norway,False
-2026-11-14,French Guiana,Sint Maarten,CONCACAF League B,French Guiana,False
+2026-11-14,St Vincent & Grenadines,Belize,CONCACAF League B,St Vincent & Grenadines,False
 2026-11-15,Panama,Curaçao,CONCACAF League,Panama,False
 2026-11-15,Vietnam,Kyrgyzstan,Friendly,Vietnam,False
 2026-11-15,Macao,Hong Kong,Friendly,Macao,False
@@ -176,7 +176,7 @@ date,home_team,away_team,tournament,country,neutral
 2026-11-16,Cuba,Grenada,CONCACAF League B,Cuba,False
 2026-11-16,Faroe Islands,Moldova,European League C,Faroe Islands,False
 2026-11-16,Guyana,Puerto Rico,CONCACAF League B,Guyana,False
-2026-11-17,Belize,Sint Maarten,CONCACAF League B,French Guiana,True
+2026-11-17,Belize,Sint Maarten,CONCACAF League B,St Vincent & Grenadines,True
 2026-11-17,Bonaire,Saint Kitts and Nevis,CONCACAF League B,Cuba,True
 2026-11-17,Japan,Paraguay,Friendly tournament,Singapore,True
 2026-11-17,El Salvador,Saint Martin,CONCACAF Ch q,El Salvador,False
@@ -196,7 +196,7 @@ date,home_team,away_team,tournament,country,neutral
 2026-11-17,Austria,Israel,European League B,Hungary,True
 2026-11-17,Wales,Portugal,European League A,Wales,False
 2026-11-17,Denmark,Norway,European League A,Denmark,False
-2026-11-17,French Guiana,St Vincent & Grenadines,CONCACAF League B,French Guiana,False
+2026-11-17,St Vincent & Grenadines,French Guiana,CONCACAF League B,St Vincent & Grenadines,False
 2026-11-17,Cayman Islands,Dominica,CONCACAF League B,Guyana,True
 2026-12-27,Saudi Arabia,Jordan,Friendly,Saudi Arabia,False
 2026-12-31,Oman,Yemen,Friendly,Oman,False
