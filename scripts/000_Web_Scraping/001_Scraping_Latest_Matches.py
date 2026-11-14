@@ -100,8 +100,24 @@ df = df[columns]
 
 print(df)
 
-history_csv = pd.concat([history_csv, df], ignore_index=True)
 history_csv['date'] = pd.to_datetime(history_csv['date'], format='%Y-%m-%d')
+
+# Un match est identifié par sa date et ses deux équipes, quel que soit l'ordre domicile/extérieur.
+def match_key(frame):
+    teams = [' | '.join(sorted(pair)) for pair in zip(frame['home_team'], frame['away_team'])]
+    return frame['date'].dt.strftime('%Y-%m-%d') + ' | ' + pd.Series(teams, index=frame.index)
+
+# Le site corrige parfois un match après coup (nom du tournoi, lieu, score...).
+# Pour chaque match présent sur la page, les anciennes versions différentes de la page sont retirées :
+# la version de la page fait foi. Les matchs absents de la page ne sont jamais touchés.
+page_keys = set(match_key(df))
+page_rows = set(df.astype(str).apply(tuple, axis=1))
+outdated = match_key(history_csv).isin(page_keys) & ~history_csv.astype(str).apply(tuple, axis=1).isin(page_rows)
+print(f"Matchs mis à jour depuis la page : {outdated.sum()}")
+print(history_csv[outdated])
+history_csv = history_csv[~outdated]
+
+history_csv = pd.concat([history_csv, df], ignore_index=True)
 history_csv = history_csv.drop_duplicates(subset=history_csv.columns.difference(['index']))
 
 # Affichez le DataFrame
