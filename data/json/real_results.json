@@ -15763,10 +15763,6 @@
         "s1": 2,
         "s2": 1
       },
-      "Comoros|Madagascar": {
-        "s1": 1,
-        "s2": 1
-      },
       "Equatorial Guinea|Togo": {
         "s1": 2,
         "s2": 2
@@ -15786,6 +15782,10 @@
       "Congo|Uganda": {
         "s1": 0,
         "s2": 2
+      },
+      "Comoros|Madagascar": {
+        "s1": 1,
+        "s2": 1
       }
     },
     "2024-09-10": {
@@ -48437,10 +48437,6 @@
       }
     },
     "2024-09-04": {
-      "British Virgin Islands|Cayman Islands": {
-        "s1": 0,
-        "s2": 1
-      },
       "Bahamas|US Virgin Islands": {
         "s1": 3,
         "s2": 3
@@ -48448,6 +48444,10 @@
       "Anguilla|Turks and Caicos Islands": {
         "s1": 2,
         "s2": 0
+      },
+      "British Virgin Islands|Cayman Islands": {
+        "s1": 0,
+        "s2": 1
       }
     },
     "2024-09-07": {
@@ -88880,52 +88880,6 @@
         "s2": 0
       }
     },
-    "2025-09-06": {
-      "Maldives|Sri Lanka": {
-        "s1": 3,
-        "s2": 0
-      }
-    },
-    "2025-09-09": {
-      "Maldives|Sri Lanka": {
-        "s1": 1,
-        "s2": 1
-      }
-    },
-    "2025-11-12": {
-      "Dominica|Saint Martin": {
-        "s1": 1,
-        "s2": 2
-      },
-      "Saint Kitts and Nevis|Sint Maarten": {
-        "s1": 0,
-        "s2": 0
-      },
-      "Dominican Republic|St Vincent & Grenadines": {
-        "s1": 2,
-        "s2": 0
-      },
-      "Cuba|Saint Lucia": {
-        "s1": 3,
-        "s2": 0
-      },
-      "British Virgin Islands|Cayman Islands": {
-        "s1": 2,
-        "s2": 1
-      },
-      "Barbados|Bonaire": {
-        "s1": 3,
-        "s2": 2
-      },
-      "Antigua and Barbuda|Aruba": {
-        "s1": 0,
-        "s2": 0
-      },
-      "Anguilla|Bahamas": {
-        "s1": 2,
-        "s2": 1
-      }
-    },
     "2025-11-13": {
       "Cape Verde|Iran": {
         "s1": 0,
@@ -88938,40 +88892,6 @@
         "s2": 2
       }
     },
-    "2025-11-15": {
-      "Aruba|Barbados": {
-        "s1": 3,
-        "s2": 0
-      },
-      "Bonaire|Guyana": {
-        "s1": 1,
-        "s2": 2
-      },
-      "Bahamas|British Virgin Islands": {
-        "s1": 0,
-        "s2": 6
-      },
-      "Dominica|Sint Maarten": {
-        "s1": 2,
-        "s2": 3
-      },
-      "Belize|Saint Martin": {
-        "s1": 1,
-        "s2": 0
-      },
-      "Anguilla|Cayman Islands": {
-        "s1": 0,
-        "s2": 4
-      },
-      "Saint Lucia|St Vincent & Grenadines": {
-        "s1": 1,
-        "s2": 3
-      },
-      "Cuba|Martinique": {
-        "s1": 2,
-        "s2": 0
-      }
-    },
     "2025-11-17": {
       "Cape Verde|Egypt": {
         "s1": 1,
@@ -88979,38 +88899,12 @@
       }
     },
     "2025-11-18": {
-      "Antigua and Barbuda|Guyana": {
-        "s1": 1,
-        "s2": 4
-      },
-      "Belize|Saint Kitts and Nevis": {
-        "s1": 6,
-        "s2": 2
-      },
       "Iran|Uzbekistan": {
         "s1": 0,
         "s2": 0
-      },
-      "Dominican Republic|Martinique": {
-        "s1": 0,
-        "s2": 0
-      }
-    },
-    "2026-03-27": {
-      "Iran|Nigeria": {
-        "s1": 1,
-        "s2": 2
-      },
-      "Costa Rica|Jordan": {
-        "s1": 2,
-        "s2": 2
       }
     },
     "2026-03-28": {
-      "Botswana|Zimbabwe": {
-        "s1": 0,
-        "s2": 3
-      },
       "Canada|Iceland": {
         "s1": 2,
         "s2": 2
@@ -89021,21 +88915,9 @@
       }
     },
     "2026-03-31": {
-      "Botswana|Malawi": {
-        "s1": 1,
-        "s2": 0
-      },
-      "Jordan|Nigeria": {
-        "s1": 2,
-        "s2": 2
-      },
       "Haiti|Iceland": {
         "s1": 1,
         "s2": 1
-      },
-      "Costa Rica|Iran": {
-        "s1": 0,
-        "s2": 5
       },
       "Canada|Tunisia": {
         "s1": 0,
@@ -89138,6 +89020,10 @@
       "Bahrain|Yemen": {
         "s1": 3,
         "s2": 1
+      },
+      "Brazil|Japan": {
+        "s1": 2,
+        "s2": 3
       }
     }
   },
@@ -120149,13 +120035,13 @@
       }
     },
     "2024-12-08": {
-      "East Timor|Thailand": {
-        "s1": 0,
-        "s2": 10
-      },
       "Cambodia|Malaysia": {
         "s1": 2,
         "s2": 2
+      },
+      "East Timor|Thailand": {
+        "s1": 0,
+        "s2": 10
       }
     },
     "2024-12-09": {
@@ -168754,10 +168640,6 @@
         "s1": 1,
         "s2": 3
       },
-      "Haiti|Saint Lucia": {
-        "s1": 2,
-        "s2": 1
-      },
       "El Salvador|Puerto Rico": {
         "s1": 0,
         "s2": 0
@@ -168765,6 +168647,10 @@
       "Costa Rica|Saint Kitts and Nevis": {
         "s1": 4,
         "s2": 0
+      },
+      "Haiti|Saint Lucia": {
+        "s1": 2,
+        "s2": 1
       }
     },
     "2024-06-07": {
@@ -168822,10 +168708,6 @@
         "s1": 0,
         "s2": 4
       },
-      "Bahamas|Trinidad and Tobago": {
-        "s1": 1,
-        "s2": 7
-      },
       "British Virgin Islands|Guatemala": {
         "s1": 0,
         "s2": 3
@@ -168837,6 +168719,10 @@
       "Antigua and Barbuda|Cayman Islands": {
         "s1": 0,
         "s2": 1
+      },
+      "Bahamas|Trinidad and Tobago": {
+        "s1": 1,
+        "s2": 7
       }
     },
     "2024-06-09": {
@@ -169796,10 +169682,6 @@
         "s1": 2,
         "s2": 0
       },
-      "Kuwait|Oman": {
-        "s1": 0,
-        "s2": 1
-      },
       "Iran|Uzbekistan": {
         "s1": 2,
         "s2": 2
@@ -169846,6 +169728,10 @@
       },
       "Argentina|Brazil": {
         "s1": 4,
+        "s2": 1
+      },
+      "Kuwait|Oman": {
+        "s1": 0,
         "s2": 1
       }
     },
@@ -171100,10 +170986,6 @@
         "s1": 0,
         "s2": 2
       },
-      "Botswana|Guinea": {
-        "s1": 2,
-        "s2": 2
-      },
       "Hungary|Portugal": {
         "s1": 2,
         "s2": 2
@@ -171171,6 +171053,10 @@
       "El Salvador|Guatemala": {
         "s1": 0,
         "s2": 1
+      },
+      "Botswana|Guinea": {
+        "s1": 2,
+        "s2": 2
       }
     },
     "2025-11-13": {
@@ -171424,10 +171310,6 @@
         "s1": 0,
         "s2": 0
       },
-      "Bermuda|Trinidad and Tobago": {
-        "s1": 2,
-        "s2": 2
-      },
       "El Salvador|Panama": {
         "s1": 0,
         "s2": 3
@@ -171443,6 +171325,10 @@
       "Costa Rica|Honduras": {
         "s1": 0,
         "s2": 0
+      },
+      "Bermuda|Trinidad and Tobago": {
+        "s1": 2,
+        "s2": 2
       }
     },
     "2026-03-26": {
