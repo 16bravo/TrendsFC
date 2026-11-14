@@ -1,9 +1,9 @@
 {
   "team": "Switzerland",
   "stats": {
-    "matches_played": 905,
+    "matches_played": 906,
     "wins": 326,
-    "draws": 205,
+    "draws": 206,
     "losses": 374,
     "goals_for": 1359,
     "goals_against": 1490,
@@ -12,7 +12,7 @@
     "avg_points": 1.31,
     "best_rank": 7,
     "worst_rank": 41,
-    "avg_rank": 23.89,
+    "avg_rank": 23.87,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Lithuania",
@@ -26,10 +26,10 @@
       "flag": "england.png"
     },
     "home_matches": 427,
-    "away_matches": 394,
+    "away_matches": 395,
     "neutral_matches": 84,
     "first_match_date": "1905-02-12",
-    "last_match_date": "2026-10-06"
+    "last_match_date": "2026-11-13"
   },
   "matches": [
     {
@@ -44,39 +44,39 @@
       "flag2": "scotland.png",
       "score1": "",
       "score2": "",
-      "rating1": 5491,
-      "rating2": 5223,
+      "rating1": 5480,
+      "rating2": 5216,
       "rating_ev": 0,
-      "rank": 10,
-      "win_prob": 83.3,
+      "rank": 11,
+      "win_prob": 83.1,
       "type": "fixture",
-      "points_off": 5234,
-      "points_def": 5038,
+      "points_off": 5211.654175097479,
+      "points_def": 5058.903047498096,
       "ranking_off": 11,
-      "ranking_def": 9
+      "ranking_def": 4
     },
     {
       "date": "2026-11-13",
       "country": "Slovenia",
-      "tournament": "European League B",
+      "tournament": "European Nations League B",
       "team1": "Switzerland",
       "team2": "Slovenia",
       "original_team1": "Switzerland",
       "original_team2": "Slovenia",
       "flag1": "switzerland.png",
       "flag2": "slovenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5491,
-      "rating2": 5214,
-      "rating_ev": 0,
-      "rank": 10,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5480,
+      "rating2": 5225,
+      "rating_ev": -11,
+      "rank": 11,
       "win_prob": 68.4,
-      "type": "fixture",
-      "points_off": 5234,
-      "points_def": 5038,
+      "type": "past",
+      "points_off": 5211.654175097479,
+      "points_def": 5058.903047498096,
       "ranking_off": 11,
-      "ranking_def": 9
+      "ranking_def": 5
     },
     {
       "date": "2026-10-06",

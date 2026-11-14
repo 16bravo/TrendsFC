@@ -1,18 +1,18 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1017,
-    "wins": 446,
+    "matches_played": 1018,
+    "wins": 447,
     "draws": 252,
     "losses": 319,
-    "goals_for": 1606,
-    "goals_against": 1241,
-    "goal_difference": 365,
+    "goals_for": 1608,
+    "goals_against": 1242,
+    "goal_difference": 366,
     "win_percentage": 43.9,
     "avg_points": 1.56,
     "best_rank": 1,
     "worst_rank": 39,
-    "avg_rank": 13.52,
+    "avg_rank": 13.53,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Bolivia",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 332,
-    "away_matches": 431,
+    "away_matches": 432,
     "neutral_matches": 254,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-10-06"
+    "last_match_date": "2026-11-13"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "dominican_rep.png",
       "score1": "",
       "score2": "",
-      "rating1": 5372,
+      "rating1": 5389,
       "rating2": 4743,
       "rating_ev": 0,
       "rank": 16,
-      "win_prob": 95.6,
+      "win_prob": 95.9,
       "type": "fixture",
-      "points_off": 5143,
-      "points_def": 5060,
-      "ranking_off": 20,
-      "ranking_def": 5
+      "points_off": 5171.571428571428,
+      "points_def": 5084.047503089429,
+      "ranking_off": 16,
+      "ranking_def": 3
     },
     {
       "date": "2026-11-13",
@@ -65,18 +65,18 @@
       "original_team2": "Argentina",
       "flag1": "uruguay.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5372,
-      "rating2": 5622,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5389,
+      "rating2": 5605,
+      "rating_ev": 17,
       "rank": 16,
       "win_prob": 17.8,
-      "type": "fixture",
-      "points_off": 5143,
-      "points_def": 5060,
-      "ranking_off": 20,
-      "ranking_def": 5
+      "type": "past",
+      "points_off": 5171.571428571428,
+      "points_def": 5084.047503089429,
+      "ranking_off": 16,
+      "ranking_def": 3
     },
     {
       "date": "2026-10-06",

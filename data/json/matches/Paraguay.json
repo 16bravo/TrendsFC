@@ -1,18 +1,18 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 797,
-    "wins": 281,
+    "matches_played": 798,
+    "wins": 282,
     "draws": 211,
     "losses": 305,
-    "goals_for": 1013,
-    "goals_against": 1121,
-    "goal_difference": -108,
+    "goals_for": 1017,
+    "goals_against": 1122,
+    "goal_difference": -105,
     "win_percentage": 35.3,
     "avg_points": 1.32,
     "best_rank": 6,
     "worst_rank": 47,
-    "avg_rank": 24.11,
+    "avg_rank": 24.1,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Bolivia",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 215,
-    "away_matches": 367,
+    "away_matches": 368,
     "neutral_matches": 215,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2026-10-02"
+    "last_match_date": "2026-11-13"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "japan.png",
       "score1": "",
       "score2": "",
-      "rating1": 5340,
+      "rating1": 5335,
       "rating2": 5428,
       "rating_ev": 0,
       "rank": 21,
-      "win_prob": 40.4,
+      "win_prob": 39.9,
       "type": "fixture",
-      "points_off": 5057,
-      "points_def": 5071,
-      "ranking_off": 34,
-      "ranking_def": 4
+      "points_off": 5080.081501731904,
+      "points_def": 5053.051282051282,
+      "ranking_off": 32,
+      "ranking_def": 6
     },
     {
       "date": "2026-11-13",
@@ -65,18 +65,18 @@
       "original_team2": "Singapore",
       "flag1": "paraguay.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5340,
-      "rating2": 4388,
-      "rating_ev": 0,
+      "score1": 4,
+      "score2": 1,
+      "rating1": 5335,
+      "rating2": 4393,
+      "rating_ev": -5,
       "rank": 21,
       "win_prob": 96.7,
-      "type": "fixture",
-      "points_off": 5057,
-      "points_def": 5071,
-      "ranking_off": 34,
-      "ranking_def": 4
+      "type": "past",
+      "points_off": 5080.081501731904,
+      "points_def": 5053.051282051282,
+      "ranking_off": 31,
+      "ranking_def": 6
     },
     {
       "date": "2026-10-02",

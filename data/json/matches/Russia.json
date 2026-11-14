@@ -1,13 +1,13 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 780,
-    "wins": 407,
+    "matches_played": 781,
+    "wins": 408,
     "draws": 203,
     "losses": 170,
-    "goals_for": 1403,
-    "goals_against": 758,
-    "goal_difference": 645,
+    "goals_for": 1406,
+    "goals_against": 760,
+    "goal_difference": 646,
     "win_percentage": 52.2,
     "avg_points": 1.83,
     "best_rank": 1,
@@ -26,10 +26,10 @@
       "flag": "germany_1.png"
     },
     "home_matches": 168,
-    "away_matches": 359,
+    "away_matches": 360,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2026-10-06"
+    "last_match_date": "2026-11-12"
   },
   "matches": [
     {
@@ -44,15 +44,15 @@
       "flag2": "venezuela.png",
       "score1": "",
       "score2": "",
-      "rating1": 5346,
+      "rating1": 5348,
       "rating2": 5221,
       "rating_ev": 0,
       "rank": 19,
-      "win_prob": 72.9,
+      "win_prob": 73.0,
       "type": "fixture",
-      "points_off": 5185,
-      "points_def": 4910,
-      "ranking_off": 13,
+      "points_off": 5206.3161386740085,
+      "points_def": 4903.524490947494,
+      "ranking_off": 12,
       "ranking_def": 38
     },
     {
@@ -65,18 +65,18 @@
       "original_team2": "Uzbekistan",
       "flag1": "russia.png",
       "flag2": "uzbekistan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5346,
-      "rating2": 5071,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 2,
+      "rating1": 5348,
+      "rating2": 5069,
+      "rating_ev": 2,
       "rank": 19,
       "win_prob": 68.2,
-      "type": "fixture",
-      "points_off": 5185,
-      "points_def": 4910,
-      "ranking_off": 13,
-      "ranking_def": 38
+      "type": "past",
+      "points_off": 5206.3161386740085,
+      "points_def": 4903.524490947494,
+      "ranking_off": 12,
+      "ranking_def": 41
     },
     {
       "date": "2026-10-06",

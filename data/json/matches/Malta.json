@@ -1,18 +1,18 @@
 {
   "team": "Malta",
   "stats": {
-    "matches_played": 460,
+    "matches_played": 461,
     "wins": 68,
-    "draws": 78,
+    "draws": 79,
     "losses": 314,
-    "goals_for": 300,
-    "goals_against": 1022,
+    "goals_for": 301,
+    "goals_against": 1023,
     "goal_difference": -722,
     "win_percentage": 14.8,
     "avg_points": 0.61,
     "best_rank": 64,
     "worst_rank": 146,
-    "avg_rank": 112.97,
+    "avg_rank": 113.02,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Liechtenstein",
@@ -25,11 +25,11 @@
       "date": "1983-12-21",
       "flag": "spain.png"
     },
-    "home_matches": 249,
+    "home_matches": 250,
     "away_matches": 184,
     "neutral_matches": 27,
     "first_match_date": "1957-02-24",
-    "last_match_date": "2026-10-04"
+    "last_match_date": "2026-11-12"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "gibraltar.png",
       "score1": "",
       "score2": "",
-      "rating1": 4714,
-      "rating2": 4497,
+      "rating1": 4708,
+      "rating2": 4484,
       "rating_ev": 0,
-      "rank": 134,
-      "win_prob": 62.5,
+      "rank": 137,
+      "win_prob": 63.2,
       "type": "fixture",
-      "points_off": 4742,
-      "points_def": 4600,
-      "ranking_off": 154,
-      "ranking_def": 144
+      "points_off": 4728.589321499606,
+      "points_def": 4605.643556300185,
+      "ranking_off": 155,
+      "ranking_def": 143
     },
     {
       "date": "2026-11-12",
@@ -65,18 +65,18 @@
       "original_team2": "Eswatini",
       "flag1": "malta.png",
       "flag2": "eswatini.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4714,
-      "rating2": 4616,
-      "rating_ev": 0,
-      "rank": 134,
+      "score1": 1,
+      "score2": 1,
+      "rating1": 4708,
+      "rating2": 4622,
+      "rating_ev": -6,
+      "rank": 135,
       "win_prob": 70.5,
-      "type": "fixture",
-      "points_off": 4742,
-      "points_def": 4600,
-      "ranking_off": 154,
-      "ranking_def": 144
+      "type": "past",
+      "points_off": 4728.589321499606,
+      "points_def": 4605.643556300185,
+      "ranking_off": 156,
+      "ranking_def": 143
     },
     {
       "date": "2026-10-04",

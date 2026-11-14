@@ -1,18 +1,18 @@
 {
   "team": "Anguilla",
   "stats": {
-    "matches_played": 123,
+    "matches_played": 124,
     "wins": 17,
     "draws": 14,
-    "losses": 92,
-    "goals_for": 78,
-    "goals_against": 429,
-    "goal_difference": -351,
-    "win_percentage": 13.8,
-    "avg_points": 0.53,
+    "losses": 93,
+    "goals_for": 79,
+    "goals_against": 434,
+    "goal_difference": -355,
+    "win_percentage": 13.7,
+    "avg_points": 0.52,
     "best_rank": 185,
     "worst_rank": 215,
-    "avg_rank": 210.66,
+    "avg_rank": 210.68,
     "biggest_win": {
       "score": "4-1",
       "opponent": "Montserrat",
@@ -26,10 +26,10 @@
       "flag": "trinidad.png"
     },
     "home_matches": 31,
-    "away_matches": 53,
+    "away_matches": 54,
     "neutral_matches": 39,
     "first_match_date": "1985-10-31",
-    "last_match_date": "2026-10-04"
+    "last_match_date": "2026-11-10"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Sint Maarten",
       "flag1": "anguilla.png",
       "flag2": "st_maarten.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 3593,
-      "rating2": 4042,
-      "rating_ev": 0,
-      "rank": 212,
+      "score1": 1,
+      "score2": 5,
+      "rating1": 3582,
+      "rating2": 4053,
+      "rating_ev": -11,
+      "rank": 213,
       "win_prob": 8.5,
-      "type": "fixture",
-      "points_off": 4231,
-      "points_def": 4021,
-      "ranking_off": 211,
-      "ranking_def": 207
+      "type": "past",
+      "points_off": 4248.948717948718,
+      "points_def": 3991.345077360227,
+      "ranking_off": 210,
+      "ranking_def": 209
     },
     {
       "date": "2026-10-04",
