@@ -37,7 +37,8 @@ jobs:
           chromedriver --version
 
       - name: Install all necessary packages
-        run: pip install requests beautifulsoup4 pandas webdriver_manager selenium kaggle
+        # six : requis par kaggle 2.x mais absent de ses dépendances déclarées
+        run: pip install requests beautifulsoup4 pandas webdriver_manager selenium kaggle six
         
       - name: Run the latest matches scraping script
         run: python scripts/000_Web_Scraping/001_Scraping_Latest_Matches.py
