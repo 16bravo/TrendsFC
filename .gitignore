@@ -1,2 +1,21 @@
 international-football-results-from-1872-to-2017.zip
 archives/.
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Fichiers générés par le pipeline (recréés à chaque exécution) ---
+# Archive Kaggle téléchargée par 021_Extract_Data_Source.py
+all-international-football-results.zip
+# Extraction de l'archive Kaggle
+temp/
+# Fichiers intermédiaires du pipeline DB (021 -> 028)
+data/temp/*.csv
+data/temp/*.txt
+
+# --- Sorties des simulations WC2026 ---
+scripts/040_Competitions/0410_WC2026/wc2026_results.csv
+scripts/040_Competitions/0410_WC2026/wc2026_expected_groups.csv
+scripts/040_Competitions/0410_WC2026/wc2026_expected_matches.csv
+scripts/040_Competitions/0410_WC2026/wc26_simulation_results.csv

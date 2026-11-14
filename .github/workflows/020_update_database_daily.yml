@@ -10,12 +10,12 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
-          python-version: 3.9
+          python-version: '3.12'
           cache: 'pip'
           
       - name: Check if database exists
@@ -23,10 +23,10 @@ jobs:
         run: |
             if [ -f data/TrendsFC.db ]; then
               echo "Database exists already. OK for update."
-              echo "::set-output name=update_ok::true"
+              echo "update_ok=true" >> $GITHUB_OUTPUT
             else
               echo "Database does not exist. KO for update."
-              echo "::set-output name=update_ok::false"
+              echo "update_ok=false" >> $GITHUB_OUTPUT
             fi
 
       - name: Install dependencies

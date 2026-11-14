@@ -9,24 +9,17 @@ on:
 jobs:
   json_gen:
     runs-on: ubuntu-latest
+    # Ne tourne que si le workflow DB Update précédent a réussi
+    if: github.event.workflow_run.conclusion == 'success'
 
     steps:
-      - name: Check the previous workflow
-        run: |
-          if [ ${{ github.event.workflow_run.conclusion == 'success' }} ]; then
-            echo "Previous workflow OK"  
-          else
-            echo "Previous workflow in error"
-            exit 1
-          fi
-          
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
-          python-version: 3.9
+          python-version: '3.12'
           cache: 'pip'
 
       - name: Install dependencies

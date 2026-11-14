@@ -9,19 +9,19 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v5
 
       - name: Restore dependency cache
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: |
             ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
   
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v6
         with:
-          python-version: 3.9
+          python-version: '3.12'
           
       - name: Check if database exists
         id: check-db
@@ -77,7 +77,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Sauvegarder le cache des dépendances
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: |
             ~/.cache/pip

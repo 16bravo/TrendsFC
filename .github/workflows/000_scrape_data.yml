@@ -11,32 +11,31 @@ jobs:
       cancel-in-progress: true
     steps:
       - name: Check out this repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v5
         
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.9'
+          python-version: '3.12'
           
       - name: Installed package list
         run: apt list --installed
       
-      - name: Download ChromeDriver
+      - name: Install ChromeDriver matching installed Chrome
         run: |
-          wget -q "https://storage.googleapis.com/chrome-for-testing-public/154.0.8037.0/linux64/chromedriver-linux64.zip" -O chromedriver.zip
-          unzip chromedriver.zip
-          cp chromedriver-linux64/chromedriver /usr/local/bin/
-          chmod +x /usr/local/bin/chromedriver
-        
-      - name: Remove Chrome
-        run: sudo apt purge google-chrome-stable
-        
-      - name: Remove default Chromium
-        run: sudo apt purge chromium-browser
-        
-      - name: Install a new Chromium
-        run: sudo apt install -y chromium-browser
-        
+          CHROME_VERSION=$(google-chrome --version | grep -oE '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+')
+          echo "Chrome version: $CHROME_VERSION"
+          if ! wget -q "https://storage.googleapis.com/chrome-for-testing-public/${CHROME_VERSION}/linux64/chromedriver-linux64.zip" -O chromedriver.zip; then
+            # Version exacte absente : on prend le dernier driver de la même version majeure
+            DRIVER_VERSION=$(curl -fsS "https://googlechromelabs.github.io/chrome-for-testing/LATEST_RELEASE_${CHROME_VERSION%%.*}")
+            echo "Exact driver not found, using $DRIVER_VERSION"
+            wget -q "https://storage.googleapis.com/chrome-for-testing-public/${DRIVER_VERSION}/linux64/chromedriver-linux64.zip" -O chromedriver.zip
+          fi
+          unzip -oq chromedriver.zip
+          sudo cp chromedriver-linux64/chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+          chromedriver --version
+
       - name: Install all necessary packages
         run: pip install requests beautifulsoup4 pandas webdriver_manager selenium kaggle
         
