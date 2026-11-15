@@ -1,18 +1,18 @@
 {
   "team": "India",
   "stats": {
-    "matches_played": 604,
+    "matches_played": 605,
     "wins": 218,
     "draws": 126,
-    "losses": 260,
+    "losses": 261,
     "goals_for": 834,
-    "goals_against": 992,
-    "goal_difference": -158,
-    "win_percentage": 36.1,
+    "goals_against": 995,
+    "goal_difference": -161,
+    "win_percentage": 36.0,
     "avg_points": 1.29,
     "best_rank": 46,
     "worst_rank": 181,
-    "avg_rank": 136.89,
+    "avg_rank": 136.94,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Ceylon",
@@ -26,10 +26,10 @@
       "flag": "ussr.png"
     },
     "home_matches": 174,
-    "away_matches": 164,
+    "away_matches": 165,
     "neutral_matches": 266,
     "first_match_date": "1938-09-03",
-    "last_match_date": "2026-11-14"
+    "last_match_date": "2026-11-15"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "pakistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4433,
+      "rating1": 4434,
       "rating2": 4231,
       "rating_ev": 0,
       "rank": 168,
-      "win_prob": 70.8,
+      "win_prob": 70.9,
       "type": "fixture",
-      "points_off": 4622.098693244922,
-      "points_def": 4435.051282051282,
+      "points_off": 4622,
+      "points_def": 4446.928772939344,
       "ranking_off": 173,
-      "ranking_def": 169
+      "ranking_def": 168
     },
     {
       "date": "2026-11-15",
@@ -65,18 +65,18 @@
       "original_team2": "New Zealand",
       "flag1": "india.png",
       "flag2": "new_zealand.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4433,
-      "rating2": 5088,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4434,
+      "rating2": 5087,
+      "rating_ev": 1,
       "rank": 168,
       "win_prob": 4.0,
-      "type": "fixture",
-      "points_off": 4622.098693244922,
-      "points_def": 4435.051282051282,
+      "type": "past",
+      "points_off": 4622,
+      "points_def": 4446.928772939344,
       "ranking_off": 173,
-      "ranking_def": 169
+      "ranking_def": 168
     },
     {
       "date": "2026-11-14",

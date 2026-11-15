@@ -1,18 +1,18 @@
 {
   "team": "New Zealand",
   "stats": {
-    "matches_played": 449,
-    "wins": 183,
+    "matches_played": 450,
+    "wins": 184,
     "draws": 82,
     "losses": 184,
-    "goals_for": 783,
+    "goals_for": 786,
     "goals_against": 665,
-    "goal_difference": 118,
-    "win_percentage": 40.8,
+    "goal_difference": 121,
+    "win_percentage": 40.9,
     "avg_points": 1.41,
     "best_rank": 38,
     "worst_rank": 117,
-    "avg_rank": 81.55,
+    "avg_rank": 81.5,
     "biggest_win": {
       "score": "13-0",
       "opponent": "Fiji",
@@ -25,11 +25,11 @@
       "date": "1936-07-11",
       "flag": "australia.png"
     },
-    "home_matches": 136,
+    "home_matches": 137,
     "away_matches": 191,
     "neutral_matches": 122,
     "first_match_date": "1922-06-17",
-    "last_match_date": "2026-11-12"
+    "last_match_date": "2026-11-15"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "India",
       "flag1": "new_zealand.png",
       "flag2": "india.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5088,
-      "rating2": 4433,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 0,
+      "rating1": 5087,
+      "rating2": 4434,
+      "rating_ev": -1,
       "rank": 60,
       "win_prob": 96.0,
-      "type": "fixture",
-      "points_off": 5083,
+      "type": "past",
+      "points_off": 5071.071227060656,
       "points_def": 4813,
-      "ranking_off": 31,
+      "ranking_off": 34,
       "ranking_def": 70
     },
     {
