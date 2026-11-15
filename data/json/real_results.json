@@ -16609,6 +16609,20 @@
         "s1": 5,
         "s2": 0
       }
+    },
+    "2026-11-14": {
+      "Algeria|Togo": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Botswana|Uganda": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Angola|South Sudan": {
+        "s1": 2,
+        "s2": 0
+      }
     }
   },
   "Afro-Asian Cup": {
@@ -46321,6 +46335,12 @@
         "s1": 3,
         "s2": 2
       }
+    },
+    "2026-11-14": {
+      "Haiti|United States": {
+        "s1": 0,
+        "s2": 6
+      }
     }
   },
   "CONCACAF Nations League A": {
@@ -48038,6 +48058,12 @@
       "Grenada|Saint Kitts and Nevis": {
         "s1": 3,
         "s2": 2
+      }
+    },
+    "2026-11-14": {
+      "French Guiana|Sint Maarten": {
+        "s1": 5,
+        "s2": 1
       }
     }
   },
@@ -74117,6 +74143,16 @@
         "s1": 0,
         "s2": 7
       }
+    },
+    "2026-11-14": {
+      "Norway|Wales": {
+        "s1": 3,
+        "s2": 1
+      },
+      "Denmark|Portugal": {
+        "s1": 4,
+        "s2": 1
+      }
     }
   },
   "European Nations League A/B": {
@@ -75072,6 +75108,32 @@
       "North Macedonia|Scotland": {
         "s1": 1,
         "s2": 2
+      }
+    },
+    "2026-11-14": {
+      "Poland|Romania": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Northern Ireland|Ukraine": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Israel|Kosovo": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Georgia|Hungary": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Bosnia and Herzegovina|Sweden": {
+        "s1": 2,
+        "s2": 3
+      },
+      "Austria|Ireland": {
+        "s1": 1,
+        "s2": 0
       }
     }
   },
@@ -89024,6 +89086,14 @@
       "Brazil|Japan": {
         "s1": 2,
         "s2": 3
+      },
+      "China|Malaysia": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Iran|Palestine": {
+        "s1": 2,
+        "s2": 0
       }
     }
   },
@@ -99556,6 +99626,16 @@
       "Iraq|Thailand": {
         "s1": 1,
         "s2": 0
+      }
+    },
+    "2026-11-14": {
+      "Brunei|Thailand": {
+        "s1": 0,
+        "s2": 6
+      },
+      "Oman|Tajikistan": {
+        "s1": 0,
+        "s2": 1
       }
     }
   },
@@ -117035,6 +117115,16 @@
         "s1": 4,
         "s2": 0
       }
+    },
+    "2026-11-14": {
+      "Bangladesh|Pakistan": {
+        "s1": 0,
+        "s2": 1
+      },
+      "Bhutan|India": {
+        "s1": 1,
+        "s2": 2
+      }
     }
   },
   "South Asian Games": {
@@ -122998,6 +123088,12 @@
       "Taiwan|Vietnam": {
         "s1": 0,
         "s2": 2
+      }
+    },
+    "2026-11-14": {
+      "Kyrgyzstan|Taiwan": {
+        "s1": 3,
+        "s2": 0
       }
     }
   },

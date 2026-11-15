@@ -1,18 +1,18 @@
 {
   "team": "Bosnia and Herzegovina",
   "stats": {
-    "matches_played": 288,
+    "matches_played": 289,
     "wins": 106,
     "draws": 69,
-    "losses": 113,
-    "goals_for": 399,
-    "goals_against": 396,
-    "goal_difference": 3,
-    "win_percentage": 36.8,
+    "losses": 114,
+    "goals_for": 401,
+    "goals_against": 399,
+    "goal_difference": 2,
+    "win_percentage": 36.7,
     "avg_points": 1.34,
     "best_rank": 8,
     "worst_rank": 87,
-    "avg_rank": 50.31,
+    "avg_rank": 50.32,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Estonia",
@@ -26,12 +26,35 @@
       "flag": "germany.png"
     },
     "home_matches": 119,
-    "away_matches": 140,
+    "away_matches": 141,
     "neutral_matches": 29,
     "first_match_date": "1990-12-08",
-    "last_match_date": "2026-10-05"
+    "last_match_date": "2026-11-14"
   },
   "matches": [
+    {
+      "date": "2026-11-14",
+      "country": "Sweden",
+      "tournament": "European Nations League B",
+      "team1": "Bosnia and Herzegovina",
+      "team2": "Sweden",
+      "original_team1": "Bosnia and Herzegovina",
+      "original_team2": "Sweden",
+      "flag1": "bosnia.png",
+      "flag2": "sweden.png",
+      "score1": 2,
+      "score2": 3,
+      "rating1": 5148,
+      "rating2": 5272,
+      "rating_ev": -1,
+      "rank": 52,
+      "win_prob": 27.4,
+      "type": "past",
+      "points_off": 4986.571428571428,
+      "points_def": 4833.945788004154,
+      "ranking_off": 59,
+      "ranking_def": 61
+    },
     {
       "date": "2026-10-05",
       "country": "Bosnia and Herzegovina",

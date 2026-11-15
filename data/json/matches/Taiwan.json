@@ -1,18 +1,18 @@
 {
   "team": "Taiwan",
   "stats": {
-    "matches_played": 338,
+    "matches_played": 339,
     "wins": 95,
     "draws": 51,
-    "losses": 192,
+    "losses": 193,
     "goals_for": 462,
-    "goals_against": 789,
-    "goal_difference": -327,
-    "win_percentage": 28.1,
+    "goals_against": 792,
+    "goal_difference": -330,
+    "win_percentage": 28.0,
     "avg_points": 0.99,
     "best_rank": 49,
     "worst_rank": 202,
-    "avg_rank": 154.3,
+    "avg_rank": 154.42,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Guam",
@@ -27,9 +27,9 @@
     },
     "home_matches": 94,
     "away_matches": 109,
-    "neutral_matches": 135,
+    "neutral_matches": 136,
     "first_match_date": "1954-05-01",
-    "last_match_date": "2026-11-11"
+    "last_match_date": "2026-11-14"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Kyrgyzstan",
       "flag1": "taiwan.png",
       "flag2": "kyrgyzstan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4113,
-      "rating2": 4744,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 3,
+      "rating1": 4108,
+      "rating2": 4749,
+      "rating_ev": -5,
       "rank": 196,
       "win_prob": 6.5,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4572,
-      "points_def": 4193,
+      "points_def": 4195.289685263216,
       "ranking_off": 182,
-      "ranking_def": 200
+      "ranking_def": 199
     },
     {
       "date": "2026-11-11",

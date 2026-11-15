@@ -1,18 +1,18 @@
 {
   "team": "Malaysia",
   "stats": {
-    "matches_played": 930,
+    "matches_played": 931,
     "wins": 362,
     "draws": 209,
-    "losses": 359,
+    "losses": 360,
     "goals_for": 1513,
-    "goals_against": 1356,
-    "goal_difference": 157,
+    "goals_against": 1358,
+    "goal_difference": 155,
     "win_percentage": 38.9,
     "avg_points": 1.39,
     "best_rank": 60,
     "worst_rank": 183,
-    "avg_rank": 121.39,
+    "avg_rank": 121.41,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Philippines",
@@ -26,10 +26,10 @@
       "flag": "uae.png"
     },
     "home_matches": 349,
-    "away_matches": 236,
+    "away_matches": 237,
     "neutral_matches": 345,
     "first_match_date": "1948-06-20",
-    "last_match_date": "2026-10-05"
+    "last_match_date": "2026-11-14"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "yemen.png",
       "score1": "",
       "score2": "",
-      "rating1": 4669,
+      "rating1": 4648,
       "rating2": 4615,
       "rating_ev": 0,
-      "rank": 143,
-      "win_prob": 55.9,
+      "rank": 146,
+      "win_prob": 53.6,
       "type": "fixture",
       "points_off": 4706,
-      "points_def": 4597,
+      "points_def": 4589.907438069646,
       "ranking_off": 163,
-      "ranking_def": 144
+      "ranking_def": 148
     },
     {
       "date": "2026-11-14",
@@ -65,18 +65,18 @@
       "original_team2": "China",
       "flag1": "malaysia.png",
       "flag2": "china.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4669,
-      "rating2": 4692,
-      "rating_ev": 0,
-      "rank": 143,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4648,
+      "rating2": 4713,
+      "rating_ev": -21,
+      "rank": 145,
       "win_prob": 36.8,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4706,
-      "points_def": 4597,
+      "points_def": 4589.907438069646,
       "ranking_off": 163,
-      "ranking_def": 144
+      "ranking_def": 147
     },
     {
       "date": "2026-10-05",
