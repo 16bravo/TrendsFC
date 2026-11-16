@@ -1,18 +1,18 @@
 {
   "team": "Eswatini",
   "stats": {
-    "matches_played": 309,
+    "matches_played": 310,
     "wins": 62,
     "draws": 95,
-    "losses": 152,
+    "losses": 153,
     "goals_for": 259,
-    "goals_against": 508,
-    "goal_difference": -249,
-    "win_percentage": 20.1,
+    "goals_against": 512,
+    "goal_difference": -253,
+    "win_percentage": 20.0,
     "avg_points": 0.91,
     "best_rank": 118,
     "worst_rank": 167,
-    "avg_rank": 146.01,
+    "avg_rank": 146.04,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Djibouti",
@@ -27,9 +27,9 @@
     },
     "home_matches": 14,
     "away_matches": 126,
-    "neutral_matches": 169,
+    "neutral_matches": 170,
     "first_match_date": "1968-07-20",
-    "last_match_date": "2026-11-12"
+    "last_match_date": "2026-11-15"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Suriname",
       "flag1": "eswatini.png",
       "flag2": "suriname.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4622,
-      "rating2": 4877,
-      "rating_ev": 0,
-      "rank": 151,
+      "score1": 0,
+      "score2": 4,
+      "rating1": 4603,
+      "rating2": 4896,
+      "rating_ev": -19,
+      "rank": 154,
       "win_prob": 24.7,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4804,
-      "points_def": 4654,
+      "points_def": 4622.005838568754,
       "ranking_off": 126,
-      "ranking_def": 133
+      "ranking_def": 141
     },
     {
       "date": "2026-11-12",

@@ -1,9 +1,9 @@
 {
   "team": "Latvia",
   "stats": {
-    "matches_played": 465,
+    "matches_played": 466,
     "wins": 128,
-    "draws": 113,
+    "draws": 114,
     "losses": 224,
     "goals_for": 537,
     "goals_against": 763,
@@ -12,7 +12,7 @@
     "avg_points": 1.07,
     "best_rank": 40,
     "worst_rank": 143,
-    "avg_rank": 79.82,
+    "avg_rank": 79.93,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Lithuania",
@@ -25,34 +25,34 @@
       "date": "1927-05-29",
       "flag": "sweden.png"
     },
-    "home_matches": 194,
+    "home_matches": 195,
     "away_matches": 217,
     "neutral_matches": 54,
     "first_match_date": "1922-09-24",
-    "last_match_date": "2026-11-12"
+    "last_match_date": "2026-11-15"
   },
   "matches": [
     {
       "date": "2026-11-15",
       "country": "Latvia",
-      "tournament": "European League C",
+      "tournament": "European Nations League C",
       "team1": "Latvia",
       "team2": "Armenia",
       "original_team1": "Latvia",
       "original_team2": "Armenia",
       "flag1": "latvia.png",
       "flag2": "armenia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4752,
-      "rating2": 4785,
-      "rating_ev": 0,
-      "rank": 127,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4748,
+      "rating2": 4789,
+      "rating_ev": -4,
+      "rank": 128,
       "win_prob": 57.3,
-      "type": "fixture",
-      "points_off": 4721,
+      "type": "past",
+      "points_off": 4695.638907938306,
       "points_def": 4713,
-      "ranking_off": 158,
+      "ranking_off": 164,
       "ranking_def": 112
     },
     {

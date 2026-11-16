@@ -1,9 +1,9 @@
 {
   "team": "Armenia",
   "stats": {
-    "matches_played": 287,
+    "matches_played": 288,
     "wins": 67,
-    "draws": 60,
+    "draws": 61,
     "losses": 160,
     "goals_for": 286,
     "goals_against": 543,
@@ -12,7 +12,7 @@
     "avg_points": 0.91,
     "best_rank": 53,
     "worst_rank": 157,
-    "avg_rank": 87.56,
+    "avg_rank": 87.66,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guatemala",
@@ -26,34 +26,34 @@
       "flag": "norway.png"
     },
     "home_matches": 117,
-    "away_matches": 134,
+    "away_matches": 135,
     "neutral_matches": 36,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2026-11-12"
+    "last_match_date": "2026-11-15"
   },
   "matches": [
     {
       "date": "2026-11-15",
       "country": "Latvia",
-      "tournament": "European League C",
+      "tournament": "European Nations League C",
       "team1": "Armenia",
       "team2": "Latvia",
       "original_team1": "Armenia",
       "original_team2": "Latvia",
       "flag1": "armenia.png",
       "flag2": "latvia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4785,
-      "rating2": 4752,
-      "rating_ev": 0,
-      "rank": 118,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4789,
+      "rating2": 4748,
+      "rating_ev": 4,
+      "rank": 116,
       "win_prob": 42.7,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4816,
-      "points_def": 4634,
+      "points_def": 4659.361092061694,
       "ranking_off": 122,
-      "ranking_def": 140
+      "ranking_def": 132
     },
     {
       "date": "2026-11-12",

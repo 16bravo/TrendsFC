@@ -1,18 +1,18 @@
 {
   "team": "Suriname",
   "stats": {
-    "matches_played": 535,
-    "wins": 232,
+    "matches_played": 536,
+    "wins": 233,
     "draws": 127,
     "losses": 176,
-    "goals_for": 961,
+    "goals_for": 965,
     "goals_against": 726,
-    "goal_difference": 235,
-    "win_percentage": 43.4,
+    "goal_difference": 239,
+    "win_percentage": 43.5,
     "avg_points": 1.54,
     "best_rank": 28,
     "worst_rank": 168,
-    "avg_rank": 98.7,
+    "avg_rank": 98.68,
     "biggest_win": {
       "score": "9-0",
       "opponent": "French Guiana",
@@ -27,9 +27,9 @@
     },
     "home_matches": 221,
     "away_matches": 225,
-    "neutral_matches": 89,
+    "neutral_matches": 90,
     "first_match_date": "1915-08-17",
-    "last_match_date": "2026-11-12"
+    "last_match_date": "2026-11-15"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "Eswatini",
       "flag1": "suriname.png",
       "flag2": "eswatini.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4877,
-      "rating2": 4622,
-      "rating_ev": 0,
-      "rank": 97,
+      "score1": 4,
+      "score2": 0,
+      "rating1": 4896,
+      "rating2": 4603,
+      "rating_ev": 19,
+      "rank": 91,
       "win_prob": 75.3,
-      "type": "fixture",
-      "points_off": 4845,
+      "type": "past",
+      "points_off": 4876.994161431246,
       "points_def": 4807,
-      "ranking_off": 111,
+      "ranking_off": 99,
       "ranking_def": 74
     },
     {
