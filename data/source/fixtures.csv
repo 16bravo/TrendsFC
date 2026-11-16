@@ -2,53 +2,52 @@ date,home_team,away_team,tournament,country,neutral
 2026-01-05,Qatar,Vietnam,Friendly,Qatar,False
 2026-03-25,Aruba,Montserrat,CONCACAF League C,,True
 2026-03-25,Antigua and Barbuda,Saint Martin,CONCACAF League C,,True
-2026-11-15,Panama,Curaçao,CONCACAF League,Panama,False
-2026-11-16,Switzerland,Scotland,European League B,Switzerland,False
-2026-11-16,North Macedonia,Slovenia,European League B,North Macedonia,False
-2026-11-16,Germany,Netherlands,European League A,Germany,False
-2026-11-16,Greece,Serbia,European League A,Greece,False
 2026-11-16,Trinidad and Tobago,Antigua and Barbuda,CONCACAF Ch q,Trinidad and Tobago,False
 2026-11-16,Martinique,Aruba,CONCACAF Ch q,Martinique,False
 2026-11-16,Guyana,Puerto Rico,CONCACAF League B,Guyana,False
+2026-11-16,Guadeloupe,Bermuda,CONCACAF League B,Guadeloupe,False
 2026-11-16,Cuba,Grenada,CONCACAF League B,Cuba,False
 2026-11-16,Canada,Guatemala,CONCACAF League,Canada,False
 2026-11-16,Tahiti,Cook Islands,Friendly,Tahiti,False
 2026-11-16,Andorra,Azerbaijan,Friendly,Andorra,False
 2026-11-16,Zimbabwe,Equatorial Guinea,African Cup qualifier,Zimbabwe,False
-2026-11-16,Guadeloupe,Bermuda,CONCACAF League B,Guadeloupe,False
-2026-11-16,Ghana,Somalia,African Cup qualifier,Ghana,False
-2026-11-16,Estonia,Bulgaria,European League C,Estonia,False
 2026-11-16,Senegal,Sudan,African Cup qualifier,South Sudan,True
-2026-11-16,Iceland,Luxembourg,European League C,Iceland,False
+2026-11-16,Germany,Netherlands,European League A,Germany,False
+2026-11-16,Eritrea,Guinea,African Cup qualifier,Egypt,True
+2026-11-16,Greece,Serbia,European League A,Greece,False
+2026-11-16,North Macedonia,Slovenia,European League B,North Macedonia,False
+2026-11-16,Switzerland,Scotland,European League B,Switzerland,False
+2026-11-16,Ghana,Somalia,African Cup qualifier,Ghana,False
+2026-11-16,Faroe Islands,Moldova,European League C,Faroe Islands,False
+2026-11-16,Estonia,Bulgaria,European League C,Estonia,False
 2026-11-16,Kazakhstan,Slovakia,European League C,Kazakhstan,False
 2026-11-16,Gibraltar,Malta,European League D,Gibraltar,False
-2026-11-16,Faroe Islands,Moldova,European League C,Faroe Islands,False
+2026-11-16,Lithuania,Liechtenstein,European League D,Lithuania,False
 2026-11-16,Benin,Central African Republic,African Cup qualifier,Cameroon,True
 2026-11-16,Cameroon,Namibia,African Cup qualifier,Botswana,True
-2026-11-16,Eritrea,Guinea,African Cup qualifier,Egypt,True
-2026-11-16,Lithuania,Liechtenstein,European League D,Lithuania,False
-2026-11-17,Saudi Arabia,Uzbekistan,Friendly,Qatar,True
-2026-11-17,China,Bahrain,Friendly tournament,China,False
-2026-11-17,Ecuador,Bolivia,Friendly,Ecuador,False
-2026-11-17,Iraq,Iran,Friendly tournament,Iraq,False
-2026-11-17,Japan,Paraguay,Friendly tournament,Singapore,True
-2026-11-17,Kuwait,Honduras,Friendly,Kuwait,False
-2026-11-17,Lebanon,Palestine,Friendly tournament,Iraq,True
-2026-11-17,Malaysia,Yemen,Friendly tournament,China,True
-2026-11-17,Qatar,South Korea,Friendly,Qatar,False
+2026-11-16,Iceland,Luxembourg,European League C,Iceland,False
 2026-11-17,Russia,Venezuela,Friendly,Russia,False
+2026-11-17,Qatar,South Korea,Friendly,Qatar,False
+2026-11-17,Malaysia,Yemen,Friendly tournament,China,True
+2026-11-17,Lebanon,Palestine,Friendly tournament,Iraq,True
+2026-11-17,China,Bahrain,Friendly tournament,China,False
+2026-11-17,Japan,Paraguay,Friendly tournament,Singapore,True
+2026-11-17,Iraq,Iran,Friendly tournament,Iraq,False
+2026-11-17,Ecuador,Bolivia,Friendly,Ecuador,False
+2026-11-17,Saudi Arabia,Uzbekistan,Friendly,Qatar,True
+2026-11-17,Kuwait,Honduras,Friendly,Kuwait,False
 2026-11-17,Singapore,Brazil,Friendly tournament,Singapore,False
-2026-11-17,Nicaragua,Montserrat,CONCACAF Ch q,Nicaragua,False
+2026-11-17,Belize,Sint Maarten,CONCACAF League B,St Vincent & Grenadines,True
 2026-11-17,Uruguay,Dominican Republic,Friendly,Uruguay,False
 2026-11-17,Vietnam,Kyrgyzstan,Vietnam FF Cup,Vietnam,False
 2026-11-17,Mexico,Jamaica,CONCACAF League,Mexico,False
 2026-11-17,United States,Haiti,CONCACAF League,United States,False
 2026-11-17,Barbados,Saint Lucia,CONCACAF League B,Guadeloupe,True
-2026-11-17,Belize,Sint Maarten,CONCACAF League B,St Vincent & Grenadines,True
 2026-11-17,Bonaire,Saint Kitts and Nevis,CONCACAF League B,Cuba,True
 2026-11-17,Cayman Islands,Dominica,CONCACAF League B,Guyana,True
 2026-11-17,St Vincent & Grenadines,French Guiana,CONCACAF League B,St Vincent & Grenadines,False
 2026-11-17,El Salvador,Saint Martin,CONCACAF Ch q,El Salvador,False
+2026-11-17,Nicaragua,Montserrat,CONCACAF Ch q,Nicaragua,False
 2026-11-17,Chile,Colombia,Friendly,Chile,False
 2026-11-17,United Arab Emirates,Syria,Friendly,United Arab Emirates,False
 2026-11-17,Australia,Jordan,Friendly,Qatar,True
@@ -108,9 +107,9 @@ date,home_team,away_team,tournament,country,neutral
 2027-03-16,Tunisia,Botswana,African Cup qualifier,Tunisia,False
 2027-03-16,Namibia,Comoros,African Cup qualifier,Namibia,False
 2027-03-16,Burkina Faso,Central African Republic,African Cup qualifier,Burkina Faso,False
-2027-03-16,Angola,Egypt,African Cup qualifier,Angola,False
-2027-03-16,Zimbabwe,Sierra Leone,African Cup qualifier,Zimbabwe,False
 2027-03-16,Benin,Burkina Faso,African Cup qualifier,Benin,False
+2027-03-16,Zimbabwe,Sierra Leone,African Cup qualifier,Zimbabwe,False
+2027-03-16,Angola,Egypt,African Cup qualifier,Angola,False
 2027-03-16,Botswana,Libya,African Cup qualifier,Botswana,False
 2027-03-16,Burundi,Togo,African Cup qualifier,Burundi,False
 2027-03-16,Cape Verde,Mali,African Cup qualifier,Cape Verde,False
