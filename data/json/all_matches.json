@@ -156,7 +156,7 @@
       "rating2": 4882,
       "rating_ev": 0,
       "rank1": 32,
-      "rank2": 97,
+      "rank2": 96,
       "win_prob": 81.9,
       "type": "fixture"
     },
@@ -356,7 +356,7 @@
       "rating2": 4882,
       "rating_ev": 0,
       "rank1": 135,
-      "rank2": 97,
+      "rank2": 96,
       "win_prob": 32.3,
       "type": "fixture"
     },
@@ -635,7 +635,7 @@
       "rating1": 4882,
       "rating2": 4749,
       "rating_ev": 0,
-      "rank1": 97,
+      "rank1": 96,
       "rank2": 127,
       "win_prob": 64.2,
       "type": "fixture"
@@ -1236,7 +1236,7 @@
       "rating2": 4883,
       "rating_ev": 0,
       "rank1": 92,
-      "rank2": 96,
+      "rank2": 95,
       "win_prob": 62.0,
       "type": "fixture"
     },
@@ -1635,7 +1635,7 @@
       "rating1": 4883,
       "rating2": 4947,
       "rating_ev": 0,
-      "rank1": 96,
+      "rank1": 95,
       "rank2": 81,
       "win_prob": 53.9,
       "type": "fixture"
@@ -1733,11 +1733,11 @@
       "score1": "",
       "score2": "",
       "rating1": 5178,
-      "rating2": 5077,
+      "rating2": 5088,
       "rating_ev": 0,
       "rank1": 47,
-      "rank2": 61,
-      "win_prob": 70.7,
+      "rank2": 60,
+      "win_prob": 69.7,
       "type": "fixture"
     },
     {
@@ -1796,7 +1796,7 @@
       "rating2": 4883,
       "rating_ev": 0,
       "rank1": 125,
-      "rank2": 96,
+      "rank2": 95,
       "win_prob": 46.9,
       "type": "fixture"
     },
@@ -2736,7 +2736,7 @@
       "rating2": 4882,
       "rating_ev": 0,
       "rank1": 71,
-      "rank2": 97,
+      "rank2": 96,
       "win_prob": 72.1,
       "type": "fixture"
     },
@@ -3483,22 +3483,22 @@
     {
       "date": "2026-11-15",
       "country": "Panama",
-      "tournament": "CONCACAF League",
+      "tournament": "CONCACAF Nations League",
       "team1": "Panama",
       "team2": "Cura\u00e7ao",
       "original_team1": "Panama",
       "original_team2": "Cura\u00e7ao",
       "flag1": "panama.png",
       "flag2": "curacao.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5077,
-      "rating2": 4886,
-      "rating_ev": 0,
-      "rank1": 61,
-      "rank2": 95,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5088,
+      "rating2": 4875,
+      "rating_ev": 11,
+      "rank1": 60,
+      "rank2": 97,
       "win_prob": 78.2,
-      "type": "fixture"
+      "type": "past"
     },
     {
       "date": "2026-11-15",
