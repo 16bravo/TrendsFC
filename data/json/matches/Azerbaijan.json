@@ -1,18 +1,18 @@
 {
   "team": "Azerbaijan",
   "stats": {
-    "matches_played": 329,
-    "wins": 70,
+    "matches_played": 330,
+    "wins": 71,
     "draws": 83,
     "losses": 176,
-    "goals_for": 269,
-    "goals_against": 546,
-    "goal_difference": -277,
-    "win_percentage": 21.3,
-    "avg_points": 0.89,
+    "goals_for": 272,
+    "goals_against": 547,
+    "goal_difference": -275,
+    "win_percentage": 21.5,
+    "avg_points": 0.9,
     "best_rank": 36,
     "worst_rank": 131,
-    "avg_rank": 100.61,
+    "avg_rank": 100.67,
     "biggest_win": {
       "score": "6-1",
       "opponent": "Saint Lucia",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 119,
-    "away_matches": 154,
+    "away_matches": 155,
     "neutral_matches": 56,
     "first_match_date": "1926-12-31",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-16"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Andorra",
       "flag1": "azerbaijan.png",
       "flag2": "andorra.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4765,
-      "rating2": 4653,
-      "rating_ev": 0,
-      "rank": 122,
+      "score1": 3,
+      "score2": 1,
+      "rating1": 4778,
+      "rating2": 4640,
+      "rating_ev": 13,
+      "rank": 120,
       "win_prob": 51.3,
-      "type": "fixture",
-      "points_off": 4733,
-      "points_def": 4643,
-      "ranking_off": 155,
-      "ranking_def": 139
+      "type": "past",
+      "points_off": 4768.593220338983,
+      "points_def": 4647.784826176833,
+      "ranking_off": 143,
+      "ranking_def": 135
     },
     {
       "date": "2026-11-13",

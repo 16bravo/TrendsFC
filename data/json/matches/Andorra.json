@@ -1,18 +1,18 @@
 {
   "team": "Andorra",
   "stats": {
-    "matches_played": 236,
+    "matches_played": 237,
     "wins": 16,
     "draws": 33,
-    "losses": 187,
-    "goals_for": 80,
-    "goals_against": 549,
-    "goal_difference": -469,
+    "losses": 188,
+    "goals_for": 81,
+    "goals_against": 552,
+    "goal_difference": -471,
     "win_percentage": 6.8,
     "avg_points": 0.34,
     "best_rank": 127,
     "worst_rank": 166,
-    "avg_rank": 150.06,
+    "avg_rank": 150.05,
     "biggest_win": {
       "score": "3-0",
       "opponent": "San Marino",
@@ -25,11 +25,11 @@
       "date": "2005-06-04",
       "flag": "czechia.png"
     },
-    "home_matches": 94,
+    "home_matches": 95,
     "away_matches": 109,
     "neutral_matches": 33,
     "first_match_date": "1996-11-13",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-16"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Azerbaijan",
       "flag1": "andorra.png",
       "flag2": "azerbaijan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4653,
-      "rating2": 4765,
-      "rating_ev": 0,
-      "rank": 145,
+      "score1": 1,
+      "score2": 3,
+      "rating1": 4640,
+      "rating2": 4778,
+      "rating_ev": -13,
+      "rank": 146,
       "win_prob": 48.7,
-      "type": "fixture",
-      "points_off": 4564,
-      "points_def": 4662,
+      "type": "past",
+      "points_off": 4559.215173823167,
+      "points_def": 4626.406779661017,
       "ranking_off": 185,
-      "ranking_def": 130
+      "ranking_def": 140
     },
     {
       "date": "2026-11-13",
