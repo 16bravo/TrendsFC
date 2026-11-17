@@ -1,18 +1,18 @@
 {
   "team": "Malaysia",
   "stats": {
-    "matches_played": 931,
-    "wins": 362,
+    "matches_played": 932,
+    "wins": 363,
     "draws": 209,
     "losses": 360,
-    "goals_for": 1513,
-    "goals_against": 1358,
-    "goal_difference": 155,
+    "goals_for": 1515,
+    "goals_against": 1359,
+    "goal_difference": 156,
     "win_percentage": 38.9,
     "avg_points": 1.39,
     "best_rank": 60,
     "worst_rank": 183,
-    "avg_rank": 121.41,
+    "avg_rank": 121.44,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Philippines",
@@ -27,9 +27,9 @@
     },
     "home_matches": 349,
     "away_matches": 237,
-    "neutral_matches": 345,
+    "neutral_matches": 346,
     "first_match_date": "1948-06-20",
-    "last_match_date": "2026-11-14"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Yemen",
       "flag1": "malaysia.png",
       "flag2": "yemen.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4648,
-      "rating2": 4615,
-      "rating_ev": 0,
-      "rank": 146,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 4660,
+      "rating2": 4603,
+      "rating_ev": 12,
+      "rank": 145,
       "win_prob": 53.6,
-      "type": "fixture",
-      "points_off": 4706,
-      "points_def": 4589,
-      "ranking_off": 162,
-      "ranking_def": 149
+      "type": "past",
+      "points_off": 4714.483347527171,
+      "points_def": 4601.6873609567465,
+      "ranking_off": 160,
+      "ranking_def": 147
     },
     {
       "date": "2026-11-14",

@@ -1,18 +1,18 @@
 {
   "team": "Cook Islands",
   "stats": {
-    "matches_played": 58,
+    "matches_played": 59,
     "wins": 13,
-    "draws": 4,
+    "draws": 5,
     "losses": 41,
-    "goals_for": 52,
-    "goals_against": 284,
+    "goals_for": 55,
+    "goals_against": 287,
     "goal_difference": -232,
-    "win_percentage": 22.4,
-    "avg_points": 0.74,
+    "win_percentage": 22.0,
+    "avg_points": 0.75,
     "best_rank": 170,
     "worst_rank": 218,
-    "avg_rank": 212.66,
+    "avg_rank": 212.73,
     "biggest_win": {
       "score": "3-0",
       "opponent": "Eastern Samoa",
@@ -26,10 +26,10 @@
       "flag": "france.png"
     },
     "home_matches": 6,
-    "away_matches": 15,
+    "away_matches": 16,
     "neutral_matches": 37,
     "first_match_date": "1971-09-11",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-16"
   },
   "matches": [
     {
@@ -42,16 +42,16 @@
       "original_team2": "Tahiti",
       "flag1": "cook.png",
       "flag2": "tahiti.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 2964,
-      "rating2": 4142,
-      "rating_ev": 0,
+      "score1": 3,
+      "score2": 3,
+      "rating1": 2997,
+      "rating2": 4109,
+      "rating_ev": 33,
       "rank": 217,
       "win_prob": 0.7,
-      "type": "fixture",
-      "points_off": 3547,
-      "points_def": 3447,
+      "type": "past",
+      "points_off": 3582.593220338983,
+      "points_def": 3473.3136463407045,
       "ranking_off": 219,
       "ranking_def": 217
     },

@@ -1,18 +1,18 @@
 {
   "team": "Tahiti",
   "stats": {
-    "matches_played": 249,
+    "matches_played": 250,
     "wins": 132,
-    "draws": 35,
+    "draws": 36,
     "losses": 82,
-    "goals_for": 651,
-    "goals_against": 379,
+    "goals_for": 654,
+    "goals_against": 382,
     "goal_difference": 272,
-    "win_percentage": 53.0,
+    "win_percentage": 52.8,
     "avg_points": 1.73,
     "best_rank": 83,
-    "worst_rank": 194,
-    "avg_rank": 141.24,
+    "worst_rank": 195,
+    "avg_rank": 141.46,
     "biggest_win": {
       "score": "30-0",
       "opponent": "Cook Islands",
@@ -25,11 +25,11 @@
       "date": "2004-06-04",
       "flag": "new_zealand.png"
     },
-    "home_matches": 58,
+    "home_matches": 59,
     "away_matches": 71,
     "neutral_matches": 120,
     "first_match_date": "1952-09-21",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-16"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Cook Islands",
       "flag1": "tahiti.png",
       "flag2": "cook.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4142,
-      "rating2": 2964,
-      "rating_ev": 0,
-      "rank": 194,
+      "score1": 3,
+      "score2": 3,
+      "rating1": 4109,
+      "rating2": 2997,
+      "rating_ev": -33,
+      "rank": 195,
       "win_prob": 99.3,
-      "type": "fixture",
-      "points_off": 4355,
-      "points_def": 4293,
+      "type": "past",
+      "points_off": 4328.686353659296,
+      "points_def": 4257.406779661017,
       "ranking_off": 205,
-      "ranking_def": 186
+      "ranking_def": 191
     },
     {
       "date": "2026-11-13",

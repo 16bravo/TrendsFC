@@ -1,18 +1,18 @@
 {
   "team": "Singapore",
   "stats": {
-    "matches_played": 770,
+    "matches_played": 771,
     "wins": 241,
     "draws": 158,
-    "losses": 371,
+    "losses": 372,
     "goals_for": 1026,
-    "goals_against": 1387,
-    "goal_difference": -361,
+    "goals_against": 1394,
+    "goal_difference": -368,
     "win_percentage": 31.3,
     "avg_points": 1.14,
     "best_rank": 80,
     "worst_rank": 180,
-    "avg_rank": 138.35,
+    "avg_rank": 138.39,
     "biggest_win": {
       "score": "11-0",
       "opponent": "Laos",
@@ -25,11 +25,11 @@
       "date": "1969-11-09",
       "flag": "burma_1.png"
     },
-    "home_matches": 319,
+    "home_matches": 320,
     "away_matches": 183,
     "neutral_matches": 268,
     "first_match_date": "1948-05-22",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -44,16 +44,16 @@
       "flag2": "iraq.png",
       "score1": "",
       "score2": "",
-      "rating1": 4393,
+      "rating1": 4361,
       "rating2": 4892,
       "rating_ev": 0,
-      "rank": 170,
-      "win_prob": 10.6,
+      "rank": 171,
+      "win_prob": 9.4,
       "type": "fixture",
       "points_off": 4616,
-      "points_def": 4381,
+      "points_def": 4343.306152489422,
       "ranking_off": 175,
-      "ranking_def": 174
+      "ranking_def": 179
     },
     {
       "date": "2027-12-30",
@@ -67,16 +67,16 @@
       "flag2": "tajikistan.png",
       "score1": "",
       "score2": "",
-      "rating1": 4393,
+      "rating1": 4361,
       "rating2": 4673,
       "rating_ev": 0,
-      "rank": 170,
-      "win_prob": 22.8,
+      "rank": 171,
+      "win_prob": 20.4,
       "type": "fixture",
       "points_off": 4616,
-      "points_def": 4381,
+      "points_def": 4343.306152489422,
       "ranking_off": 175,
-      "ranking_def": 174
+      "ranking_def": 179
     },
     {
       "date": "2027-12-25",
@@ -90,16 +90,16 @@
       "flag2": "australia.png",
       "score1": "",
       "score2": "",
-      "rating1": 4393,
+      "rating1": 4361,
       "rating2": 5273,
       "rating_ev": 0,
-      "rank": 170,
-      "win_prob": 2.8,
+      "rank": 171,
+      "win_prob": 2.5,
       "type": "fixture",
       "points_off": 4616,
-      "points_def": 4381,
+      "points_def": 4343.306152489422,
       "ranking_off": 175,
-      "ranking_def": 174
+      "ranking_def": 179
     },
     {
       "date": "2026-11-17",
@@ -111,18 +111,18 @@
       "original_team2": "Brazil",
       "flag1": "singapore.png",
       "flag2": "brazil.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4393,
-      "rating2": 5504,
-      "rating_ev": 0,
-      "rank": 170,
+      "score1": 0,
+      "score2": 7,
+      "rating1": 4361,
+      "rating2": 5536,
+      "rating_ev": -32,
+      "rank": 171,
       "win_prob": 2.1,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4616,
-      "points_def": 4381,
+      "points_def": 4343.306152489422,
       "ranking_off": 175,
-      "ranking_def": 174
+      "ranking_def": 179
     },
     {
       "date": "2026-11-13",

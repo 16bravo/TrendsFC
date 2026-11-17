@@ -1,14 +1,14 @@
 {
   "team": "Brazil",
   "stats": {
-    "matches_played": 1077,
-    "wins": 679,
+    "matches_played": 1078,
+    "wins": 680,
     "draws": 224,
     "losses": 174,
-    "goals_for": 2325,
+    "goals_for": 2332,
     "goals_against": 967,
-    "goal_difference": 1358,
-    "win_percentage": 63.0,
+    "goal_difference": 1365,
+    "win_percentage": 63.1,
     "avg_points": 2.1,
     "best_rank": 1,
     "worst_rank": 14,
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 374,
-    "away_matches": 349,
+    "away_matches": 350,
     "neutral_matches": 354,
     "first_match_date": "1914-09-20",
-    "last_match_date": "2026-11-14"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "Singapore",
       "flag1": "brazil.png",
       "flag2": "singapore.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5504,
-      "rating2": 4393,
-      "rating_ev": 0,
-      "rank": 10,
+      "score1": 7,
+      "score2": 0,
+      "rating1": 5536,
+      "rating2": 4361,
+      "rating_ev": 32,
+      "rank": 7,
       "win_prob": 97.9,
-      "type": "fixture",
-      "points_off": 5306,
+      "type": "past",
+      "points_off": 5343.693847510578,
       "points_def": 5020,
-      "ranking_off": 5,
+      "ranking_off": 3,
       "ranking_def": 11
     },
     {
