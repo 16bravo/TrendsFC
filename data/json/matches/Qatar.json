@@ -1,18 +1,18 @@
 {
   "team": "Qatar",
   "stats": {
-    "matches_played": 693,
+    "matches_played": 694,
     "wins": 285,
     "draws": 177,
-    "losses": 231,
+    "losses": 232,
     "goals_for": 982,
-    "goals_against": 823,
-    "goal_difference": 159,
+    "goals_against": 824,
+    "goal_difference": 158,
     "win_percentage": 41.1,
     "avg_points": 1.49,
     "best_rank": 34,
     "worst_rank": 147,
-    "avg_rank": 84.05,
+    "avg_rank": 84.08,
     "biggest_win": {
       "score": "15-0",
       "opponent": "Bhutan",
@@ -25,11 +25,11 @@
       "date": "1973-12-31",
       "flag": "kuwait.png"
     },
-    "home_matches": 319,
+    "home_matches": 320,
     "away_matches": 147,
     "neutral_matches": 227,
     "first_match_date": "1970-03-27",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -45,15 +45,15 @@
       "score1": "",
       "score2": "",
       "rating1": 4835,
-      "rating2": 5448,
+      "rating2": 5427,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 7.0,
+      "rank": 107,
+      "win_prob": 7.5,
       "type": "fixture",
-      "points_off": 4799,
-      "points_def": 4670,
-      "ranking_off": 129,
-      "ranking_def": 127
+      "points_off": 4778.184058060638,
+      "points_def": 4682.641863751094,
+      "ranking_off": 135,
+      "ranking_def": 123
     },
     {
       "date": "2028-01-01",
@@ -70,13 +70,13 @@
       "rating1": 4835,
       "rating2": 4741,
       "rating_ev": 0,
-      "rank": 108,
+      "rank": 107,
       "win_prob": 60.2,
       "type": "fixture",
-      "points_off": 4799,
-      "points_def": 4670,
-      "ranking_off": 129,
-      "ranking_def": 127
+      "points_off": 4778.184058060638,
+      "points_def": 4682.641863751094,
+      "ranking_off": 135,
+      "ranking_def": 123
     },
     {
       "date": "2027-12-27",
@@ -91,15 +91,15 @@
       "score1": "",
       "score2": "",
       "rating1": 4835,
-      "rating2": 4760,
+      "rating2": 4790,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 58.2,
+      "rank": 107,
+      "win_prob": 54.9,
       "type": "fixture",
-      "points_off": 4799,
-      "points_def": 4670,
-      "ranking_off": 129,
-      "ranking_def": 127
+      "points_off": 4778.184058060638,
+      "points_def": 4682.641863751094,
+      "ranking_off": 135,
+      "ranking_def": 123
     },
     {
       "date": "2026-11-17",
@@ -111,18 +111,18 @@
       "original_team2": "South Korea",
       "flag1": "qatar.png",
       "flag2": "south_korea.png",
-      "score1": "",
-      "score2": "",
+      "score1": 0,
+      "score2": 1,
       "rating1": 4835,
       "rating2": 5176,
       "rating_ev": 0,
-      "rank": 108,
+      "rank": 107,
       "win_prob": 26.0,
-      "type": "fixture",
-      "points_off": 4799,
-      "points_def": 4670,
-      "ranking_off": 129,
-      "ranking_def": 127
+      "type": "past",
+      "points_off": 4778.184058060638,
+      "points_def": 4682.641863751094,
+      "ranking_off": 135,
+      "ranking_def": 123
     },
     {
       "date": "2026-11-13",
@@ -367,15 +367,15 @@
       "score1": "",
       "score2": "",
       "rating1": 4835,
-      "rating2": 4712,
+      "rating2": 4695,
       "rating_ev": 0,
-      "rank": 108,
-      "win_prob": 72.7,
+      "rank": 107,
+      "win_prob": 74.2,
       "type": "fixture",
-      "points_off": 4799,
-      "points_def": 4670,
-      "ranking_off": 129,
-      "ranking_def": 127
+      "points_off": 4778.184058060638,
+      "points_def": 4682.641863751094,
+      "ranking_off": 135,
+      "ranking_def": 123
     },
     {
       "date": "2025-12-07",

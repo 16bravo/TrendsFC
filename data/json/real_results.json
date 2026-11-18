@@ -16649,6 +16649,80 @@
         "s1": 0,
         "s2": 3
       }
+    },
+    "2026-11-17": {
+      "Burundi|Zambia": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Gabon|Lesotho": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Kenya|South Africa": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Guinea-Bissau|Madagascar": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Gambia|Ivory Coast": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Ethiopia|Mozambique": {
+        "s1": 0,
+        "s2": 1
+      },
+      "DR Congo|Sierra Leone": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Comoros|Congo": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Botswana|Uganda": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Cape Verde|Liberia": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Libya|Tunisia": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Nigeria|Tanzania": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Burkina Faso|Mauritania": {
+        "s1": 3,
+        "s2": 1
+      },
+      "Egypt|Malawi": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Algeria|Togo": {
+        "s1": 0,
+        "s2": 3
+      },
+      "Angola|South Sudan": {
+        "s1": 1,
+        "s2": 0
+      },
+      "Mali|Rwanda": {
+        "s1": 2,
+        "s2": 0
+      },
+      "Morocco|Niger": {
+        "s1": 1,
+        "s2": 0
+      }
     }
   },
   "Afro-Asian Cup": {
@@ -48135,6 +48209,24 @@
         "s1": 9,
         "s2": 0
       }
+    },
+    "2026-11-17": {
+      "Belize|Sint Maarten": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Barbados|Saint Lucia": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Bonaire|Saint Kitts and Nevis": {
+        "s1": 2,
+        "s2": 3
+      },
+      "Cayman Islands|Dominica": {
+        "s1": 0,
+        "s2": 5
+      }
     }
   },
   "CONCACAF Nations League C": {
@@ -74251,6 +74343,16 @@
         "s1": 1,
         "s2": 0
       }
+    },
+    "2026-11-17": {
+      "Portugal|Wales": {
+        "s1": 3,
+        "s2": 2
+      },
+      "Denmark|Norway": {
+        "s1": 2,
+        "s2": 3
+      }
     }
   },
   "European Nations League A/B": {
@@ -75242,6 +75344,32 @@
       "Scotland|Switzerland": {
         "s1": 0,
         "s2": 4
+      }
+    },
+    "2026-11-17": {
+      "Austria|Israel": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Poland|Sweden": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Ireland|Kosovo": {
+        "s1": 3,
+        "s2": 0
+      },
+      "Hungary|Northern Ireland": {
+        "s1": 1,
+        "s2": 1
+      },
+      "Bosnia and Herzegovina|Romania": {
+        "s1": 2,
+        "s2": 1
+      },
+      "Georgia|Ukraine": {
+        "s1": 0,
+        "s2": 1
       }
     }
   },
@@ -89258,6 +89386,22 @@
       "Malaysia|Yemen": {
         "s1": 2,
         "s2": 1
+      },
+      "Japan|Paraguay": {
+        "s1": 1,
+        "s2": 2
+      },
+      "Lebanon|Palestine": {
+        "s1": 0,
+        "s2": 0
+      },
+      "Bahrain|China": {
+        "s1": 2,
+        "s2": 2
+      },
+      "Iran|Iraq": {
+        "s1": 1,
+        "s2": 1
       }
     }
   },
@@ -99806,6 +99950,10 @@
       "Brunei|Oman": {
         "s1": 0,
         "s2": 7
+      },
+      "Tajikistan|Thailand": {
+        "s1": 0,
+        "s2": 3
       }
     }
   },
@@ -117295,6 +117443,12 @@
         "s1": 1,
         "s2": 2
       }
+    },
+    "2026-11-17": {
+      "India|Pakistan": {
+        "s1": 2,
+        "s2": 1
+      }
     }
   },
   "South Asian Games": {
@@ -123264,6 +123418,12 @@
       "Kyrgyzstan|Taiwan": {
         "s1": 3,
         "s2": 0
+      }
+    },
+    "2026-11-17": {
+      "Kyrgyzstan|Vietnam": {
+        "s1": 2,
+        "s2": 1
       }
     }
   },

@@ -1,18 +1,18 @@
 {
   "team": "Romania",
   "stats": {
-    "matches_played": 800,
+    "matches_played": 801,
     "wins": 354,
     "draws": 198,
-    "losses": 248,
-    "goals_for": 1298,
-    "goals_against": 1019,
-    "goal_difference": 279,
+    "losses": 249,
+    "goals_for": 1299,
+    "goals_against": 1021,
+    "goal_difference": 278,
     "win_percentage": 44.2,
     "avg_points": 1.57,
     "best_rank": 6,
     "worst_rank": 67,
-    "avg_rank": 24.05,
+    "avg_rank": 24.1,
     "biggest_win": {
       "score": "9-0",
       "opponent": "Finland",
@@ -26,12 +26,35 @@
       "flag": "hungary_3.png"
     },
     "home_matches": 335,
-    "away_matches": 375,
+    "away_matches": 376,
     "neutral_matches": 90,
     "first_match_date": "1922-06-08",
-    "last_match_date": "2026-11-14"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
+    {
+      "date": "2026-11-17",
+      "country": "Bosnia and Herzegovina",
+      "tournament": "European Nations League B",
+      "team1": "Romania",
+      "team2": "Bosnia and Herzegovina",
+      "original_team1": "Romania",
+      "original_team2": "Bosnia and Herzegovina",
+      "flag1": "romania.png",
+      "flag2": "bosnia.png",
+      "score1": 1,
+      "score2": 2,
+      "rating1": 5061,
+      "rating2": 5151,
+      "rating_ev": -3,
+      "rank": 65,
+      "win_prob": 30.8,
+      "type": "past",
+      "points_off": 4963.948717948718,
+      "points_def": 4767.946223695751,
+      "ranking_off": 68,
+      "ranking_def": 90
+    },
     {
       "date": "2026-11-14",
       "country": "Romania",

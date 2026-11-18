@@ -1,18 +1,18 @@
 {
   "team": "Paraguay",
   "stats": {
-    "matches_played": 798,
-    "wins": 282,
+    "matches_played": 799,
+    "wins": 283,
     "draws": 211,
     "losses": 305,
-    "goals_for": 1017,
-    "goals_against": 1122,
-    "goal_difference": -105,
-    "win_percentage": 35.3,
-    "avg_points": 1.32,
+    "goals_for": 1019,
+    "goals_against": 1123,
+    "goal_difference": -104,
+    "win_percentage": 35.4,
+    "avg_points": 1.33,
     "best_rank": 6,
     "worst_rank": 47,
-    "avg_rank": 24.1,
+    "avg_rank": 24.09,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Bolivia",
@@ -27,9 +27,9 @@
     },
     "home_matches": 215,
     "away_matches": 368,
-    "neutral_matches": 215,
+    "neutral_matches": 216,
     "first_match_date": "1919-05-11",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Japan",
       "flag1": "paraguay.png",
       "flag2": "japan.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5335,
-      "rating2": 5448,
-      "rating_ev": 0,
-      "rank": 22,
+      "score1": 2,
+      "score2": 1,
+      "rating1": 5356,
+      "rating2": 5427,
+      "rating_ev": 21,
+      "rank": 18,
       "win_prob": 37.8,
-      "type": "fixture",
-      "points_off": 5080,
-      "points_def": 5053,
+      "type": "past",
+      "points_off": 5092.023756743368,
+      "points_def": 5062.46895418217,
       "ranking_off": 31,
-      "ranking_def": 5
+      "ranking_def": 4
     },
     {
       "date": "2026-11-13",

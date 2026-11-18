@@ -1,18 +1,18 @@
 {
   "team": "Venezuela",
   "stats": {
-    "matches_played": 483,
+    "matches_played": 484,
     "wins": 128,
     "draws": 108,
-    "losses": 247,
+    "losses": 248,
     "goals_for": 521,
-    "goals_against": 875,
-    "goal_difference": -354,
-    "win_percentage": 26.5,
+    "goals_against": 877,
+    "goal_difference": -356,
+    "win_percentage": 26.4,
     "avg_points": 1.02,
     "best_rank": 19,
     "worst_rank": 127,
-    "avg_rank": 63.13,
+    "avg_rank": 63.08,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "argentina.png"
     },
     "home_matches": 176,
-    "away_matches": 182,
+    "away_matches": 183,
     "neutral_matches": 125,
     "first_match_date": "1938-02-12",
-    "last_match_date": "2026-10-06"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "Russia",
       "flag1": "venezuela.png",
       "flag2": "russia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5221,
-      "rating2": 5348,
-      "rating_ev": 0,
-      "rank": 35,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 5214,
+      "rating2": 5355,
+      "rating_ev": -7,
+      "rank": 37,
       "win_prob": 27.0,
-      "type": "fixture",
+      "type": "past",
       "points_off": 5021,
-      "points_def": 4974,
-      "ranking_off": 47,
+      "points_def": 4975.892252911466,
+      "ranking_off": 45,
       "ranking_def": 15
     },
     {

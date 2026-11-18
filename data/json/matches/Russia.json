@@ -1,18 +1,18 @@
 {
   "team": "Russia",
   "stats": {
-    "matches_played": 781,
-    "wins": 408,
+    "matches_played": 782,
+    "wins": 409,
     "draws": 203,
     "losses": 170,
-    "goals_for": 1406,
+    "goals_for": 1408,
     "goals_against": 760,
-    "goal_difference": 646,
-    "win_percentage": 52.2,
+    "goal_difference": 648,
+    "win_percentage": 52.3,
     "avg_points": 1.83,
     "best_rank": 1,
     "worst_rank": 38,
-    "avg_rank": 14.03,
+    "avg_rank": 14.04,
     "biggest_win": {
       "score": "15-1",
       "opponent": "Australia",
@@ -25,11 +25,11 @@
       "date": "1912-07-01",
       "flag": "germany_1.png"
     },
-    "home_matches": 168,
+    "home_matches": 169,
     "away_matches": 360,
     "neutral_matches": 253,
     "first_match_date": "1912-06-30",
-    "last_match_date": "2026-11-12"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Venezuela",
       "flag1": "russia.png",
       "flag2": "venezuela.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5348,
-      "rating2": 5221,
-      "rating_ev": 0,
-      "rank": 20,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5355,
+      "rating2": 5214,
+      "rating_ev": 7,
+      "rank": 18,
       "win_prob": 73.0,
-      "type": "fixture",
-      "points_off": 5206,
+      "type": "past",
+      "points_off": 5204.107747088534,
       "points_def": 4903,
-      "ranking_off": 13,
-      "ranking_def": 40
+      "ranking_off": 14,
+      "ranking_def": 37
     },
     {
       "date": "2026-11-12",

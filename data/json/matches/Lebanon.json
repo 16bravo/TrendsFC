@@ -1,9 +1,9 @@
 {
   "team": "Lebanon",
   "stats": {
-    "matches_played": 401,
+    "matches_played": 402,
     "wins": 116,
-    "draws": 106,
+    "draws": 107,
     "losses": 179,
     "goals_for": 488,
     "goals_against": 596,
@@ -12,7 +12,7 @@
     "avg_points": 1.13,
     "best_rank": 49,
     "worst_rank": 163,
-    "avg_rank": 117.49,
+    "avg_rank": 117.53,
     "biggest_win": {
       "score": "11-1",
       "opponent": "Philippines",
@@ -27,9 +27,9 @@
     },
     "home_matches": 139,
     "away_matches": 132,
-    "neutral_matches": 130,
+    "neutral_matches": 131,
     "first_match_date": "1940-04-27",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Palestine",
       "flag1": "lebanon.png",
       "flag2": "palestine.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4704,
-      "rating2": 4951,
-      "rating_ev": 0,
-      "rank": 139,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 4719,
+      "rating2": 4936,
+      "rating_ev": 15,
+      "rank": 134,
       "win_prob": 25.3,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4804,
-      "points_def": 4774,
+      "points_def": 4796.517696857747,
       "ranking_off": 126,
-      "ranking_def": 87
+      "ranking_def": 75
     },
     {
       "date": "2026-11-13",

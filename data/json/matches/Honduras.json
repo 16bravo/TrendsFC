@@ -1,18 +1,18 @@
 {
   "team": "Honduras",
   "stats": {
-    "matches_played": 673,
-    "wins": 264,
+    "matches_played": 674,
+    "wins": 265,
     "draws": 175,
     "losses": 234,
-    "goals_for": 970,
+    "goals_for": 972,
     "goals_against": 867,
-    "goal_difference": 103,
-    "win_percentage": 39.2,
+    "goal_difference": 105,
+    "win_percentage": 39.3,
     "avg_points": 1.44,
     "best_rank": 24,
     "worst_rank": 109,
-    "avg_rank": 63.1,
+    "avg_rank": 63.13,
     "biggest_win": {
       "score": "10-0",
       "opponent": "Nicaragua",
@@ -26,10 +26,10 @@
       "flag": "guatemala.png"
     },
     "home_matches": 214,
-    "away_matches": 220,
+    "away_matches": 221,
     "neutral_matches": 239,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Kuwait",
       "flag1": "honduras.png",
       "flag2": "kuwait.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4911,
-      "rating2": 4736,
-      "rating_ev": 0,
-      "rank": 88,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 4922,
+      "rating2": 4725,
+      "rating_ev": 11,
+      "rank": 87,
       "win_prob": 58.2,
-      "type": "fixture",
-      "points_off": 4923,
-      "points_def": 4773,
-      "ranking_off": 82,
-      "ranking_def": 88
+      "type": "past",
+      "points_off": 4932.145030980959,
+      "points_def": 4797.778326291433,
+      "ranking_off": 80,
+      "ranking_def": 74
     },
     {
       "date": "2026-11-13",

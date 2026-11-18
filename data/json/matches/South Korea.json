@@ -1,14 +1,14 @@
 {
   "team": "South Korea",
   "stats": {
-    "matches_played": 1060,
-    "wins": 579,
+    "matches_played": 1061,
+    "wins": 580,
     "draws": 258,
     "losses": 223,
-    "goals_for": 1925,
+    "goals_for": 1926,
     "goals_against": 968,
-    "goal_difference": 957,
-    "win_percentage": 54.6,
+    "goal_difference": 958,
+    "win_percentage": 54.7,
     "avg_points": 1.88,
     "best_rank": 19,
     "worst_rank": 100,
@@ -26,10 +26,10 @@
       "flag": "sweden.png"
     },
     "home_matches": 357,
-    "away_matches": 251,
+    "away_matches": 252,
     "neutral_matches": 452,
     "first_match_date": "1942-08-16",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -45,15 +45,15 @@
       "score1": "",
       "score2": "",
       "rating1": 5176,
-      "rating2": 4998,
+      "rating2": 5006,
       "rating_ev": 0,
-      "rank": 49,
-      "win_prob": 68.6,
+      "rank": 46,
+      "win_prob": 67.8,
       "type": "fixture",
-      "points_off": 5026,
-      "points_def": 4872,
-      "ranking_off": 43,
-      "ranking_def": 48
+      "points_off": 5013.358136248906,
+      "points_def": 4892.815941939362,
+      "ranking_off": 50,
+      "ranking_def": 42
     },
     {
       "date": "2027-12-31",
@@ -68,15 +68,15 @@
       "score1": "",
       "score2": "",
       "rating1": 5176,
-      "rating2": 4712,
+      "rating2": 4695,
       "rating_ev": 0,
-      "rank": 49,
-      "win_prob": 88.0,
+      "rank": 46,
+      "win_prob": 88.7,
       "type": "fixture",
-      "points_off": 5026,
-      "points_def": 4872,
-      "ranking_off": 43,
-      "ranking_def": 48
+      "points_off": 5013.358136248906,
+      "points_def": 4892.815941939362,
+      "ranking_off": 50,
+      "ranking_def": 42
     },
     {
       "date": "2027-12-26",
@@ -93,13 +93,13 @@
       "rating1": 5176,
       "rating2": 4603,
       "rating_ev": 0,
-      "rank": 49,
+      "rank": 46,
       "win_prob": 91.9,
       "type": "fixture",
-      "points_off": 5026,
-      "points_def": 4872,
-      "ranking_off": 43,
-      "ranking_def": 48
+      "points_off": 5013.358136248906,
+      "points_def": 4892.815941939362,
+      "ranking_off": 50,
+      "ranking_def": 42
     },
     {
       "date": "2026-11-17",
@@ -111,18 +111,18 @@
       "original_team2": "Qatar",
       "flag1": "south_korea.png",
       "flag2": "qatar.png",
-      "score1": "",
-      "score2": "",
+      "score1": 1,
+      "score2": 0,
       "rating1": 5176,
       "rating2": 4835,
       "rating_ev": 0,
-      "rank": 49,
+      "rank": 47,
       "win_prob": 74.0,
-      "type": "fixture",
-      "points_off": 5026,
-      "points_def": 4872,
-      "ranking_off": 43,
-      "ranking_def": 48
+      "type": "past",
+      "points_off": 5013.358136248906,
+      "points_def": 4892.815941939362,
+      "ranking_off": 49,
+      "ranking_def": 42
     },
     {
       "date": "2026-11-13",
