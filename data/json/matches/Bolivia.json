@@ -1,18 +1,18 @@
 {
   "team": "Bolivia",
   "stats": {
-    "matches_played": 541,
+    "matches_played": 542,
     "wins": 122,
     "draws": 121,
-    "losses": 298,
+    "losses": 299,
     "goals_for": 551,
-    "goals_against": 1068,
-    "goal_difference": -517,
-    "win_percentage": 22.6,
+    "goals_against": 1070,
+    "goal_difference": -519,
+    "win_percentage": 22.5,
     "avg_points": 0.9,
     "best_rank": 23,
     "worst_rank": 78,
-    "avg_rank": 51.13,
+    "avg_rank": 51.17,
     "biggest_win": {
       "score": "7-0",
       "opponent": "Venezuela",
@@ -26,10 +26,10 @@
       "flag": "uruguay.png"
     },
     "home_matches": 189,
-    "away_matches": 207,
+    "away_matches": 208,
     "neutral_matches": 145,
     "first_match_date": "1926-10-12",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Ecuador",
       "flag1": "bolivia.png",
       "flag2": "ecuador.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4998,
-      "rating2": 5336,
-      "rating_ev": 0,
-      "rank": 72,
+      "score1": 0,
+      "score2": 2,
+      "rating1": 4997,
+      "rating2": 5337,
+      "rating_ev": -1,
+      "rank": 73,
       "win_prob": 12.9,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4945,
-      "points_def": 4736,
+      "points_def": 4741.174956300934,
       "ranking_off": 78,
-      "ranking_def": 104
+      "ranking_def": 102
     },
     {
       "date": "2026-11-13",

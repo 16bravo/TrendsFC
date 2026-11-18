@@ -1,18 +1,18 @@
 {
   "team": "Dominican Republic",
   "stats": {
-    "matches_played": 194,
+    "matches_played": 195,
     "wins": 72,
     "draws": 33,
-    "losses": 89,
+    "losses": 90,
     "goals_for": 309,
-    "goals_against": 313,
-    "goal_difference": -4,
-    "win_percentage": 37.1,
+    "goals_against": 318,
+    "goal_difference": -9,
+    "win_percentage": 36.9,
     "avg_points": 1.28,
     "best_rank": 100,
     "worst_rank": 187,
-    "avg_rank": 161.72,
+    "avg_rank": 161.56,
     "biggest_win": {
       "score": "17-0",
       "opponent": "British Virgin Islands",
@@ -26,10 +26,10 @@
       "flag": "trinidad.png"
     },
     "home_matches": 90,
-    "away_matches": 64,
+    "away_matches": 65,
     "neutral_matches": 40,
     "first_match_date": "1949-05-14",
-    "last_match_date": "2026-10-04"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Uruguay",
       "flag1": "dominican_rep.png",
       "flag2": "uruguay.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4743,
-      "rating2": 5389,
-      "rating_ev": 0,
-      "rank": 130,
+      "score1": 0,
+      "score2": 5,
+      "rating1": 4732,
+      "rating2": 5400,
+      "rating_ev": -11,
+      "rank": 131,
       "win_prob": 4.1,
-      "type": "fixture",
+      "type": "past",
       "points_off": 4874,
-      "points_def": 4580,
+      "points_def": 4554.755865777854,
       "ranking_off": 99,
-      "ranking_def": 153
+      "ranking_def": 158
     },
     {
       "date": "2026-10-04",

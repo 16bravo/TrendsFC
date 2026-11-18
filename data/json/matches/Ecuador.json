@@ -1,18 +1,18 @@
 {
   "team": "Ecuador",
   "stats": {
-    "matches_played": 608,
-    "wins": 187,
+    "matches_played": 609,
+    "wins": 188,
     "draws": 164,
     "losses": 257,
-    "goals_for": 729,
+    "goals_for": 731,
     "goals_against": 912,
-    "goal_difference": -183,
-    "win_percentage": 30.8,
-    "avg_points": 1.19,
+    "goal_difference": -181,
+    "win_percentage": 30.9,
+    "avg_points": 1.2,
     "best_rank": 9,
     "worst_rank": 76,
-    "avg_rank": 34.57,
+    "avg_rank": 34.55,
     "biggest_win": {
       "score": "6-0",
       "opponent": "Peru",
@@ -25,11 +25,11 @@
       "date": "1942-01-22",
       "flag": "argentina.png"
     },
-    "home_matches": 184,
+    "home_matches": 185,
     "away_matches": 214,
     "neutral_matches": 210,
     "first_match_date": "1938-08-08",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "Bolivia",
       "flag1": "ecuador.png",
       "flag2": "bolivia.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5336,
-      "rating2": 4998,
-      "rating_ev": 0,
+      "score1": 2,
+      "score2": 0,
+      "rating1": 5337,
+      "rating2": 4997,
+      "rating_ev": 1,
       "rank": 22,
       "win_prob": 87.1,
-      "type": "fixture",
-      "points_off": 5015,
+      "type": "past",
+      "points_off": 5009.825043699066,
       "points_def": 5108,
-      "ranking_off": 48,
+      "ranking_off": 51,
       "ranking_def": 2
     },
     {

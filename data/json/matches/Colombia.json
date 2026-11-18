@@ -1,18 +1,18 @@
 {
   "team": "Colombia",
   "stats": {
-    "matches_played": 662,
+    "matches_played": 663,
     "wins": 272,
-    "draws": 182,
+    "draws": 183,
     "losses": 208,
     "goals_for": 859,
     "goals_against": 752,
     "goal_difference": 107,
-    "win_percentage": 41.1,
+    "win_percentage": 41.0,
     "avg_points": 1.51,
     "best_rank": 3,
     "worst_rank": 77,
-    "avg_rank": 24.84,
+    "avg_rank": 24.82,
     "biggest_win": {
       "score": "7-1",
       "opponent": "Guyana",
@@ -26,10 +26,10 @@
       "flag": "brazil.png"
     },
     "home_matches": 186,
-    "away_matches": 230,
+    "away_matches": 231,
     "neutral_matches": 246,
     "first_match_date": "1938-02-10",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Chile",
       "flag1": "colombia.png",
       "flag2": "chile.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5481,
-      "rating2": 5217,
-      "rating_ev": 0,
+      "score1": 0,
+      "score2": 0,
+      "rating1": 5476,
+      "rating2": 5222,
+      "rating_ev": -5,
       "rank": 12,
       "win_prob": 67.2,
-      "type": "fixture",
-      "points_off": 5131,
-      "points_def": 5053,
-      "ranking_off": 21,
-      "ranking_def": 6
+      "type": "past",
+      "points_off": 5110.184058060638,
+      "points_def": 5077.555080548619,
+      "ranking_off": 25,
+      "ranking_def": 4
     },
     {
       "date": "2026-11-13",

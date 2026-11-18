@@ -1,15 +1,15 @@
 {
   "team": "Uruguay",
   "stats": {
-    "matches_played": 1018,
-    "wins": 447,
+    "matches_played": 1019,
+    "wins": 448,
     "draws": 252,
     "losses": 319,
-    "goals_for": 1608,
+    "goals_for": 1613,
     "goals_against": 1242,
-    "goal_difference": 366,
-    "win_percentage": 43.9,
-    "avg_points": 1.56,
+    "goal_difference": 371,
+    "win_percentage": 44.0,
+    "avg_points": 1.57,
     "best_rank": 1,
     "worst_rank": 39,
     "avg_rank": 13.53,
@@ -25,11 +25,11 @@
       "date": "1902-07-20",
       "flag": "argentina.png"
     },
-    "home_matches": 332,
+    "home_matches": 333,
     "away_matches": 432,
     "neutral_matches": 254,
     "first_match_date": "1902-07-20",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,17 +42,17 @@
       "original_team2": "Dominican Republic",
       "flag1": "uruguay.png",
       "flag2": "dominican_rep.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 5389,
-      "rating2": 4743,
-      "rating_ev": 0,
+      "score1": 5,
+      "score2": 0,
+      "rating1": 5400,
+      "rating2": 4732,
+      "rating_ev": 11,
       "rank": 16,
       "win_prob": 95.9,
-      "type": "fixture",
-      "points_off": 5171,
+      "type": "past",
+      "points_off": 5196.244134222146,
       "points_def": 5084,
-      "ranking_off": 17,
+      "ranking_off": 15,
       "ranking_def": 3
     },
     {

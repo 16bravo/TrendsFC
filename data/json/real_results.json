@@ -43769,6 +43769,16 @@
         "s1": 1,
         "s2": 1
       }
+    },
+    "2026-11-17": {
+      "Montserrat|Nicaragua": {
+        "s1": 0,
+        "s2": 2
+      },
+      "El Salvador|Saint Martin": {
+        "s1": 3,
+        "s2": 1
+      }
     }
   },
   "CONCACAF Championship": {
@@ -46467,6 +46477,16 @@
         "s1": 4,
         "s2": 1
       }
+    },
+    "2026-11-17": {
+      "Haiti|United States": {
+        "s1": 0,
+        "s2": 2
+      },
+      "Jamaica|Mexico": {
+        "s1": 0,
+        "s2": 1
+      }
     }
   },
   "CONCACAF Nations League A": {
@@ -48226,6 +48246,10 @@
       "Cayman Islands|Dominica": {
         "s1": 0,
         "s2": 5
+      },
+      "French Guiana|St Vincent & Grenadines": {
+        "s1": 1,
+        "s2": 0
       }
     }
   },

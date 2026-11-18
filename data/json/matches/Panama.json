@@ -52,8 +52,8 @@
       "type": "fixture",
       "points_off": 4959,
       "points_def": 4871,
-      "ranking_off": 74,
-      "ranking_def": 49
+      "ranking_off": 73,
+      "ranking_def": 50
     },
     {
       "date": "2026-11-15",
@@ -353,6 +353,29 @@
       "points_def": 4855.914506430313,
       "ranking_off": 56,
       "ranking_def": 55
+    },
+    {
+      "date": "2026-03-25",
+      "country": "United States",
+      "tournament": "CONCACAF League",
+      "team1": "Panama",
+      "team2": "Canada",
+      "original_team1": "Panama",
+      "original_team2": "Canada",
+      "flag1": "panama.png",
+      "flag2": "canada.png",
+      "score1": "",
+      "score2": "",
+      "rating1": 5088,
+      "rating2": 5263,
+      "rating_ev": 0,
+      "rank": 61,
+      "win_prob": 31.7,
+      "type": "fixture",
+      "points_off": 4959,
+      "points_def": 4871,
+      "ranking_off": 73,
+      "ranking_def": 50
     },
     {
       "date": "2026-01-22",

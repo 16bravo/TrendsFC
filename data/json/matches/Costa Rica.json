@@ -1,18 +1,18 @@
 {
   "team": "Costa Rica",
   "stats": {
-    "matches_played": 794,
+    "matches_played": 795,
     "wins": 357,
     "draws": 191,
-    "losses": 246,
+    "losses": 247,
     "goals_for": 1373,
-    "goals_against": 931,
-    "goal_difference": 442,
-    "win_percentage": 45.0,
+    "goals_against": 938,
+    "goal_difference": 435,
+    "win_percentage": 44.9,
     "avg_points": 1.59,
     "best_rank": 8,
     "worst_rank": 84,
-    "avg_rank": 47.35,
+    "avg_rank": 47.39,
     "biggest_win": {
       "score": "12-0",
       "opponent": "Puerto Rico",
@@ -26,10 +26,10 @@
       "flag": "mexico.png"
     },
     "home_matches": 261,
-    "away_matches": 280,
+    "away_matches": 281,
     "neutral_matches": 253,
     "first_match_date": "1921-09-14",
-    "last_match_date": "2026-11-13"
+    "last_match_date": "2026-11-17"
   },
   "matches": [
     {
@@ -42,18 +42,18 @@
       "original_team2": "Argentina",
       "flag1": "costa_rica.png",
       "flag2": "argentina.png",
-      "score1": "",
-      "score2": "",
-      "rating1": 4978,
-      "rating2": 5605,
-      "rating_ev": 0,
-      "rank": 76,
+      "score1": 0,
+      "score2": 7,
+      "rating1": 4956,
+      "rating2": 5627,
+      "rating_ev": -22,
+      "rank": 78,
       "win_prob": 4.4,
-      "type": "fixture",
+      "type": "past",
       "points_off": 5024,
-      "points_def": 4749,
+      "points_def": 4711.242510274338,
       "ranking_off": 42,
-      "ranking_def": 101
+      "ranking_def": 114
     },
     {
       "date": "2026-11-13",
